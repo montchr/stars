@@ -391,8 +391,8 @@
 - [jeetelongname/dotfiles](https://github.com/jeetelongname/dotfiles) - Dotfiles
 - [thblt/sway.el](https://github.com/thblt/sway.el) - Emacs ❤️ Sway
 - [rnkn/olivetti](https://github.com/rnkn/olivetti) - Emacs minor mode to automatically balance window margins
-- [manateelazycat/lsp-bridge](https://github.com/manateelazycat/lsp-bridge) - A smooth-as-butter asynchronous LSP client for Emacs
-- [ajgrf/on.el](https://github.com/ajgrf/on.el) - Hooks for faster Emacs startup
+- [manateelazycat/lsp-bridge](https://github.com/manateelazycat/lsp-bridge) - Fastest LSP client for Emacs
+- [ajgrf/on.el](https://github.com/ajgrf/on.el) - Hooks for faster Emacs startup – GitHub mirror
 - [jeremyf/dotemacs](https://github.com/jeremyf/dotemacs) - 
 - [lassik/emacs-memento-mori](https://github.com/lassik/emacs-memento-mori) - Reminder of mortality
 - [joaotavora/eglot](https://github.com/joaotavora/eglot) - A client for Language Server Protocol servers
@@ -889,7 +889,7 @@
 - [10up/wp-local-docker-v2](https://github.com/10up/wp-local-docker-v2) - A simple Docker based development environment for WordPress.
 - [artilleryio/artillery](https://github.com/artilleryio/artillery) - 🌩 Cloud-scale load testing
 - [louislam/uptime-kuma](https://github.com/louislam/uptime-kuma) - A fancy self-hosted monitoring tool
-- [WordPress/wordpress-wasm](https://github.com/WordPress/wordpress-wasm) - Run WordPress in the browser thanks to WebAssembly magic
+- [WordPress/wordpress-sandbox](https://github.com/WordPress/wordpress-sandbox) - Run WordPress in the browser thanks to WebAssembly magic
 - [colbyfayock/next-wordpress-starter](https://github.com/colbyfayock/next-wordpress-starter) - 📝 Bring WordPress to the static world with Next.js
 - [conventional-changelog/standard-version](https://github.com/conventional-changelog/standard-version) - :trophy: Automate versioning and CHANGELOG generation, with semver.org and conventionalcommits.org
 - [WebDevStudios/nextjs-wordpress-starter](https://github.com/WebDevStudios/nextjs-wordpress-starter) - A headless starter for WordPress powered by Next.js.
@@ -1247,7 +1247,7 @@
 - [danielfullmer/robotnix](https://github.com/danielfullmer/robotnix) - Build Android (AOSP) using Nix
 - [Hoverbear-Consulting/flake](https://github.com/Hoverbear-Consulting/flake) - Company Nix expressions.
 - [divnix/paisano](https://github.com/divnix/paisano) - Standard's grow function family. Factorized.
-- [GTrunSec/hive](https://github.com/GTrunSec/hive) - A declarative configuration framework based on the structural theory of std.
+- [GTrunSec/hive](https://github.com/GTrunSec/hive) - A declarative configuration framework based on the structural theory of std-hive.
 - [divnix/incl](https://github.com/divnix/incl) - A nix filter with straight-forward include semantic
 - [canva-public/js2nix](https://github.com/canva-public/js2nix) - Node.js modules installation using Nix
 - [divnix/data-merge](https://github.com/divnix/data-merge) - A mini merge DSL for data overlays
@@ -2654,7 +2654,7 @@
 
 ## TypeScript 
 
-- [hsjobeki/noogle](https://github.com/hsjobeki/noogle) - like hoogle but for nix
+- [hsjobeki/noogle](https://github.com/hsjobeki/noogle) - https://hoogle.dev - like hoogle but for nix
 - [lindylearn/unclutter](https://github.com/lindylearn/unclutter) - A modern reader mode and article library for your browser.
 - [VSCodeVim/Vim](https://github.com/VSCodeVim/Vim) - :star: Vim for Visual Studio Code
 - [milliHQ/terraform-aws-next-js-image-optimization](https://github.com/milliHQ/terraform-aws-next-js-image-optimization) - A drop-in image optimization loader for Next.js image component powered by AWS Lambda.
