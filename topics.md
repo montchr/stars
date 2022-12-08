@@ -1093,7 +1093,7 @@
 - [mihaiolteanu/mugur](https://github.com/mihaiolteanu/mugur) - Configurator for QMK compatible keyboards
 - [rnkn/olivetti](https://github.com/rnkn/olivetti) - Emacs minor mode to automatically balance window margins
 - [rougier/dotemacs](https://github.com/rougier/dotemacs) - Litterate configuration for GNU Emacs
-- [manateelazycat/lsp-bridge](https://github.com/manateelazycat/lsp-bridge) - Fastest LSP client for Emacs
+- [manateelazycat/lsp-bridge](https://github.com/manateelazycat/lsp-bridge) - A blazingly fast LSP client for Emacs
 - [ajgrf/on.el](https://github.com/ajgrf/on.el) - Hooks for faster Emacs startup – GitHub mirror
 - [jeremyf/dotemacs](https://github.com/jeremyf/dotemacs) - 
 - [motform/emacs.d](https://github.com/motform/emacs.d) - a configuration for evil, pseudo-portable ergonomics and doubtful profits
@@ -2654,7 +2654,7 @@
 ## others 
 
 - [cid-chan/urknall](https://github.com/cid-chan/urknall) - Nix Module System for Infrastructure Provisioning
-- [hsjobeki/noogle](https://github.com/hsjobeki/noogle) - https://hoogle.dev - like hoogle but for nix
+- [hsjobeki/noogle](https://github.com/hsjobeki/noogle) - https://noogle.dev - like hoogle but for nix
 - [GTrunSec/cells-lab](https://github.com/GTrunSec/cells-lab) - 
 - [aristanetworks/nix-serve-ng](https://github.com/aristanetworks/nix-serve-ng) - A drop-in replacement for nix-serve that is faster and more reliable
 - [danielfullmer/robotnix](https://github.com/danielfullmer/robotnix) - Build Android (AOSP) using Nix
