@@ -250,7 +250,7 @@
 - [forgefed/forgefed](https://github.com/forgefed/forgefed) - ForgeFed - Federation Protocol for Forge Services
 - [jeffreyvr/tailpress](https://github.com/jeffreyvr/tailpress) - TailPress is a minimal boilerplate theme for WordPress using Tailwind CSS.
 - [rockofox/firefox-minima](https://github.com/rockofox/firefox-minima) - Minimalist Firefox Theme inspired by qutebrowser
-- [hraban/tomono](https://github.com/hraban/tomono) - Multi- To Mono-repository migration
+- [hraban/tomono](https://github.com/hraban/tomono) - Multi- To Mono-repository merge
 - [elad2412/the-new-css-reset](https://github.com/elad2412/the-new-css-reset) - The New Simple and Lighter CSS Reset
 - [6gk/polka](https://github.com/6gk/polka) - 🐢 dotless files  (sponsored by https://git.io/kiwmi)
 - [andreasgrafen/cascade](https://github.com/andreasgrafen/cascade) - A responsive One-Line CSS Theme for Firefox.
@@ -337,6 +337,8 @@
 
 ## Emacs Lisp 
 
+- [manateelazycat/awesome-tray](https://github.com/manateelazycat/awesome-tray) - Hide mode-line, display necessary information at right of minibuffer.
+- [manateelazycat/blink-search](https://github.com/manateelazycat/blink-search) - In the blink of an eye, the search is complete
 - [merrickluo/lsp-tailwindcss](https://github.com/merrickluo/lsp-tailwindcss) - the lsp-mode client for tailwindcss
 - [jdtsmith/outli](https://github.com/jdtsmith/outli) - Simple comment-based outlines for Emacs
 - [gagbo/consult-lsp](https://github.com/gagbo/consult-lsp) - LSP-mode and consult.el helping each other
@@ -888,7 +890,7 @@
 - [10up/wp-local-docker-v2](https://github.com/10up/wp-local-docker-v2) - A simple Docker based development environment for WordPress.
 - [artilleryio/artillery](https://github.com/artilleryio/artillery) - 🌩 Cloud-scale load testing
 - [louislam/uptime-kuma](https://github.com/louislam/uptime-kuma) - A fancy self-hosted monitoring tool
-- [WordPress/wordpress-sandbox](https://github.com/WordPress/wordpress-sandbox) - Run WordPress in the browser thanks to WebAssembly magic
+- [WordPress/wordpress-playground](https://github.com/WordPress/wordpress-playground) - Run WordPress in the browser thanks to WebAssembly magic
 - [colbyfayock/next-wordpress-starter](https://github.com/colbyfayock/next-wordpress-starter) - 📝 Bring WordPress to the static world with Next.js
 - [conventional-changelog/standard-version](https://github.com/conventional-changelog/standard-version) - :trophy: Automate versioning and CHANGELOG generation, with semver.org and conventionalcommits.org
 - [WebDevStudios/nextjs-wordpress-starter](https://github.com/WebDevStudios/nextjs-wordpress-starter) - A headless starter for WordPress powered by Next.js.
@@ -975,7 +977,7 @@
 - [downshift-js/downshift](https://github.com/downshift-js/downshift) - 🏎 A set of primitives to build simple, flexible, WAI-ARIA compliant React autocomplete, combobox or select dropdown components.
 - [brightcove/react-player-loader](https://github.com/brightcove/react-player-loader) - A React component that embeds and loads Brightcove Player scripts.
 - [lerna/lerna](https://github.com/lerna/lerna) - :dragon: Lerna is a fast, modern build system for managing and publishing multiple JavaScript/TypeScript packages from the same repository.
-- [xwiki-labs/cryptpad](https://github.com/xwiki-labs/cryptpad) - Collaboration suite, end-to-end encrypted and open-source.
+- [xwiki-labs/cryptpad](https://github.com/xwiki-labs/cryptpad) - Collaborative office suite, end-to-end encrypted and open-source.
 - [nccgroup/tracy](https://github.com/nccgroup/tracy) - A tool designed to assist with finding all sinks and sources of a web application and display these results in a digestible manner.
 - [abhijithvijayan/web-extension-starter](https://github.com/abhijithvijayan/web-extension-starter) - 🖥🔋Web Extension starter to build "Write Once Run on Any Browser" extension
 - [floccusaddon/floccus](https://github.com/floccusaddon/floccus) - :cloud: Sync your bookmarks privately across browsers and devices
@@ -1155,6 +1157,7 @@
 
 ## Kotlin 
 
+- [streetcomplete/StreetComplete](https://github.com/streetcomplete/StreetComplete) - Easy to use OpenStreetMap editor for Android
 - [d4rken-org/capod](https://github.com/d4rken-org/capod) - A companion app for AirPods on Android.
 - [florisboard/florisboard](https://github.com/florisboard/florisboard) - An open-source keyboard for Android which respects your privacy. Currently in early-beta.
 - [iamrasel/lunar-launcher](https://github.com/iamrasel/lunar-launcher) - Feature rich android home with minimal look.
@@ -2005,7 +2008,7 @@
 - [nix-community/pip2nix](https://github.com/nix-community/pip2nix) - Freeze pip-installable packages into Nix expressions [maintainer=@datakurre]
 - [StevenBlack/hosts](https://github.com/StevenBlack/hosts) - 🔒 Consolidating and extending hosts files from several well-curated sources. Optionally pick extensions for porn, social media, and other categories.
 - [asottile/git-code-debt](https://github.com/asottile/git-code-debt) - A dashboard for monitoring code debt in a git repository.
-- [dgtlmoon/changedetection.io](https://github.com/dgtlmoon/changedetection.io) - The best and simplest self-hosted free open source website change detection and notification service. Restock Monitor, change detection. Designed for simplicity - the main goal is to simply monitor wh
+- [dgtlmoon/changedetection.io](https://github.com/dgtlmoon/changedetection.io) - The best and simplest self-hosted free open source website change detection, monitor and notification service. Restock Monitor, change detection. Designed for simplicity - the main goal is to simply m
 - [source-foundry/font-line](https://github.com/source-foundry/font-line) - OpenType vertical metrics reporting and font line spacing adjustment tool
 - [andrejlamov/andrejlamov](https://github.com/andrejlamov/andrejlamov) - 
 - [datafold/data-diff](https://github.com/datafold/data-diff) - Efficiently diff data in or across relational databases
