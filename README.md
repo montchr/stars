@@ -1244,6 +1244,7 @@
 
 ## Nix 
 
+- [rgbatty/cauldron](https://github.com/rgbatty/cauldron) - Double, double toil and trouble; Fire burn and caldron bubble - A collection of declarative user and host configurations (eg. dotfiles) managed with Nix
 - [cid-chan/urknall](https://github.com/cid-chan/urknall) - Nix Module System for Infrastructure Provisioning
 - [nix-community/nixpkgs-terraform-providers-bin](https://github.com/nix-community/nixpkgs-terraform-providers-bin) - auto-updating terraform providers for nix [maintainer=@zimbatm]
 - [GTrunSec/cells-lab](https://github.com/GTrunSec/cells-lab) - 
@@ -1463,7 +1464,7 @@
 - [Mic92/dotfiles](https://github.com/Mic92/dotfiles) - My NixOS dotfiles
 - [divnix/bud](https://github.com/divnix/bud) - EXPERIMENTAL -- A highly composable system ctl tool
 - [pjones/phoebe](https://github.com/pjones/phoebe) - A collection of NixOS modules that add features to the ones in nixpkgs.
-- [nprindle/nixfiles](https://github.com/nprindle/nixfiles) - My NixOS configurations and other Nix files :snowflake:
+- [kanwren/nixfiles](https://github.com/kanwren/nixfiles) - My NixOS configurations and other Nix files :snowflake:
 - [symphorien/nix-du](https://github.com/symphorien/nix-du) - Visualise which gc-roots to delete to free some space in your nix store
 - [pinpox/nixos](https://github.com/pinpox/nixos) - My NixOS Configurations
 - [kamadorueda/machine](https://github.com/kamadorueda/machine) - My OS, development tools, and dotfiles, as code
