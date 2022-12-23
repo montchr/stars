@@ -853,7 +853,7 @@
 
 - [roboyoshi/datacurator-filetree](https://github.com/roboyoshi/datacurator-filetree) - a standard filetree for /r/datacurator [ and r/datahoarder ]
 - [google/data-transfer-project](https://github.com/google/data-transfer-project) - The Data Transfer Project makes it easy for people to transfer their data between online service providers. We are establishing a common framework, including data models and protocols, to enable direc
-- [prql/prql](https://github.com/prql/prql) - PRQL is a modern language for transforming data — a simple, powerful, pipelined SQL replacement
+- [PRQL/prql](https://github.com/PRQL/prql) - PRQL is a modern language for transforming data — a simple, powerful, pipelined SQL replacement
 - [vercel/swr](https://github.com/vercel/swr) - React Hooks for Data Fetching
 - [TanStack/query](https://github.com/TanStack/query) - 🤖 Powerful asynchronous state management, server-state utilities and data fetching for TS/JS, React, Solid, Svelte and Vue.
 - [virtadpt/exocortex-halo](https://github.com/virtadpt/exocortex-halo) - Various and sundry additional pieces of software I've written to incorporate into my exocortex.
@@ -925,6 +925,7 @@
 
 - [gruntwork-io/terratest](https://github.com/gruntwork-io/terratest) - Terratest is a Go library that makes it easier to write automated tests for your infrastructure code.
 - [nozaq/terraform-aws-secure-baseline](https://github.com/nozaq/terraform-aws-secure-baseline) - Terraform module to set up your AWS account with the secure baseline configuration based on CIS Amazon Web Services Foundations and AWS Foundational Security Best Practices.
+- [divnix/std](https://github.com/divnix/std) - The Nix Flakes framework for perfectionists with deadlines [maintainer=@blaggacao]
 - [kubesphere/kubesphere](https://github.com/kubesphere/kubesphere) - The container platform tailored for Kubernetes multi-cloud, datacenter, and edge management ⎈ 🖥 ☁️
 - [wmariuss/awesome-devops](https://github.com/wmariuss/awesome-devops) - A curated list of awesome DevOps tools, platforms and resources
 - [the-nix-way/real-world-devops-with-nix](https://github.com/the-nix-way/real-world-devops-with-nix) - An example project for building containers with Nix and deploying them to Kubernetes
@@ -2741,7 +2742,6 @@
 - [mattmc3/zephyr](https://github.com/mattmc3/zephyr) - :wind_face: A Zsh framework as nice as a cool summer breeze
 - [aameen-tulip/at-node-nix](https://github.com/aameen-tulip/at-node-nix) - Node.js Nix expressions
 - [containers/skopeo](https://github.com/containers/skopeo) - Work with remote images registries - retrieving information, images, signing content
-- [divnix/std](https://github.com/divnix/std) - The Nix Flakes framework for perfectionists with deadlines [maintainer=@blaggacao]
 - [remix-run/indie-stack](https://github.com/remix-run/indie-stack) - The Remix Stack for deploying to Fly with SQLite, authentication, testing, linting, formatting, etc.
 - [kovidgoyal/kitty-themes](https://github.com/kovidgoyal/kitty-themes) - Themes for the kitty terminal emulator
 - [chessai/nixos-configs](https://github.com/chessai/nixos-configs) - my nixos configs
@@ -4581,7 +4581,7 @@
 - [liquibase/liquibase](https://github.com/liquibase/liquibase) - Main Liquibase Source
 - [flyway/flyway](https://github.com/flyway/flyway) - Flyway by Redgate • Database Migrations Made Easy.
 - [multiprocessio/datastation](https://github.com/multiprocessio/datastation) - App to easily query, script, and visualize data from every database, file, and API.
-- [prql/prql](https://github.com/prql/prql) - PRQL is a modern language for transforming data — a simple, powerful, pipelined SQL replacement
+- [PRQL/prql](https://github.com/PRQL/prql) - PRQL is a modern language for transforming data — a simple, powerful, pipelined SQL replacement
 - [simonw/datasette](https://github.com/simonw/datasette) - An open source multi-tool for exploring and publishing data
 - [bregman-arie/devops-resources](https://github.com/bregman-arie/devops-resources) - DevOps resources - Linux, Jenkins, AWS, SRE, Prometheus, Docker, Python, Ansible, Git, Kubernetes, Terraform, OpenStack, SQL, NoSQL, Azure, GCP
 - [bregman-arie/devops-exercises](https://github.com/bregman-arie/devops-exercises) - Linux, Jenkins, AWS, SRE, Prometheus, Docker, Python, Ansible, Git, Kubernetes, Terraform, OpenStack, SQL, NoSQL, Azure, GCP, DNS, Elastic, Network, Virtualization. DevOps Interview Questions
