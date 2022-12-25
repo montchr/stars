@@ -831,7 +831,7 @@
 - [balsoft/lambda-launcher](https://github.com/balsoft/lambda-launcher) - Application launcher in haskell. Mostly Just For Fun.
 - [maralorn/nix-output-monitor](https://github.com/maralorn/nix-output-monitor) - Pipe your nix-build output through the nix-output-monitor a.k.a nom to get additional information while building.
 - [fosskers/aura](https://github.com/fosskers/aura) - A secure, multilingual package manager for Arch Linux and the AUR.
-- [EmaApps/emanote](https://github.com/EmaApps/emanote) - Emanate a structured view of your plain-text notes
+- [srid/emanote](https://github.com/srid/emanote) - Emanate a structured view of your plain-text notes
 - [xmonad/xmonad](https://github.com/xmonad/xmonad) - The core of xmonad, a small but functional ICCCM-compliant tiling window manager
 - [SimulaVR/Simula](https://github.com/SimulaVR/Simula) - Linux VR Desktop
 - [nix-community/emacs2nix](https://github.com/nix-community/emacs2nix) - Automatically generate Nix expressions for Emacs packages
@@ -1188,7 +1188,7 @@
 - [khuedoan/dotfiles](https://github.com/khuedoan/dotfiles) - nvim, tmux, zsh, fzf, bspwm, suckless tools, and more!
 - [rtauziac/Hammerspoon-Yabai](https://github.com/rtauziac/Hammerspoon-Yabai) - My personal macOS window manager setup
 - [rlch/dotfiles](https://github.com/rlch/dotfiles) - neovim + tmux + yabai + kitty + fish
-- [NvChad/NvChad](https://github.com/NvChad/NvChad) - An attempt to make neovim cli functional like an IDE while being very beautiful, blazing fast startuptime ~ 14ms to 67ms
+- [NvChad/NvChad](https://github.com/NvChad/NvChad) - An attempt to make neovim cli functional like an IDE while being very beautiful, blazing fast startuptime
 - [EdenEast/nyx](https://github.com/EdenEast/nyx) - ⚙️Nix[OS] Configuration
 - [echasnovski/mini.nvim](https://github.com/echasnovski/mini.nvim) - Library of 20+ independent Lua modules improving overall Neovim (version 0.6 and higher) experience with minimal effort
 - [evanrelf/dotfiles](https://github.com/evanrelf/dotfiles) - My personal dotfiles
@@ -1278,7 +1278,7 @@
 - [m15a/nixpkgs-vim-extra-plugins](https://github.com/m15a/nixpkgs-vim-extra-plugins) - Nix flake of miscellaneous Vim/Neovim plugins.
 - [gvolpe/neovim-flake](https://github.com/gvolpe/neovim-flake) - Nix flake for neovim & scala metals
 - [jordanisaacs/neovim-flake](https://github.com/jordanisaacs/neovim-flake) - Nix flake for neovim with configuration
-- [Platonic-Systems/treefmt-flake](https://github.com/Platonic-Systems/treefmt-flake) - A `flake-parts` module to work with treefmt
+- [Platonic-Systems/treefmt-flake](https://github.com/Platonic-Systems/treefmt-flake) - A `flake-parts` module to work with treefmt. No longer maintained; you should instead use https://github.com/numtide/treefmt-nix#flake-parts
 - [styx-static/styx](https://github.com/styx-static/styx) - Static site generator in Nix expression language.
 - [aameen-tulip/at-node-nix](https://github.com/aameen-tulip/at-node-nix) - Node.js Nix expressions
 - [divnix/std](https://github.com/divnix/std) - The Nix Flakes framework for perfectionists with deadlines [maintainer=@blaggacao]
@@ -1576,6 +1576,7 @@
 
 ## Others 
 
+- [willwulfken/MidJourney-Styles-and-Keywords-Reference](https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference) - A reference containing Styles and Keywords that you can use with MidJourney AI. There are also pages showing resolution comparison, image weights, and much more!
 - [kdeldycke/awesome-iam](https://github.com/kdeldycke/awesome-iam) - 👤 Identity and Access Management Knowledge for Cloud Platforms
 - [antonbabenko/terraform-aws-devops](https://github.com/antonbabenko/terraform-aws-devops) - Info about many of my Terraform, AWS, and DevOps projects.
 - [huytd/vscode-github-light-monochrome](https://github.com/huytd/vscode-github-light-monochrome) - 
@@ -2214,6 +2215,7 @@
 
 ## Rust 
 
+- [starship/starship](https://github.com/starship/starship) - ☄🌌️  The minimal, blazing-fast, and infinitely customizable prompt for any shell!
 - [cocogitto/cocogitto](https://github.com/cocogitto/cocogitto) - The Conventional Commits toolbox
 - [nix-community/patsh](https://github.com/nix-community/patsh) - A command-line tool for patching shell scripts inspired by resholve [maintainer=@figsoda]
 - [sharkdp/pastel](https://github.com/sharkdp/pastel) - A command-line tool to generate, analyze, convert and manipulate colors
