@@ -127,6 +127,7 @@
 - [music](#music)
 - [mysql](#mysql)
 - [neovim](#neovim)
+- [neural-network](#neural-network)
 - [nextjs](#nextjs)
 - [nlp](#nlp)
 - [node](#node)
@@ -206,6 +207,7 @@
 
 ## ai 
 
+- [willwulfken/MidJourney-Styles-and-Keywords-Reference](https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference) - A reference containing Styles and Keywords that you can use with MidJourney AI. There are also pages showing resolution comparison, image weights, and much more!
 - [upscayl/upscayl](https://github.com/upscayl/upscayl) - 🆙 Upscayl - Free and Open Source AI Image Upscaler for Linux, MacOS and Windows built with Linux-First philosophy.
 - [leon-ai/leon](https://github.com/leon-ai/leon) - 🧠 Leon is your open-source personal assistant.
 - [photoprism/photoprism](https://github.com/photoprism/photoprism) - AI-Powered Photos App for the Decentralized Web 🌈💎✨
@@ -281,6 +283,7 @@
 
 ## artificial-intelligence 
 
+- [willwulfken/MidJourney-Styles-and-Keywords-Reference](https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference) - A reference containing Styles and Keywords that you can use with MidJourney AI. There are also pages showing resolution comparison, image weights, and much more!
 - [amark/gun](https://github.com/amark/gun) - An open source cybersecurity protocol for syncing decentralized graph data.
 - [lucidrains/deep-daze](https://github.com/lucidrains/deep-daze) - Simple command line tool for text to image generation using OpenAI's CLIP and Siren (Implicit neural representation network). Technique was originally created by https://twitter.com/advadnoun
 - [leon-ai/leon](https://github.com/leon-ai/leon) - 🧠 Leon is your open-source personal assistant.
@@ -507,6 +510,7 @@
 
 ## bash 
 
+- [starship/starship](https://github.com/starship/starship) - ☄🌌️  The minimal, blazing-fast, and infinitely customizable prompt for any shell!
 - [rgbatty/cauldron](https://github.com/rgbatty/cauldron) - Double, double toil and trouble; Fire burn and caldron bubble - A collection of declarative user and host configurations (eg. dotfiles) managed with Nix
 - [nix-community/patsh](https://github.com/nix-community/patsh) - A command-line tool for patching shell scripts inspired by resholve [maintainer=@figsoda]
 - [rsteube/carapace](https://github.com/rsteube/carapace) - command argument completion generator for spf13/cobra
@@ -1681,7 +1685,7 @@
 - [mermaid-js/mermaid](https://github.com/mermaid-js/mermaid) - Generation of diagrams like flowcharts or sequence diagrams from text in a similar manner as markdown
 - [NobbZ/nixos-config](https://github.com/NobbZ/nixos-config) - 
 - [polybar/polybar](https://github.com/polybar/polybar) - A fast and easy-to-use status bar
-- [NvChad/NvChad](https://github.com/NvChad/NvChad) - An attempt to make neovim cli functional like an IDE while being very beautiful, blazing fast startuptime ~ 14ms to 67ms
+- [NvChad/NvChad](https://github.com/NvChad/NvChad) - An attempt to make neovim cli functional like an IDE while being very beautiful, blazing fast startuptime
 - [sharkdp/fd](https://github.com/sharkdp/fd) - A simple, fast and user-friendly alternative to 'find'
 - [TandoorRecipes/recipes](https://github.com/TandoorRecipes/recipes) - Application for managing recipes, planning meals, building shopping lists and much much more!
 - [charmbracelet/charm](https://github.com/charmbracelet/charm) - The Charm Tool and Library 🌟
@@ -1792,7 +1796,7 @@
 - [balsoft/lambda-launcher](https://github.com/balsoft/lambda-launcher) - Application launcher in haskell. Mostly Just For Fun.
 - [maralorn/nix-output-monitor](https://github.com/maralorn/nix-output-monitor) - Pipe your nix-build output through the nix-output-monitor a.k.a nom to get additional information while building.
 - [fosskers/aura](https://github.com/fosskers/aura) - A secure, multilingual package manager for Arch Linux and the AUR.
-- [EmaApps/emanote](https://github.com/EmaApps/emanote) - Emanate a structured view of your plain-text notes
+- [srid/emanote](https://github.com/srid/emanote) - Emanate a structured view of your plain-text notes
 - [xmonad/xmonad](https://github.com/xmonad/xmonad) - The core of xmonad, a small but functional ICCCM-compliant tiling window manager
 - [cachix/cachix](https://github.com/cachix/cachix) - Command line client for Nix binary cache hosting:
 - [unisonweb/unison](https://github.com/unisonweb/unison) - A friendly programming language from the future
@@ -2222,7 +2226,7 @@
 - [snyball/Hawck](https://github.com/snyball/Hawck) - Key-rebinding daemon for Linux (Wayland/X11/Console)
 - [nyoom-engineering/nyoom.nvim](https://github.com/nyoom-engineering/nyoom.nvim) - A Neovim framework and doom emacs alternative for the stubborn martian hacker. Powered by fennel and the oxocarbon theme
 - [neovim/neovim](https://github.com/neovim/neovim) - Vim-fork focused on extensibility and usability
-- [NvChad/NvChad](https://github.com/NvChad/NvChad) - An attempt to make neovim cli functional like an IDE while being very beautiful, blazing fast startuptime ~ 14ms to 67ms
+- [NvChad/NvChad](https://github.com/NvChad/NvChad) - An attempt to make neovim cli functional like an IDE while being very beautiful, blazing fast startuptime
 - [echasnovski/mini.nvim](https://github.com/echasnovski/mini.nvim) - Library of 20+ independent Lua modules improving overall Neovim (version 0.6 and higher) experience with minimal effort
 - [nvim-neorg/neorg](https://github.com/nvim-neorg/neorg) - Modernity meets insane extensibility. The future of organizing your life in Neovim.
 - [NTBBloodbath/cheovim](https://github.com/NTBBloodbath/cheovim) - Neovim configuration switcher written in Lua. Inspired by chemacs.
@@ -2361,7 +2365,7 @@
 - [charmbracelet/glow](https://github.com/charmbracelet/glow) - Render markdown on the CLI, with pizzazz! 💅🏻
 - [docsifyjs/docsify](https://github.com/docsifyjs/docsify) - 🃏 A magical documentation site generator.
 - [gicentre/litvis](https://github.com/gicentre/litvis) - Literate Visualization: Theory, software and examples
-- [EmaApps/emanote](https://github.com/EmaApps/emanote) - Emanate a structured view of your plain-text notes
+- [srid/emanote](https://github.com/srid/emanote) - Emanate a structured view of your plain-text notes
 - [notable/notable](https://github.com/notable/notable) - The Markdown-based note-taking app that doesn't suck.
 - [emacs-citar/citar](https://github.com/emacs-citar/citar) - Emacs package to quickly find and act on bibliographic references, and edit org, markdown, and latex academic documents.
 - [TandoorRecipes/recipes](https://github.com/TandoorRecipes/recipes) - Application for managing recipes, planning meals, building shopping lists and much much more!
@@ -2488,7 +2492,7 @@
 - [viperML/dotfiles](https://github.com/viperML/dotfiles) - Personal configuration files for my PC
 - [qvacua/vimr](https://github.com/qvacua/vimr) - VimR — Neovim GUI for macOS in Swift
 - [neovim/neovim](https://github.com/neovim/neovim) - Vim-fork focused on extensibility and usability
-- [NvChad/NvChad](https://github.com/NvChad/NvChad) - An attempt to make neovim cli functional like an IDE while being very beautiful, blazing fast startuptime ~ 14ms to 67ms
+- [NvChad/NvChad](https://github.com/NvChad/NvChad) - An attempt to make neovim cli functional like an IDE while being very beautiful, blazing fast startuptime
 - [6gk/polka](https://github.com/6gk/polka) - 🐢 dotless files  (sponsored by https://git.io/kiwmi)
 - [EdenEast/nyx](https://github.com/EdenEast/nyx) - ⚙️Nix[OS] Configuration
 - [rockerBOO/awesome-neovim](https://github.com/rockerBOO/awesome-neovim) - Collections of awesome neovim plugins.
@@ -2515,6 +2519,10 @@
 - [junegunn/fzf](https://github.com/junegunn/fzf) - :cherry_blossom: A command-line fuzzy finder
 - [andreypopp/vim-colors-plain](https://github.com/andreypopp/vim-colors-plain) - Minimal colorscheme for vim
 - [nikitavoloboev/dotfiles](https://github.com/nikitavoloboev/dotfiles) - Zsh, Karabiner, VS Code, Sublime, Neovim, Nix
+
+## neural-network 
+
+- [willwulfken/MidJourney-Styles-and-Keywords-Reference](https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference) - A reference containing Styles and Keywords that you can use with MidJourney AI. There are also pages showing resolution comparison, image weights, and much more!
 
 ## nextjs 
 
@@ -2650,7 +2658,7 @@
 - [facebook/docusaurus](https://github.com/facebook/docusaurus) - Easy to maintain open source documentation websites.
 - [RunaCapital/awesome-oss-alternatives](https://github.com/RunaCapital/awesome-oss-alternatives) - Awesome list of open-source startup alternatives to well-known SaaS products 🚀
 - [Lissy93/personal-security-checklist](https://github.com/Lissy93/personal-security-checklist) - 🔒 A compiled checklist of 300+ tips for protecting digital security and privacy in 2022
-- [NvChad/NvChad](https://github.com/NvChad/NvChad) - An attempt to make neovim cli functional like an IDE while being very beautiful, blazing fast startuptime ~ 14ms to 67ms
+- [NvChad/NvChad](https://github.com/NvChad/NvChad) - An attempt to make neovim cli functional like an IDE while being very beautiful, blazing fast startuptime
 - [transloadit/uppy](https://github.com/transloadit/uppy) - The next open source file uploader for web browsers :dog:
 - [wulkano/Kap](https://github.com/wulkano/Kap) - An open-source screen recorder built with web technology
 - [calcom/cal.com](https://github.com/calcom/cal.com) - Scheduling infrastructure for absolutely everyone.
@@ -2735,7 +2743,7 @@
 - [nvim-lua/kickstart.nvim](https://github.com/nvim-lua/kickstart.nvim) - A launch point for your personal nvim configuration
 - [alexeagleson/nextjs-fullstack-app-template](https://github.com/alexeagleson/nextjs-fullstack-app-template) - A fullstack template for a NextJs App
 - [ben-rogerson/agency-webpack-mix-config](https://github.com/ben-rogerson/agency-webpack-mix-config) - 👨‍💻 A capable website/webapp boilerplate ready for the web agency battlefield. Creates a static site with Twig templating by default. Supports Craft/Wordpress/Laravel after a few adjustments.
-- [Platonic-Systems/treefmt-flake](https://github.com/Platonic-Systems/treefmt-flake) - A `flake-parts` module to work with treefmt
+- [Platonic-Systems/treefmt-flake](https://github.com/Platonic-Systems/treefmt-flake) - A `flake-parts` module to work with treefmt. No longer maintained; you should instead use https://github.com/numtide/treefmt-nix#flake-parts
 - [alleyinteractive/multisite-cron-manager](https://github.com/alleyinteractive/multisite-cron-manager) - 
 - [ArdanaLabs/hello-cardano-template](https://github.com/ArdanaLabs/hello-cardano-template) - 
 - [input-output-hk/cardano-js-sdk](https://github.com/input-output-hk/cardano-js-sdk) - :construction: Work in progress: JavaScript SDK for interacting with Cardano, providing various key management options, support for popular hardware wallets
@@ -4007,6 +4015,7 @@
 
 ## powershell 
 
+- [starship/starship](https://github.com/starship/starship) - ☄🌌️  The minimal, blazing-fast, and infinitely customizable prompt for any shell!
 - [rsteube/carapace](https://github.com/rsteube/carapace) - command argument completion generator for spf13/cobra
 - [ajeetdsouza/zoxide](https://github.com/ajeetdsouza/zoxide) - A smarter cd command. Supports all major shells.
 - [faressoft/terminalizer](https://github.com/faressoft/terminalizer) - 🦄 Record your terminal and generate animated gif images or share a web player
@@ -4310,6 +4319,7 @@
 
 ## rust 
 
+- [starship/starship](https://github.com/starship/starship) - ☄🌌️  The minimal, blazing-fast, and infinitely customizable prompt for any shell!
 - [cocogitto/cocogitto](https://github.com/cocogitto/cocogitto) - The Conventional Commits toolbox
 - [nix-community/patsh](https://github.com/nix-community/patsh) - A command-line tool for patching shell scripts inspired by resholve [maintainer=@figsoda]
 - [sharkdp/pastel](https://github.com/sharkdp/pastel) - A command-line tool to generate, analyze, convert and manipulate colors
@@ -4876,7 +4886,7 @@
 - [qvacua/vimr](https://github.com/qvacua/vimr) - VimR — Neovim GUI for macOS in Swift
 - [neovim/neovim](https://github.com/neovim/neovim) - Vim-fork focused on extensibility and usability
 - [donnemartin/dev-setup](https://github.com/donnemartin/dev-setup) - macOS development environment setup:  Easy-to-understand instructions with automated setup scripts for developer tools like Vim, Sublime Text, Bash, iTerm, Python data analysis, Spark, Hadoop MapReduc
-- [NvChad/NvChad](https://github.com/NvChad/NvChad) - An attempt to make neovim cli functional like an IDE while being very beautiful, blazing fast startuptime ~ 14ms to 67ms
+- [NvChad/NvChad](https://github.com/NvChad/NvChad) - An attempt to make neovim cli functional like an IDE while being very beautiful, blazing fast startuptime
 - [emacs-evil/evil](https://github.com/emacs-evil/evil) - The extensible vi layer for Emacs.
 - [6gk/polka](https://github.com/6gk/polka) - 🐢 dotless files  (sponsored by https://git.io/kiwmi)
 - [mantoni/eslint_d.js](https://github.com/mantoni/eslint_d.js) - Makes eslint the fastest linter on the planet
