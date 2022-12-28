@@ -653,7 +653,7 @@
 - [cortexproject/cortex](https://github.com/cortexproject/cortex) - A horizontally scalable, highly available, multi-tenant, long term Prometheus.
 - [claudiodangelis/qrcp](https://github.com/claudiodangelis/qrcp) - :zap: Transfer files over wifi from your computer to your mobile device by scanning a QR code without leaving the terminal.
 - [zrepl/zrepl](https://github.com/zrepl/zrepl) - One-stop ZFS backup & replication solution
-- [vito/bass](https://github.com/vito/bass) - a low fidelity scripting language for glue
+- [vito/bass](https://github.com/vito/bass) - a low fidelity scripting language for project infrastructure
 - [Mic92/ssh-to-age](https://github.com/Mic92/ssh-to-age) - Convert SSH Ed25519 keys to age keys. This is useful for usage in sops-nix and sops
 - [DNSCrypt/dnscrypt-proxy](https://github.com/DNSCrypt/dnscrypt-proxy) - dnscrypt-proxy 2 - A flexible DNS proxy, with support for encrypted DNS protocols.
 - [varbhat/exatorrent](https://github.com/varbhat/exatorrent) - Easy to Use Torrent Client. Can be hosted in Cloud. Files can be streamed in Browser/Media Player.
@@ -1329,7 +1329,7 @@
 - [guibou/nixGL](https://github.com/guibou/nixGL) - A wrapper tool for nix OpenGL application
 - [jluttine/nixos-configuration](https://github.com/jluttine/nixos-configuration) - Personal NixOS configuration
 - [Nekroze/vms.nix](https://github.com/Nekroze/vms.nix) - NixOS module for QEMU VM's using a similar interface to nixos-containers.
-- [dump-dvb/nix-config](https://github.com/dump-dvb/nix-config) - 
+- [tlm-solutions/nix-config](https://github.com/tlm-solutions/nix-config) - 
 - [piperswe/nixfiles](https://github.com/piperswe/nixfiles) - The Nix derivations used to generate my system configurations
 - [tecosaur/golgi](https://github.com/tecosaur/golgi) - My personal server. Mirror of https://git.tecosaur.net/tec/golgi.
 - [pmeiyu/nixos-config](https://github.com/pmeiyu/nixos-config) - NixOS configuration.
@@ -1597,7 +1597,6 @@
 - [joaocarvalhoopen/How_to_learn_modern_Rust](https://github.com/joaocarvalhoopen/How_to_learn_modern_Rust) - A guide to the adventurer.
 - [Maks-s/sd-akashic](https://github.com/Maks-s/sd-akashic) - A compendium of informations regarding Stable Diffusion (SD)
 - [toonn/Nix-macOS-Monthly](https://github.com/toonn/Nix-macOS-Monthly) - Nix 🖤 macOS Monthly Discourse update posts
-- [IdreesInc/Monocraft](https://github.com/IdreesInc/Monocraft) - A programming font based on the typeface used in Minecraft
 - [lauthieb/awesome-storybook](https://github.com/lauthieb/awesome-storybook) - A collection of awesome resources about @storybookjs ecosystem 🎨
 - [Wenzel/awesome-virtualization](https://github.com/Wenzel/awesome-virtualization) - Collection of resources about Virtualization
 - [dhall-lang/awesome-dhall](https://github.com/dhall-lang/awesome-dhall) - A curated list of awesome dhall-lang
@@ -1869,7 +1868,6 @@
 - [thecodingmachine/safe](https://github.com/thecodingmachine/safe) - All PHP functions, rewritten to throw exceptions instead of returning false
 - [cebe/php-openapi](https://github.com/cebe/php-openapi) - Read and write OpenAPI yaml/json files and make the content accessible in PHP objects.
 - [corcel/corcel](https://github.com/corcel/corcel) - Use WordPress backend with Laravel or any PHP application
-- [szepeviktor/composer-managed-wordpress](https://github.com/szepeviktor/composer-managed-wordpress) - Install and manage WordPress with Composer
 - [iamcal/oembed](https://github.com/iamcal/oembed) - The oEmbed Spec
 - [snicco/snicco](https://github.com/snicco/snicco) - Taking the pain out of enterprise WordPress development
 - [WordPress/hosting-handbook](https://github.com/WordPress/hosting-handbook) - Hosting Handbook
@@ -2013,6 +2011,7 @@
 - [w4ffl35/stablediffusiond](https://github.com/w4ffl35/stablediffusiond) - A daemon which watches a queue and runs stable diffusion.
 - [sissbruecker/linkding](https://github.com/sissbruecker/linkding) - Self-hosted bookmark service
 - [DontShaveTheYak/cf2tf](https://github.com/DontShaveTheYak/cf2tf) - Convert Cloudformation templates to Terraform.
+- [IdreesInc/Monocraft](https://github.com/IdreesInc/Monocraft) - A monospaced programming font inspired by the Minecraft typeface
 - [numtide/deploykit](https://github.com/numtide/deploykit) - Execute commands remote via ssh and locally in parallel with python
 - [layfellow/cpanel-cli](https://github.com/layfellow/cpanel-cli) - A command line interface for the cPanel Unrestricted API.
 - [cid-chan/peerix](https://github.com/cid-chan/peerix) - Peer2Peer Nix-Binary-Cache
@@ -2216,6 +2215,7 @@
 
 ## Rust 
 
+- [camdencheek/fre](https://github.com/camdencheek/fre) - Command line frecency tracking
 - [starship/starship](https://github.com/starship/starship) - ☄🌌️  The minimal, blazing-fast, and infinitely customizable prompt for any shell!
 - [cocogitto/cocogitto](https://github.com/cocogitto/cocogitto) - The Conventional Commits toolbox
 - [nix-community/patsh](https://github.com/nix-community/patsh) - A command-line tool for patching shell scripts inspired by resholve [maintainer=@figsoda]
@@ -2400,7 +2400,8 @@
 - [tombetthauser/zine-garden](https://github.com/tombetthauser/zine-garden) - An endless garden of zines. Create printable pdfs, upload them, search for zines, download them, print them etc.
 - [64kramsystem/zfs-installer](https://github.com/64kramsystem/zfs-installer) - Program that prepares ZFS on a system, and installs Linux
 - [terem42/zfs-hetzner-vm](https://github.com/terem42/zfs-hetzner-vm) - script to install Debian 11, 10 and Ubuntu 20 LTS and 18.04 LTS with ZFS root on Hetzner VPS
-- [MichaelCade/90DaysOfDevOps](https://github.com/MichaelCade/90DaysOfDevOps) - This repository is my documenting repository for learning the world of DevOps. I started this journey on the 1st January 2022 and I plan to run to March 31st for a complete 90-day romp on spending an 
+- [szepeviktor/composer-managed-wordpress](https://github.com/szepeviktor/composer-managed-wordpress) - Install and manage WordPress with Composer
+- [MichaelCade/90DaysOfDevOps](https://github.com/MichaelCade/90DaysOfDevOps) - I am using this repository to document my journey learning about DevOps. I began this process on January 1, 2022, and plan to continue until March 31. I will be dedicating one hour each day, including
 - [dspinellis/git-issue](https://github.com/dspinellis/git-issue) - Git-based decentralized issue management
 - [ailrk/kirby](https://github.com/ailrk/kirby) - kirby
 - [awesome-lists/awesome-bash](https://github.com/awesome-lists/awesome-bash) - A curated list of delightful Bash scripts and resources.
