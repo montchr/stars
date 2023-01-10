@@ -272,7 +272,7 @@
 - [muckSponge/MaterialFox](https://github.com/muckSponge/MaterialFox) - A Material Design-inspired userChrome.css theme for Firefox
 - [mut-ex/minimal-functional-fox](https://github.com/mut-ex/minimal-functional-fox) - A minimal, yet functional Firefox userChrome configuration.
 - [akshat46/FlyingFox](https://github.com/akshat46/FlyingFox) - An opinionated set of configurations for firefox.
-- [Guerra24/Firefox-UWP-Style](https://github.com/Guerra24/Firefox-UWP-Style) - MDL2 + Sun Valley Theme for Firefox
+- [Guerra24/Firefox-UWP-Style](https://github.com/Guerra24/Firefox-UWP-Style) - Sun Valley + MDL2 Theme for Firefox
 - [marmmaz/FirefoxCSS](https://github.com/marmmaz/FirefoxCSS) - minimalFOX: my Firefox theme.
 - [Timvde/UserChrome-Tweaks](https://github.com/Timvde/UserChrome-Tweaks) - A community maintained repository of userChrome.css tweaks for Firefox
 - [rougier/emacs-gtd](https://github.com/rougier/emacs-gtd) - Get Things Done with Emacs
@@ -341,6 +341,8 @@
 
 ## Emacs Lisp 
 
+- [abougouffa/minemacs](https://github.com/abougouffa/minemacs) - Minimal Emacs config for daily use
+- [emacs-twist/nix3.el](https://github.com/emacs-twist/nix3.el) - (WIP) Emacs interface to experimental commands of Nix
 - [manateelazycat/awesome-tray](https://github.com/manateelazycat/awesome-tray) - Hide mode-line, display necessary information at right of minibuffer.
 - [manateelazycat/blink-search](https://github.com/manateelazycat/blink-search) - In the blink of an eye, the search is complete
 - [merrickluo/lsp-tailwindcss](https://github.com/merrickluo/lsp-tailwindcss) - the lsp-mode client for tailwindcss
@@ -1389,7 +1391,6 @@
 - [Mic92/nixos-shell](https://github.com/Mic92/nixos-shell) - Spawns lightweight nixos vms in a shell
 - [cole-h/nixos-config](https://github.com/cole-h/nixos-config) - My flakes-powered NixOS configuration
 - [johnae/nix-misc](https://github.com/johnae/nix-misc) - Assorted Nix utility functions and derivations.
-- [mtoohey31/infra](https://github.com/mtoohey31/infra) - My personal infrastructure, as code in the form of a Nix flake.
 - [viperML/dotfiles](https://github.com/viperML/dotfiles) - Personal configuration files for my PC
 - [montchr/dotfield](https://github.com/montchr/dotfield) - All I see is little dots – some are smeared, and some are spots.
 - [nix-community/rnix-parser](https://github.com/nix-community/rnix-parser) - A Nix parser written in Rust [maintainer=@oberblastmeister]
