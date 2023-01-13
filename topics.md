@@ -223,6 +223,7 @@
 
 ## analytics 
 
+- [vidstack/player](https://github.com/vidstack/player) - (Beta) Customizable, lightweight, accessible, and framework-agnostic media player for the web. Modern alternative to Videojs.
 - [PostHog/posthog](https://github.com/PostHog/posthog) - 🦔 PostHog provides open-source product analytics, session recording, feature flagging and a/b testing that you can self-host.
 - [arp242/goatcounter](https://github.com/arp242/goatcounter) - Easy web analytics. No tracking of personal data.
 
@@ -799,6 +800,7 @@
 
 ## config 
 
+- [figsoda/cfg](https://github.com/figsoda/cfg) - My NixOS configuration featuring awesome and neovim
 - [studio24/wordpress-multi-env-config](https://github.com/studio24/wordpress-multi-env-config) - WordPress multi-environment config
 - [h5bp/server-configs-nginx](https://github.com/h5bp/server-configs-nginx) - Nginx HTTP server boilerplate configs
 - [ianyepan/.macOS-emacs.d](https://github.com/ianyepan/.macOS-emacs.d) - 😈My personal Emacs configuration on macOS
@@ -1834,6 +1836,7 @@
 
 ## html 
 
+- [vidstack/player](https://github.com/vidstack/player) - (Beta) Customizable, lightweight, accessible, and framework-agnostic media player for the web. Modern alternative to Videojs.
 - [mrVanDalo/landingpage](https://github.com/mrVanDalo/landingpage) - a simple html file using json to render a bookmark page to be shared across teams.
 - [fabrizioschiavi/arrow-finder](https://github.com/fabrizioschiavi/arrow-finder) - These docs help you to find and use arrows you need more quickly
 - [cloudflare/lol-html](https://github.com/cloudflare/lol-html) - Low output latency streaming HTML parser/rewriter with CSS selector-based API
@@ -1908,6 +1911,7 @@
 
 ## javascript 
 
+- [vidstack/player](https://github.com/vidstack/player) - (Beta) Customizable, lightweight, accessible, and framework-agnostic media player for the web. Modern alternative to Videojs.
 - [svg/svgo](https://github.com/svg/svgo) - ⚙️ Node.js tool for optimizing SVG files
 - [lindylearn/unclutter](https://github.com/lindylearn/unclutter) - A modern reader mode and article library for your browser.
 - [lovell/sharp](https://github.com/lovell/sharp) - High performance Node.js image processing, the fastest module to resize JPEG, PNG, WebP, AVIF and TIFF images. Uses the libvips library.
@@ -2702,6 +2706,8 @@
 
 ## others 
 
+- [vimeo/player.js](https://github.com/vimeo/player.js) - Interact with and control an embedded Vimeo Player.
+- [jya-dev/supernote-tool](https://github.com/jya-dev/supernote-tool) - Unofficial python tool for Supernote
 - [paulirish/lite-youtube-embed](https://github.com/paulirish/lite-youtube-embed) - A faster youtube embed.
 - [emacs-twist/nix3.el](https://github.com/emacs-twist/nix3.el) - (WIP) Emacs interface to experimental commands of Nix
 - [montchr/stars](https://github.com/montchr/stars) - 
@@ -2727,7 +2733,7 @@
 - [Hoverbear-Consulting/flake](https://github.com/Hoverbear-Consulting/flake) - Company Nix expressions.
 - [divnix/paisano](https://github.com/divnix/paisano) - Standard's grow function family. Factorized.
 - [udayvir-singh/hibiscus.nvim](https://github.com/udayvir-singh/hibiscus.nvim) - :hibiscus: Flavored Fennel Macros for Neovim
-- [numtide/nixos-remote](https://github.com/numtide/nixos-remote) - 
+- [numtide/nixos-remote](https://github.com/numtide/nixos-remote) - install nixos everywhere via ssh
 - [divnix/incl](https://github.com/divnix/incl) - A nix filter with straight-forward include semantic
 - [huytd/vscode-github-light-monochrome](https://github.com/huytd/vscode-github-light-monochrome) - 
 - [canva-public/js2nix](https://github.com/canva-public/js2nix) - Node.js modules installation using Nix
@@ -4171,6 +4177,7 @@
 
 ## react 
 
+- [cookpete/react-player](https://github.com/cookpete/react-player) - A React component for playing a variety of URLs, including file paths, YouTube, Facebook, Twitch, SoundCloud, Streamable, Vimeo, Wistia and DailyMotion
 - [component-driven/awesome-list](https://github.com/component-driven/awesome-list) - Curated list of links on component-driven development and design systems
 - [tajo/ladle](https://github.com/tajo/ladle) - 🥄 Develop, test and document your React story components faster.
 - [lucide-icons/lucide](https://github.com/lucide-icons/lucide) - Beautiful & consistent icon toolkit made by the community. Open-source project and a fork of Feather Icons.
@@ -4348,6 +4355,7 @@
 
 ## rust 
 
+- [kyoheiu/felix](https://github.com/kyoheiu/felix) - tui file manager with vim-like key mapping
 - [DeterminateSystems/riff](https://github.com/DeterminateSystems/riff) - Riff automatically provides external dependencies for Rust projects, with support for other languages coming soon.
 - [dbrgn/tealdeer](https://github.com/dbrgn/tealdeer) - A very fast implementation of tldr in Rust.
 - [camdencheek/fre](https://github.com/camdencheek/fre) - Command line frecency tracking
@@ -4811,6 +4819,7 @@
 
 ## typescript 
 
+- [vidstack/player](https://github.com/vidstack/player) - (Beta) Customizable, lightweight, accessible, and framework-agnostic media player for the web. Modern alternative to Videojs.
 - [VSCodeVim/Vim](https://github.com/VSCodeVim/Vim) - :star: Vim for Visual Studio Code
 - [KevinBatdorf/gutenberg-rust-starter](https://github.com/KevinBatdorf/gutenberg-rust-starter) - Gutenberg + Rust + TypeScript
 - [tajo/ladle](https://github.com/tajo/ladle) - 🥄 Develop, test and document your React story components faster.
@@ -5006,6 +5015,7 @@
 
 ## web-components 
 
+- [vidstack/player](https://github.com/vidstack/player) - (Beta) Customizable, lightweight, accessible, and framework-agnostic media player for the web. Modern alternative to Videojs.
 - [openui/open-ui](https://github.com/openui/open-ui) - Maintain an open standard for UI and promote its adherence and adoption.
 
 ## webapp 
