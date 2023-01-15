@@ -794,7 +794,7 @@
 - [sveltejs/svelte](https://github.com/sveltejs/svelte) - Cybernetically enhanced web apps
 - [vlang/v](https://github.com/vlang/v) - Simple, fast, safe, compiled language for developing maintainable software. Compiles itself in &lt;1s with zero library dependencies. Supports automatic C =&gt; V translation. https://vlang.io
 - [swc-project/swc](https://github.com/swc-project/swc) - Rust-based platform for the Web
-- [evanw/esbuild](https://github.com/evanw/esbuild) - An extremely fast JavaScript and CSS bundler and minifier
+- [evanw/esbuild](https://github.com/evanw/esbuild) - An extremely fast bundler for the web
 - [grame-cncm/faust](https://github.com/grame-cncm/faust) - Functional programming language for signal processing and sound synthesis
 - [hylang/hy](https://github.com/hylang/hy) - A dialect of Lisp that's embedded in Python
 
@@ -842,7 +842,7 @@
 - [klaufel/awesome-design-systems](https://github.com/klaufel/awesome-design-systems) - 📒 A curated list of bookmarks, resources and articles about design systems focused on developers.
 - [elad2412/the-new-css-reset](https://github.com/elad2412/the-new-css-reset) - The New Simple and Lighter CSS Reset
 - [blinksh/themes](https://github.com/blinksh/themes) - blink themes collection
-- [evanw/esbuild](https://github.com/evanw/esbuild) - An extremely fast JavaScript and CSS bundler and minifier
+- [evanw/esbuild](https://github.com/evanw/esbuild) - An extremely fast bundler for the web
 - [sindresorhus/modern-normalize](https://github.com/sindresorhus/modern-normalize) - 🐒 Normalize browsers' default style
 - [mrmckeb/typescript-plugin-css-modules](https://github.com/mrmckeb/typescript-plugin-css-modules) - A TypeScript language service plugin providing support for CSS Modules.
 - [fregante/object-fit-images](https://github.com/fregante/object-fit-images) - 🗻 Polyfill object-fit/object-position on &lt;img&gt;: IE9, IE10, IE11, Edge, Safari, ...
@@ -1257,7 +1257,7 @@
 
 - [seanmorris/php-wasm](https://github.com/seanmorris/php-wasm) - PHP in Browser, powered by WebAssembly. Original Project by Oraoto, ES6 & Clang Upgrades by Sean Morris.
 - [airbnb/javascript](https://github.com/airbnb/javascript) - JavaScript Style Guide
-- [evanw/esbuild](https://github.com/evanw/esbuild) - An extremely fast JavaScript and CSS bundler and minifier
+- [evanw/esbuild](https://github.com/evanw/esbuild) - An extremely fast bundler for the web
 - [getify/You-Dont-Know-JS](https://github.com/getify/You-Dont-Know-JS) - A book series on JavaScript. @YDKJS on twitter.
 
 ## eslint 
@@ -1961,7 +1961,7 @@
 - [yaylinda/scriptable](https://github.com/yaylinda/scriptable) - Scripts and widgets for the iOS Scriptable App
 - [sh-dv/hat.sh](https://github.com/sh-dv/hat.sh) - Encrypt and Decrypt files securely in your browser.
 - [30-seconds/30-seconds-of-code](https://github.com/30-seconds/30-seconds-of-code) - Short JavaScript code snippets for all your development needs
-- [evanw/esbuild](https://github.com/evanw/esbuild) - An extremely fast JavaScript and CSS bundler and minifier
+- [evanw/esbuild](https://github.com/evanw/esbuild) - An extremely fast bundler for the web
 - [trekhleb/javascript-algorithms](https://github.com/trekhleb/javascript-algorithms) - 📝 Algorithms and data structures implemented in JavaScript with explanations and links to further readings
 - [transloadit/uppy](https://github.com/transloadit/uppy) - The next open source file uploader for web browsers :dog:
 - [microsoft/playwright](https://github.com/microsoft/playwright) - Playwright is a framework for Web Testing and Automation. It allows testing Chromium, Firefox and WebKit with a single API.
@@ -4232,7 +4232,7 @@
 - [pmndrs/use-gesture](https://github.com/pmndrs/use-gesture) - 👇Bread n butter utility for component-tied mouse/touch gestures in React and Vanilla Javascript.
 - [americanexpress/react-albus](https://github.com/americanexpress/react-albus) - ✨ React component library for building declarative multi-step flows.
 - [react-hookz/web](https://github.com/react-hookz/web) - React hooks done right, for browser and SSR.
-- [evanw/esbuild](https://github.com/evanw/esbuild) - An extremely fast JavaScript and CSS bundler and minifier
+- [evanw/esbuild](https://github.com/evanw/esbuild) - An extremely fast bundler for the web
 - [alexnault/react-headings](https://github.com/alexnault/react-headings) - ⚛ Auto-increment your HTML headings (h1, h2, etc.) for improved accessibility and SEO.
 - [ariakit/ariakit](https://github.com/ariakit/ariakit) - Toolkit for building accessible web apps with React
 - [aeagle/react-spaces](https://github.com/aeagle/react-spaces) - React components that allow you to divide a page or container into nestable anchored, scrollable and resizable spaces.
@@ -4654,6 +4654,7 @@
 ## storybook 
 
 - [klaufel/awesome-design-systems](https://github.com/klaufel/awesome-design-systems) - 📒 A curated list of bookmarks, resources and articles about design systems focused on developers.
+- [lost-pixel/lost-pixel](https://github.com/lost-pixel/lost-pixel) - Holistic visual testing for your Frontend 🖼 First class integration with Storybook, Ladle & other frontend libraries.
 - [lauthieb/awesome-storybook](https://github.com/lauthieb/awesome-storybook) - A collection of awesome resources about @storybookjs ecosystem 🎨
 - [WebDevStudios/nextjs-wordpress-starter](https://github.com/WebDevStudios/nextjs-wordpress-starter) - A headless starter for WordPress powered by Next.js.
 - [nrwl/nx](https://github.com/nrwl/nx) - Smart, Fast and Extensible Build System
@@ -4857,7 +4858,7 @@
 - [TanStack/router](https://github.com/TanStack/router) - 🤖 Type-safe router w/ built-in caching & URL state management for JS/TS, React, Preact, Solid, Vue, Svelte and Angular
 - [swc-project/swc](https://github.com/swc-project/swc) - Rust-based platform for the Web
 - [theodorusclarence/rhf-stepform](https://github.com/theodorusclarence/rhf-stepform) - 🦘Step form built using React Hook Form, Yup, Typescript, and Zustand
-- [evanw/esbuild](https://github.com/evanw/esbuild) - An extremely fast JavaScript and CSS bundler and minifier
+- [evanw/esbuild](https://github.com/evanw/esbuild) - An extremely fast bundler for the web
 - [typescript-language-server/typescript-language-server](https://github.com/typescript-language-server/typescript-language-server) - TypeScript & JavaScript Language Server
 - [mantinedev/mantine](https://github.com/mantinedev/mantine) - React components library with native dark theme support
 - [rasendubi/uniorg](https://github.com/rasendubi/uniorg) - An accurate Org-mode parser
