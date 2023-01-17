@@ -1086,6 +1086,7 @@
 
 ## emacs 
 
+- [angrybacon/dotemacs](https://github.com/angrybacon/dotemacs) - My Emacs configuration
 - [abougouffa/minemacs](https://github.com/abougouffa/minemacs) - Minimal Emacs config for daily use
 - [wbthomason/dotfiles](https://github.com/wbthomason/dotfiles) - My dotfiles
 - [hlissner/.doom.d](https://github.com/hlissner/.doom.d) - My private config for Doom Emacs
