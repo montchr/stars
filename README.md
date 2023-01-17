@@ -342,6 +342,7 @@
 
 ## Emacs Lisp 
 
+- [angrybacon/dotemacs](https://github.com/angrybacon/dotemacs) - My Emacs configuration
 - [abougouffa/minemacs](https://github.com/abougouffa/minemacs) - Minimal Emacs config for daily use
 - [emacs-twist/nix3.el](https://github.com/emacs-twist/nix3.el) - (WIP) Emacs interface to experimental commands of Nix
 - [manateelazycat/awesome-tray](https://github.com/manateelazycat/awesome-tray) - Hide mode-line, display necessary information at right of minibuffer.
