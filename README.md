@@ -342,6 +342,9 @@
 
 ## Emacs Lisp 
 
+- [progfolio/momacs](https://github.com/progfolio/momacs) - The Missing Emacs starter-kit!
+- [progfolio/.emacs.d](https://github.com/progfolio/.emacs.d) - Emacs literate config
+- [terlar/emacs-config](https://github.com/terlar/emacs-config) - Emacs configuration
 - [angrybacon/dotemacs](https://github.com/angrybacon/dotemacs) - My Emacs configuration
 - [abougouffa/minemacs](https://github.com/abougouffa/minemacs) - Minimal Emacs config for daily use
 - [emacs-twist/nix3.el](https://github.com/emacs-twist/nix3.el) - (WIP) Emacs interface to experimental commands of Nix
@@ -1261,6 +1264,8 @@
 
 ## Nix 
 
+- [hsjobeki/nix-types](https://github.com/hsjobeki/nix-types) - nix-types-rfc
+- [emacs-twist/twist.nix](https://github.com/emacs-twist/twist.nix) - A Nix library for building a set of locally-freezed elisp packages
 - [planetbeldar/mac-overlay](https://github.com/planetbeldar/mac-overlay) - nixpkgs mac overlay (mmm, dmgs)
 - [srid/flake-root](https://github.com/srid/flake-root) - A `flake-parts` module for finding your way to the project root directory
 - [numtide/srvos](https://github.com/numtide/srvos) - Server-optimized nixos configuration
@@ -1365,7 +1370,7 @@
 - [nh2/nixos-vm-examples](https://github.com/nh2/nixos-vm-examples) - Examples of how to build and run NixOS VMs with nix
 - [cachix/pre-commit-hooks.nix](https://github.com/cachix/pre-commit-hooks.nix) - Seamless integration of https://pre-commit.com git hooks with Nix.
 - [disassembler/network](https://github.com/disassembler/network) - NixOps home network
-- [mikeroyal/NixOS-Guide](https://github.com/mikeroyal/NixOS-Guide) - NixOS Guide
+- [mikeroyal/NixOS-Guide](https://github.com/mikeroyal/NixOS-Guide) - NixOS Guide. Learn all about the immutable Nix Operating System and the declarative Nix Expression Language.
 - [input-output-hk/nixagii](https://github.com/input-output-hk/nixagii) - Nixago Pebbles for IOG
 - [polygon/scalpel](https://github.com/polygon/scalpel) - Minimally invasive safe secret provisioning to Nix-generated service config files
 - [nix-community/nixago](https://github.com/nix-community/nixago) - Generate configuration files using Nix [maintainer=@jmgilman]
@@ -2472,7 +2477,7 @@
 - [zdharma-continuum/history-search-multi-word](https://github.com/zdharma-continuum/history-search-multi-word) - 
 - [franciscolourenco/done](https://github.com/franciscolourenco/done) - A fish-shell package to automatically receive notifications when long processes finish.
 - [jethrokuan/z](https://github.com/jethrokuan/z) - Pure-fish z directory jumping
-- [PatrickF1/fzf.fish](https://github.com/PatrickF1/fzf.fish) - Augment your fish command line with fzf key bindings.
+- [PatrickF1/fzf.fish](https://github.com/PatrickF1/fzf.fish) - Fzf plugin for Fish shell
 - [rkalis/dotfiles](https://github.com/rkalis/dotfiles) - 💻 macOS System Configuration with Fish, Package Control, VS Code, Repo management, Hammerspoon
 - [cachix/install-nix-action](https://github.com/cachix/install-nix-action) - Installs Nix on GitHub Actions for the supported platforms: Linux and macOS.
 - [i077/system](https://github.com/i077/system) - Declarative system configuration for all my machines
