@@ -2708,6 +2708,7 @@
 
 ## others 
 
+- [keyboardio/Kaleidoscope](https://github.com/keyboardio/Kaleidoscope) - Firmware for the Keyboardio Model 01 and other keyboards with AVR or ARM MCUs.
 - [hsjobeki/nix-types](https://github.com/hsjobeki/nix-types) - nix-types-rfc
 - [progfolio/momacs](https://github.com/progfolio/momacs) - The Missing Emacs starter-kit!
 - [progfolio/.emacs.d](https://github.com/progfolio/.emacs.d) - Emacs literate config
