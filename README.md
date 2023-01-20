@@ -146,7 +146,6 @@
 - [leahneukirchen/nq](https://github.com/leahneukirchen/nq) - Unix command line queue utility
 - [leahneukirchen/mblaze](https://github.com/leahneukirchen/mblaze) - Unix utilities to deal with Maildir
 - [danakj/openbox](https://github.com/danakj/openbox) - Openbox Window Manager (OpenboxWM)
-- [Wilfred/difftastic](https://github.com/Wilfred/difftastic) - a structural diff that understands syntax 🟥🟩
 - [qmk/qmk_firmware](https://github.com/qmk/qmk_firmware) - Open-source keyboard firmware for Atmel AVR and Arm USB families
 - [FelixKratz/SketchyBar](https://github.com/FelixKratz/SketchyBar) - A highly customizable macOS status bar replacement
 - [rxi/microui](https://github.com/rxi/microui) - A tiny immediate-mode UI library
@@ -344,6 +343,8 @@
 
 ## Emacs Lisp 
 
+- [minad/vertico](https://github.com/minad/vertico) - :dizzy: vertico.el - VERTical Interactive COmpletion
+- [emacscollective/no-littering](https://github.com/emacscollective/no-littering) - Help keeping ~/.emacs.d clean
 - [progfolio/momacs](https://github.com/progfolio/momacs) - The Missing Emacs starter-kit!
 - [progfolio/.emacs.d](https://github.com/progfolio/.emacs.d) - Emacs literate config
 - [terlar/emacs-config](https://github.com/terlar/emacs-config) - Emacs configuration
@@ -479,7 +480,7 @@
 - [himmAllRight/ry-org-scrum](https://github.com/himmAllRight/ry-org-scrum) - Emacs package to manage personal scrum planning in org mode
 - [mclear-tools/bespoke-modeline](https://github.com/mclear-tools/bespoke-modeline) - A simple custom modeline
 - [bbatsov/guru-mode](https://github.com/bbatsov/guru-mode) - Learn to use Emacs the way it was meant to be used (the Emacs guru way)
-- [drym-org/symex.el](https://github.com/drym-org/symex.el) - An evil way to edit Lisp symbolic expressions ("symexes") as trees in Emacs
+- [drym-org/symex.el](https://github.com/drym-org/symex.el) - An intuitive way to edit Lisp symbolic expressions ("symexes") structurally in Emacs
 - [cjohansson/emacs-phps-mode](https://github.com/cjohansson/emacs-phps-mode) - Emacs major mode for PHP with code intelligence
 - [ahungry/geben](https://github.com/ahungry/geben) - Geben - PHP xdebug for Emacs
 - [bbatsov/prelude](https://github.com/bbatsov/prelude) - Prelude is an enhanced Emacs 25.1+ distribution that should make your experience with Emacs both more pleasant and more powerful.
@@ -775,6 +776,7 @@
 
 ## HTML 
 
+- [mozilla/policy-templates](https://github.com/mozilla/policy-templates) - Policy Templates for Firefox
 - [erebe/personal-server](https://github.com/erebe/personal-server) - Personal server configuration with k3s
 - [zimfw/zimfw](https://github.com/zimfw/zimfw) - Zim: Modular, customizable, and blazing fast Zsh framework
 - [johannesloetzsch/swlkup](https://github.com/johannesloetzsch/swlkup) - An application to manage a database of supervisors and provide anonymous access for authorized users
@@ -1599,6 +1601,7 @@
 
 ## Others 
 
+- [stevep99/seniply](https://github.com/stevep99/seniply) - An ergonomic, six-layer extended keyboard layout designed for small keyboards.
 - [montchr/stars](https://github.com/montchr/stars) - 
 - [pluja/awesome-privacy](https://github.com/pluja/awesome-privacy) - Awesome Privacy - A curated list of services and alternatives that respect your privacy because PRIVACY MATTERS.
 - [willwulfken/MidJourney-Styles-and-Keywords-Reference](https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference) - A reference containing Styles and Keywords that you can use with MidJourney AI. There are also pages showing resolution comparison, image weights, and much more!
@@ -2313,6 +2316,7 @@
 - [zellij-org/zellij](https://github.com/zellij-org/zellij) - A terminal workspace with batteries included
 - [zhaofengli/colmena](https://github.com/zhaofengli/colmena) - A simple, stateless NixOS deployment tool
 - [winterqt/kaidame](https://github.com/winterqt/kaidame) - 
+- [Wilfred/difftastic](https://github.com/Wilfred/difftastic) - a structural diff that understands syntax 🟥🟩
 - [sharkdp/fd](https://github.com/sharkdp/fd) - A simple, fast and user-friendly alternative to 'find'
 - [swc-project/swc](https://github.com/swc-project/swc) - Rust-based platform for the Web
 - [tkellogg/dura](https://github.com/tkellogg/dura) - You shouldn't ever lose your work if you're using Git
