@@ -106,6 +106,7 @@
 
 ## C 
 
+- [koute/bytehound](https://github.com/koute/bytehound) - A memory profiler for Linux.
 - [leandromoreira/ffmpeg-libav-tutorial](https://github.com/leandromoreira/ffmpeg-libav-tutorial) - FFmpeg libav tutorial - learn how media works from basic to transmuxing, transcoding and more. Translations: 🇺🇸 🇨🇳 🇰🇷 🇪🇸 🇻🇳
 - [apple-oss-distributions/launchd](https://github.com/apple-oss-distributions/launchd) - 
 - [InfiniTimeOrg/InfiniTime](https://github.com/InfiniTimeOrg/InfiniTime) - Firmware for Pinetime smartwatch written in C/C++ and based on FreeRTOS
@@ -343,6 +344,7 @@
 
 ## Emacs Lisp 
 
+- [lccambiaghi/vanilla-emacs](https://github.com/lccambiaghi/vanilla-emacs) - 
 - [minad/vertico](https://github.com/minad/vertico) - :dizzy: vertico.el - VERTical Interactive COmpletion
 - [emacscollective/no-littering](https://github.com/emacscollective/no-littering) - Help keeping ~/.emacs.d clean
 - [progfolio/momacs](https://github.com/progfolio/momacs) - The Missing Emacs starter-kit!
@@ -610,6 +612,7 @@
 
 ## Go 
 
+- [numtide/bld](https://github.com/numtide/bld) - Build nix targets based on git repository directories
 - [F1bonacc1/process-compose](https://github.com/F1bonacc1/process-compose) - Process Compose is a simple and flexible scheduler and orchestrator to manage non-containerized applications.
 - [beringresearch/macpine](https://github.com/beringresearch/macpine) - Lightweight Linux VMs on MacOS
 - [terrastruct/d2](https://github.com/terrastruct/d2) - D2 is a modern diagram scripting language that turns text to diagrams.
@@ -1268,6 +1271,11 @@
 
 ## Nix 
 
+- [aakropotkin/floco](https://github.com/aakropotkin/floco) - Using Nix to put NPM and Yarn in a coffin
+- [aakropotkin/ak-nix](https://github.com/aakropotkin/ak-nix) - Various `nix` and NixOS extensions
+- [aakropotkin/laika](https://github.com/aakropotkin/laika) - Nix fetcher abstractions.
+- [aakropotkin/rime](https://github.com/aakropotkin/rime) - Nix CLI Frontend Generators
+- [numtide/nix-stdlib](https://github.com/numtide/nix-stdlib) - experimental nix prelude
 - [hsjobeki/nix-types](https://github.com/hsjobeki/nix-types) - nix-types | type hints for nix
 - [emacs-twist/twist.nix](https://github.com/emacs-twist/twist.nix) - A Nix library for building a set of locally-freezed elisp packages
 - [planetbeldar/mac-overlay](https://github.com/planetbeldar/mac-overlay) - nixpkgs mac overlay (mmm, dmgs)
@@ -2351,7 +2359,6 @@
 - [saschagrunert/kubernix](https://github.com/saschagrunert/kubernix) - Single dependency Kubernetes clusters for local testing, experimenting and development
 - [serokell/deploy-rs](https://github.com/serokell/deploy-rs) - A simple multi-profile Nix-flake deploy tool.
 - [nushell/nushell](https://github.com/nushell/nushell) - A new type of shell
-- [nix-community/lorri](https://github.com/nix-community/lorri) - Your project’s nix-env [maintainer=@Profpatsch,@nyarly]
 - [Byron/dua-cli](https://github.com/Byron/dua-cli) - View disk space usage and delete unwanted data, fast.
 - [xzfc/cached-nix-shell](https://github.com/xzfc/cached-nix-shell) - Instant startup time for nix-shell
 - [qarmin/czkawka](https://github.com/qarmin/czkawka) - Multi functional app to find duplicates, empty folders, similar images etc.
@@ -2483,7 +2490,7 @@
 - [zdharma-continuum/history-search-multi-word](https://github.com/zdharma-continuum/history-search-multi-word) - 
 - [franciscolourenco/done](https://github.com/franciscolourenco/done) - A fish-shell package to automatically receive notifications when long processes finish.
 - [jethrokuan/z](https://github.com/jethrokuan/z) - Pure-fish z directory jumping
-- [PatrickF1/fzf.fish](https://github.com/PatrickF1/fzf.fish) - Fzf plugin for Fish shell
+- [PatrickF1/fzf.fish](https://github.com/PatrickF1/fzf.fish) - 🔍🐟 Fzf plugin for Fish
 - [rkalis/dotfiles](https://github.com/rkalis/dotfiles) - 💻 macOS System Configuration with Fish, Package Control, VS Code, Repo management, Hammerspoon
 - [cachix/install-nix-action](https://github.com/cachix/install-nix-action) - Installs Nix on GitHub Actions for the supported platforms: Linux and macOS.
 - [i077/system](https://github.com/i077/system) - Declarative system configuration for all my machines
