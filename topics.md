@@ -713,7 +713,7 @@
 - [str4d/age-plugin-yubikey](https://github.com/str4d/age-plugin-yubikey) - YubiKey plugin for age
 - [Misterio77/flavours](https://github.com/Misterio77/flavours) - 🎨💧 An easy to use base16 scheme manager that integrates with any workflow.
 - [jarun/ddgr](https://github.com/jarun/ddgr) - :duck: DuckDuckGo from the terminal
-- [PatrickF1/fzf.fish](https://github.com/PatrickF1/fzf.fish) - Fzf plugin for Fish shell
+- [PatrickF1/fzf.fish](https://github.com/PatrickF1/fzf.fish) - 🔍🐟 Fzf plugin for Fish
 - [fiatjaf/jiq](https://github.com/fiatjaf/jiq) - jid on jq - interactive JSON query tool using jq expressions
 - [nix-community/nixpkgs-fmt](https://github.com/nix-community/nixpkgs-fmt) - Nix code formatter for nixpkgs [maintainer=@zimbatm]
 - [dcreemer/1pass](https://github.com/dcreemer/1pass) - A caching wrapper for the 1Password CLI
@@ -2707,6 +2707,14 @@
 
 ## others 
 
+- [lccambiaghi/vanilla-emacs](https://github.com/lccambiaghi/vanilla-emacs) - 
+- [koute/bytehound](https://github.com/koute/bytehound) - A memory profiler for Linux.
+- [aakropotkin/floco](https://github.com/aakropotkin/floco) - Using Nix to put NPM and Yarn in a coffin
+- [aakropotkin/ak-nix](https://github.com/aakropotkin/ak-nix) - Various `nix` and NixOS extensions
+- [aakropotkin/laika](https://github.com/aakropotkin/laika) - Nix fetcher abstractions.
+- [aakropotkin/rime](https://github.com/aakropotkin/rime) - Nix CLI Frontend Generators
+- [numtide/bld](https://github.com/numtide/bld) - Build nix targets based on git repository directories
+- [numtide/nix-stdlib](https://github.com/numtide/nix-stdlib) - experimental nix prelude
 - [mozilla/policy-templates](https://github.com/mozilla/policy-templates) - Policy Templates for Firefox
 - [minad/vertico](https://github.com/minad/vertico) - :dizzy: vertico.el - VERTical Interactive COmpletion
 - [emacscollective/no-littering](https://github.com/emacscollective/no-littering) - Help keeping ~/.emacs.d clean
@@ -3451,7 +3459,6 @@
 - [jakehilborn/displayplacer](https://github.com/jakehilborn/displayplacer) - macOS command line utility to configure multi-display resolutions and arrangements. Essentially XRandR for macOS.
 - [nex3/dotfiles](https://github.com/nex3/dotfiles) - nex3's configuration stuff
 - [nex3/perspective-el](https://github.com/nex3/perspective-el) - Perspectives for Emacs.
-- [nix-community/lorri](https://github.com/nix-community/lorri) - Your project’s nix-env [maintainer=@Profpatsch,@nyarly]
 - [Byron/dua-cli](https://github.com/Byron/dua-cli) - View disk space usage and delete unwanted data, fast.
 - [psenough/teach_yourself_demoscene_in_14_days](https://github.com/psenough/teach_yourself_demoscene_in_14_days) - guidebook idea from http://www.pouet.net/topic.php?which=10882&page=1
 - [zzzeyez/pecan](https://github.com/zzzeyez/pecan) - menubar for macOS
