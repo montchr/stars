@@ -657,6 +657,7 @@
 
 ## cli 
 
+- [imsnif/diskonaut](https://github.com/imsnif/diskonaut) - Terminal disk space navigator 🔭
 - [nix-community/nurl](https://github.com/nix-community/nurl) - Generate Nix fetcher calls from repository URLs [maintainer=@figsoda]
 - [svg/svgo](https://github.com/svg/svgo) - ⚙️ Node.js tool for optimizing SVG files
 - [cocogitto/cocogitto](https://github.com/cocogitto/cocogitto) - The Conventional Commits toolbox
@@ -814,6 +815,7 @@
 
 ## continuous-integration 
 
+- [positron-solutions/elisp-repo-kit](https://github.com/positron-solutions/elisp-repo-kit) - Emacs Lisp package for creating an Emacs Lisp Github repo with CI
 - [buildbot/buildbot](https://github.com/buildbot/buildbot) - Python-based continuous integration testing framework; your pull requests are more than welcome!
 - [doublep/eldev](https://github.com/doublep/eldev) - Elisp development tool
 - [localstack/localstack](https://github.com/localstack/localstack) - 💻  A fully functional local AWS cloud stack. Develop and test your cloud & Serverless apps offline!
@@ -1086,6 +1088,7 @@
 
 ## emacs 
 
+- [positron-solutions/elisp-repo-kit](https://github.com/positron-solutions/elisp-repo-kit) - Emacs Lisp package for creating an Emacs Lisp Github repo with CI
 - [angrybacon/dotemacs](https://github.com/angrybacon/dotemacs) - My Emacs configuration
 - [abougouffa/minemacs](https://github.com/abougouffa/minemacs) - Minimal Emacs config for daily use
 - [wbthomason/dotfiles](https://github.com/wbthomason/dotfiles) - My dotfiles
@@ -2504,6 +2507,7 @@
 - [ray-x/nvim](https://github.com/ray-x/nvim) - Blazing fast neovim setup with 150+ plugins.
 - [ray-x/navigator.lua](https://github.com/ray-x/navigator.lua) - Source code analysis & navigation plugin for Neovim. Navigate codes like a breeze🎐  Exploring LSP and 🌲Treesitter symbols a piece of 🍰  Take control like a boss 🦍
 - [nanotee/nvim-lua-guide](https://github.com/nanotee/nvim-lua-guide) - A guide to using Lua in Neovim
+- [gvolpe/neovim-flake](https://github.com/gvolpe/neovim-flake) - Nix flake for Neovim & Scala Metals
 - [jordanisaacs/neovim-flake](https://github.com/jordanisaacs/neovim-flake) - Nix flake for neovim with configuration
 - [ggandor/leap.nvim](https://github.com/ggandor/leap.nvim) - 🦘 Neovim's answer to the mouse: a "clairvoyant" interface that makes on-screen navigation quicker and more natural than ever
 - [samhh/dotfiles](https://github.com/samhh/dotfiles) - Configuring the universe with Nix.
@@ -2707,6 +2711,7 @@
 
 ## others 
 
+- [a-kenji/zellij-nix](https://github.com/a-kenji/zellij-nix) - Zellij Nix Environment
 - [lccambiaghi/vanilla-emacs](https://github.com/lccambiaghi/vanilla-emacs) - 
 - [koute/bytehound](https://github.com/koute/bytehound) - A memory profiler for Linux.
 - [aakropotkin/floco](https://github.com/aakropotkin/floco) - Using Nix to put NPM and Yarn in a coffin
@@ -2791,7 +2796,6 @@
 - [projectM-visualizer/projectm](https://github.com/projectM-visualizer/projectm) - projectM - cross-platform music visualization. Open-source and Milkdrop-compatible
 - [wpengine/atlas-content-modeler](https://github.com/wpengine/atlas-content-modeler) - Content modeling plugin for WordPress
 - [be5invis/vscode-custom-css](https://github.com/be5invis/vscode-custom-css) - Custom CSS Plugin for Visual Studio Code. Based on vscode-icon
-- [gvolpe/neovim-flake](https://github.com/gvolpe/neovim-flake) - Nix flake for neovim & scala metals
 - [x-motemen/ghq](https://github.com/x-motemen/ghq) - Remote repository management made easy
 - [craftzdog/dotfiles-public](https://github.com/craftzdog/dotfiles-public) - My personal dotfiles
 - [nvim-lua/kickstart.nvim](https://github.com/nvim-lua/kickstart.nvim) - A launch point for your personal nvim configuration
@@ -2995,7 +2999,7 @@
 - [emmanuelrosa/erosanix](https://github.com/emmanuelrosa/erosanix) - My main NixOS/Nix Flakes repository
 - [GoogleChromeLabs/container-query-polyfill](https://github.com/GoogleChromeLabs/container-query-polyfill) - A polyfill for CSS Container Queries
 - [Automattic/wordbless](https://github.com/Automattic/wordbless) - WorDBless allows you to use WordPress core functions in your PHPUnit tests without having to set up a database and the whole WordPress environment
-- [vpavlenko/study-music](https://github.com/vpavlenko/study-music) - A survey of books, resources and courses to study everything about music and sound in the broadest sense
+- [vpavlenko/study-music](https://github.com/vpavlenko/study-music) - A survey of books, resources and courses to study everything about music and sound in the broadest sense. An "awesome music theory" kinda list
 - [lassik/emacs-format-all-the-code](https://github.com/lassik/emacs-format-all-the-code) - Auto-format source code in many languages with one command
 - [syvanpera/nix-config](https://github.com/syvanpera/nix-config) - My NixOS configuration
 - [pinpox/lollypops](https://github.com/pinpox/lollypops) - Lollypop Operations - NixOS Deployment Tool
@@ -4468,6 +4472,7 @@
 
 ## scala 
 
+- [gvolpe/neovim-flake](https://github.com/gvolpe/neovim-flake) - Nix flake for Neovim & Scala Metals
 - [fabrizioschiavi/pragmatapro](https://github.com/fabrizioschiavi/pragmatapro) - PragmataPro font is designed to help pros to work better
 - [emacs-lsp/lsp-mode](https://github.com/emacs-lsp/lsp-mode) - Emacs client/library for the Language Server Protocol
 
@@ -4720,6 +4725,7 @@
 
 ## terminal 
 
+- [imsnif/diskonaut](https://github.com/imsnif/diskonaut) - Terminal disk space navigator 🔭
 - [sharkdp/pastel](https://github.com/sharkdp/pastel) - A command-line tool to generate, analyze, convert and manipulate colors
 - [charmbracelet/vhs](https://github.com/charmbracelet/vhs) - Your CLI home video recorder 📼
 - [jesseduffield/lazygit](https://github.com/jesseduffield/lazygit) - simple terminal UI for git commands
