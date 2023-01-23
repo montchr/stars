@@ -344,6 +344,7 @@
 
 ## Emacs Lisp 
 
+- [positron-solutions/elisp-repo-kit](https://github.com/positron-solutions/elisp-repo-kit) - Emacs Lisp package for creating an Emacs Lisp Github repo with CI
 - [lccambiaghi/vanilla-emacs](https://github.com/lccambiaghi/vanilla-emacs) - 
 - [minad/vertico](https://github.com/minad/vertico) - :dizzy: vertico.el - VERTical Interactive COmpletion
 - [emacscollective/no-littering](https://github.com/emacscollective/no-littering) - Help keeping ~/.emacs.d clean
@@ -1271,6 +1272,7 @@
 
 ## Nix 
 
+- [a-kenji/zellij-nix](https://github.com/a-kenji/zellij-nix) - Zellij Nix Environment
 - [aakropotkin/floco](https://github.com/aakropotkin/floco) - Using Nix to put NPM and Yarn in a coffin
 - [aakropotkin/ak-nix](https://github.com/aakropotkin/ak-nix) - Various `nix` and NixOS extensions
 - [aakropotkin/laika](https://github.com/aakropotkin/laika) - Nix fetcher abstractions.
@@ -1311,7 +1313,7 @@
 - [syberant/nix-neovim](https://github.com/syberant/nix-neovim) - Declaratively configure neovim with the magic of nix! Personal toy project.
 - [gytis-ivaskevicius/nix2vim](https://github.com/gytis-ivaskevicius/nix2vim) - [WIP] Nix to Lua parser meant to be used for configuring neovim
 - [m15a/nixpkgs-vim-extra-plugins](https://github.com/m15a/nixpkgs-vim-extra-plugins) - Nix flake of miscellaneous Vim/Neovim plugins.
-- [gvolpe/neovim-flake](https://github.com/gvolpe/neovim-flake) - Nix flake for neovim & scala metals
+- [gvolpe/neovim-flake](https://github.com/gvolpe/neovim-flake) - Nix flake for Neovim & Scala Metals
 - [jordanisaacs/neovim-flake](https://github.com/jordanisaacs/neovim-flake) - Nix flake for neovim with configuration
 - [Platonic-Systems/treefmt-flake](https://github.com/Platonic-Systems/treefmt-flake) - A `flake-parts` module to work with treefmt. No longer maintained; you should instead use https://github.com/numtide/treefmt-nix#flake-parts
 - [styx-static/styx](https://github.com/styx-static/styx) - Static site generator in Nix expression language.
@@ -1504,7 +1506,6 @@
 - [divnix/bud](https://github.com/divnix/bud) - EXPERIMENTAL -- A highly composable system ctl tool
 - [pjones/phoebe](https://github.com/pjones/phoebe) - A collection of NixOS modules that add features to the ones in nixpkgs.
 - [kanwren/nixfiles](https://github.com/kanwren/nixfiles) - My NixOS configurations and other Nix files :snowflake:
-- [symphorien/nix-du](https://github.com/symphorien/nix-du) - Visualise which gc-roots to delete to free some space in your nix store
 - [pinpox/nixos](https://github.com/pinpox/nixos) - My NixOS Configurations
 - [kamadorueda/machine](https://github.com/kamadorueda/machine) - My OS, development tools, and dotfiles, as code
 - [fluidattacks/makes](https://github.com/fluidattacks/makes) - A DevSecOps framework powered by Nix.
@@ -1663,7 +1664,7 @@
 - [wp-hooks/wordpress-core](https://github.com/wp-hooks/wordpress-core) - WordPress core actions and filters as JSON
 - [GEIGEIGEIST/KLOTZ](https://github.com/GEIGEIGEIST/KLOTZ) - KLOTZ is 34 keys column-staggered split keyboard. It uses an encoder and three status LEDs on each side.
 - [GEIGEIGEIST/KLOR](https://github.com/GEIGEIGEIST/KLOR) - KLOR is 36-42 keys column-staggered split keyboard. It supports a per key RGB matrix, encoders, OLED displays, haptic feedback, audio, a Pixart Paw3204 trackball and four different layouts, through br
-- [vpavlenko/study-music](https://github.com/vpavlenko/study-music) - A survey of books, resources and courses to study everything about music and sound in the broadest sense
+- [vpavlenko/study-music](https://github.com/vpavlenko/study-music) - A survey of books, resources and courses to study everything about music and sound in the broadest sense. An "awesome music theory" kinda list
 - [dkhamsing/open-source-ios-apps](https://github.com/dkhamsing/open-source-ios-apps) - :iphone: Collaborative List of Open-Source iOS Apps
 - [justSem/r-selfhosted-security](https://github.com/justSem/r-selfhosted-security) - Started from the beginners security guide on r/selfhosted - this repo aims to be a collection of guides
 - [kahun/awesome-sysadmin](https://github.com/kahun/awesome-sysadmin) - A curated list of amazingly awesome open source sysadmin resources inspired by Awesome PHP.
@@ -2251,6 +2252,7 @@
 
 ## Rust 
 
+- [imsnif/diskonaut](https://github.com/imsnif/diskonaut) - Terminal disk space navigator 🔭
 - [kyoheiu/felix](https://github.com/kyoheiu/felix) - tui file manager with vim-like key mapping
 - [DeterminateSystems/riff](https://github.com/DeterminateSystems/riff) - Riff automatically provides external dependencies for Rust projects, with support for other languages coming soon.
 - [dbrgn/tealdeer](https://github.com/dbrgn/tealdeer) - A very fast implementation of tldr in Rust.
@@ -2346,6 +2348,7 @@
 - [Dusk-Labs/dim](https://github.com/Dusk-Labs/dim) - Dim, a media manager fueled by dark forces.
 - [orhun/git-cliff](https://github.com/orhun/git-cliff) - A highly customizable Changelog Generator that follows Conventional Commit specifications ⛰️
 - [libreddit/libreddit](https://github.com/libreddit/libreddit) - Private front-end for Reddit
+- [symphorien/nix-du](https://github.com/symphorien/nix-du) - Visualise which gc-roots to delete to free some space in your nix store
 - [nix-community/nixpkgs-fmt](https://github.com/nix-community/nixpkgs-fmt) - Nix code formatter for nixpkgs [maintainer=@zimbatm]
 - [mgdm/htmlq](https://github.com/mgdm/htmlq) - Like jq, but for HTML.
 - [Nukesor/pueue](https://github.com/Nukesor/pueue) - :stars: Manage your shell commands.
