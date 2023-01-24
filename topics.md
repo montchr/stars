@@ -2157,7 +2157,7 @@
 - [rxyhn/yoru](https://github.com/rxyhn/yoru) - 夜 - Yoru | Aesthetic and Beautiful Awesome  Environment :first_quarter_moon:
 - [watchexec/watchexec](https://github.com/watchexec/watchexec) - Executes commands in response to file modifications
 - [krallin/tini](https://github.com/krallin/tini) - A tiny but valid `init` for containers
-- [meienberger/runtipi](https://github.com/meienberger/runtipi) - ⛺️ Tipi is a homeserver for everyone! One command setup, one click installs for your favorites self-hosted apps. ✨
+- [meienberger/runtipi](https://github.com/meienberger/runtipi) - Tipi is a homeserver for everyone! One command setup, one click installs for your favorites self-hosted apps. ✨
 - [samhh/dotfiles](https://github.com/samhh/dotfiles) - Configuring the universe with Nix.
 - [drud/ddev](https://github.com/drud/ddev) - Docker-based local PHP+Node.js web development environments
 - [protesilaos/dotfiles](https://github.com/protesilaos/dotfiles) - [Mirror] Configuration files for Emacs and some other programs. Running on Arch Linux. Managed with GNU Stow.
@@ -2711,6 +2711,7 @@
 
 ## others 
 
+- [magnars/dash.el](https://github.com/magnars/dash.el) - A modern list library for Emacs
 - [a-kenji/zellij-nix](https://github.com/a-kenji/zellij-nix) - Zellij Nix Environment
 - [lccambiaghi/vanilla-emacs](https://github.com/lccambiaghi/vanilla-emacs) - 
 - [koute/bytehound](https://github.com/koute/bytehound) - A memory profiler for Linux.
@@ -2767,7 +2768,7 @@
 - [jenspfahl/BDT](https://github.com/jenspfahl/BDT) - Break.Down.Timer
 - [mingrammer/diagrams](https://github.com/mingrammer/diagrams) - :art: Diagram as Code for prototyping cloud system architectures
 - [cachix/devenv](https://github.com/cachix/devenv) - Fast, Declarative, Reproducible, and Composable Developer Environments
-- [tpwrules/nixos-m1](https://github.com/tpwrules/nixos-m1) - Attempts to get NixOS up on M1 Macs.
+- [tpwrules/nixos-m1](https://github.com/tpwrules/nixos-m1) - Resources to install NixOS bare metal on Apple Silicon Macs
 - [changesets/changesets](https://github.com/changesets/changesets) - 🦋       A way to manage your versioning and changelogs with a focus on monorepos
 - [fpco/terraform-aws-foundation](https://github.com/fpco/terraform-aws-foundation) - Establish a solid Foundation on AWS with these modules for Terraform
 - [mcgirr/terraform-nixos-nginx-webserver](https://github.com/mcgirr/terraform-nixos-nginx-webserver) - An example of a basic Terraform project and modules that create the AWS infrastructure for a webserver on NixOS
@@ -4377,6 +4378,7 @@
 
 ## rust 
 
+- [kanidm/kanidm](https://github.com/kanidm/kanidm) - Kanidm: A simple, secure and fast identity management platform
 - [kyoheiu/felix](https://github.com/kyoheiu/felix) - tui file manager with vim-like key mapping
 - [DeterminateSystems/riff](https://github.com/DeterminateSystems/riff) - Riff automatically provides external dependencies for Rust projects, with support for other languages coming soon.
 - [dbrgn/tealdeer](https://github.com/dbrgn/tealdeer) - A very fast implementation of tldr in Rust.
@@ -4478,6 +4480,7 @@
 
 ## security 
 
+- [kanidm/kanidm](https://github.com/kanidm/kanidm) - Kanidm: A simple, secure and fast identity management platform
 - [kdeldycke/awesome-iam](https://github.com/kdeldycke/awesome-iam) - 👤 Identity and Access Management knowledge for cloud platforms
 - [nozaq/terraform-aws-secure-baseline](https://github.com/nozaq/terraform-aws-secure-baseline) - Terraform module to set up your AWS account with the secure baseline configuration based on CIS Amazon Web Services Foundations and AWS Foundational Security Best Practices.
 - [bromite/bromite](https://github.com/bromite/bromite) - Bromite is a Chromium fork with ad blocking and privacy enhancements; take back your browser!
