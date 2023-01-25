@@ -344,6 +344,9 @@
 
 ## Emacs Lisp 
 
+- [overideal/perject](https://github.com/overideal/perject) - An Emacs package for working with projects
+- [xenodium/org-block-capf](https://github.com/xenodium/org-block-capf) - 
+- [conao3/leaf.el](https://github.com/conao3/leaf.el) - Flexible, declarative, and modern init.el package configuration
 - [magnars/dash.el](https://github.com/magnars/dash.el) - A modern list library for Emacs
 - [positron-solutions/elisp-repo-kit](https://github.com/positron-solutions/elisp-repo-kit) - Emacs Lisp package for creating an Emacs Lisp Github repo with CI
 - [lccambiaghi/vanilla-emacs](https://github.com/lccambiaghi/vanilla-emacs) - 
@@ -1322,7 +1325,7 @@
 - [divnix/std](https://github.com/divnix/std) - A DevOps framework for the SDLC with the power of Nix and Flakes. Good for keeping deadlines!
 - [chessai/nixos-configs](https://github.com/chessai/nixos-configs) - my nixos configs
 - [water-sucks/nixed](https://github.com/water-sucks/nixed) - I've nixed any chance I have at human interaction by building this config
-- [jakehamilton/config](https://github.com/jakehamilton/config) - 
+- [jakehamilton/config](https://github.com/jakehamilton/config) - One Nix flake to rule them all.
 - [viperML/iosevka](https://github.com/viperML/iosevka) - My iosevka build, patched with nerd fonts
 - [DavHau/pkgs-modules](https://github.com/DavHau/pkgs-modules) - The Ideal interface for configuring packages
 - [numtide/treefmt-nix](https://github.com/numtide/treefmt-nix) - treefmt nix configuration
@@ -1611,6 +1614,7 @@
 
 ## Others 
 
+- [bbatsov/emacs-lisp-style-guide](https://github.com/bbatsov/emacs-lisp-style-guide) - A community-driven Emacs Lisp style guide
 - [stevep99/seniply](https://github.com/stevep99/seniply) - An ergonomic, six-layer extended keyboard layout designed for small keyboards.
 - [montchr/stars](https://github.com/montchr/stars) - 
 - [pluja/awesome-privacy](https://github.com/pluja/awesome-privacy) - Awesome Privacy - A curated list of services and alternatives that respect your privacy because PRIVACY MATTERS.
@@ -2642,7 +2646,7 @@
 - [rgcr/m-cli](https://github.com/rgcr/m-cli) -  Swiss Army Knife for macOS
 - [clvv/fasd](https://github.com/clvv/fasd) - Command-line productivity booster, offers quick access to files and directories, inspired by autojump, z and v.
 - [benpbolton/slack-autostatus](https://github.com/benpbolton/slack-autostatus) - Automatically update Slack status (emoji) with your Mac's current application/url
-- [paulirish/dotfiles](https://github.com/paulirish/dotfiles) - paul's shell, git, etc config files. also homebrew, migration setup. good stuff.
+- [paulirish/dotfiles](https://github.com/paulirish/dotfiles) - paul's fish, bash, git, etc config files. good stuff.
 - [zsh-users/zsh-autosuggestions](https://github.com/zsh-users/zsh-autosuggestions) - Fish-like autosuggestions for zsh
 - [montchr/dotfiles](https://github.com/montchr/dotfiles) - dotfiles by @montchr
 - [Dunedan/mbp-2016-linux](https://github.com/Dunedan/mbp-2016-linux) - State of Linux on the MacBook Pro 2016 & 2017
