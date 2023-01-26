@@ -553,6 +553,7 @@
 - [rougier/mu4e-thread-folding](https://github.com/rougier/mu4e-thread-folding) - Functions for folding threads in mu4e headers view
 - [tecosaur/emacs-everywhere](https://github.com/tecosaur/emacs-everywhere) - System-wide popup Emacs windows for quick edits
 - [yuchen-lea/org-media-note](https://github.com/yuchen-lea/org-media-note) - Taking interactive notes when watching videos or listening to audios in org-mode.
+- [gf3/dotfiles](https://github.com/gf3/dotfiles) - Configurations for the tools I use every day
 - [emacs-lsp/lsp-mode](https://github.com/emacs-lsp/lsp-mode) - Emacs client/library for the Language Server Protocol
 - [d12frosted/vulpea](https://github.com/d12frosted/vulpea) - A collection of functions for note taking based on `org` and `org-roam`.
 - [d12frosted/environment](https://github.com/d12frosted/environment) - dotfiles
@@ -896,6 +897,7 @@
 
 ## JavaScript 
 
+- [input-output-hk/react-polymorph](https://github.com/input-output-hk/react-polymorph) - React components with highly customizable logic, markup and styles.
 - [cookpete/react-player](https://github.com/cookpete/react-player) - A React component for playing a variety of URLs, including file paths, YouTube, Facebook, Twitch, SoundCloud, Streamable, Vimeo, Wistia and DailyMotion
 - [vimeo/player.js](https://github.com/vimeo/player.js) - Interact with and control an embedded Vimeo Player.
 - [paulirish/lite-youtube-embed](https://github.com/paulirish/lite-youtube-embed) - A faster youtube embed.
@@ -1276,6 +1278,7 @@
 
 ## Nix 
 
+- [KubqoA/dotfiles](https://github.com/KubqoA/dotfiles) - My NixOS dotfiles
 - [a-kenji/zellij-nix](https://github.com/a-kenji/zellij-nix) - Zellij Nix Environment
 - [aakropotkin/floco](https://github.com/aakropotkin/floco) - Using Nix to put NPM and Yarn in a coffin
 - [aakropotkin/ak-nix](https://github.com/aakropotkin/ak-nix) - Various `nix` and NixOS extensions
@@ -2593,7 +2596,6 @@
 - [make-github-pseudonymous-again/dotfiles](https://github.com/make-github-pseudonymous-again/dotfiles) - :wrench: ~/. dotfiles for Arch Linux
 - [ssh0/dot](https://github.com/ssh0/dot) - Simplest dotfiles manager written in shellscript :shell:
 - [dylanaraps/pash](https://github.com/dylanaraps/pash) - 🔒 A simple password manager using GPG written in POSIX sh.
-- [gf3/dotfiles](https://github.com/gf3/dotfiles) - Configurations for the tools I use every day
 - [migueravila/Dotfiles](https://github.com/migueravila/Dotfiles) - 🍙 Personal dotfiles repository.
 - [Seirdy/dotfiles](https://github.com/Seirdy/dotfiles) - Seirdy's dotfiles
 - [csivanich/dotfiles](https://github.com/csivanich/dotfiles) - Configuration repository containing most customized home folder dotfiles.
