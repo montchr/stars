@@ -598,7 +598,7 @@
 
 - [datwaft/themis.nvim](https://github.com/datwaft/themis.nvim) - Fennel macros for hotpot.nvim created for my personal Neovim configuration.
 - [udayvir-singh/hibiscus.nvim](https://github.com/udayvir-singh/hibiscus.nvim) - :hibiscus: Flavored Fennel Macros for Neovim
-- [ggandor/leap.nvim](https://github.com/ggandor/leap.nvim) - 🦘 Neovim's answer to the mouse: a "clairvoyant" interface that makes on-screen navigation quicker and more natural than ever
+- [ggandor/leap.nvim](https://github.com/ggandor/leap.nvim) - 🦘 Neovim's answer to the mouse
 - [nyoom-engineering/nyoom.nvim](https://github.com/nyoom-engineering/nyoom.nvim) - A Neovim framework and doom emacs alternative for the stubborn martian hacker. Powered by fennel and the oxocarbon theme
 - [jsfr/Spoons](https://github.com/jsfr/Spoons) - Personal Hammerspoon Spoons Repository
 - [Olical/dotfiles](https://github.com/Olical/dotfiles) - Configuration for Linux, i3, Kitty, Fish, Neovim and more
@@ -618,6 +618,8 @@
 
 ## Go 
 
+- [corpix/terraform-provider-nixos](https://github.com/corpix/terraform-provider-nixos) - Terraform provider to deploy NixOS system configurations
+- [turbot/steampipe](https://github.com/turbot/steampipe) - Use SQL to instantly query your cloud services (AWS, Azure, GCP and more). Open source CLI. No DB required.
 - [numtide/bld](https://github.com/numtide/bld) - Build nix targets based on git repository directories
 - [F1bonacc1/process-compose](https://github.com/F1bonacc1/process-compose) - Process Compose is a simple and flexible scheduler and orchestrator to manage non-containerized applications.
 - [beringresearch/macpine](https://github.com/beringresearch/macpine) - Lightweight Linux VMs on MacOS
@@ -767,6 +769,9 @@
 
 ## HCL 
 
+- [jonascarpay/iplz](https://github.com/jonascarpay/iplz) - Demo project for building, provisioning, and deploying a web service with a single command, using Terraform and Nix.
+- [azavea/kubernetes-deployment](https://github.com/azavea/kubernetes-deployment) - Deployment resources and shared knowledge base for deploying Kubernetes
+- [terraform-aws-modules/terraform-aws-s3-bucket](https://github.com/terraform-aws-modules/terraform-aws-s3-bucket) - Terraform module which creates S3 bucket resources on AWS 🇺🇦
 - [numtide/terraform-nixos-install](https://github.com/numtide/terraform-nixos-install) - 
 - [terraform-aws-modules/terraform-aws-iam](https://github.com/terraform-aws-modules/terraform-aws-iam) - Terraform module which creates IAM resources on AWS 🇺🇦
 - [brikis98/terraform-up-and-running-code](https://github.com/brikis98/terraform-up-and-running-code) - Code samples for the book "Terraform: Up & Running" by Yevgeniy Brikman
@@ -1278,6 +1283,8 @@
 
 ## Nix 
 
+- [jonascarpay/nix](https://github.com/jonascarpay/nix) - My system configurations, dotfiles, and other miscellanies
+- [drupol/nixos-x260](https://github.com/drupol/nixos-x260) - Contains the configuration of every home computers
 - [KubqoA/dotfiles](https://github.com/KubqoA/dotfiles) - My NixOS dotfiles
 - [a-kenji/zellij-nix](https://github.com/a-kenji/zellij-nix) - Zellij Nix Environment
 - [aakropotkin/floco](https://github.com/aakropotkin/floco) - Using Nix to put NPM and Yarn in a coffin
@@ -1800,6 +1807,7 @@
 
 ## PHP 
 
+- [drupol/php-conventions](https://github.com/drupol/php-conventions) - 
 - [alleyinteractive/wp-bulk-task](https://github.com/alleyinteractive/wp-bulk-task) - A library to assist with running performant bulk tasks against posts via WP-CLI.
 - [szepeviktor/wordpress-website-lifecycle](https://github.com/szepeviktor/wordpress-website-lifecycle) - How to work with WordPress 📅 for long years
 - [alleyinteractive/wp-block-converter](https://github.com/alleyinteractive/wp-block-converter) - Convert HTML into Gutenberg Blocks with PHP
