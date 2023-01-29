@@ -64,7 +64,6 @@
 - [Rust](#rust)
 - [SCSS](#scss)
 - [Scala](#scala)
-- [Scheme](#scheme)
 - [Shell](#shell)
 - [Smarty](#smarty)
 - [SuperCollider](#supercollider)
@@ -345,6 +344,7 @@
 
 ## Emacs Lisp 
 
+- [alphapapa/prism.el](https://github.com/alphapapa/prism.el) - Disperse Lisp forms (and other languages) into a spectrum of colors by depth
 - [loafofpiecrust/dotnix](https://github.com/loafofpiecrust/dotnix) - Repository for my flake-based NixOS config
 - [overideal/perject](https://github.com/overideal/perject) - An Emacs package for working with projects
 - [xenodium/org-block-capf](https://github.com/xenodium/org-block-capf) - 
@@ -1043,7 +1043,6 @@
 - [marko-js/marko](https://github.com/marko-js/marko) - A declarative, HTML-based language that makes building web apps fun
 - [mxschmitt/action-tmate](https://github.com/mxschmitt/action-tmate) - Debug your GitHub Actions via SSH by using tmate to get access to the runner system itself.
 - [kickscondor/fraidycat](https://github.com/kickscondor/fraidycat) - Follow blogs, wikis, YouTube channels, as well as accounts on Twitter, Instagram, etc. from a single page.
-- [KittyGiraudel/a11y-dialog](https://github.com/KittyGiraudel/a11y-dialog) - A very lightweight and flexible accessible modal dialog script.
 - [kamranahmedse/pennywise](https://github.com/kamranahmedse/pennywise) - Cross-platform application to open any website or media in a floating window
 - [hackjutsu/Lepton](https://github.com/hackjutsu/Lepton) - 💻     Democratizing Snippet Management (macOS/Win/Linux)
 - [cerebroapp/cerebro](https://github.com/cerebroapp/cerebro) - Open-source productivity booster with a brain
@@ -1214,6 +1213,7 @@
 - [windwp/nvim-autopairs](https://github.com/windwp/nvim-autopairs) - autopairs for neovim written by lua
 - [nvim-telescope/telescope.nvim](https://github.com/nvim-telescope/telescope.nvim) - Find, Filter, Preview, Pick. All lua, all the time.
 - [folke/noice.nvim](https://github.com/folke/noice.nvim) - 💥 Highly experimental plugin that completely replaces the UI for messages, cmdline and the popupmenu.
+- [nvim-treesitter/nvim-treesitter-textobjects](https://github.com/nvim-treesitter/nvim-treesitter-textobjects) - 
 - [wbthomason/dotfiles](https://github.com/wbthomason/dotfiles) - My dotfiles
 - [wbthomason/packer.nvim](https://github.com/wbthomason/packer.nvim) - A use-package inspired plugin manager for Neovim. Uses native packages, supports Luarocks dependencies, written in Lua, allows for expressive config
 - [Optixal/neovim-init.vim](https://github.com/Optixal/neovim-init.vim) - :izakaya_lantern: A hybrid Neovim configuration for productive developers who want a functional yet aesthetic Vim experience :izakaya_lantern:
@@ -1288,6 +1288,8 @@
 
 ## Nix 
 
+- [arcnmx/tf-nix](https://github.com/arcnmx/tf-nix) - terraform meets nix
+- [kittywitch/nixfiles](https://github.com/kittywitch/nixfiles) - kat's configuration flake
 - [jonascarpay/nix](https://github.com/jonascarpay/nix) - My system configurations, dotfiles, and other miscellanies
 - [drupol/nixos-x260](https://github.com/drupol/nixos-x260) - Contains the configuration of every home computers
 - [KubqoA/dotfiles](https://github.com/KubqoA/dotfiles) - My NixOS dotfiles
@@ -1365,7 +1367,6 @@
 - [srid/haskell-template](https://github.com/srid/haskell-template) - Haskell project template using Nix + Flakes + VSCode (HLS)
 - [YorikSar/nixos-vm-on-macos](https://github.com/YorikSar/nixos-vm-on-macos) - Run NixOS VMs on macOS! https://github.com/NixOS/nixpkgs/issues/108984
 - [yawnt/declarative-nix-flatpak](https://github.com/yawnt/declarative-nix-flatpak) - flatpak-install, but declarative
-- [jordanisaacs/jdpkgs](https://github.com/jordanisaacs/jdpkgs) - Personal Nix Package Repository (using flakes)
 - [jordanisaacs/dotfiles](https://github.com/jordanisaacs/dotfiles) - My NixOS dotfiles for desktops and servers
 - [the-nix-way/dev-templates](https://github.com/the-nix-way/dev-templates) - Dev environments for numerous languages based on Nix flakes [maintainer=@lucperkins]
 - [MSF-OCB/NixOS](https://github.com/MSF-OCB/NixOS) - MSF OCB NixOS config
@@ -1374,7 +1375,6 @@
 - [jonringer/server-configuration](https://github.com/jonringer/server-configuration) - Build server nixos configuration
 - [ZilchOS/core](https://github.com/ZilchOS/core) - ZilchOS Core, a decidedly tiny Nix-based distro to play with
 - [fricklerhandwerk/.config](https://github.com/fricklerhandwerk/.config) - user environment configurations with `home-manager`
-- [BBBSnowball/nixcfg](https://github.com/BBBSnowball/nixcfg) - Config and packages for NixOS
 - [LunNova/nixos-configs](https://github.com/LunNova/nixos-configs) - Why aren't you using NixOS? (rhetorical: it's the learning cliff and the lack of good docs)
 - [viperML/neoinfra](https://github.com/viperML/neoinfra) - Configuration of my servers
 - [colemickens/nixos-flake-example](https://github.com/colemickens/nixos-flake-example) - This is a demo NixOS config, with optional flakes support. Along with notes on why flakes is useful and worth adopting.
@@ -1439,7 +1439,7 @@
 - [johnae/nix-flake-templates](https://github.com/johnae/nix-flake-templates) - Templates for Nix flakes
 - [loophp/nix-shell](https://github.com/loophp/nix-shell) - Nix shells for PHP development
 - [fossar/nix-phps](https://github.com/fossar/nix-phps) - Repository of Nix expressions for old PHP versions
-- [chvp/nixos-config](https://github.com/chvp/nixos-config) - Configuration of my machines
+- [chvp/nixos-config](https://github.com/chvp/nixos-config) - Configuration of my machines (main development happens at https://git.chvp.be/chvp/nixos-config these days)
 - [nix-community/nix-snippets](https://github.com/nix-community/nix-snippets) - Nix Snippets: Curated, simple, fun examples of the Nix Expression Language [maintainer=]
 - [input-output-hk/bitte](https://github.com/input-output-hk/bitte) - Nix Ops for Terraform, Consul, Vault, Nomad
 - [input-output-hk/bitte-cells](https://github.com/input-output-hk/bitte-cells) - Shared infrastructure components commonly used across clusters
@@ -2425,10 +2425,6 @@
 
 - [guardian/frontend](https://github.com/guardian/frontend) - The Guardian DotCom.
 
-## Scheme 
-
-- [nvim-treesitter/nvim-treesitter-textobjects](https://github.com/nvim-treesitter/nvim-treesitter-textobjects) - 
-
 ## Shell 
 
 - [numtide/nixos-remote](https://github.com/numtide/nixos-remote) - install nixos everywhere via ssh
@@ -2733,6 +2729,7 @@
 
 ## TypeScript 
 
+- [sjinks/setup-wordpress-test-library](https://github.com/sjinks/setup-wordpress-test-library) - Set up WordPress and WordPress Test Library for unit tests
 - [NEU-DSG/dailp-encoding](https://github.com/NEU-DSG/dailp-encoding) - Digital Archive of American Indian Languages Preservation and Perseverance
 - [nix-community/vscode-nix-ide](https://github.com/nix-community/vscode-nix-ide) - Nix language support for VSCode editor [maintainer: @jnoortheen]
 - [vidstack/player](https://github.com/vidstack/player) - (Beta) Customizable, lightweight, accessible, and framework-agnostic media player for the web. Modern alternative to Videojs.
@@ -2887,6 +2884,7 @@
 - [Aperocky/cellular-automata](https://github.com/Aperocky/cellular-automata) - 
 - [inkandswitch/cambria-project](https://github.com/inkandswitch/cambria-project) - Schema evolution with bi-directional lenses.
 - [siyuan-note/siyuan](https://github.com/siyuan-note/siyuan) - Build Your Eternal Digital Garden
+- [KittyGiraudel/a11y-dialog](https://github.com/KittyGiraudel/a11y-dialog) - A very lightweight and flexible accessible modal dialog script.
 - [shivammathur/setup-php](https://github.com/shivammathur/setup-php) - GitHub action to set up PHP with extensions, php.ini configuration, coverage drivers, and various tools.
 - [manosim/gitify](https://github.com/manosim/gitify) - GitHub notifications on your menu bar. Available on macOS, Windows & Linux.
 - [aortbals/github-stars-to-pinboard](https://github.com/aortbals/github-stars-to-pinboard) - Sync GitHub Stars to Pinboard
