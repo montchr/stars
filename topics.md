@@ -320,6 +320,7 @@
 
 ## awesome 
 
+- [rust-unofficial/awesome-rust](https://github.com/rust-unofficial/awesome-rust) - A curated list of Rust code and resources.
 - [pluja/awesome-privacy](https://github.com/pluja/awesome-privacy) - Awesome Privacy - A curated list of services and alternatives that respect your privacy because PRIVACY MATTERS.
 - [kdeldycke/awesome-iam](https://github.com/kdeldycke/awesome-iam) - 👤 Identity and Access Management knowledge for cloud platforms
 - [component-driven/awesome-list](https://github.com/component-driven/awesome-list) - Curated list of links on component-driven development and design systems
@@ -2734,6 +2735,9 @@
 
 ## others 
 
+- [dbarrosop/nix-remote-builder-aws](https://github.com/dbarrosop/nix-remote-builder-aws) - 
+- [purcell/envrc](https://github.com/purcell/envrc) - Emacs support for direnv which operates buffer-locally
+- [ilaria-manco/song-describer](https://github.com/ilaria-manco/song-describer) - Song Describer is a data collection platform for annotating music with textual descriptions.
 - [arcnmx/tf-nix](https://github.com/arcnmx/tf-nix) - terraform meets nix
 - [loafofpiecrust/dotnix](https://github.com/loafofpiecrust/dotnix) - Repository for my flake-based NixOS config
 - [Xe/automagic-terraform-nixos](https://github.com/Xe/automagic-terraform-nixos) - An example for a blogpost about gluing Terraform and Nix flakes together
@@ -3099,7 +3103,6 @@
 - [Drakulix/sway-gnome](https://github.com/Drakulix/sway-gnome) - Opinionated Sway Configuration using GNOME session services, for GNOME &gt;= 3.34
 - [nixosbrasil/climod](https://github.com/nixosbrasil/climod) - Modular generated command line interfaces using the same technology as the NixOS module system.
 - [alols/xcape](https://github.com/alols/xcape) - Linux utility to configure modifier keys to act as other keys when pressed and released on their own.
-- [arzg/base16-ia-scheme](https://github.com/arzg/base16-ia-scheme) - The iA Writer colourscheme for base16
 - [djacu/nixos-on-zfs](https://github.com/djacu/nixos-on-zfs) - A collection of setup scripts for installing nixOS on my work laptop.
 - [jeetelongname/dotfiles](https://github.com/jeetelongname/dotfiles) - Dotfiles
 - [wwmm/easyeffects](https://github.com/wwmm/easyeffects) - Limiter, compressor, convolver, equalizer and auto volume and many other plugins for PipeWire applications
@@ -3157,7 +3160,7 @@
 - [stayallive/wp-sentry](https://github.com/stayallive/wp-sentry) - A (unofficial) WordPress plugin reporting PHP and JavaScript errors to Sentry.
 - [spacedriveapp/spacedrive](https://github.com/spacedriveapp/spacedrive) - Spacedrive is an open source cross-platform file explorer, powered by a virtual distributed filesystem written in Rust.
 - [zgrossbart/jdd](https://github.com/zgrossbart/jdd) - A semantic JSON compare tool
-- [jotai-labs/jotai-form](https://github.com/jotai-labs/jotai-form) - 
+- [jotaijs/jotai-form](https://github.com/jotaijs/jotai-form) - 
 - [montchr/dotfield](https://github.com/montchr/dotfield) - All I see is little dots – some are smeared, and some are spots.
 - [rwaldron/idiomatic.js](https://github.com/rwaldron/idiomatic.js) - Principles of Writing Consistent, Idiomatic JavaScript
 - [typescript-exercises/typescript-exercises](https://github.com/typescript-exercises/typescript-exercises) - A set of interactive TypeScript exercises
@@ -3521,7 +3524,7 @@
 - [aergonaut/aether](https://github.com/aergonaut/aether) - Son of Erebus (Darkness) and Nyx (Night)
 - [rasendubi/dotfiles](https://github.com/rasendubi/dotfiles) - My dotfiles
 - [chisui/zsh-nix-shell](https://github.com/chisui/zsh-nix-shell) - zsh plugin that lets you use zsh in nix-shell shells.
-- [spwhitt/nix-zsh-completions](https://github.com/spwhitt/nix-zsh-completions) - ZSH Completions for Nix
+- [nix-community/nix-zsh-completions](https://github.com/nix-community/nix-zsh-completions) - ZSH Completions for Nix
 - [jtojnar/nixpkgs-hammering](https://github.com/jtojnar/nixpkgs-hammering) - Beat your package expressions into a shape
 - [dhall-lang/dhall-lang](https://github.com/dhall-lang/dhall-lang) - Maintainable configuration files
 - [romkatv/zsh-defer](https://github.com/romkatv/zsh-defer) - Deferred execution of Zsh commands
@@ -3608,7 +3611,7 @@
 - [jeticg/Evangelion-Uebersicht-Widget](https://github.com/jeticg/Evangelion-Uebersicht-Widget) - Evangelion Style Übersicht Widget.
 - [AGWA/git-crypt](https://github.com/AGWA/git-crypt) - Transparent file encryption in git
 - [marlonrichert/zsh-autocomplete](https://github.com/marlonrichert/zsh-autocomplete) - 🤖 Real-time type-ahead completion for Zsh. Asynchronous find-as-you-type autocompletion.
-- [fritzgrabo/cascading-dir-locals](https://github.com/fritzgrabo/cascading-dir-locals) - Emacs: Apply all (!) .dir-locals.el from root to current directory.
+- [fritzgrabo/cascading-dir-locals](https://github.com/fritzgrabo/cascading-dir-locals) - Emacs: Apply all (!) .dir-locals.el from root to current directory
 - [OfflineIMAP/imapfw](https://github.com/OfflineIMAP/imapfw) - imapfw (IMAP/mail framework)
 - [afewmail/afew](https://github.com/afewmail/afew) - an initial tagging script for notmuch mail
 - [gauteh/lieer](https://github.com/gauteh/lieer) - Fast email-fetching and sending and two-way tag synchronization between notmuch and GMail
@@ -4412,6 +4415,7 @@
 
 ## rust 
 
+- [rust-unofficial/awesome-rust](https://github.com/rust-unofficial/awesome-rust) - A curated list of Rust code and resources.
 - [kanidm/kanidm](https://github.com/kanidm/kanidm) - Kanidm: A simple, secure and fast identity management platform
 - [kyoheiu/felix](https://github.com/kyoheiu/felix) - tui file manager with vim-like key mapping
 - [DeterminateSystems/riff](https://github.com/DeterminateSystems/riff) - Riff automatically provides external dependencies for Rust projects, with support for other languages coming soon.
