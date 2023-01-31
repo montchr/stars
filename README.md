@@ -344,6 +344,7 @@
 
 ## Emacs Lisp 
 
+- [purcell/envrc](https://github.com/purcell/envrc) - Emacs support for direnv which operates buffer-locally
 - [alphapapa/prism.el](https://github.com/alphapapa/prism.el) - Disperse Lisp forms (and other languages) into a spectrum of colors by depth
 - [loafofpiecrust/dotnix](https://github.com/loafofpiecrust/dotnix) - Repository for my flake-based NixOS config
 - [overideal/perject](https://github.com/overideal/perject) - An Emacs package for working with projects
@@ -544,7 +545,7 @@
 - [emacs-grammarly/lsp-grammarly](https://github.com/emacs-grammarly/lsp-grammarly) - lsp-mode ❤️ grammarly
 - [meain/dotfiles](https://github.com/meain/dotfiles) - If there is a shell, there is a way!
 - [martinbaillie/evil-motion-trainer](https://github.com/martinbaillie/evil-motion-trainer) - Make Emacs drop lazily repeated "hjkl"-based motions after a configurable threshold
-- [fritzgrabo/cascading-dir-locals](https://github.com/fritzgrabo/cascading-dir-locals) - Emacs: Apply all (!) .dir-locals.el from root to current directory.
+- [fritzgrabo/cascading-dir-locals](https://github.com/fritzgrabo/cascading-dir-locals) - Emacs: Apply all (!) .dir-locals.el from root to current directory
 - [narendraj9/hledger-mode](https://github.com/narendraj9/hledger-mode) - An Emacs major mode for Hledger
 - [jtmoulia/elisp-koans](https://github.com/jtmoulia/elisp-koans) - Emacs Lisp Koans -- learn elisp through test-driven development.
 - [AloisJanicek/.doom.d-2nd](https://github.com/AloisJanicek/.doom.d-2nd) - My private module for Doom Emacs
@@ -907,6 +908,7 @@
 
 ## JavaScript 
 
+- [dbarrosop/nix-remote-builder-aws](https://github.com/dbarrosop/nix-remote-builder-aws) - 
 - [input-output-hk/react-polymorph](https://github.com/input-output-hk/react-polymorph) - React components with highly customizable logic, markup and styles.
 - [cookpete/react-player](https://github.com/cookpete/react-player) - A React component for playing a variety of URLs, including file paths, YouTube, Facebook, Twitch, SoundCloud, Streamable, Vimeo, Wistia and DailyMotion
 - [vimeo/player.js](https://github.com/vimeo/player.js) - Interact with and control an embedded Vimeo Player.
@@ -1043,6 +1045,7 @@
 - [marko-js/marko](https://github.com/marko-js/marko) - A declarative, HTML-based language that makes building web apps fun
 - [mxschmitt/action-tmate](https://github.com/mxschmitt/action-tmate) - Debug your GitHub Actions via SSH by using tmate to get access to the runner system itself.
 - [kickscondor/fraidycat](https://github.com/kickscondor/fraidycat) - Follow blogs, wikis, YouTube channels, as well as accounts on Twitter, Instagram, etc. from a single page.
+- [KittyGiraudel/a11y-dialog](https://github.com/KittyGiraudel/a11y-dialog) - A very lightweight and flexible accessible modal dialog script.
 - [kamranahmedse/pennywise](https://github.com/kamranahmedse/pennywise) - Cross-platform application to open any website or media in a floating window
 - [hackjutsu/Lepton](https://github.com/hackjutsu/Lepton) - 💻     Democratizing Snippet Management (macOS/Win/Linux)
 - [cerebroapp/cerebro](https://github.com/cerebroapp/cerebro) - Open-source productivity booster with a brain
@@ -1696,7 +1699,6 @@
 - [coseyfannitutti/discipline](https://github.com/coseyfannitutti/discipline) - 65% keyboard assembled with only through hole components, including usb type-c
 - [evanpurkhiser/rEFInd-minimal](https://github.com/evanpurkhiser/rEFInd-minimal) - A stunningly clean theme for the rEFInd UEFI boot manager.
 - [InterviewReady/system-design-resources](https://github.com/InterviewReady/system-design-resources) - These are the best resources for System Design on the Internet
-- [arzg/base16-ia-scheme](https://github.com/arzg/base16-ia-scheme) - The iA Writer colourscheme for base16
 - [reactjs/rfcs](https://github.com/reactjs/rfcs) - RFCs for changes to React
 - [shadowspawn/node-version-usage](https://github.com/shadowspawn/node-version-usage) - Document current usage of .node-version file
 - [korfuri/awesome-monorepo](https://github.com/korfuri/awesome-monorepo) - A curated list of awesome Monorepo tools, software and architectures.
@@ -2054,6 +2056,7 @@
 
 ## Python 
 
+- [ilaria-manco/song-describer](https://github.com/ilaria-manco/song-describer) - Song Describer is a data collection platform for annotating music with textual descriptions.
 - [jya-dev/supernote-tool](https://github.com/jya-dev/supernote-tool) - Unofficial python tool for Supernote
 - [ytdl-org/youtube-dl](https://github.com/ytdl-org/youtube-dl) - Command-line program to download videos from YouTube.com and other video sites
 - [mingrammer/diagrams](https://github.com/mingrammer/diagrams) - :art: Diagram as Code for prototyping cloud system architectures
@@ -2272,6 +2275,7 @@
 
 ## Rust 
 
+- [rust-unofficial/awesome-rust](https://github.com/rust-unofficial/awesome-rust) - A curated list of Rust code and resources.
 - [kanidm/kanidm](https://github.com/kanidm/kanidm) - Kanidm: A simple, secure and fast identity management platform
 - [imsnif/diskonaut](https://github.com/imsnif/diskonaut) - Terminal disk space navigator 🔭
 - [kyoheiu/felix](https://github.com/kyoheiu/felix) - tui file manager with vim-like key mapping
@@ -2544,7 +2548,7 @@
 - [unixorn/zsh-quickstart-kit](https://github.com/unixorn/zsh-quickstart-kit) - A simple ZSH quickstart for using ZSH, zgenom, oh-my-zsh and a curated list of extra plugins. It is designed to be easy to customize without requiring you to maintain your own fork.
 - [jandamm/zgenom](https://github.com/jandamm/zgenom) - A lightweight and fast plugin manager for ZSH
 - [chisui/zsh-nix-shell](https://github.com/chisui/zsh-nix-shell) - zsh plugin that lets you use zsh in nix-shell shells.
-- [spwhitt/nix-zsh-completions](https://github.com/spwhitt/nix-zsh-completions) - ZSH Completions for Nix
+- [nix-community/nix-zsh-completions](https://github.com/nix-community/nix-zsh-completions) - ZSH Completions for Nix
 - [romkatv/zsh-defer](https://github.com/romkatv/zsh-defer) - Deferred execution of Zsh commands
 - [alexanderepstein/Bash-Snippets](https://github.com/alexanderepstein/Bash-Snippets) - A collection of small bash scripts for heavy terminal users
 - [github/super-linter](https://github.com/github/super-linter) - Combination of multiple linters to install as a GitHub Action
@@ -2803,7 +2807,7 @@
 - [markdoc/markdoc](https://github.com/markdoc/markdoc) - A powerful, flexible, Markdown-based authoring framework.
 - [facebook/docusaurus](https://github.com/facebook/docusaurus) - Easy to maintain open source documentation websites.
 - [bhollis/jsonview](https://github.com/bhollis/jsonview) - A web extension that helps you view JSON documents in the browser.
-- [jotai-labs/jotai-form](https://github.com/jotai-labs/jotai-form) - 
+- [jotaijs/jotai-form](https://github.com/jotaijs/jotai-form) - 
 - [TanStack/table](https://github.com/TanStack/table) - 🤖 Headless UI for building powerful tables & datagrids for TS/JS -  React-Table, Vue-Table, Solid-Table, Svelte-Table
 - [typescript-exercises/typescript-exercises](https://github.com/typescript-exercises/typescript-exercises) - A set of interactive TypeScript exercises
 - [johnlindquist/kit](https://github.com/johnlindquist/kit) - Script Kit. Automate Anything.
@@ -2884,7 +2888,6 @@
 - [Aperocky/cellular-automata](https://github.com/Aperocky/cellular-automata) - 
 - [inkandswitch/cambria-project](https://github.com/inkandswitch/cambria-project) - Schema evolution with bi-directional lenses.
 - [siyuan-note/siyuan](https://github.com/siyuan-note/siyuan) - Build Your Eternal Digital Garden
-- [KittyGiraudel/a11y-dialog](https://github.com/KittyGiraudel/a11y-dialog) - A very lightweight and flexible accessible modal dialog script.
 - [shivammathur/setup-php](https://github.com/shivammathur/setup-php) - GitHub action to set up PHP with extensions, php.ini configuration, coverage drivers, and various tools.
 - [manosim/gitify](https://github.com/manosim/gitify) - GitHub notifications on your menu bar. Available on macOS, Windows & Linux.
 - [aortbals/github-stars-to-pinboard](https://github.com/aortbals/github-stars-to-pinboard) - Sync GitHub Stars to Pinboard
