@@ -2735,6 +2735,8 @@
 
 ## others 
 
+- [privatevoid-net/depot](https://github.com/privatevoid-net/depot) - Private Void's monorepo for packages and infrastructure configuration
+- [privatevoid-net/__functor](https://github.com/privatevoid-net/__functor) - Possibly the most obscure piece of Nix magic yet
 - [dbarrosop/nix-remote-builder-aws](https://github.com/dbarrosop/nix-remote-builder-aws) - 
 - [purcell/envrc](https://github.com/purcell/envrc) - Emacs support for direnv which operates buffer-locally
 - [ilaria-manco/song-describer](https://github.com/ilaria-manco/song-describer) - Song Describer is a data collection platform for annotating music with textual descriptions.
@@ -2807,7 +2809,7 @@
 - [jenspfahl/BDT](https://github.com/jenspfahl/BDT) - Break.Down.Timer
 - [mingrammer/diagrams](https://github.com/mingrammer/diagrams) - :art: Diagram as Code for prototyping cloud system architectures
 - [cachix/devenv](https://github.com/cachix/devenv) - Fast, Declarative, Reproducible, and Composable Developer Environments
-- [tpwrules/nixos-m1](https://github.com/tpwrules/nixos-m1) - Resources to install NixOS bare metal on Apple Silicon Macs
+- [tpwrules/nixos-apple-silicon](https://github.com/tpwrules/nixos-apple-silicon) - Resources to install NixOS bare metal on Apple Silicon Macs
 - [changesets/changesets](https://github.com/changesets/changesets) - 🦋       A way to manage your versioning and changelogs with a focus on monorepos
 - [fpco/terraform-aws-foundation](https://github.com/fpco/terraform-aws-foundation) - Establish a solid Foundation on AWS with these modules for Terraform
 - [mcgirr/terraform-nixos-nginx-webserver](https://github.com/mcgirr/terraform-nixos-nginx-webserver) - An example of a basic Terraform project and modules that create the AWS infrastructure for a webserver on NixOS
@@ -2973,7 +2975,7 @@
 - [piperswe/nixfiles](https://github.com/piperswe/nixfiles) - The Nix derivations used to generate my system configurations
 - [mclear-tools/tabspaces](https://github.com/mclear-tools/tabspaces) - 
 - [tecosaur/golgi](https://github.com/tecosaur/golgi) - My personal server. Mirror of https://git.tecosaur.net/tec/golgi.
-- [hyprwm/Hyprland](https://github.com/hyprwm/Hyprland) - Hyprland is a dynamic tiling Wayland compositor that doesn't sacrifice on its looks.
+- [hyprwm/Hyprland](https://github.com/hyprwm/Hyprland) - Hyprland is a highly customizable dynamic tiling Wayland compositor that doesn't sacrifice on its looks.
 - [jorgebucaran/cookbook.fish](https://github.com/jorgebucaran/cookbook.fish) - Tips and recipes for Fish, from shell to plate. 🍣
 - [licht1stein/obsidian.el](https://github.com/licht1stein/obsidian.el) - Obsidian Notes for Emacs
 - [elFarto/nvidia-vaapi-driver](https://github.com/elFarto/nvidia-vaapi-driver) - A VA-API implemention using NVIDIA's NVDEC
@@ -3259,7 +3261,7 @@
 - [DeterminateSystems/update-flake-lock](https://github.com/DeterminateSystems/update-flake-lock) - Automatically refresh your Nix Flakes.
 - [matthewp/robot](https://github.com/matthewp/robot) - 🤖 A functional, immutable Finite State Machine library
 - [otavioschwanck/harpoon.el](https://github.com/otavioschwanck/harpoon.el) - Harpoon for emacs
-- [Trevoke/org-gtd.el](https://github.com/Trevoke/org-gtd.el) - A package for using GTD using org-mode
+- [Trevoke/org-gtd.el](https://github.com/Trevoke/org-gtd.el) - A package for using GTD with org-mode
 - [kkharji/nixenv](https://github.com/kkharji/nixenv) - Nix Library for creating OS independent Systems.
 - [basings/selfhosted-music-overview](https://github.com/basings/selfhosted-music-overview) - A table listing software network services which can be hosted on your own servers
 - [magit/transient](https://github.com/magit/transient) - Transient commands
@@ -3577,7 +3579,6 @@
 - [janpaepke/ScrollMagic](https://github.com/janpaepke/ScrollMagic) - The javascript library for magical scroll interactions.
 - [bbc/psammead](https://github.com/bbc/psammead) - React component library for BBC World Service and more
 - [kuglee/TermiWatch](https://github.com/kuglee/TermiWatch) - Terminal Watch Face for Apple Watch
-- [streamich/react-use](https://github.com/streamich/react-use) - React Hooks — 👍
 - [facebook/watchman](https://github.com/facebook/watchman) - Watches files and records, or triggers actions, when they change.
 - [anubisthejackle/git-hooks](https://github.com/anubisthejackle/git-hooks) - An easy to use Git Hooks repository
 - [vlisivka/bash-modules](https://github.com/vlisivka/bash-modules) - Useful modules for bash
