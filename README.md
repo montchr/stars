@@ -201,7 +201,7 @@
 - [projectM-visualizer/projectm](https://github.com/projectM-visualizer/projectm) - projectM - cross-platform music visualization. Open-source and Milkdrop-compatible
 - [SaschaWillems/VulkanInfiniteProceduralTerrain](https://github.com/SaschaWillems/VulkanInfiniteProceduralTerrain) - Playground for doing procedurally infinite terrain rendering experiments with Vulkan
 - [snyball/Hawck](https://github.com/snyball/Hawck) - Key-rebinding daemon for Linux (Wayland/X11/Console)
-- [hyprwm/Hyprland](https://github.com/hyprwm/Hyprland) - Hyprland is a dynamic tiling Wayland compositor that doesn't sacrifice on its looks.
+- [hyprwm/Hyprland](https://github.com/hyprwm/Hyprland) - Hyprland is a highly customizable dynamic tiling Wayland compositor that doesn't sacrifice on its looks.
 - [Zygo/bees](https://github.com/Zygo/bees) - Best-Effort Extent-Same, a btrfs dedupe agent
 - [openSUSE/snapper](https://github.com/openSUSE/snapper) - Manage filesystem snapshots and allow undo of system modifications
 - [tenzir/vast](https://github.com/tenzir/vast) - :crystal_ball: Visibility Across Space and Time – The network telemetry engine for data-driven security investigations.
@@ -449,7 +449,7 @@
 - [bkaestner/org-arbeitszeit](https://github.com/bkaestner/org-arbeitszeit) - Calculate your working hours from your clocked time
 - [otavioschwanck/harpoon.el](https://github.com/otavioschwanck/harpoon.el) - Harpoon for emacs
 - [ianyepan/.macOS-emacs.d](https://github.com/ianyepan/.macOS-emacs.d) - 😈My personal Emacs configuration on macOS
-- [Trevoke/org-gtd.el](https://github.com/Trevoke/org-gtd.el) - A package for using GTD using org-mode
+- [Trevoke/org-gtd.el](https://github.com/Trevoke/org-gtd.el) - A package for using GTD with org-mode
 - [wakatime/wakatime-mode](https://github.com/wakatime/wakatime-mode) - Emacs plugin for automatic time tracking and metrics generated from your programming activity.
 - [rougier/svg-lib](https://github.com/rougier/svg-lib) - Emacs SVG libraries for creatings tags, icons and bars
 - [magit/transient](https://github.com/magit/transient) - Transient commands
@@ -621,6 +621,7 @@
 
 ## Go 
 
+- [privatevoid-net/depot](https://github.com/privatevoid-net/depot) - Private Void's monorepo for packages and infrastructure configuration
 - [Xe/x](https://github.com/Xe/x) - Various tools, trinkets and experiments
 - [corpix/terraform-provider-nixos](https://github.com/corpix/terraform-provider-nixos) - Terraform provider to deploy NixOS system configurations
 - [turbot/steampipe](https://github.com/turbot/steampipe) - Use SQL to instantly query your cloud services (AWS, Azure, GCP and more). Open source CLI. No DB required.
@@ -1019,7 +1020,6 @@
 - [donavon/use-persisted-state](https://github.com/donavon/use-persisted-state) - A custom React Hook that provides a multi-instance, multi-tab/browser shared and persistent state.
 - [downshift-js/downshift](https://github.com/downshift-js/downshift) - 🏎 A set of primitives to build simple, flexible, WAI-ARIA compliant React autocomplete, combobox or select dropdown components.
 - [brightcove/react-player-loader](https://github.com/brightcove/react-player-loader) - A React component that embeds and loads Brightcove Player scripts.
-- [lerna/lerna](https://github.com/lerna/lerna) - :dragon: Lerna is a fast, modern build system for managing and publishing multiple JavaScript/TypeScript packages from the same repository.
 - [xwiki-labs/cryptpad](https://github.com/xwiki-labs/cryptpad) - Collaborative office suite, end-to-end encrypted and open-source.
 - [nccgroup/tracy](https://github.com/nccgroup/tracy) - A tool designed to assist with finding all sinks and sources of a web application and display these results in a digestible manner.
 - [abhijithvijayan/web-extension-starter](https://github.com/abhijithvijayan/web-extension-starter) - 🖥🔋Web Extension starter to build "Write Once Run on Any Browser" extension
@@ -1116,7 +1116,6 @@
 - [kylestetz/AudioKeys](https://github.com/kylestetz/AudioKeys) - :musical_keyboard: a QWERTY keyboard for web audio projects
 - [kylestetz/Sentencer](https://github.com/kylestetz/Sentencer) - :pencil2: madlibs-style sentence templating in Javascript
 - [jaysalvat/buzz](https://github.com/jaysalvat/buzz) - Buzz is a small but powerful Javascript library that allows you to easily take advantage of the new HTML5 audio element. It tries to degrade silently on non-modern browsers.
-- [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) - A list of Free Software network services and web applications which can be hosted on your own servers
 - [kylestetz/lissajous](https://github.com/kylestetz/lissajous) - :musical_note: A tool for programmatic audio performance in the browser using Javascript.
 - [epiqueras/alphabeat](https://github.com/epiqueras/alphabeat) - A tool for making music from letters. Inspired by Kyle Stetz's Typedrummer.
 - [karamanolev/WhatManager2](https://github.com/karamanolev/WhatManager2) - Torrent management system based on Django and Transmission
@@ -1276,6 +1275,7 @@
 - [SynoCommunity/spksrc](https://github.com/SynoCommunity/spksrc) - Cross compilation framework to create native packages for the Synology's NAS
 - [ProcursusTeam/Procursus](https://github.com/ProcursusTeam/Procursus) - Modern *OS Bootstrap
 - [phpbrew/phpbrew](https://github.com/phpbrew/phpbrew) - Brew & manage PHP versions in pure PHP at HOME
+- [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) - A list of Free Software network services and web applications which can be hosted on your own servers
 
 ## Markdown 
 
@@ -1291,6 +1291,7 @@
 
 ## Nix 
 
+- [privatevoid-net/__functor](https://github.com/privatevoid-net/__functor) - Possibly the most obscure piece of Nix magic yet
 - [arcnmx/tf-nix](https://github.com/arcnmx/tf-nix) - terraform meets nix
 - [kittywitch/nixfiles](https://github.com/kittywitch/nixfiles) - kat's configuration flake
 - [jonascarpay/nix](https://github.com/jonascarpay/nix) - My system configurations, dotfiles, and other miscellanies
@@ -1321,7 +1322,7 @@
 - [canva-public/js2nix](https://github.com/canva-public/js2nix) - Node.js modules installation using Nix
 - [divnix/data-merge](https://github.com/divnix/data-merge) - A mini merge DSL for data overlays
 - [cachix/devenv](https://github.com/cachix/devenv) - Fast, Declarative, Reproducible, and Composable Developer Environments
-- [tpwrules/nixos-m1](https://github.com/tpwrules/nixos-m1) - Resources to install NixOS bare metal on Apple Silicon Macs
+- [tpwrules/nixos-apple-silicon](https://github.com/tpwrules/nixos-apple-silicon) - Resources to install NixOS bare metal on Apple Silicon Macs
 - [mrVanDalo/landingpage](https://github.com/mrVanDalo/landingpage) - a simple html file using json to render a bookmark page to be shared across teams.
 - [justinas/nixos-ha-kubernetes](https://github.com/justinas/nixos-ha-kubernetes) - Toy highly-available Kubernetes cluster on NixOS
 - [dep-sys/nix-dabei](https://github.com/dep-sys/nix-dabei) - An operating system generator, based on nixos, focused on installation
@@ -2871,6 +2872,7 @@
 - [cassiozen/useStateMachine](https://github.com/cassiozen/useStateMachine) - The &lt;1 kb state machine hook for React
 - [milesj/babel-plugin-typescript-to-proptypes](https://github.com/milesj/babel-plugin-typescript-to-proptypes) - Generate React PropTypes from TypeScript interfaces or type aliases.
 - [mrmckeb/typescript-plugin-css-modules](https://github.com/mrmckeb/typescript-plugin-css-modules) - A TypeScript language service plugin providing support for CSS Modules.
+- [lerna/lerna](https://github.com/lerna/lerna) - :dragon: Lerna is a fast, modern build system for managing and publishing multiple JavaScript/TypeScript packages from the same repository.
 - [azu/kvs](https://github.com/azu/kvs) - Lightweight key-value storage library for Browser, Node.js, and In-Memory.
 - [textlint/textlint](https://github.com/textlint/textlint) - The pluggable natural language linter for text and markdown.
 - [deepsweet/foxr](https://github.com/deepsweet/foxr) - 🦊 Node.js API to control Firefox
@@ -2883,7 +2885,6 @@
 - [SimeonC/storybook-xstate-addon](https://github.com/SimeonC/storybook-xstate-addon) - A storybook addon to assist with writing stories that rely on xstate
 - [pnpm/pnpm](https://github.com/pnpm/pnpm) - Fast, disk space efficient package manager -- 快速的，节省磁盘空间的包管理工具
 - [niieani/hashids.js](https://github.com/niieani/hashids.js) - A small JavaScript library to generate YouTube-like ids from numbers.
-- [streamich/react-use](https://github.com/streamich/react-use) - React Hooks — 👍
 - [niieani/bashscript](https://github.com/niieani/bashscript) - TypeScript to bash transpiler. Because.
 - [Aperocky/cellular-automata](https://github.com/Aperocky/cellular-automata) - 
 - [inkandswitch/cambria-project](https://github.com/inkandswitch/cambria-project) - Schema evolution with bi-directional lenses.
