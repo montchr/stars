@@ -344,6 +344,7 @@
 
 ## Emacs Lisp 
 
+- [mickeynp/combobulate](https://github.com/mickeynp/combobulate) - Structured Editing and Navigation in Emacs
 - [purcell/envrc](https://github.com/purcell/envrc) - Emacs support for direnv which operates buffer-locally
 - [alphapapa/prism.el](https://github.com/alphapapa/prism.el) - Disperse Lisp forms (and other languages) into a spectrum of colors by depth
 - [loafofpiecrust/dotnix](https://github.com/loafofpiecrust/dotnix) - Repository for my flake-based NixOS config
@@ -718,7 +719,6 @@
 - [charmbracelet/charm](https://github.com/charmbracelet/charm) - The Charm Tool and Library 🌟
 - [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) - A powerful little TUI framework 🏗
 - [charmbracelet/wish](https://github.com/charmbracelet/wish) - Make SSH apps, just like that! 💫
-- [DBCDK/morph](https://github.com/DBCDK/morph) - NixOS deployment tool
 - [WillFantom/OverCLIrr](https://github.com/WillFantom/OverCLIrr) - A command-line tool to interact with an Overseerr server
 - [Skyscanner/turbolift](https://github.com/Skyscanner/turbolift) - A simple tool to help apply changes across many GitHub repositories simultaneously
 - [rehacktive/caffeine](https://github.com/rehacktive/caffeine) - A basic REST service for JSON data - enough for prototyping and MVPs!
@@ -774,6 +774,7 @@
 
 ## HCL 
 
+- [Gabriella439/terraform-nixos-ng](https://github.com/Gabriella439/terraform-nixos-ng) - Terraform modules for NixOS and spiritual successor to the terraform-nixos project
 - [Xe/automagic-terraform-nixos](https://github.com/Xe/automagic-terraform-nixos) - An example for a blogpost about gluing Terraform and Nix flakes together
 - [gruntwork-io/terragrunt-infrastructure-live-example](https://github.com/gruntwork-io/terragrunt-infrastructure-live-example) - A repo used to show examples file/folder structures you can use with Terragrunt and Terraform
 - [jonascarpay/iplz](https://github.com/jonascarpay/iplz) - Demo project for building, provisioning, and deploying a web service with a single command, using Terraform and Nix.
@@ -793,7 +794,7 @@
 - [aleti-pavan/terraform-aws-wordpress](https://github.com/aleti-pavan/terraform-aws-wordpress) - This is Terraform configuration to install and configure wordpress on AWS. March, 2019
 - [sohosai/sos22-backend-infrastructure](https://github.com/sohosai/sos22-backend-infrastructure) - 
 - [nix-community/nixbox](https://github.com/nix-community/nixbox) - NixOS Vagrant boxes [maintainer=@zimbatm]
-- [tweag/terraform-nixos](https://github.com/tweag/terraform-nixos) - A set of Terraform modules that are designed to deploy NixOS
+- [nix-community/terraform-nixos](https://github.com/nix-community/terraform-nixos) - A set of Terraform modules that are designed to deploy NixOS
 
 ## HTML 
 
@@ -2432,7 +2433,7 @@
 
 ## Shell 
 
-- [numtide/nixos-remote](https://github.com/numtide/nixos-remote) - install nixos everywhere via ssh
+- [numtide/nixos-anywhere](https://github.com/numtide/nixos-anywhere) - install nixos everywhere via ssh
 - [wodby/docker4wordpress](https://github.com/wodby/docker4wordpress) - Docker-based WordPress stack
 - [mattmc3/zephyr](https://github.com/mattmc3/zephyr) - :wind_face: A Zsh framework as nice as a cool summer breeze
 - [ramitsurana/awesome-kubernetes](https://github.com/ramitsurana/awesome-kubernetes) - A curated list for awesome kubernetes sources :ship::tada:
