@@ -928,7 +928,6 @@
 - [rapenne-s/bento](https://github.com/rapenne-s/bento) - A KISS deployment tool to keep your NixOS fleet (servers & workstations) up to date.
 - [zhaofengli/colmena](https://github.com/zhaofengli/colmena) - A simple, stateless NixOS deployment tool
 - [Burnett01/rsync-deployments](https://github.com/Burnett01/rsync-deployments) - GitHub Action for deploying code via rsync over ssh
-- [DBCDK/morph](https://github.com/DBCDK/morph) - NixOS deployment tool
 - [serokell/deploy-rs](https://github.com/serokell/deploy-rs) - A simple multi-profile Nix-flake deploy tool.
 
 ## design 
@@ -961,7 +960,6 @@
 - [httpie/httpie](https://github.com/httpie/httpie) - 🥧 HTTPie for Terminal — modern, user-friendly command-line HTTP client for the API era. JSON support, colors, sessions, downloads, plugins & more.
 - [shuaibiyy/awesome-terraform](https://github.com/shuaibiyy/awesome-terraform) - Curated list of resources on HashiCorp's Terraform
 - [Burnett01/rsync-deployments](https://github.com/Burnett01/rsync-deployments) - GitHub Action for deploying code via rsync over ssh
-- [DBCDK/morph](https://github.com/DBCDK/morph) - NixOS deployment tool
 - [trimstray/the-book-of-secret-knowledge](https://github.com/trimstray/the-book-of-secret-knowledge) - A collection of inspiring lists, manuals, cheatsheets, blogs, hacks, one-liners, cli/web tools and more.
 - [bregman-arie/devops-resources](https://github.com/bregman-arie/devops-resources) - DevOps resources - Linux, Jenkins, AWS, SRE, Prometheus, Docker, Python, Ansible, Git, Kubernetes, Terraform, OpenStack, SQL, NoSQL, Azure, GCP
 - [mozilla/sops](https://github.com/mozilla/sops) - Simple and flexible tool for managing secrets
@@ -2735,6 +2733,8 @@
 
 ## others 
 
+- [mickeynp/combobulate](https://github.com/mickeynp/combobulate) - Structured Editing and Navigation in Emacs
+- [Gabriella439/terraform-nixos-ng](https://github.com/Gabriella439/terraform-nixos-ng) - Terraform modules for NixOS and spiritual successor to the terraform-nixos project
 - [privatevoid-net/depot](https://github.com/privatevoid-net/depot) - Private Void's monorepo for packages and infrastructure configuration
 - [privatevoid-net/__functor](https://github.com/privatevoid-net/__functor) - Possibly the most obscure piece of Nix magic yet
 - [dbarrosop/nix-remote-builder-aws](https://github.com/dbarrosop/nix-remote-builder-aws) - 
@@ -2801,7 +2801,7 @@
 - [Hoverbear-Consulting/flake](https://github.com/Hoverbear-Consulting/flake) - Company Nix expressions.
 - [divnix/paisano](https://github.com/divnix/paisano) - Standard's grow function family. Factorized.
 - [udayvir-singh/hibiscus.nvim](https://github.com/udayvir-singh/hibiscus.nvim) - :hibiscus: Flavored Fennel Macros for Neovim
-- [numtide/nixos-remote](https://github.com/numtide/nixos-remote) - install nixos everywhere via ssh
+- [numtide/nixos-anywhere](https://github.com/numtide/nixos-anywhere) - install nixos everywhere via ssh
 - [divnix/incl](https://github.com/divnix/incl) - A nix filter with straight-forward include semantic
 - [huytd/vscode-github-light-monochrome](https://github.com/huytd/vscode-github-light-monochrome) - 
 - [canva-public/js2nix](https://github.com/canva-public/js2nix) - Node.js modules installation using Nix
@@ -3402,7 +3402,7 @@
 - [Mic92/nix-build-uncached](https://github.com/Mic92/nix-build-uncached) - A CI friendly wrapper around nix-build.
 - [rottytooth/rot8000](https://github.com/rottytooth/rot8000) - rot13 for the Unicode generation
 - [divnix/bud](https://github.com/divnix/bud) - EXPERIMENTAL -- A highly composable system ctl tool
-- [tweag/terraform-nixos](https://github.com/tweag/terraform-nixos) - A set of Terraform modules that are designed to deploy NixOS
+- [nix-community/terraform-nixos](https://github.com/nix-community/terraform-nixos) - A set of Terraform modules that are designed to deploy NixOS
 - [austinried/subtracks](https://github.com/austinried/subtracks) - A music streaming app for Subsonic-compatible servers
 - [pjones/phoebe](https://github.com/pjones/phoebe) - A collection of NixOS modules that add features to the ones in nixpkgs.
 - [kanwren/nixfiles](https://github.com/kanwren/nixfiles) - My NixOS configurations and other Nix files :snowflake:
