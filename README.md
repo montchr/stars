@@ -311,6 +311,7 @@
 
 ## Common Lisp 
 
+- [shaunsingh/nix-darwin-dotfiles](https://github.com/shaunsingh/nix-darwin-dotfiles) - Dotfiles managed via Nix-Darwin and Mk-Darwin-System, for schoolwork and kotlin, lua, and rust programming
 - [atlas-engineer/nyxt](https://github.com/atlas-engineer/nyxt) - Nyxt - the hacker's power-browser.
 
 ## DIGITAL Command Language 
@@ -774,6 +775,7 @@
 
 ## HCL 
 
+- [ChristianLempa/boilerplates](https://github.com/ChristianLempa/boilerplates) - This is my personal template collection. Here you'll find templates, and configurations for various tools, and technologies.
 - [Gabriella439/terraform-nixos-ng](https://github.com/Gabriella439/terraform-nixos-ng) - Terraform modules for NixOS and spiritual successor to the terraform-nixos project
 - [Xe/automagic-terraform-nixos](https://github.com/Xe/automagic-terraform-nixos) - An example for a blogpost about gluing Terraform and Nix flakes together
 - [gruntwork-io/terragrunt-infrastructure-live-example](https://github.com/gruntwork-io/terragrunt-infrastructure-live-example) - A repo used to show examples file/folder structures you can use with Terragrunt and Terraform
@@ -794,7 +796,7 @@
 - [aleti-pavan/terraform-aws-wordpress](https://github.com/aleti-pavan/terraform-aws-wordpress) - This is Terraform configuration to install and configure wordpress on AWS. March, 2019
 - [sohosai/sos22-backend-infrastructure](https://github.com/sohosai/sos22-backend-infrastructure) - 
 - [nix-community/nixbox](https://github.com/nix-community/nixbox) - NixOS Vagrant boxes [maintainer=@zimbatm]
-- [nix-community/terraform-nixos](https://github.com/nix-community/terraform-nixos) - A set of Terraform modules that are designed to deploy NixOS
+- [nix-community/terraform-nixos](https://github.com/nix-community/terraform-nixos) - A set of Terraform modules that are designed to deploy NixOS [maintainer=@adrian-gierakowski]
 
 ## HTML 
 
@@ -910,6 +912,7 @@
 
 ## JavaScript 
 
+- [b0o/surfingkeys-conf](https://github.com/b0o/surfingkeys-conf) - 🏄‍♀️ A SurfingKeys config which adds 180+ key mappings & 50+ search engines
 - [dbarrosop/nix-remote-builder-aws](https://github.com/dbarrosop/nix-remote-builder-aws) - 
 - [input-output-hk/react-polymorph](https://github.com/input-output-hk/react-polymorph) - React components with highly customizable logic, markup and styles.
 - [cookpete/react-player](https://github.com/cookpete/react-player) - A React component for playing a variety of URLs, including file paths, YouTube, Facebook, Twitch, SoundCloud, Streamable, Vimeo, Wistia and DailyMotion
@@ -1123,7 +1126,7 @@
 - [isdampe/music-for-programming](https://github.com/isdampe/music-for-programming) - Stream musicforprogramming.net directly into your terminal
 - [ClintH/gtbg](https://github.com/ClintH/gtbg) - Sample preparer for Elektron Octatrack and Machinedrum units
 - [marchdoe/dcrug](https://github.com/marchdoe/dcrug) - Presentation for the 7/14/2016 DCRUG Meetup
-- [continuing-creativity/Flocking](https://github.com/continuing-creativity/Flocking) - Flocking - Creative audio synthesis for the Web
+- [lichen-community-systems/Flocking](https://github.com/lichen-community-systems/Flocking) - Flocking - Creative audio synthesis for the Web
 - [sasstools/sass-lint](https://github.com/sasstools/sass-lint) - Pure Node.js Sass linting
 - [vincentriemer/io-808](https://github.com/vincentriemer/io-808) - An attempt at a fully recreated web-based TR-808 drum machine.
 - [pmowrer/node-sass-json-importer](https://github.com/pmowrer/node-sass-json-importer) - Allows importing json in sass files parsed by node-sass.
@@ -1485,7 +1488,6 @@
 - [nix-community/nixdoc](https://github.com/nix-community/nixdoc) - Tool to generate documentation for Nix library functions [maintainer=@ryantm]
 - [vic/clap-nix](https://github.com/vic/clap-nix) - Command line argument parser in pure Nix. Supports sub-commands, typed positional arguments, value coercion and resolution via Nix Modules.
 - [vic/mk-darwin-system](https://github.com/vic/mk-darwin-system) - Small Nix utility to create an M1 aarch64-darwin (nixFlakes + nix-darwin + home-manager) system.
-- [shaunsingh/nix-darwin-dotfiles](https://github.com/shaunsingh/nix-darwin-dotfiles) - Dotfiles managed via Nix-Darwin and Mk-Darwin-System, for schoolwork and kotlin, lua, and rust programming
 - [gvolpe/nix-config](https://github.com/gvolpe/nix-config) - :space_invader: NixOS configuration
 - [Misterio77/nix-starter-configs](https://github.com/Misterio77/nix-starter-configs) - Simple and documented config templates to help you get started with NixOS + home-manager + flakes. All the boilerplate you need!
 - [Shados/nixos-config](https://github.com/Shados/nixos-config) - Generic modules and defaults for my NixOS systems.
@@ -2277,6 +2279,7 @@
 
 ## Rust 
 
+- [jacobdeichert/mask](https://github.com/jacobdeichert/mask) - 🎭 A CLI task runner defined by a simple markdown file
 - [rust-unofficial/awesome-rust](https://github.com/rust-unofficial/awesome-rust) - A curated list of Rust code and resources.
 - [kanidm/kanidm](https://github.com/kanidm/kanidm) - Kanidm: A simple, secure and fast identity management platform
 - [imsnif/diskonaut](https://github.com/imsnif/diskonaut) - Terminal disk space navigator 🔭
