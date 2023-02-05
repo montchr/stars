@@ -410,7 +410,6 @@
 - [meow-edit/meow](https://github.com/meow-edit/meow) - Yet another modal editing on Emacs / 猫态编辑
 - [jyp/boon](https://github.com/jyp/boon) - Ergonomic Command Mode for Emacs
 - [lassik/emacs-format-all-the-code](https://github.com/lassik/emacs-format-all-the-code) - Auto-format source code in many languages with one command
-- [LemonBreezes/.doom.d](https://github.com/LemonBreezes/.doom.d) - My personal Doom Emacs configuration.
 - [tecosaur/org-glossary](https://github.com/tecosaur/org-glossary) - Glossary, Acronyms, and Index capability within Org
 - [jojojames/matcha](https://github.com/jojojames/matcha) - Collection of transients with a generic interface to launch them
 - [tecosaur/engrave-faces](https://github.com/tecosaur/engrave-faces) - Convert font-lock faces to other formats
@@ -623,6 +622,7 @@
 
 ## Go 
 
+- [VictoriaMetrics/VictoriaMetrics](https://github.com/VictoriaMetrics/VictoriaMetrics) - VictoriaMetrics: fast, cost-effective monitoring solution and time series database
 - [privatevoid-net/depot](https://github.com/privatevoid-net/depot) - Private Void's monorepo for packages and infrastructure configuration
 - [Xe/x](https://github.com/Xe/x) - Various tools, trinkets and experiments
 - [corpix/terraform-provider-nixos](https://github.com/corpix/terraform-provider-nixos) - Terraform provider to deploy NixOS system configurations
