@@ -662,6 +662,7 @@
 
 ## cli 
 
+- [str4d/rage](https://github.com/str4d/rage) - A simple, secure and modern encryption tool (and Rust library) with small explicit keys, no config options, and UNIX-style composability.
 - [sharkdp/hyperfine](https://github.com/sharkdp/hyperfine) - A command-line benchmarking tool
 - [imsnif/diskonaut](https://github.com/imsnif/diskonaut) - Terminal disk space navigator 🔭
 - [nix-community/nurl](https://github.com/nix-community/nurl) - Generate Nix fetcher calls from repository URLs [maintainer=@figsoda]
@@ -2744,6 +2745,9 @@
 
 ## others 
 
+- [meodai/poline](https://github.com/meodai/poline) - Esoteric Color palette Generator Mico-Lib
+- [lunik1/nix-wallpaper](https://github.com/lunik1/nix-wallpaper) - A configurable wallpaper for nix systems
+- [seadome/firefox-addons](https://github.com/seadome/firefox-addons) - 
 - [jacobdeichert/mask](https://github.com/jacobdeichert/mask) - 🎭 A CLI task runner defined by a simple markdown file
 - [mickeynp/combobulate](https://github.com/mickeynp/combobulate) - Structured Editing and Navigation in Emacs
 - [Gabriella439/terraform-nixos-ng](https://github.com/Gabriella439/terraform-nixos-ng) - Terraform modules for NixOS and spiritual successor to the terraform-nixos project
@@ -3105,7 +3109,6 @@
 - [manna-harbour/miryoku_qmk](https://github.com/manna-harbour/miryoku_qmk) - Miryoku is an ergonomic, minimal, orthogonal, and universal keyboard layout.  Miryoku QMK is the Miryoku implementation for QMK.
 - [coseyfannitutti/discipline](https://github.com/coseyfannitutti/discipline) - 65% keyboard assembled with only through hole components, including usb type-c
 - [penske-media-corp/pmc-larva](https://github.com/penske-media-corp/pmc-larva) - PMC's design system.
-- [mdellweg/pass_secret_service](https://github.com/mdellweg/pass_secret_service) - dbus-service to serve secret-service api with pass backend
 - [dfithian/chez-grater](https://github.com/dfithian/chez-grater) - 
 - [noib3/dotfiles](https://github.com/noib3/dotfiles) - :house: Procrastinating has never felt this productive
 - [linuxserver/budge](https://github.com/linuxserver/budge) - 
@@ -4425,6 +4428,7 @@
 
 ## rust 
 
+- [str4d/rage](https://github.com/str4d/rage) - A simple, secure and modern encryption tool (and Rust library) with small explicit keys, no config options, and UNIX-style composability.
 - [sharkdp/hyperfine](https://github.com/sharkdp/hyperfine) - A command-line benchmarking tool
 - [rust-unofficial/awesome-rust](https://github.com/rust-unofficial/awesome-rust) - A curated list of Rust code and resources.
 - [kanidm/kanidm](https://github.com/kanidm/kanidm) - Kanidm: A simple, secure and fast identity management platform
