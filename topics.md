@@ -1015,7 +1015,7 @@
 - [railwayapp/nixpacks](https://github.com/railwayapp/nixpacks) - App source + Nix packages + Docker = Image
 - [nlewo/nix2container](https://github.com/nlewo/nix2container) - An archive-less dockerTools.buildImage implementation
 - [evertramos/docker-wordpress](https://github.com/evertramos/docker-wordpress) - Wordpress Docker container using SSL Certificates with LetsEncrypt
-- [Kovah/LinkAce](https://github.com/Kovah/LinkAce) - Your self-hosted bookmark archive. Free and open source.
+- [Kovah/LinkAce](https://github.com/Kovah/LinkAce) - LinkAce is a self-hosted archive to collect links of your favorite websites.
 - [EasyEngine/easyengine](https://github.com/EasyEngine/easyengine) - Command-line control panel for Nginx Server to manage WordPress sites running on Nginx, PHP, MySQL, and Let's Encrypt
 - [bunkerity/bunkerweb](https://github.com/bunkerity/bunkerweb) - 🛡️ Make your web services secure by default !
 - [khuedoan/homelab](https://github.com/khuedoan/homelab) - Modern self-hosting framework, fully automated from empty disk to operating services with a single command.
@@ -2136,7 +2136,7 @@
 - [drud/ddev](https://github.com/drud/ddev) - Docker-based local PHP+Node.js web development environments
 - [itsgoingd/clockwork](https://github.com/itsgoingd/clockwork) - Clockwork - php dev tools in your browser - server-side component
 - [lando/lando](https://github.com/lando/lando) - A development tool for all your projects that is fast, easy, powerful and liberating
-- [Kovah/LinkAce](https://github.com/Kovah/LinkAce) - Your self-hosted bookmark archive. Free and open source.
+- [Kovah/LinkAce](https://github.com/Kovah/LinkAce) - LinkAce is a self-hosted archive to collect links of your favorite websites.
 - [corcel/corcel](https://github.com/corcel/corcel) - Use WordPress backend with Laravel or any PHP application
 - [laravel/valet](https://github.com/laravel/valet) - A more enjoyable local development experience for Mac.
 - [thedevdojo/wave](https://github.com/thedevdojo/wave) - Wave - The Software as a Service Starter Kit, designed to help you build the SAAS of your dreams 🚀 💰
@@ -2745,7 +2745,8 @@
 
 ## others 
 
-- [meodai/poline](https://github.com/meodai/poline) - Esoteric Color palette Generator Mico-Lib
+- [WordPress/block-hydration-experiments](https://github.com/WordPress/block-hydration-experiments) - Pattern explorations for block frontend hydration
+- [meodai/poline](https://github.com/meodai/poline) - Esoteric Palette Generator Mico-Lib Interpolating HSL Color in cartesian space
 - [lunik1/nix-wallpaper](https://github.com/lunik1/nix-wallpaper) - A configurable wallpaper for nix systems
 - [seadome/firefox-addons](https://github.com/seadome/firefox-addons) - 
 - [jacobdeichert/mask](https://github.com/jacobdeichert/mask) - 🎭 A CLI task runner defined by a simple markdown file
@@ -4039,7 +4040,7 @@
 - [TypistTech/imposter-plugin](https://github.com/TypistTech/imposter-plugin) - Composer plugin that wraps all composer vendor packages inside your own namespace. Intended for WordPress plugins.
 - [Chassis/Chassis](https://github.com/Chassis/Chassis) - 📦  Chassis is a virtual server for your WordPress site, built using Vagrant.
 - [darrenjacoby/intervention](https://github.com/darrenjacoby/intervention) - WordPress plugin to configure wp-admin and application state using a single config file.
-- [Kovah/LinkAce](https://github.com/Kovah/LinkAce) - Your self-hosted bookmark archive. Free and open source.
+- [Kovah/LinkAce](https://github.com/Kovah/LinkAce) - LinkAce is a self-hosted archive to collect links of your favorite websites.
 - [vinkla/wordplate](https://github.com/vinkla/wordplate) - WordPlate is a boilerplate. It's like building any other WordPress website with themes and plugins. Just with sprinkles on top.
 - [EasyEngine/easyengine](https://github.com/EasyEngine/easyengine) - Command-line control panel for Nginx Server to manage WordPress sites running on Nginx, PHP, MySQL, and Let's Encrypt
 - [studio24/wordpress-multi-env-config](https://github.com/studio24/wordpress-multi-env-config) - WordPress multi-environment config
