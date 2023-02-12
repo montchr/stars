@@ -622,6 +622,7 @@
 
 ## Go 
 
+- [guumaster/hostctl](https://github.com/guumaster/hostctl) - Your dev tool to manage /etc/hosts like a pro!
 - [DarthSim/overmind](https://github.com/DarthSim/overmind) - Process manager for Procfile-based applications and tmux
 - [helsinki-systems/wp4nix](https://github.com/helsinki-systems/wp4nix) - Read-Only mirror of our GitLab repository
 - [VictoriaMetrics/VictoriaMetrics](https://github.com/VictoriaMetrics/VictoriaMetrics) - VictoriaMetrics: fast, cost-effective monitoring solution and time series database
@@ -656,7 +657,7 @@
 - [asiermarques/adrgen](https://github.com/asiermarques/adrgen) - A command-line tool for generating and managing Architecture Decision Records
 - [BishopFox/cloudfox](https://github.com/BishopFox/cloudfox) - Automating situational awareness for cloud penetration tests.
 - [onedr0p/exportarr](https://github.com/onedr0p/exportarr) - AIO Prometheus Exporter for Sonarr, Radarr or Lidarr
-- [coroot/coroot](https://github.com/coroot/coroot) - A monitoring and troubleshooting tool for microservice architectures.
+- [coroot/coroot](https://github.com/coroot/coroot) - A zero-instrumentation observability tool for microservice architectures.
 - [wagoodman/dive](https://github.com/wagoodman/dive) - A tool for exploring each layer in a docker image
 - [noahgorstein/jqp](https://github.com/noahgorstein/jqp) - A TUI playground to experiment with jq
 - [influxdata/telegraf](https://github.com/influxdata/telegraf) - The plugin-driven server agent for collecting & reporting metrics.
@@ -1242,7 +1243,7 @@
 - [rlch/dotfiles](https://github.com/rlch/dotfiles) - neovim + tmux + yabai + kitty + fish
 - [NvChad/NvChad](https://github.com/NvChad/NvChad) - An attempt to make neovim cli functional like an IDE while being very beautiful, blazing fast startuptime
 - [EdenEast/nyx](https://github.com/EdenEast/nyx) - ⚙️Nix[OS] Configuration
-- [echasnovski/mini.nvim](https://github.com/echasnovski/mini.nvim) - Library of 20+ independent Lua modules improving overall Neovim (version 0.6 and higher) experience with minimal effort
+- [echasnovski/mini.nvim](https://github.com/echasnovski/mini.nvim) - Library of 20+ independent Lua modules improving overall Neovim (version 0.7 and higher) experience with minimal effort
 - [evanrelf/dotfiles](https://github.com/evanrelf/dotfiles) - My personal dotfiles
 - [nvim-neorg/neorg](https://github.com/nvim-neorg/neorg) - Modernity meets insane extensibility. The future of organizing your life in Neovim.
 - [disrupted/dotfiles](https://github.com/disrupted/dotfiles) - 👨🏻‍💻 My personal Neovim config entirely written in Lua (requires nightly), ZSH with zinit plugin manager & powerlevel10k prompt, and other dotfiles I am adding over time
@@ -1300,6 +1301,9 @@
 
 ## Nix 
 
+- [Platonic-Systems/process-compose-flake](https://github.com/Platonic-Systems/process-compose-flake) - A `flake-parts` module to spin up processes for development by leveraging `process-compose`
+- [arcnmx/ci](https://github.com/arcnmx/ci) - CI helpers
+- [hugosenari/friendly-modules](https://github.com/hugosenari/friendly-modules) - Random Nix Modules from web
 - [lunik1/nix-wallpaper](https://github.com/lunik1/nix-wallpaper) - A configurable wallpaper for nix systems
 - [seadome/firefox-addons](https://github.com/seadome/firefox-addons) - 
 - [privatevoid-net/__functor](https://github.com/privatevoid-net/__functor) - Possibly the most obscure piece of Nix magic yet
@@ -1569,7 +1573,7 @@
 - [NixOS/nixos-hardware](https://github.com/NixOS/nixos-hardware) - A collection of NixOS modules covering hardware quirks.
 - [danderson/homelab](https://github.com/danderson/homelab) - 
 - [rvolosatovs/infrastructure](https://github.com/rvolosatovs/infrastructure) - Private NixOps network infrastructure
-- [xtruder/kubenix](https://github.com/xtruder/kubenix) - Kubernetes resource builder using nix
+- [xtruder/kubenix](https://github.com/xtruder/kubenix) - Replaced by https://github.com/hall/kubenix
 - [cleverca22/not-os](https://github.com/cleverca22/not-os) - An operating system generator, based on NixOS, that, given a config, outputs a small (47 MB), read-only squashfs for a runit-based operating system, with support for iPXE and signed boot.
 - [ryantm/agenix](https://github.com/ryantm/agenix) - age-encrypted secrets for NixOS
 - [hercules-ci/arion](https://github.com/hercules-ci/arion) - Run docker-compose with help from Nix/NixOS
@@ -1646,6 +1650,8 @@
 
 ## Others 
 
+- [DavHau/edict](https://github.com/DavHau/edict) - Run nix commands on remote machines
+- [dbohdan/structured-text-tools](https://github.com/dbohdan/structured-text-tools) - A list of command line tools for manipulating structured text data
 - [bbatsov/emacs-lisp-style-guide](https://github.com/bbatsov/emacs-lisp-style-guide) - A community-driven Emacs Lisp style guide
 - [stevep99/seniply](https://github.com/stevep99/seniply) - An ergonomic, six-layer extended keyboard layout designed for small keyboards.
 - [montchr/stars](https://github.com/montchr/stars) - 
@@ -2078,7 +2084,7 @@
 - [jya-dev/supernote-tool](https://github.com/jya-dev/supernote-tool) - Unofficial python tool for Supernote
 - [ytdl-org/youtube-dl](https://github.com/ytdl-org/youtube-dl) - Command-line program to download videos from YouTube.com and other video sites
 - [mingrammer/diagrams](https://github.com/mingrammer/diagrams) - :art: Diagram as Code for prototyping cloud system architectures
-- [fsfe/reuse-tool](https://github.com/fsfe/reuse-tool) - The tool for checking and helping with compliance with the REUSE recommendations
+- [fsfe/reuse-tool](https://github.com/fsfe/reuse-tool) - reuse is a tool for compliance with the REUSE recommendations.
 - [wmariuss/awesome-devops](https://github.com/wmariuss/awesome-devops) - A curated list of awesome DevOps platforms, tools, practices and resources
 - [kovidgoyal/kitty-themes](https://github.com/kovidgoyal/kitty-themes) - Themes for the kitty terminal emulator
 - [ungoogled-software/ungoogled-chromium](https://github.com/ungoogled-software/ungoogled-chromium) - Google Chromium, sans integration with Google
@@ -2677,7 +2683,7 @@
 - [Cloudbox/Cloudbox](https://github.com/Cloudbox/Cloudbox) - Ansible-based solution for rapidly deploying a Docker containerized cloud media server.
 - [swizzin/swizzin](https://github.com/swizzin/swizzin) - A simple, modular seedbox solution
 - [arbelt/fish-plugin-scmpuff](https://github.com/arbelt/fish-plugin-scmpuff) - 
-- [edheltzel/dotfiles](https://github.com/edheltzel/dotfiles) - 🔧 My personal •files and 🐠 Shell configuration +   macOS toolbox which is a WIP
+- [edheltzel/old-dotfiles](https://github.com/edheltzel/old-dotfiles) - 🔧 My personal •files and 🐠 Shell configuration +   macOS toolbox which is a WIP
 - [ttscoff/fish_files](https://github.com/ttscoff/fish_files) - 
 - [rgcr/m-cli](https://github.com/rgcr/m-cli) -  Swiss Army Knife for macOS
 - [clvv/fasd](https://github.com/clvv/fasd) - Command-line productivity booster, offers quick access to files and directories, inspired by autojump, z and v.
@@ -2754,6 +2760,7 @@
 
 ## TypeScript 
 
+- [dotenv-org/dotenv-vault](https://github.com/dotenv-org/dotenv-vault) - Sync .env files
 - [philipstanislaus/performant-array-to-tree](https://github.com/philipstanislaus/performant-array-to-tree) - Converts an array of items with ids and parent ids to a nested tree in a performant O(n) way. Runs in browsers and Node.js.
 - [meodai/poline](https://github.com/meodai/poline) - Esoteric Palette Generator Mico-Lib Interpolating HSL Color in cartesian space
 - [sjinks/setup-wordpress-test-library](https://github.com/sjinks/setup-wordpress-test-library) - Set up WordPress and WordPress Test Library for unit tests
