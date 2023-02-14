@@ -251,7 +251,7 @@
 
 ## angular 
 
-- [pubkey/rxdb](https://github.com/pubkey/rxdb) - A fast, offline-first, reactive database for JavaScript Applications
+- [pubkey/rxdb](https://github.com/pubkey/rxdb) - A fast, offline-first, reactive database for JavaScript Applications https://rxdb.info/
 - [nrwl/nx](https://github.com/nrwl/nx) - Smart, Fast and Extensible Build System
 - [willmcpo/body-scroll-lock](https://github.com/willmcpo/body-scroll-lock) - Body scroll locking that just works with everything 😏
 - [emacs-lsp/lsp-mode](https://github.com/emacs-lsp/lsp-mode) - Emacs client/library for the Language Server Protocol
@@ -591,7 +591,7 @@
 - [modernish/modernish](https://github.com/modernish/modernish) - Modernish is a library for writing robust, portable, readable, and powerful programs for POSIX-based shells and utilities.
 - [xwmx/nb](https://github.com/xwmx/nb) - CLI and local web plain text note‑taking, bookmarking, and archiving with linking, tagging, filtering, search, Git versioning & syncing, Pandoc conversion, + more, in a single portable script.
 - [alrra/dotfiles](https://github.com/alrra/dotfiles) - 💻 macOS / Ubuntu dotfiles
-- [edheltzel/old-dotfiles](https://github.com/edheltzel/old-dotfiles) - 🔧 My personal •files and 🐠 Shell configuration +   macOS toolbox which is a WIP
+- [edheltzel/dotfiles](https://github.com/edheltzel/dotfiles) - 🔧 My personal •files and 🐠 Shell configuration +   macOS toolbox which is a WIP
 - [rgcr/m-cli](https://github.com/rgcr/m-cli) -  Swiss Army Knife for macOS
 - [mathiasbynens/dotfiles](https://github.com/mathiasbynens/dotfiles) - :wrench: .files, including ~/.macos — sensible hacker defaults for macOS
 
@@ -910,7 +910,7 @@
 - [VictoriaMetrics/VictoriaMetrics](https://github.com/VictoriaMetrics/VictoriaMetrics) - VictoriaMetrics: fast, cost-effective monitoring solution and time series database
 - [valeriansaliou/sonic](https://github.com/valeriansaliou/sonic) - 🦔 Fast, lightweight & schema-less search backend. An alternative to Elasticsearch that runs on a few MBs of RAM.
 - [libsql/libsql](https://github.com/libsql/libsql) - libSQL is a fork of SQLite that is both Open Source, and Open Contributions.
-- [pubkey/rxdb](https://github.com/pubkey/rxdb) - A fast, offline-first, reactive database for JavaScript Applications
+- [pubkey/rxdb](https://github.com/pubkey/rxdb) - A fast, offline-first, reactive database for JavaScript Applications https://rxdb.info/
 - [neilotoole/sq](https://github.com/neilotoole/sq) - swiss-army knife for data
 - [datafold/data-diff](https://github.com/datafold/data-diff) - Efficiently diff data in or across relational databases
 - [dbcli/mycli](https://github.com/dbcli/mycli) - A Terminal Client for MySQL with AutoCompletion and Syntax Highlighting.
@@ -1083,7 +1083,7 @@
 ## electron 
 
 - [upscayl/upscayl](https://github.com/upscayl/upscayl) - 🆙 Upscayl - Free and Open Source AI Image Upscaler for Linux, MacOS and Windows built with Linux-First philosophy.
-- [pubkey/rxdb](https://github.com/pubkey/rxdb) - A fast, offline-first, reactive database for JavaScript Applications
+- [pubkey/rxdb](https://github.com/pubkey/rxdb) - A fast, offline-first, reactive database for JavaScript Applications https://rxdb.info/
 - [ciderapp/Cider](https://github.com/ciderapp/Cider) - A new cross-platform Apple Music experience based on Electron and Vue.js written from scratch with performance in mind. 🚀
 - [zadam/trilium](https://github.com/zadam/trilium) - Build your personal knowledge base with Trilium Notes
 - [notable/notable](https://github.com/notable/notable) - The Markdown-based note-taking app that doesn't suck.
@@ -1105,6 +1105,7 @@
 
 ## emacs 
 
+- [mickeynp/combobulate](https://github.com/mickeynp/combobulate) - Structured Editing and Navigation in Emacs
 - [alphapapa/prism.el](https://github.com/alphapapa/prism.el) - Disperse Lisp forms (and other languages) into a spectrum of colors by depth
 - [kittywitch/nixfiles](https://github.com/kittywitch/nixfiles) - kat's configuration flake
 - [jonascarpay/nix](https://github.com/jonascarpay/nix) - My system configurations, dotfiles, and other miscellanies
@@ -1311,7 +1312,7 @@
 
 ## firebase 
 
-- [pubkey/rxdb](https://github.com/pubkey/rxdb) - A fast, offline-first, reactive database for JavaScript Applications
+- [pubkey/rxdb](https://github.com/pubkey/rxdb) - A fast, offline-first, reactive database for JavaScript Applications https://rxdb.info/
 - [supabase/supabase](https://github.com/supabase/supabase) - The open source Firebase alternative. Follow to stay updated about our public Beta.
 - [Th3Wall/Fakeflix](https://github.com/Th3Wall/Fakeflix) - Not the usual clone that you can find on the web.
 
@@ -1362,7 +1363,7 @@
 ## flutter 
 
 - [deckerst/aves](https://github.com/deckerst/aves) - Aves is a gallery and metadata explorer app, built for Android with Flutter.
-- [pubkey/rxdb](https://github.com/pubkey/rxdb) - A fast, offline-first, reactive database for JavaScript Applications
+- [pubkey/rxdb](https://github.com/pubkey/rxdb) - A fast, offline-first, reactive database for JavaScript Applications https://rxdb.info/
 - [immich-app/immich](https://github.com/immich-app/immich) - Self-hosted photo and video backup solution directly from your mobile phone.
 - [dkhamsing/open-source-ios-apps](https://github.com/dkhamsing/open-source-ios-apps) - :iphone: Collaborative List of Open-Source iOS Apps
 
@@ -1631,7 +1632,7 @@
 - [gregrickaby/nextjs-wordpress](https://github.com/gregrickaby/nextjs-wordpress) - 💀 It's headless WordPress!
 - [coralproject/talk](https://github.com/coralproject/talk) - A better commenting experience from Vox Media
 - [keystonejs/keystone](https://github.com/keystonejs/keystone) - The most powerful headless CMS for Node.js — built with GraphQL and React
-- [pubkey/rxdb](https://github.com/pubkey/rxdb) - A fast, offline-first, reactive database for JavaScript Applications
+- [pubkey/rxdb](https://github.com/pubkey/rxdb) - A fast, offline-first, reactive database for JavaScript Applications https://rxdb.info/
 - [redwoodjs/redwood](https://github.com/redwoodjs/redwood) - The App Framework for Startups
 - [refinedev/refine](https://github.com/refinedev/refine) - Build your React-based CRUD applications, without constraints.
 - [supabase/supabase](https://github.com/supabase/supabase) - The open source Firebase alternative. Follow to stay updated about our public Beta.
@@ -2410,7 +2411,7 @@
 - [matthewdias/applescripts](https://github.com/matthewdias/applescripts) - Some AppleScripts for OS X customization
 - [sindresorhus/do-not-disturb-cli](https://github.com/sindresorhus/do-not-disturb-cli) - Control the macOS `Do Not Disturb` feature from the command-line
 - [sindresorhus/alfy](https://github.com/sindresorhus/alfy) - Create Alfred workflows with ease
-- [edheltzel/old-dotfiles](https://github.com/edheltzel/old-dotfiles) - 🔧 My personal •files and 🐠 Shell configuration +   macOS toolbox which is a WIP
+- [edheltzel/dotfiles](https://github.com/edheltzel/dotfiles) - 🔧 My personal •files and 🐠 Shell configuration +   macOS toolbox which is a WIP
 - [yuuiko/AquaTouch](https://github.com/yuuiko/AquaTouch) - Dynamic Custom Macros for your MacBook TouchBar! (Supports 40+ Apps and Websites)
 - [rgcr/m-cli](https://github.com/rgcr/m-cli) -  Swiss Army Knife for macOS
 - [johnste/finicky](https://github.com/johnste/finicky) - A macOS app for customizing which browser to start
@@ -2661,7 +2662,7 @@
 - [keystonejs/keystone](https://github.com/keystonejs/keystone) - The most powerful headless CMS for Node.js — built with GraphQL and React
 - [drud/ddev](https://github.com/drud/ddev) - Docker-based local PHP+Node.js web development environments
 - [lando/lando](https://github.com/lando/lando) - A development tool for all your projects that is fast, easy, powerful and liberating
-- [pubkey/rxdb](https://github.com/pubkey/rxdb) - A fast, offline-first, reactive database for JavaScript Applications
+- [pubkey/rxdb](https://github.com/pubkey/rxdb) - A fast, offline-first, reactive database for JavaScript Applications https://rxdb.info/
 - [immich-app/immich](https://github.com/immich-app/immich) - Self-hosted photo and video backup solution directly from your mobile phone.
 - [serverless-dns/serverless-dns](https://github.com/serverless-dns/serverless-dns) - The RethinkDNS resolver that deploys to Cloudflare Workers, Deno Deploy, Fastly, and Fly.io
 - [prisma/prisma](https://github.com/prisma/prisma) - Next-generation ORM for Node.js & TypeScript | PostgreSQL, MySQL, MariaDB, SQL Server, SQLite, MongoDB and CockroachDB
@@ -2695,7 +2696,7 @@
 
 ## nosql 
 
-- [pubkey/rxdb](https://github.com/pubkey/rxdb) - A fast, offline-first, reactive database for JavaScript Applications
+- [pubkey/rxdb](https://github.com/pubkey/rxdb) - A fast, offline-first, reactive database for JavaScript Applications https://rxdb.info/
 - [cube2222/octosql](https://github.com/cube2222/octosql) - OctoSQL is a query tool that allows you to join, analyse and transform data from multiple databases and file formats using SQL.
 - [rehacktive/caffeine](https://github.com/rehacktive/caffeine) - A basic REST service for JSON data - enough for prototyping and MVPs!
 - [madd86/awesome-system-design](https://github.com/madd86/awesome-system-design) - A curated list of awesome System Design (A.K.A. Distributed Systems) resources.
@@ -2771,7 +2772,6 @@
 - [lunik1/nix-wallpaper](https://github.com/lunik1/nix-wallpaper) - A configurable wallpaper for nix systems
 - [seadome/firefox-addons](https://github.com/seadome/firefox-addons) - 
 - [jacobdeichert/mask](https://github.com/jacobdeichert/mask) - 🎭 A CLI task runner defined by a simple markdown file
-- [mickeynp/combobulate](https://github.com/mickeynp/combobulate) - Structured Editing and Navigation in Emacs
 - [Gabriella439/terraform-nixos-ng](https://github.com/Gabriella439/terraform-nixos-ng) - Terraform modules for NixOS and spiritual successor to the terraform-nixos project
 - [privatevoid-net/depot](https://github.com/privatevoid-net/depot) - Private Void's monorepo for packages and infrastructure configuration
 - [privatevoid-net/__functor](https://github.com/privatevoid-net/__functor) - Possibly the most obscure piece of Nix magic yet
@@ -4101,7 +4101,7 @@
 - [shivammathur/setup-php](https://github.com/shivammathur/setup-php) - GitHub action to set up PHP with extensions, php.ini configuration, coverage drivers, and various tools.
 - [nette/neon](https://github.com/nette/neon) - 🍸 Encodes and decodes NEON file format.
 - [szepeviktor/small-project](https://github.com/szepeviktor/small-project) - Template for small PHP fixes or enhancements, WordPress plugins
-- [phpactor/phpactor](https://github.com/phpactor/phpactor) - PHP completion, refactoring, introspection tool and language server.
+- [phpactor/phpactor](https://github.com/phpactor/phpactor) - Mainly a PHP Language Server
 - [vimeo/psalm](https://github.com/vimeo/psalm) - A static analysis tool for finding errors in PHP applications
 - [emacs-lsp/lsp-mode](https://github.com/emacs-lsp/lsp-mode) - Emacs client/library for the Language Server Protocol
 - [monicahq/monica](https://github.com/monicahq/monica) - Personal CRM. Remember everything about your friends, family and business relationships.
@@ -4302,7 +4302,7 @@
 - [keystonejs/keystone](https://github.com/keystonejs/keystone) - The most powerful headless CMS for Node.js — built with GraphQL and React
 - [PostHog/posthog](https://github.com/PostHog/posthog) - 🦔 PostHog provides open-source product analytics, session recording, feature flagging and a/b testing that you can self-host.
 - [WebDevStudios/nextjs-wordpress-starter](https://github.com/WebDevStudios/nextjs-wordpress-starter) - A headless starter for WordPress powered by Next.js.
-- [pubkey/rxdb](https://github.com/pubkey/rxdb) - A fast, offline-first, reactive database for JavaScript Applications
+- [pubkey/rxdb](https://github.com/pubkey/rxdb) - A fast, offline-first, reactive database for JavaScript Applications https://rxdb.info/
 - [toeverything/AFFiNE](https://github.com/toeverything/AFFiNE) - There can be more than Notion and Miro. AFFiNE is a next-gen knowledge base that brings planning, sorting and creating all together. Privacy first, open-source, customizable and ready to use.
 - [redwoodjs/redwood](https://github.com/redwoodjs/redwood) - The App Framework for Startups
 - [refinedev/refine](https://github.com/refinedev/refine) - Build your React-based CRUD applications, without constraints.
@@ -4374,7 +4374,7 @@
 
 ## react-native 
 
-- [pubkey/rxdb](https://github.com/pubkey/rxdb) - A fast, offline-first, reactive database for JavaScript Applications
+- [pubkey/rxdb](https://github.com/pubkey/rxdb) - A fast, offline-first, reactive database for JavaScript Applications https://rxdb.info/
 - [dkhamsing/open-source-ios-apps](https://github.com/dkhamsing/open-source-ios-apps) - :iphone: Collaborative List of Open-Source iOS Apps
 - [vercel/swr](https://github.com/vercel/swr) - React Hooks for Data Fetching
 - [GeekyAnts/NativeBase](https://github.com/GeekyAnts/NativeBase) - Mobile-first, accessible components for React Native & Web to build consistent UI across Android, iOS and Web.
@@ -4726,7 +4726,7 @@
 - [tony/tmux-config](https://github.com/tony/tmux-config) - :green_book: Example tmux configuration - screen + vim key-bindings, system stat, cpu load bar.
 - [tony/.dot-config](https://github.com/tony/.dot-config) - :books: Example dot configs for tmux, tmuxp, vim, vcspull, i3 and awesome
 - [gpakosz/.tmux](https://github.com/gpakosz/.tmux) - 🇫🇷 Oh my tmux! My self-contained, pretty & versatile tmux configuration made with ❤️
-- [edheltzel/old-dotfiles](https://github.com/edheltzel/old-dotfiles) - 🔧 My personal •files and 🐠 Shell configuration +   macOS toolbox which is a WIP
+- [edheltzel/dotfiles](https://github.com/edheltzel/dotfiles) - 🔧 My personal •files and 🐠 Shell configuration +   macOS toolbox which is a WIP
 - [zsh-users/zsh-autosuggestions](https://github.com/zsh-users/zsh-autosuggestions) - Fish-like autosuggestions for zsh
 - [ohmyzsh/ohmyzsh](https://github.com/ohmyzsh/ohmyzsh) - 🙃   A delightful community-driven (with 2,100+ contributors) framework for managing your zsh configuration. Includes 300+ optional plugins (rails, git, macOS, hub, docker, homebrew, node, php, python,
 - [holman/dotfiles](https://github.com/holman/dotfiles) - @holman does dotfiles
@@ -5076,7 +5076,7 @@
 - [statico/dotfiles](https://github.com/statico/dotfiles) - :floppy_disk:  Ian's dotfiles, utils, and Zsh/Vim/tmux configs
 - [meain/dotfiles](https://github.com/meain/dotfiles) - If there is a shell, there is a way!
 - [dbalatero/VimMode.spoon](https://github.com/dbalatero/VimMode.spoon) - Adds vim keybindings to all OS X inputs
-- [phpactor/phpactor](https://github.com/phpactor/phpactor) - PHP completion, refactoring, introspection tool and language server.
+- [phpactor/phpactor](https://github.com/phpactor/phpactor) - Mainly a PHP Language Server
 - [TheBlob42/idea-which-key](https://github.com/TheBlob42/idea-which-key) - IdeaVim extension that displays available keybindings in a popup
 - [make-github-pseudonymous-again/dotfiles](https://github.com/make-github-pseudonymous-again/dotfiles) - :wrench: ~/. dotfiles for Arch Linux
 - [gf3/dotfiles](https://github.com/gf3/dotfiles) - Configurations for the tools I use every day
