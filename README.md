@@ -1301,6 +1301,7 @@
 
 ## Nix 
 
+- [dxmh/system-config](https://github.com/dxmh/system-config) - My macOS setup with nix and Homebrew, managed by nix-darwin
 - [Platonic-Systems/process-compose-flake](https://github.com/Platonic-Systems/process-compose-flake) - A `flake-parts` module to spin up processes for development by leveraging `process-compose`
 - [arcnmx/ci](https://github.com/arcnmx/ci) - CI helpers
 - [hugosenari/friendly-modules](https://github.com/hugosenari/friendly-modules) - Random Nix Modules from web
@@ -1701,7 +1702,6 @@
 - [lukecav/awesome-wp-developer-tools](https://github.com/lukecav/awesome-wp-developer-tools) - A collection of plugins, starter themes and tools to make WordPress development easier.
 - [simskij/awesome-software-architecture](https://github.com/simskij/awesome-software-architecture) - A curated list of resources on software architecture
 - [nayafia/awesome-maintainers](https://github.com/nayafia/awesome-maintainers) - Talks, blog posts, and interviews about the experience of being an open source maintainer
-- [henrikwirth/awesome-wordpress-gatsby](https://github.com/henrikwirth/awesome-wordpress-gatsby) - An awesome list of resources about WordPress as a headless CMS with Gatsby
 - [NixOS/flake-registry](https://github.com/NixOS/flake-registry) - Global registry of Nix flakes
 - [brickbots/framedeck](https://github.com/brickbots/framedeck) - A Framework mainboard based Cyberdeck
 - [wp-hooks/wordpress-core](https://github.com/wp-hooks/wordpress-core) - WordPress core actions and filters as JSON
@@ -1834,6 +1834,7 @@
 
 ## PHP 
 
+- [Log1x/poet](https://github.com/Log1x/poet) - Configuration-based post type, taxonomy, block category, and block registration for Sage 10.
 - [leoloso/PoP](https://github.com/leoloso/PoP) - Monorepo of the PoP project, including: a server-side component model in PHP, a GraphQL server, a GraphQL API plugin for WordPress, and a website builder
 - [WordPress/block-hydration-experiments](https://github.com/WordPress/block-hydration-experiments) - Pattern explorations for block frontend hydration
 - [drupol/php-conventions](https://github.com/drupol/php-conventions) - 
@@ -2760,6 +2761,8 @@
 
 ## TypeScript 
 
+- [roots/bud](https://github.com/roots/bud) - ⚡️ Lightning fast webpack framework combining the best parts of Laravel Mix and Symfony Encore
+- [joe-bell/cva](https://github.com/joe-bell/cva) - Class Variance Authority
 - [dotenv-org/dotenv-vault](https://github.com/dotenv-org/dotenv-vault) - Sync .env files
 - [philipstanislaus/performant-array-to-tree](https://github.com/philipstanislaus/performant-array-to-tree) - Converts an array of items with ids and parent ids to a nested tree in a performant O(n) way. Runs in browsers and Node.js.
 - [meodai/poline](https://github.com/meodai/poline) - Esoteric Palette Generator Mico-Lib Interpolating HSL Color in cartesian space
