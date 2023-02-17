@@ -224,6 +224,7 @@
 
 ## analytics 
 
+- [nunomaduro/phpinsights](https://github.com/nunomaduro/phpinsights) - 🔰 Instant PHP quality checks from your console
 - [vidstack/player](https://github.com/vidstack/player) - (Beta) Customizable, lightweight, accessible, and framework-agnostic media player for the web. Modern alternative to Videojs.
 - [PostHog/posthog](https://github.com/PostHog/posthog) - 🦔 PostHog provides open-source product analytics, session recording, feature flagging and a/b testing that you can self-host.
 - [arp242/goatcounter](https://github.com/arp242/goatcounter) - Easy web analytics. No tracking of personal data.
@@ -664,6 +665,7 @@
 
 ## cli 
 
+- [nunomaduro/phpinsights](https://github.com/nunomaduro/phpinsights) - 🔰 Instant PHP quality checks from your console
 - [dotenv-org/dotenv-vault](https://github.com/dotenv-org/dotenv-vault) - Sync .env files
 - [dbohdan/structured-text-tools](https://github.com/dbohdan/structured-text-tools) - A list of command line tools for manipulating structured text data
 - [guumaster/hostctl](https://github.com/guumaster/hostctl) - Your dev tool to manage /etc/hosts like a pro!
@@ -783,6 +785,7 @@
 
 ## code 
 
+- [nunomaduro/phpinsights](https://github.com/nunomaduro/phpinsights) - 🔰 Instant PHP quality checks from your console
 - [code-hike/codehike](https://github.com/code-hike/codehike) - Marvellous code walkthroughs
 
 ## code-quality 
@@ -1000,6 +1003,7 @@
 - [F1bonacc1/process-compose](https://github.com/F1bonacc1/process-compose) - Process Compose is a simple and flexible scheduler and orchestrator to manage non-containerized applications.
 - [siderolabs/conform](https://github.com/siderolabs/conform) - Policy enforcement for your pipelines.
 - [gruntwork-io/terratest](https://github.com/gruntwork-io/terratest) - Terratest is a Go library that makes it easier to write automated tests for your infrastructure code.
+- [DeterminateSystems/nix-installer](https://github.com/DeterminateSystems/nix-installer) - The Determinate Nix Installer.
 - [GoogleContainerTools/skaffold](https://github.com/GoogleContainerTools/skaffold) - Easy and Repeatable Kubernetes Development
 - [nikitowsky/next-advanced-apollo-starter](https://github.com/nikitowsky/next-advanced-apollo-starter) - Advanced, but minimalistic Next.js and Apollo starter
 - [wodby/docker4wordpress](https://github.com/wodby/docker4wordpress) - Docker-based WordPress stack
@@ -1489,6 +1493,7 @@
 
 ## github 
 
+- [leagris/githubsieve](https://github.com/leagris/githubsieve) - Sieve Mail filtering and tagging for Gitub Notifications
 - [nix-community/nurl](https://github.com/nix-community/nurl) - Generate Nix fetcher calls from repository URLs [maintainer=@figsoda]
 - [gregrickaby/nextjs-github-pages](https://github.com/gregrickaby/nextjs-github-pages) - 🚀 Deploy a Next.js app to Github Pages via Github Actions.
 - [sindresorhus/notifier-for-github](https://github.com/sindresorhus/notifier-for-github) - Browser extension - Get notified about new GitHub notifications
@@ -1649,6 +1654,7 @@
 
 ## hacktoberfest 
 
+- [nunomaduro/phpinsights](https://github.com/nunomaduro/phpinsights) - 🔰 Instant PHP quality checks from your console
 - [wp-graphql/wp-graphql-jwt-authentication](https://github.com/wp-graphql/wp-graphql-jwt-authentication) - Authentication for WPGraphQL using JWT (JSON Web Tokens)
 - [sharkdp/hyperfine](https://github.com/sharkdp/hyperfine) - A command-line benchmarking tool
 - [kittywitch/nixfiles](https://github.com/kittywitch/nixfiles) - kat's configuration flake
@@ -2195,6 +2201,7 @@
 
 - [kittywitch/nixfiles](https://github.com/kittywitch/nixfiles) - kat's configuration flake
 - [beringresearch/macpine](https://github.com/beringresearch/macpine) - Lightweight Linux VMs on MacOS
+- [DeterminateSystems/nix-installer](https://github.com/DeterminateSystems/nix-installer) - The Determinate Nix Installer.
 - [ema/pets](https://github.com/ema/pets) - A configuration management system for Pets, not Cattle
 - [sylirre/vmConsole](https://github.com/sylirre/vmConsole) - Run Linux virtual machine on Android OS. Powered by QEMU. No KVM or root required.
 - [LinuxCafeFederation/awesome-android](https://github.com/LinuxCafeFederation/awesome-android) - A curated list of awesome open source Android applications, tutorials and resources.
@@ -2316,6 +2323,7 @@
 - [kittywitch/nixfiles](https://github.com/kittywitch/nixfiles) - kat's configuration flake
 - [pqrs-org/Tinkle](https://github.com/pqrs-org/Tinkle) - 
 - [beringresearch/macpine](https://github.com/beringresearch/macpine) - Lightweight Linux VMs on MacOS
+- [DeterminateSystems/nix-installer](https://github.com/DeterminateSystems/nix-installer) - The Determinate Nix Installer.
 - [rvaiya/warpd](https://github.com/rvaiya/warpd) - A modal keyboard-driven virtual pointer
 - [Code-Hex/vz](https://github.com/Code-Hex/vz) - Create virtual machines and run Linux-based operating systems in Go using Apple Virtualization.framework.
 - [watchexec/watchexec](https://github.com/watchexec/watchexec) - Executes commands in response to file modifications
@@ -2763,6 +2771,9 @@
 
 ## others 
 
+- [Log1x/acf-composer](https://github.com/Log1x/acf-composer) - Compose ACF Fields, Blocks, Widgets, and Option Pages with ACF Builder on Sage 10.
+- [ELLIOTTCABLE/System](https://github.com/ELLIOTTCABLE/System) - dotfiles, handy scripts, and new-system configuration stuff
+- [SoMuchToGrok/email-sieves](https://github.com/SoMuchToGrok/email-sieves) - collection of email sieves (filters)
 - [alpinejs/alpine](https://github.com/alpinejs/alpine) - A rugged, minimal framework for composing JavaScript behavior in your markup.
 - [roots/vsce-blade-syntax](https://github.com/roots/vsce-blade-syntax) - Roots specific syntax highlighting for blade template files
 - [dxmh/system-config](https://github.com/dxmh/system-config) - My macOS setup with nix and Homebrew, managed by nix-darwin
@@ -2842,7 +2853,7 @@
 - [aristanetworks/nix-serve-ng](https://github.com/aristanetworks/nix-serve-ng) - A drop-in replacement for nix-serve that is faster and more reliable
 - [danielfullmer/robotnix](https://github.com/danielfullmer/robotnix) - Build Android (AOSP) using Nix
 - [Hoverbear-Consulting/flake](https://github.com/Hoverbear-Consulting/flake) - Company Nix expressions.
-- [divnix/paisano](https://github.com/divnix/paisano) - Standard's grow function family. Factorized.
+- [paisano-nix/core](https://github.com/paisano-nix/core) - Standard's grow function family. Factorized.
 - [udayvir-singh/hibiscus.nvim](https://github.com/udayvir-singh/hibiscus.nvim) - :hibiscus: Flavored Fennel Macros for Neovim
 - [numtide/nixos-anywhere](https://github.com/numtide/nixos-anywhere) - install nixos everywhere via ssh
 - [divnix/incl](https://github.com/divnix/incl) - A nix filter with straight-forward include semantic
@@ -2859,7 +2870,6 @@
 - [nushell/nu_scripts](https://github.com/nushell/nu_scripts) - A place to share Nushell scripts with each other
 - [numtide/prj-spec](https://github.com/numtide/prj-spec) - Project Base Directory Specification
 - [dep-sys/nix-dabei](https://github.com/dep-sys/nix-dabei) - An operating system generator, based on nixos, focused on installation
-- [DeterminateSystems/nix-installer](https://github.com/DeterminateSystems/nix-installer) - A prototype Nix installer experiment.
 - [shssoichiro/oxipng](https://github.com/shssoichiro/oxipng) - Multithreaded PNG optimizer written in Rust
 - [madjam002/yarnpnp2nix](https://github.com/madjam002/yarnpnp2nix) - A performance focused and space efficient way of packaging NodeJS applications with Nix
 - [juanfont/headscale](https://github.com/juanfont/headscale) - An open source, self-hosted implementation of the Tailscale control server
@@ -3977,7 +3987,7 @@
 - [kangaskahn/playground](https://github.com/kangaskahn/playground) - Just a playground for testing and practicing git
 - [necolas/dotfiles](https://github.com/necolas/dotfiles) - OS X dotfiles: bash, git, vim, etc.
 - [ericmann/vvv-apache](https://github.com/ericmann/vvv-apache) - Apache-based fork of 10up's Varying Vagrant Vagrants configuration
-- [oddbird/susy](https://github.com/oddbird/susy) - Responsive layout toolkit for Sass
+- [oddbird/susy](https://github.com/oddbird/susy) - Pre-grid responsive layout toolkit for Sass, now deprecated
 - [stevenwanderski/bxslider-4](https://github.com/stevenwanderski/bxslider-4) - Responsive jQuery content slider
 - [peachananr/onepage-scroll](https://github.com/peachananr/onepage-scroll) - Create an Apple-like one page scroller website (iPhone 5S website) with One Page Scroll plugin
 - [post-forking/post-forking](https://github.com/post-forking/post-forking) - WordPress Post Forking allows users to "fork" or create an alternate version of content to foster a more collaborative approach to WordPress content curation.
@@ -4050,6 +4060,7 @@
 
 ## php 
 
+- [nunomaduro/phpinsights](https://github.com/nunomaduro/phpinsights) - 🔰 Instant PHP quality checks from your console
 - [leoloso/PoP](https://github.com/leoloso/PoP) - Monorepo of the PoP project, including: a server-side component model in PHP, a GraphQL server, a GraphQL API plugin for WordPress, and a website builder
 - [dunglas/frankenphp](https://github.com/dunglas/frankenphp) - The modern PHP app server
 - [simplesamlphp/simplesamlphp](https://github.com/simplesamlphp/simplesamlphp) - SimpleSAMLphp is an award-winning application written in native PHP that deals with authentication.
@@ -5213,6 +5224,9 @@
 
 ## wordpress 
 
+- [Automattic/vip-go-mu-plugins-built](https://github.com/Automattic/vip-go-mu-plugins-built) - The generated repo for mu-plugins used on the VIP Go platform.
+- [Log1x/pagi](https://github.com/Log1x/pagi) - A better WordPress pagination.
+- [Log1x/sage-svg](https://github.com/Log1x/sage-svg) - A simple package for using inline SVGs with Sage 10.
 - [Log1x/poet](https://github.com/Log1x/poet) - Configuration-based post type, taxonomy, block category, and block registration for Sage 10.
 - [leoloso/PoP](https://github.com/leoloso/PoP) - Monorepo of the PoP project, including: a server-side component model in PHP, a GraphQL server, a GraphQL API plugin for WordPress, and a website builder
 - [helsinki-systems/wp4nix](https://github.com/helsinki-systems/wp4nix) - Read-Only mirror of our GitLab repository
