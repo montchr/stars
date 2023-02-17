@@ -66,6 +66,7 @@
 - [SCSS](#scss)
 - [Scala](#scala)
 - [Shell](#shell)
+- [Sieve](#sieve)
 - [Smarty](#smarty)
 - [SuperCollider](#supercollider)
 - [Svelte](#svelte)
@@ -918,6 +919,7 @@
 
 ## JavaScript 
 
+- [leagris/githubsieve](https://github.com/leagris/githubsieve) - Sieve Mail filtering and tagging for Gitub Notifications
 - [HatsuneMiku3939/direnv-action](https://github.com/HatsuneMiku3939/direnv-action) - Provide environment variables via direnv.
 - [xt0rted/block-autosquash-commits-action](https://github.com/xt0rted/block-autosquash-commits-action) - A Github Action to prevent merging pull requests containing autosquash commit messages.
 - [b0o/surfingkeys-conf](https://github.com/b0o/surfingkeys-conf) - 🏄‍♀️ A SurfingKeys config which adds 180+ key mappings & 50+ search engines
@@ -1333,7 +1335,7 @@
 - [GTrunSec/cells-lab](https://github.com/GTrunSec/cells-lab) - 
 - [danielfullmer/robotnix](https://github.com/danielfullmer/robotnix) - Build Android (AOSP) using Nix
 - [Hoverbear-Consulting/flake](https://github.com/Hoverbear-Consulting/flake) - Company Nix expressions.
-- [divnix/paisano](https://github.com/divnix/paisano) - Standard's grow function family. Factorized.
+- [paisano-nix/core](https://github.com/paisano-nix/core) - Standard's grow function family. Factorized.
 - [GTrunSec/hive](https://github.com/GTrunSec/hive) - A declarative configuration framework based on the structural theory of std-hive.
 - [divnix/incl](https://github.com/divnix/incl) - A nix filter with straight-forward include semantic
 - [canva-public/js2nix](https://github.com/canva-public/js2nix) - Node.js modules installation using Nix
@@ -1836,6 +1838,11 @@
 
 ## PHP 
 
+- [Automattic/vip-go-mu-plugins-built](https://github.com/Automattic/vip-go-mu-plugins-built) - The generated repo for mu-plugins used on the VIP Go platform.
+- [nunomaduro/phpinsights](https://github.com/nunomaduro/phpinsights) - 🔰 Instant PHP quality checks from your console
+- [Log1x/acf-composer](https://github.com/Log1x/acf-composer) - Compose ACF Fields, Blocks, Widgets, and Option Pages with ACF Builder on Sage 10.
+- [Log1x/pagi](https://github.com/Log1x/pagi) - A better WordPress pagination.
+- [Log1x/sage-svg](https://github.com/Log1x/sage-svg) - A simple package for using inline SVGs with Sage 10.
 - [wp-graphql/wp-graphql-jwt-authentication](https://github.com/wp-graphql/wp-graphql-jwt-authentication) - Authentication for WPGraphQL using JWT (JSON Web Tokens)
 - [Log1x/poet](https://github.com/Log1x/poet) - Configuration-based post type, taxonomy, block category, and block registration for Sage 10.
 - [leoloso/PoP](https://github.com/leoloso/PoP) - Monorepo of the PoP project, including: a server-side component model in PHP, a GraphQL server, a GraphQL API plugin for WordPress, and a website builder
@@ -2319,7 +2326,7 @@
 - [cocogitto/cocogitto](https://github.com/cocogitto/cocogitto) - The Conventional Commits toolbox
 - [nix-community/patsh](https://github.com/nix-community/patsh) - A command-line tool for patching shell scripts inspired by resholve [maintainer=@figsoda]
 - [sharkdp/pastel](https://github.com/sharkdp/pastel) - A command-line tool to generate, analyze, convert and manipulate colors
-- [DeterminateSystems/nix-installer](https://github.com/DeterminateSystems/nix-installer) - A prototype Nix installer experiment.
+- [DeterminateSystems/nix-installer](https://github.com/DeterminateSystems/nix-installer) - The Determinate Nix Installer.
 - [shssoichiro/oxipng](https://github.com/shssoichiro/oxipng) - Multithreaded PNG optimizer written in Rust
 - [valeriansaliou/sonic](https://github.com/valeriansaliou/sonic) - 🦔 Fast, lightweight & schema-less search backend. An alternative to Elasticsearch that runs on a few MBs of RAM.
 - [casey/just](https://github.com/casey/just) - 🤖 Just a command runner
@@ -2453,7 +2460,7 @@
 - [KittyGiraudel/SassyCast](https://github.com/KittyGiraudel/SassyCast) - [UNMAINTAINED] Type conversion functions for Sass.
 - [sass-mq/sass-mq](https://github.com/sass-mq/sass-mq) - A Sass mixin that helps you compose media queries in an elegant way.
 - [RamseyInHouse/scut](https://github.com/RamseyInHouse/scut) - Sass utilities for the frontend laborer.
-- [oddbird/susy](https://github.com/oddbird/susy) - Responsive layout toolkit for Sass
+- [oddbird/susy](https://github.com/oddbird/susy) - Pre-grid responsive layout toolkit for Sass, now deprecated
 - [twbs/bootstrap-sass](https://github.com/twbs/bootstrap-sass) - Official Sass port of Bootstrap 2 and 3.
 
 ## Scala 
@@ -2708,6 +2715,10 @@
 - [necolas/dotfiles](https://github.com/necolas/dotfiles) - OS X dotfiles: bash, git, vim, etc.
 - [ericmann/vvv-apache](https://github.com/ericmann/vvv-apache) - Apache-based fork of 10up's Varying Vagrant Vagrants configuration
 
+## Sieve 
+
+- [SoMuchToGrok/email-sieves](https://github.com/SoMuchToGrok/email-sieves) - collection of email sieves (filters)
+
 ## Smarty 
 
 - [NixOS/nixos-org-configurations](https://github.com/NixOS/nixos-org-configurations) - NixOS configurations for nixos.org and its servers
@@ -2951,6 +2962,7 @@
 
 ## Vim Script 
 
+- [ELLIOTTCABLE/System](https://github.com/ELLIOTTCABLE/System) - dotfiles, handy scripts, and new-system configuration stuff
 - [tpope/vim-sensible](https://github.com/tpope/vim-sensible) - sensible.vim: Defaults everyone can agree on
 - [nerdypepper/scientifica](https://github.com/nerdypepper/scientifica) - tall, condensed, bitmap font for geeks
 - [neovim/neovim](https://github.com/neovim/neovim) - Vim-fork focused on extensibility and usability
