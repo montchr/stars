@@ -1398,7 +1398,7 @@
 - [jonringer/server-configuration](https://github.com/jonringer/server-configuration) - Build server nixos configuration
 - [ZilchOS/core](https://github.com/ZilchOS/core) - ZilchOS Core, a decidedly tiny Nix-based distro to play with
 - [fricklerhandwerk/.config](https://github.com/fricklerhandwerk/.config) - user environment configurations with `home-manager`
-- [LunNova/nixos-configs](https://github.com/LunNova/nixos-configs) - Why aren't you using NixOS? (rhetorical: it's the learning cliff and the lack of good docs)
+- [LunNova/nixos-configs](https://github.com/LunNova/nixos-configs) - Config flake for personal systems and home devices
 - [viperML/neoinfra](https://github.com/viperML/neoinfra) - Configuration of my servers
 - [colemickens/nixos-flake-example](https://github.com/colemickens/nixos-flake-example) - This is a demo NixOS config, with optional flakes support. Along with notes on why flakes is useful and worth adopting.
 - [dramforever/config](https://github.com/dramforever/config) - Random config (v2, clean history)
@@ -1838,6 +1838,7 @@
 
 ## PHP 
 
+- [alleyinteractive/wp-path-dispatch](https://github.com/alleyinteractive/wp-path-dispatch) - Simply and easily add a URL which fires an action, triggers a callback, and/or loads a template.
 - [Automattic/vip-go-mu-plugins-built](https://github.com/Automattic/vip-go-mu-plugins-built) - The generated repo for mu-plugins used on the VIP Go platform.
 - [nunomaduro/phpinsights](https://github.com/nunomaduro/phpinsights) - 🔰 Instant PHP quality checks from your console
 - [Log1x/acf-composer](https://github.com/Log1x/acf-composer) - Compose ACF Fields, Blocks, Widgets, and Option Pages with ACF Builder on Sage 10.
@@ -2309,6 +2310,7 @@
 
 ## Rust 
 
+- [davidcole1340/ext-php-rs](https://github.com/davidcole1340/ext-php-rs) - Bindings for the Zend API to build PHP extensions natively in Rust.
 - [flox/flox](https://github.com/flox/flox) - Harness the power of Nix
 - [str4d/rage](https://github.com/str4d/rage) - A simple, secure and modern encryption tool (and Rust library) with small explicit keys, no config options, and UNIX-style composability.
 - [sharkdp/hyperfine](https://github.com/sharkdp/hyperfine) - A command-line benchmarking tool
@@ -2849,7 +2851,7 @@
 - [ProtonMail/WebClients](https://github.com/ProtonMail/WebClients) - Monorepo hosting the proton web clients
 - [microsoft/tsdoc](https://github.com/microsoft/tsdoc) - A doc comment standard for TypeScript
 - [woutervh-/typescript-is](https://github.com/woutervh-/typescript-is) - 
-- [drwpow/openapi-typescript](https://github.com/drwpow/openapi-typescript) - Generate TypeScript types from Swagger OpenAPI specs
+- [drwpow/openapi-typescript](https://github.com/drwpow/openapi-typescript) - Generate TypeScript types from OpenAPI 3 specs
 - [markdoc/markdoc](https://github.com/markdoc/markdoc) - A powerful, flexible, Markdown-based authoring framework.
 - [facebook/docusaurus](https://github.com/facebook/docusaurus) - Easy to maintain open source documentation websites.
 - [bhollis/jsonview](https://github.com/bhollis/jsonview) - A web extension that helps you view JSON documents in the browser.
