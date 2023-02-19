@@ -2772,6 +2772,7 @@
 
 ## others 
 
+- [funkhaus/fuxt](https://github.com/funkhaus/fuxt) - A complete Headless WordPress tech stack built on Nuxt.
 - [Log1x/acf-composer](https://github.com/Log1x/acf-composer) - Compose ACF Fields, Blocks, Widgets, and Option Pages with ACF Builder on Sage 10.
 - [ELLIOTTCABLE/System](https://github.com/ELLIOTTCABLE/System) - dotfiles, handy scripts, and new-system configuration stuff
 - [SoMuchToGrok/email-sieves](https://github.com/SoMuchToGrok/email-sieves) - collection of email sieves (filters)
