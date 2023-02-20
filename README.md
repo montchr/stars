@@ -110,7 +110,7 @@
 - [koute/bytehound](https://github.com/koute/bytehound) - A memory profiler for Linux.
 - [leandromoreira/ffmpeg-libav-tutorial](https://github.com/leandromoreira/ffmpeg-libav-tutorial) - FFmpeg libav tutorial - learn how media works from basic to transmuxing, transcoding and more. Translations: 🇺🇸 🇨🇳 🇰🇷 🇪🇸 🇻🇳
 - [apple-oss-distributions/launchd](https://github.com/apple-oss-distributions/launchd) - 
-- [InfiniTimeOrg/InfiniTime](https://github.com/InfiniTimeOrg/InfiniTime) - Firmware for Pinetime smartwatch written in C/C++ and based on FreeRTOS
+- [InfiniTimeOrg/InfiniTime](https://github.com/InfiniTimeOrg/InfiniTime) - Firmware for Pinetime smartwatch written in C++ and based on FreeRTOS
 - [nginx-shib/nginx-http-shibboleth](https://github.com/nginx-shib/nginx-http-shibboleth) - Shibboleth auth request module for nginx
 - [rvaiya/warpd](https://github.com/rvaiya/warpd) - A modal keyboard-driven virtual pointer
 - [krallin/tini](https://github.com/krallin/tini) - A tiny but valid `init` for containers
@@ -264,7 +264,6 @@
 - [andreasgrafen/cascade](https://github.com/andreasgrafen/cascade) - A responsive One-Line CSS Theme for Firefox.
 - [ChristosBouronikos/Nord-Polar-Night-Theme](https://github.com/ChristosBouronikos/Nord-Polar-Night-Theme) - An awesome new dark Firefox theme based on the Nord color palette!
 - [aadilayub/firefox-i3wm-theme](https://github.com/aadilayub/firefox-i3wm-theme) - i3 and qutebrowser inspired theme for firefox
-- [black7375/Firefox-UI-Fix](https://github.com/black7375/Firefox-UI-Fix) - 🦊 I respect proton UI and aim to improve it.
 - [IvanMalison/dotfiles](https://github.com/IvanMalison/dotfiles) - Configuration files for XMonad, Emacs, NixOS, Taffybar and more.
 - [zzzeyez/pecan](https://github.com/zzzeyez/pecan) - menubar for macOS
 - [IBM/plex](https://github.com/IBM/plex) - The package of IBM’s typeface, IBM Plex.
@@ -1802,7 +1801,6 @@
 - [templeman/awesome-ipsum](https://github.com/templeman/awesome-ipsum) - A curated list of awesome lorem ipsum generators.
 - [Siilwyn/awesome-pixel-art](https://github.com/Siilwyn/awesome-pixel-art) - Curated list of everything awesome around pixel art.
 - [Idnan/bash-guide](https://github.com/Idnan/bash-guide) - A guide to learn bash
-- [Amar1729/yabai-zsh-completions](https://github.com/Amar1729/yabai-zsh-completions) - zsh completions for yabai tiling WM
 - [anubisthejackle/wp-github-actions](https://github.com/anubisthejackle/wp-github-actions) - Github Actions to help with WordPress Plugin and Theme Continuous Integration
 - [imthenachoman/How-To-Secure-A-Linux-Server](https://github.com/imthenachoman/How-To-Secure-A-Linux-Server) - An evolving how-to guide for securing a Linux server.
 - [kylelobo/The-Documentation-Compendium](https://github.com/kylelobo/The-Documentation-Compendium) - 📢 Various README templates & tips on writing high-quality documentation that people want to read.
@@ -1837,6 +1835,11 @@
 
 ## PHP 
 
+- [wpengine/wp-graphql-content-blocks](https://github.com/wpengine/wp-graphql-content-blocks) - Plugin that extends WPGraphQL to support querying (Gutenberg) Blocks as data
+- [sybrew/the-seo-framework](https://github.com/sybrew/the-seo-framework) - The SEO Framework WordPress plugin.
+- [Highfivery/wordpress-plugin-starter](https://github.com/Highfivery/wordpress-plugin-starter) - Simple WordPress plugin starter framework.
+- [boxybird/morph](https://github.com/boxybird/morph) - A WordPress theme package for building Laravel Livewire inspired WordPress components with Alpine.js.
+- [boxybird/inertia-wordpress](https://github.com/boxybird/inertia-wordpress) - The WordPress adapter for Inertia.js.
 - [alleyinteractive/wp-path-dispatch](https://github.com/alleyinteractive/wp-path-dispatch) - Simply and easily add a URL which fires an action, triggers a callback, and/or loads a template.
 - [Automattic/vip-go-mu-plugins-built](https://github.com/Automattic/vip-go-mu-plugins-built) - The generated repo for mu-plugins used on the VIP Go platform.
 - [nunomaduro/phpinsights](https://github.com/nunomaduro/phpinsights) - 🔰 Instant PHP quality checks from your console
@@ -2452,6 +2455,7 @@
 ## SCSS 
 
 - [foreverphoenix/the-phoenix-flavour](https://github.com/foreverphoenix/the-phoenix-flavour) - A Skyrim SE modding guide.
+- [black7375/Firefox-UI-Fix](https://github.com/black7375/Firefox-UI-Fix) - 🦊 I respect proton UI and aim to improve it.
 - [riseupnet/riseup_help](https://github.com/riseupnet/riseup_help) - riseup.net help documentation
 - [inuitcss/inuitcss](https://github.com/inuitcss/inuitcss) - Extensible, scalable, Sass-based, OOCSS framework for large and long-lasting UI projects.
 - [10up/Engineering-Best-Practices](https://github.com/10up/Engineering-Best-Practices) - 10up Engineering Best Practices
@@ -2607,6 +2611,7 @@
 - [dylanaraps/fff](https://github.com/dylanaraps/fff) - 📁 A simple file manager written in bash.
 - [jasperes/bash-yaml](https://github.com/jasperes/bash-yaml) - Read a yaml file and create variables in bash
 - [dylanaraps/pure-sh-bible](https://github.com/dylanaraps/pure-sh-bible) - 📖 A collection of pure POSIX sh alternatives to external processes.
+- [Amar1729/yabai-zsh-completions](https://github.com/Amar1729/yabai-zsh-completions) - zsh completions for yabai tiling WM
 - [agkozak/polyglot](https://github.com/agkozak/polyglot) - Color, ASCII-only Git prompt for zsh, bash, ksh93, mksh, pdksh, oksh, dash, yash, busybox ash, and osh
 - [MenkeTechnologies/zpwr](https://github.com/MenkeTechnologies/zpwr) - ZPWR =&gt; World's Most Advanced UNIX Terminal Environment
 - [basherpm/basher](https://github.com/basherpm/basher) - A package manager for shell scripts.
@@ -2777,6 +2782,8 @@
 
 ## TypeScript 
 
+- [shuding/nextra](https://github.com/shuding/nextra) - Simple, powerful and flexible site generation framework with everything you love from Next.js.
+- [Highfivery/nextjs-starter](https://github.com/Highfivery/nextjs-starter) - A Next.js 13 CMS & theme agnostic starter framework to build fully-featured headless sites.
 - [roots/bud](https://github.com/roots/bud) - ⚡️ Lightning fast webpack framework combining the best parts of Laravel Mix and Symfony Encore
 - [joe-bell/cva](https://github.com/joe-bell/cva) - Class Variance Authority
 - [dotenv-org/dotenv-vault](https://github.com/dotenv-org/dotenv-vault) - Sync .env files
@@ -2992,6 +2999,7 @@
 
 ## Vue 
 
+- [boxybird/wordpress-inertia-starter-theme](https://github.com/boxybird/wordpress-inertia-starter-theme) - A bare-bones example theme using Inertia with Vue, and the WordPress Inertia adapter.
 - [funkhaus/fuxt](https://github.com/funkhaus/fuxt) - A complete Headless WordPress tech stack built on Nuxt.
 - [rogden/tailwind-config-viewer](https://github.com/rogden/tailwind-config-viewer) - A local UI tool for visualizing your Tailwind CSS configuration file.
 - [linrock/256-colors](https://github.com/linrock/256-colors) - Reference for using xterm color codes
