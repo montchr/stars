@@ -1059,7 +1059,7 @@
 - [KittyGiraudel/a11y-dialog](https://github.com/KittyGiraudel/a11y-dialog) - A very lightweight and flexible accessible modal dialog script.
 - [kamranahmedse/pennywise](https://github.com/kamranahmedse/pennywise) - Cross-platform application to open any website or media in a floating window
 - [hackjutsu/Lepton](https://github.com/hackjutsu/Lepton) - 💻     Democratizing Snippet Management (macOS/Win/Linux)
-- [cerebroapp/cerebro](https://github.com/cerebroapp/cerebro) - Open-source productivity booster with a brain
+- [cerebroapp/cerebro](https://github.com/cerebroapp/cerebro) - 🔵 Cerebro is an open-source launcher to improve your productivity and efficiency
 - [agalwood/Motrix](https://github.com/agalwood/Motrix) - A full-featured download manager.
 - [qeeqbox/social-analyzer](https://github.com/qeeqbox/social-analyzer) - API, CLI, and Web App for analyzing and finding a person's profile in 1000 social media \ websites
 - [mailvelope/mailvelope](https://github.com/mailvelope/mailvelope) - Browser extension for OpenPGP encryption with Webmail
@@ -1835,6 +1835,9 @@
 
 ## PHP 
 
+- [funkhaus/wp-gql-gutenberg](https://github.com/funkhaus/wp-gql-gutenberg) - 
+- [wpengine/wp-graphql-filter-query](https://github.com/wpengine/wp-graphql-filter-query) - Adds taxonomy filtering and aggregation support to WP GraphQL
+- [AxeWP/wp-graphql-headless-login](https://github.com/AxeWP/wp-graphql-headless-login) - A WordPress plugin that provides Headless login and authentication for WPGraphQL, supporting traditional passwords, OAuth2/OpenID Connect, JWT, and more.
 - [wpengine/wp-graphql-content-blocks](https://github.com/wpengine/wp-graphql-content-blocks) - Plugin that extends WPGraphQL to support querying (Gutenberg) Blocks as data
 - [sybrew/the-seo-framework](https://github.com/sybrew/the-seo-framework) - The SEO Framework WordPress plugin.
 - [Highfivery/wordpress-plugin-starter](https://github.com/Highfivery/wordpress-plugin-starter) - Simple WordPress plugin starter framework.
@@ -2692,7 +2695,7 @@
 - [modernish/modernish](https://github.com/modernish/modernish) - Modernish is a library for writing robust, portable, readable, and powerful programs for POSIX-based shells and utilities.
 - [unixorn/awesome-zsh-plugins](https://github.com/unixorn/awesome-zsh-plugins) - A collection of ZSH frameworks, plugins, themes and tutorials.
 - [xwmx/nb](https://github.com/xwmx/nb) - CLI and local web plain text note‑taking, bookmarking, and archiving with linking, tagging, filtering, search, Git versioning & syncing, Pandoc conversion, + more, in a single portable script.
-- [nikitavoloboev/dotfiles](https://github.com/nikitavoloboev/dotfiles) - Zsh, Karabiner, VS Code, Sublime, Neovim, Nix
+- [nikitavoloboev/dotfiles](https://github.com/nikitavoloboev/dotfiles) - Fish, Karabiner, VSCode, Sublime, Neovim, Nix
 - [alrra/dotfiles](https://github.com/alrra/dotfiles) - 💻 macOS / Ubuntu dotfiles
 - [tony/tmux-config](https://github.com/tony/tmux-config) - :green_book: Example tmux configuration - screen + vim key-bindings, system stat, cpu load bar.
 - [ultimate-pms/ultimate-media-server-core](https://github.com/ultimate-pms/ultimate-media-server-core) - A bunch of scripts that I've collected, written, and forked for the ultimate administration & automation of your Media Server - Think of this as your "Media server in a box"
