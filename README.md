@@ -33,6 +33,7 @@
 - [Groovy](#groovy)
 - [HCL](#hcl)
 - [HTML](#html)
+- [Hack](#hack)
 - [Haskell](#haskell)
 - [HolyC](#holyc)
 - [Java](#java)
@@ -863,6 +864,10 @@
 - [ubuwaits/beautiful-web-type](https://github.com/ubuwaits/beautiful-web-type) - In-depth guide to the best open-source typefaces: https://beautifulwebtype.com
 - [davatron5000/FitVids.js](https://github.com/davatron5000/FitVids.js) - A lightweight, easy-to-use jQuery plugin for fluid width video embeds.
 
+## Hack 
+
+- [facebookincubator/Glean](https://github.com/facebookincubator/Glean) - System for collecting, deriving and working with facts about source code.
+
 ## Haskell 
 
 - [aristanetworks/nix-serve-ng](https://github.com/aristanetworks/nix-serve-ng) - A drop-in replacement for nix-serve that is faster and more reliable
@@ -884,7 +889,6 @@
 - [unisonweb/unison](https://github.com/unisonweb/unison) - A friendly programming language from the future
 - [obsidiansystems/obelisk](https://github.com/obsidiansystems/obelisk) - Functional reactive web and mobile applications, with batteries included.
 - [purescript/purescript](https://github.com/purescript/purescript) - A strongly-typed language that compiles to JavaScript
-- [facebookincubator/Glean](https://github.com/facebookincubator/Glean) - System for collecting, deriving and working with facts about source code.
 - [serokell/nixfmt](https://github.com/serokell/nixfmt) - A formatter for Nix code
 - [berberman/nvfetcher](https://github.com/berberman/nvfetcher) - Generate nix sources expr for the latest version of packages
 - [obsidiansystems/nix-thunk](https://github.com/obsidiansystems/nix-thunk) - seamless management of source dependencies with nix
@@ -917,6 +921,7 @@
 
 ## JavaScript 
 
+- [patronage/bubs-next](https://github.com/patronage/bubs-next) - Headless Wordpress + Next.js Project scaffolding
 - [tailwindlabs/tailwindcss-typography](https://github.com/tailwindlabs/tailwindcss-typography) - 
 - [leagris/githubsieve](https://github.com/leagris/githubsieve) - Sieve Mail filtering and tagging for Gitub Notifications
 - [HatsuneMiku3939/direnv-action](https://github.com/HatsuneMiku3939/direnv-action) - Provide environment variables via direnv.
@@ -1780,7 +1785,7 @@
 - [humancalico/nix-learning](https://github.com/humancalico/nix-learning) - A bunch of links to blog posts, articles, videos, etc for learning Nix
 - [ossu/computer-science](https://github.com/ossu/computer-science) - :mortar_board: Path to a free self-taught education in Computer Science!
 - [rehooks/awesome-react-hooks](https://github.com/rehooks/awesome-react-hooks) - Awesome React Hooks
-- [nikitavoloboev/my-mac-os](https://github.com/nikitavoloboev/my-mac-os) - List of applications and tools that make my macOS experience even more amazing
+- [nikitavoloboev/my-mac](https://github.com/nikitavoloboev/my-mac) - List of applications and tools that make my macOS experience even more amazing
 - [jorgebucaran/awsm.fish](https://github.com/jorgebucaran/awsm.fish) - A curation of prompts, plugins & other resources for Fish. 🐚
 - [brillout/awesome-react-components](https://github.com/brillout/awesome-react-components) - Curated List of React Components & Libraries.
 - [ibraheemdev/modern-unix](https://github.com/ibraheemdev/modern-unix) - A collection of modern/faster/saner alternatives to common unix commands.
@@ -1832,6 +1837,7 @@
 
 ## PHP 
 
+- [wecodemore/wpstarter](https://github.com/wecodemore/wpstarter) - Easily bootstrap whole site Composer packages for WordPress.
 - [funkhaus/wp-gql-gutenberg](https://github.com/funkhaus/wp-gql-gutenberg) - 
 - [wpengine/wp-graphql-filter-query](https://github.com/wpengine/wp-graphql-filter-query) - Adds taxonomy filtering and aggregation support to WP GraphQL
 - [AxeWP/wp-graphql-headless-login](https://github.com/AxeWP/wp-graphql-headless-login) - A WordPress plugin that provides Headless login and authentication for WPGraphQL, supporting traditional passwords, OAuth2/OpenID Connect, JWT, and more.
@@ -2692,7 +2698,7 @@
 - [modernish/modernish](https://github.com/modernish/modernish) - Modernish is a library for writing robust, portable, readable, and powerful programs for POSIX-based shells and utilities.
 - [unixorn/awesome-zsh-plugins](https://github.com/unixorn/awesome-zsh-plugins) - A collection of ZSH frameworks, plugins, themes and tutorials.
 - [xwmx/nb](https://github.com/xwmx/nb) - CLI and local web plain text note‑taking, bookmarking, and archiving with linking, tagging, filtering, search, Git versioning & syncing, Pandoc conversion, + more, in a single portable script.
-- [nikitavoloboev/dotfiles](https://github.com/nikitavoloboev/dotfiles) - Fish, Karabiner, VSCode, Sublime, Neovim, Nix
+- [nikitavoloboev/config](https://github.com/nikitavoloboev/config) - Fish, Karabiner, VS Code
 - [alrra/dotfiles](https://github.com/alrra/dotfiles) - 💻 macOS / Ubuntu dotfiles
 - [tony/tmux-config](https://github.com/tony/tmux-config) - :green_book: Example tmux configuration - screen + vim key-bindings, system stat, cpu load bar.
 - [ultimate-pms/ultimate-media-server-core](https://github.com/ultimate-pms/ultimate-media-server-core) - A bunch of scripts that I've collected, written, and forked for the ultimate administration & automation of your Media Server - Think of this as your "Media server in a box"
@@ -2794,7 +2800,7 @@
 - [NEU-DSG/dailp-encoding](https://github.com/NEU-DSG/dailp-encoding) - Digital Archive of American Indian Languages Preservation and Perseverance
 - [nix-community/vscode-nix-ide](https://github.com/nix-community/vscode-nix-ide) - Nix language support for VSCode editor [maintainer: @jnoortheen]
 - [vidstack/player](https://github.com/vidstack/player) - (Beta) Customizable, lightweight, accessible, and framework-agnostic media player for the web. Modern alternative to Videojs.
-- [hsjobeki/noogle](https://github.com/hsjobeki/noogle) - https://noogle.dev - nix function exploring.
+- [nix-community/noogle](https://github.com/nix-community/noogle) - https://noogle.dev - nix function exploring.
 - [lindylearn/unclutter](https://github.com/lindylearn/unclutter) - A modern reader mode and article library for your browser.
 - [VSCodeVim/Vim](https://github.com/VSCodeVim/Vim) - :star: Vim for Visual Studio Code
 - [milliHQ/terraform-aws-next-js-image-optimization](https://github.com/milliHQ/terraform-aws-next-js-image-optimization) - A drop-in image optimization loader for Next.js image component powered by AWS Lambda.
