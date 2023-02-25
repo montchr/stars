@@ -1837,6 +1837,7 @@
 
 ## PHP 
 
+- [alleyinteractive/internal-flags](https://github.com/alleyinteractive/internal-flags) - Use a hidden taxonomy to improve expensive queries.
 - [wecodemore/wpstarter](https://github.com/wecodemore/wpstarter) - Easily bootstrap whole site Composer packages for WordPress.
 - [funkhaus/wp-gql-gutenberg](https://github.com/funkhaus/wp-gql-gutenberg) - 
 - [wpengine/wp-graphql-filter-query](https://github.com/wpengine/wp-graphql-filter-query) - Adds taxonomy filtering and aggregation support to WP GraphQL
