@@ -1654,6 +1654,7 @@
 
 ## Others 
 
+- [szepeviktor/how-to-operate](https://github.com/szepeviktor/how-to-operate) - THis is hot stuff on people working with web applications 🌶
 - [roots/vsce-blade-syntax](https://github.com/roots/vsce-blade-syntax) - Roots specific syntax highlighting for blade template files
 - [DavHau/edict](https://github.com/DavHau/edict) - Run nix commands on remote machines
 - [dbohdan/structured-text-tools](https://github.com/dbohdan/structured-text-tools) - A list of command line tools for manipulating structured text data
@@ -1837,6 +1838,13 @@
 
 ## PHP 
 
+- [ClassicPress/ClassicPress](https://github.com/ClassicPress/ClassicPress) - The CMS for Creators. Stable. Lightweight. Instantly Familiar. Forked from WordPress.
+- [jeffreyvr/wp-settings](https://github.com/jeffreyvr/wp-settings) - A package that makes creating WordPress settings pages a breeze.
+- [andrefelipe/vite-php-setup](https://github.com/andrefelipe/vite-php-setup) - Example on how to run Vite on traditional PHP sites
+- [wp-bond/bond](https://github.com/wp-bond/bond) - A utility library for WordPress developers.
+- [gregsullivan/_tw](https://github.com/gregsullivan/_tw) - The _tw generator creates a WordPress starter theme optimized for modern development with Tailwind CSS, Tailwind Typography and the WordPress editor.
+- [funkhaus/fuxt-backend](https://github.com/funkhaus/fuxt-backend) - A theme that turns WordPress into a true GraphQL powered Headless CMS. Optimized for the fuxt frontend boilerplate.
+- [funkhaus/wp-graphql-cors](https://github.com/funkhaus/wp-graphql-cors) - Makes WP GraphQL's authetication "just work". It does this by customizing the CORS headers.
 - [alleyinteractive/internal-flags](https://github.com/alleyinteractive/internal-flags) - Use a hidden taxonomy to improve expensive queries.
 - [wecodemore/wpstarter](https://github.com/wecodemore/wpstarter) - Easily bootstrap whole site Composer packages for WordPress.
 - [funkhaus/wp-gql-gutenberg](https://github.com/funkhaus/wp-gql-gutenberg) - 
