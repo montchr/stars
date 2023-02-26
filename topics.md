@@ -1205,6 +1205,7 @@
 - [Emiller88/dotfiles](https://github.com/Emiller88/dotfiles) - For keeping all my Dotfiles update to date
 - [jakeisnt/nixcfg](https://github.com/jakeisnt/nixcfg) - A modular, Wayland-enabled NixOS configuration.
 - [drym-org/symex.el](https://github.com/drym-org/symex.el) - An intuitive way to edit Lisp symbolic expressions ("symexes") structurally in Emacs
+- [elken/doom](https://github.com/elken/doom) - Doom Emacs config
 - [emacs-eaf/emacs-application-framework](https://github.com/emacs-eaf/emacs-application-framework) - EAF, an extensible framework that revolutionizes the graphical capabilities of Emacs
 - [bbatsov/prelude](https://github.com/bbatsov/prelude) - Prelude is an enhanced Emacs 25.1+ distribution that should make your experience with Emacs both more pleasant and more powerful.
 - [daviwil/emacs-from-scratch](https://github.com/daviwil/emacs-from-scratch) - An example of a fully custom Emacs configuration developed live on YouTube!
@@ -2196,6 +2197,7 @@
 
 ## library 
 
+- [wp-bond/bond](https://github.com/wp-bond/bond) - A utility library for WordPress developers.
 - [cloudposse/terraform-aws-components](https://github.com/cloudposse/terraform-aws-components) - Opinionated, self-contained Terraform root modules that each solve one, specific problem
 - [jonhoo/fantoccini](https://github.com/jonhoo/fantoccini) - A high-level API for programmatically interacting with web pages through WebDriver.
 - [open-source-labs/Svelvet](https://github.com/open-source-labs/Svelvet) - A lightweight Svelte component library for building interactive node-based flow diagrams
@@ -2782,6 +2784,11 @@
 
 ## others 
 
+- [szepeviktor/how-to-operate](https://github.com/szepeviktor/how-to-operate) - THis is hot stuff on people working with web applications 🌶
+- [jeffreyvr/wp-settings](https://github.com/jeffreyvr/wp-settings) - A package that makes creating WordPress settings pages a breeze.
+- [andrefelipe/vite-php-setup](https://github.com/andrefelipe/vite-php-setup) - Example on how to run Vite on traditional PHP sites
+- [funkhaus/fuxt-backend](https://github.com/funkhaus/fuxt-backend) - A theme that turns WordPress into a true GraphQL powered Headless CMS. Optimized for the fuxt frontend boilerplate.
+- [funkhaus/wp-graphql-cors](https://github.com/funkhaus/wp-graphql-cors) - Makes WP GraphQL's authetication "just work". It does this by customizing the CORS headers.
 - [patronage/bubs-next](https://github.com/patronage/bubs-next) - Headless Wordpress + Next.js Project scaffolding
 - [tailwindlabs/tailwindcss-typography](https://github.com/tailwindlabs/tailwindcss-typography) - 
 - [funkhaus/wp-gql-gutenberg](https://github.com/funkhaus/wp-gql-gutenberg) - 
@@ -3486,7 +3493,6 @@
 - [shlevy/nix-plugins](https://github.com/shlevy/nix-plugins) - Collection of miscellaneous plugins for the nix expression language
 - [nix-ocaml/nix-overlays](https://github.com/nix-ocaml/nix-overlays) - OCaml-focused, custom nix-overlays
 - [adisbladis/nixconfig](https://github.com/adisbladis/nixconfig) - My nixos config
-- [elken/doom](https://github.com/elken/doom) - Doom Emacs config
 - [alleyinteractive/clone-replace](https://github.com/alleyinteractive/clone-replace) - Clone & Replace WordPress Plugin. Gives you the ability to clone posts, and replace posts. Together, you have a very powerful tool for a fork/merge editing model.
 - [NixOS/nixos-search](https://github.com/NixOS/nixos-search) - Search NixOS packages and options
 - [nix-community/trustix](https://github.com/nix-community/trustix) - Trustix: Distributed trust and reproducibility tracking for binary caches [maintainer=@adisbladis]
@@ -4078,6 +4084,7 @@
 
 ## php 
 
+- [ClassicPress/ClassicPress](https://github.com/ClassicPress/ClassicPress) - The CMS for Creators. Stable. Lightweight. Instantly Familiar. Forked from WordPress.
 - [wecodemore/wpstarter](https://github.com/wecodemore/wpstarter) - Easily bootstrap whole site Composer packages for WordPress.
 - [sybrew/the-seo-framework](https://github.com/sybrew/the-seo-framework) - The SEO Framework WordPress plugin.
 - [davidcole1340/ext-php-rs](https://github.com/davidcole1340/ext-php-rs) - Bindings for the Zend API to build PHP extensions natively in Rust.
@@ -5256,6 +5263,9 @@
 
 ## wordpress 
 
+- [ClassicPress/ClassicPress](https://github.com/ClassicPress/ClassicPress) - The CMS for Creators. Stable. Lightweight. Instantly Familiar. Forked from WordPress.
+- [wp-bond/bond](https://github.com/wp-bond/bond) - A utility library for WordPress developers.
+- [gregsullivan/_tw](https://github.com/gregsullivan/_tw) - The _tw generator creates a WordPress starter theme optimized for modern development with Tailwind CSS, Tailwind Typography and the WordPress editor.
 - [alleyinteractive/internal-flags](https://github.com/alleyinteractive/internal-flags) - Use a hidden taxonomy to improve expensive queries.
 - [wecodemore/wpstarter](https://github.com/wecodemore/wpstarter) - Easily bootstrap whole site Composer packages for WordPress.
 - [wpengine/wp-graphql-filter-query](https://github.com/wpengine/wp-graphql-filter-query) - Adds taxonomy filtering and aggregation support to WP GraphQL
