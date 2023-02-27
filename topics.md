@@ -1820,7 +1820,6 @@
 - [bobbyiliev/introduction-to-bash-scripting](https://github.com/bobbyiliev/introduction-to-bash-scripting) - Free Introduction to Bash Scripting eBook
 - [ish-app/ish](https://github.com/ish-app/ish) - Linux shell for iOS
 - [trailofbits/graphtage](https://github.com/trailofbits/graphtage) - A semantic diff utility and library for tree-like files such as JSON, JSON5, XML, HTML, YAML, and CSV.
-- [p0deje/Maccy](https://github.com/p0deje/Maccy) - Lightweight clipboard manager for macOS
 - [serhii-londar/open-source-mac-os-apps](https://github.com/serhii-londar/open-source-mac-os-apps) - 🚀 Awesome list of open source applications for macOS. https://t.me/s/opensourcemacosapps
 - [php-build/php-build](https://github.com/php-build/php-build) - Builds PHP so that multiple versions can be used side by side.
 - [dev-sec/ansible-collection-hardening](https://github.com/dev-sec/ansible-collection-hardening) - This Ansible collection provides battle tested hardening for Linux, SSH, nginx, MySQL
@@ -2784,6 +2783,7 @@
 
 ## others 
 
+- [vinkla/headache](https://github.com/vinkla/headache) - An easy-to-swallow painkiller plugin for WordPress
 - [szepeviktor/how-to-operate](https://github.com/szepeviktor/how-to-operate) - THis is hot stuff on people working with web applications 🌶
 - [jeffreyvr/wp-settings](https://github.com/jeffreyvr/wp-settings) - A package that makes creating WordPress settings pages a breeze.
 - [andrefelipe/vite-php-setup](https://github.com/andrefelipe/vite-php-setup) - Example on how to run Vite on traditional PHP sites
@@ -4084,6 +4084,8 @@
 
 ## php 
 
+- [themosis/framework](https://github.com/themosis/framework) - The Themosis framework core.
+- [themosis/themosis](https://github.com/themosis/themosis) - A framework for WordPress developers.
 - [ClassicPress/ClassicPress](https://github.com/ClassicPress/ClassicPress) - The CMS for Creators. Stable. Lightweight. Instantly Familiar. Forked from WordPress.
 - [wecodemore/wpstarter](https://github.com/wecodemore/wpstarter) - Easily bootstrap whole site Composer packages for WordPress.
 - [sybrew/the-seo-framework](https://github.com/sybrew/the-seo-framework) - The SEO Framework WordPress plugin.
@@ -5263,6 +5265,9 @@
 
 ## wordpress 
 
+- [themosis/framework](https://github.com/themosis/framework) - The Themosis framework core.
+- [themosis/themosis](https://github.com/themosis/themosis) - A framework for WordPress developers.
+- [idleberg/php-wordpress-vite-assets](https://github.com/idleberg/php-wordpress-vite-assets) - Injects assets from a Vite manifest to the Wordpress head
 - [ClassicPress/ClassicPress](https://github.com/ClassicPress/ClassicPress) - The CMS for Creators. Stable. Lightweight. Instantly Familiar. Forked from WordPress.
 - [wp-bond/bond](https://github.com/wp-bond/bond) - A utility library for WordPress developers.
 - [gregsullivan/_tw](https://github.com/gregsullivan/_tw) - The _tw generator creates a WordPress starter theme optimized for modern development with Tailwind CSS, Tailwind Typography and the WordPress editor.
