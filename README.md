@@ -1838,6 +1838,10 @@
 
 ## PHP 
 
+- [themosis/framework](https://github.com/themosis/framework) - The Themosis framework core.
+- [themosis/themosis](https://github.com/themosis/themosis) - A framework for WordPress developers.
+- [vinkla/headache](https://github.com/vinkla/headache) - An easy-to-swallow painkiller plugin for WordPress
+- [idleberg/php-wordpress-vite-assets](https://github.com/idleberg/php-wordpress-vite-assets) - Injects assets from a Vite manifest to the Wordpress head
 - [ClassicPress/ClassicPress](https://github.com/ClassicPress/ClassicPress) - The CMS for Creators. Stable. Lightweight. Instantly Familiar. Forked from WordPress.
 - [jeffreyvr/wp-settings](https://github.com/jeffreyvr/wp-settings) - A package that makes creating WordPress settings pages a breeze.
 - [andrefelipe/vite-php-setup](https://github.com/andrefelipe/vite-php-setup) - Example on how to run Vite on traditional PHP sites
