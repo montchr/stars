@@ -520,6 +520,7 @@
 
 ## bash 
 
+- [Hyde46/hoard](https://github.com/Hyde46/hoard) - cli command organizer written in rust
 - [starship/starship](https://github.com/starship/starship) - ☄🌌️  The minimal, blazing-fast, and infinitely customizable prompt for any shell!
 - [rgbatty/cauldron](https://github.com/rgbatty/cauldron) - Double, double toil and trouble; Fire burn and caldron bubble - A collection of declarative user and host configurations (eg. dotfiles) managed with Nix
 - [nix-community/patsh](https://github.com/nix-community/patsh) - A command-line tool for patching shell scripts inspired by resholve [maintainer=@figsoda]
@@ -666,6 +667,7 @@
 
 ## cli 
 
+- [Hyde46/hoard](https://github.com/Hyde46/hoard) - cli command organizer written in rust
 - [nunomaduro/phpinsights](https://github.com/nunomaduro/phpinsights) - 🔰 Instant PHP quality checks from your console
 - [dotenv-org/dotenv-vault](https://github.com/dotenv-org/dotenv-vault) - Sync .env files
 - [dbohdan/structured-text-tools](https://github.com/dbohdan/structured-text-tools) - A list of command line tools for manipulating structured text data
@@ -854,6 +856,7 @@
 
 ## css 
 
+- [Etesam913/rounded-fox](https://github.com/Etesam913/rounded-fox) - A userchrome css configuration for firefox that is ultra-minimalistic
 - [ritz078/transform](https://github.com/ritz078/transform) - A polyglot web converter.
 - [joe-bell/cva](https://github.com/joe-bell/cva) - Class Variance Authority
 - [lindylearn/unclutter](https://github.com/lindylearn/unclutter) - A modern reader mode and article library for your browser.
@@ -1157,7 +1160,7 @@
 - [jeremyf/dotemacs](https://github.com/jeremyf/dotemacs) - 
 - [motform/emacs.d](https://github.com/motform/emacs.d) - a configuration for evil, pseudo-portable ergonomics and doubtful profits
 - [binarydigitz01/org-project-manager](https://github.com/binarydigitz01/org-project-manager) - A plugin to manage projects with org-roam
-- [tam5/font-patcher](https://github.com/tam5/font-patcher) - :man_facepalming: Font line height patcher
+- [rocketemoji/util-font-patcher](https://github.com/rocketemoji/util-font-patcher) - Font line height patcher
 - [motform/stimmung-themes](https://github.com/motform/stimmung-themes) - emacs tuned to inner harmonies
 - [tychoish/.emacs.d](https://github.com/tychoish/.emacs.d) - Tycho Emacs Config Kit
 - [bitspook/spookfox](https://github.com/bitspook/spookfox) - A tinkerer's bridge b/w Emacs and Firefox
@@ -1327,6 +1330,7 @@
 
 ## firefox 
 
+- [Etesam913/rounded-fox](https://github.com/Etesam913/rounded-fox) - A userchrome css configuration for firefox that is ultra-minimalistic
 - [b0o/surfingkeys-conf](https://github.com/b0o/surfingkeys-conf) - 🏄‍♀️ A SurfingKeys config which adds 180+ key mappings & 50+ search engines
 - [kittywitch/nixfiles](https://github.com/kittywitch/nixfiles) - kat's configuration flake
 - [lindylearn/unclutter](https://github.com/lindylearn/unclutter) - A modern reader mode and article library for your browser.
@@ -1661,6 +1665,7 @@
 
 ## hacktoberfest 
 
+- [Hyde46/hoard](https://github.com/Hyde46/hoard) - cli command organizer written in rust
 - [wecodemore/wpstarter](https://github.com/wecodemore/wpstarter) - Easily bootstrap whole site Composer packages for WordPress.
 - [davidcole1340/ext-php-rs](https://github.com/davidcole1340/ext-php-rs) - Bindings for the Zend API to build PHP extensions natively in Rust.
 - [nunomaduro/phpinsights](https://github.com/nunomaduro/phpinsights) - 🔰 Instant PHP quality checks from your console
@@ -2620,10 +2625,10 @@
 
 ## nextjs 
 
+- [kleinweb/logan-center](https://github.com/kleinweb/logan-center) - Source code for the Logan Center for Urban Investigative Reporting website
 - [shuding/nextra](https://github.com/shuding/nextra) - Simple, powerful and flexible site generation framework with everything you love from Next.js.
 - [Highfivery/nextjs-starter](https://github.com/Highfivery/nextjs-starter) - A Next.js 13 CMS & theme agnostic starter framework to build fully-featured headless sites.
 - [milliHQ/terraform-aws-next-js-image-optimization](https://github.com/milliHQ/terraform-aws-next-js-image-optimization) - A drop-in image optimization loader for Next.js image component powered by AWS Lambda.
-- [kleinweb/logan-center](https://github.com/kleinweb/logan-center) - Source code for the Logan Center for Urban Investigative Reporting website
 - [gregrickaby/nextjs-github-pages](https://github.com/gregrickaby/nextjs-github-pages) - 🚀 Deploy a Next.js app to Github Pages via Github Actions.
 - [nikitowsky/next-advanced-apollo-starter](https://github.com/nikitowsky/next-advanced-apollo-starter) - Advanced, but minimalistic Next.js and Apollo starter
 - [allister-grange/startertab](https://github.com/allister-grange/startertab) - A custom new tab page, keeping all the best info handy (a work in progress, feedback is invaluable)
@@ -4253,7 +4258,7 @@
 - [httpie/httpie](https://github.com/httpie/httpie) - 🥧 HTTPie for Terminal — modern, user-friendly command-line HTTP client for the API era. JSON support, colors, sessions, downloads, plugins & more.
 - [everdrone/nts](https://github.com/everdrone/nts) - NTS Radio downloader and metadata parser
 - [sherlock-project/sherlock](https://github.com/sherlock-project/sherlock) - 🔎 Hunt down social media accounts by username across social networks
-- [tam5/font-patcher](https://github.com/tam5/font-patcher) - :man_facepalming: Font line height patcher
+- [rocketemoji/util-font-patcher](https://github.com/rocketemoji/util-font-patcher) - Font line height patcher
 - [donnemartin/haxor-news](https://github.com/donnemartin/haxor-news) - Browse Hacker News like a haxor: A Hacker News command line interface (CLI).
 - [donnemartin/dev-setup](https://github.com/donnemartin/dev-setup) - macOS development environment setup:  Easy-to-understand instructions with automated setup scripts for developer tools like Vim, Sublime Text, Bash, iTerm, Python data analysis, Spark, Hadoop MapReduc
 - [donnemartin/system-design-primer](https://github.com/donnemartin/system-design-primer) - Learn how to design large-scale systems. Prep for the system design interview.  Includes Anki flashcards.
@@ -4507,6 +4512,7 @@
 
 ## rust 
 
+- [Hyde46/hoard](https://github.com/Hyde46/hoard) - cli command organizer written in rust
 - [ritz078/transform](https://github.com/ritz078/transform) - A polyglot web converter.
 - [davidcole1340/ext-php-rs](https://github.com/davidcole1340/ext-php-rs) - Bindings for the Zend API to build PHP extensions natively in Rust.
 - [str4d/rage](https://github.com/str4d/rage) - A simple, secure and modern encryption tool (and Rust library) with small explicit keys, no config options, and UNIX-style composability.
