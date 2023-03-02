@@ -313,6 +313,7 @@
 
 ## Common Lisp 
 
+- [shaunsingh/nix-darwin-dotfiles](https://github.com/shaunsingh/nix-darwin-dotfiles) - Dotfiles managed via Nix-Darwin and Mk-Darwin-System, for schoolwork and kotlin, lua, and rust programming
 - [atlas-engineer/nyxt](https://github.com/atlas-engineer/nyxt) - Nyxt - the hacker's power-browser.
 
 ## DIGITAL Command Language 
@@ -1507,7 +1508,6 @@
 - [nix-community/nixdoc](https://github.com/nix-community/nixdoc) - Tool to generate documentation for Nix library functions [maintainer=@ryantm]
 - [vic/clap-nix](https://github.com/vic/clap-nix) - Command line argument parser in pure Nix. Supports sub-commands, typed positional arguments, value coercion and resolution via Nix Modules.
 - [vic/mk-darwin-system](https://github.com/vic/mk-darwin-system) - Small Nix utility to create an M1 aarch64-darwin (nixFlakes + nix-darwin + home-manager) system.
-- [shaunsingh/nix-darwin-dotfiles](https://github.com/shaunsingh/nix-darwin-dotfiles) - Dotfiles managed via Nix-Darwin and Mk-Darwin-System, for schoolwork and kotlin, lua, and rust programming
 - [gvolpe/nix-config](https://github.com/gvolpe/nix-config) - :space_invader: NixOS configuration
 - [Misterio77/nix-starter-configs](https://github.com/Misterio77/nix-starter-configs) - Simple and documented config templates to help you get started with NixOS + home-manager + flakes. All the boilerplate you need!
 - [Shados/nixos-config](https://github.com/Shados/nixos-config) - Generic modules and defaults for my NixOS systems.
@@ -1839,6 +1839,9 @@
 
 ## PHP 
 
+- [humanmade/roles-to-taxonomy](https://github.com/humanmade/roles-to-taxonomy) - WordPress plugin to store user roles and levels in a taxonomy
+- [mrbobbybryant/shadow-taxonomy](https://github.com/mrbobbybryant/shadow-taxonomy) - Provides a Simple API for making Many To Many Relationships in WordPress.
+- [pods-framework/pods](https://github.com/pods-framework/pods) - The Pods Framework is a Content Development Framework for WordPress - It lets you create and extend content types that can be used for any project. Add fields of various types we've built in, or add y
 - [themosis/framework](https://github.com/themosis/framework) - The Themosis framework core.
 - [themosis/themosis](https://github.com/themosis/themosis) - A framework for WordPress developers.
 - [vinkla/headache](https://github.com/vinkla/headache) - An easy-to-swallow painkiller plugin for WordPress
@@ -2803,6 +2806,9 @@
 
 ## TypeScript 
 
+- [creative-andrew/ca-blog-next-js](https://github.com/creative-andrew/ca-blog-next-js) - Next.js Blog powered by headless WordPress
+- [alleyinteractive/fm-gutenberg](https://github.com/alleyinteractive/fm-gutenberg) - Fieldmanager Gutenberg
+- [adamfortuna/adamfortuna.com](https://github.com/adamfortuna/adamfortuna.com) - The Next.js application for adamfortuna.com.
 - [kleinweb/logan-center](https://github.com/kleinweb/logan-center) - Source code for the Logan Center for Urban Investigative Reporting website
 - [ritz078/transform](https://github.com/ritz078/transform) - A polyglot web converter.
 - [shuding/nextra](https://github.com/shuding/nextra) - Simple, powerful and flexible site generation framework with everything you love from Next.js.
