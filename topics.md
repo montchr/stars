@@ -1665,6 +1665,7 @@
 
 ## hacktoberfest 
 
+- [pods-framework/pods](https://github.com/pods-framework/pods) - The Pods Framework is a Content Development Framework for WordPress - It lets you create and extend content types that can be used for any project. Add fields of various types we've built in, or add y
 - [Hyde46/hoard](https://github.com/Hyde46/hoard) - cli command organizer written in rust
 - [wecodemore/wpstarter](https://github.com/wecodemore/wpstarter) - Easily bootstrap whole site Composer packages for WordPress.
 - [davidcole1340/ext-php-rs](https://github.com/davidcole1340/ext-php-rs) - Bindings for the Zend API to build PHP extensions natively in Rust.
@@ -2788,6 +2789,11 @@
 
 ## others 
 
+- [humanmade/roles-to-taxonomy](https://github.com/humanmade/roles-to-taxonomy) - WordPress plugin to store user roles and levels in a taxonomy
+- [mrbobbybryant/shadow-taxonomy](https://github.com/mrbobbybryant/shadow-taxonomy) - Provides a Simple API for making Many To Many Relationships in WordPress.
+- [creative-andrew/ca-blog-next-js](https://github.com/creative-andrew/ca-blog-next-js) - Next.js Blog powered by headless WordPress
+- [alleyinteractive/fm-gutenberg](https://github.com/alleyinteractive/fm-gutenberg) - Fieldmanager Gutenberg
+- [adamfortuna/adamfortuna.com](https://github.com/adamfortuna/adamfortuna.com) - The Next.js application for adamfortuna.com.
 - [vinkla/headache](https://github.com/vinkla/headache) - An easy-to-swallow painkiller plugin for WordPress
 - [szepeviktor/how-to-operate](https://github.com/szepeviktor/how-to-operate) - THis is hot stuff on people working with web applications 🌶
 - [jeffreyvr/wp-settings](https://github.com/jeffreyvr/wp-settings) - A package that makes creating WordPress settings pages a breeze.
@@ -4089,6 +4095,7 @@
 
 ## php 
 
+- [pods-framework/pods](https://github.com/pods-framework/pods) - The Pods Framework is a Content Development Framework for WordPress - It lets you create and extend content types that can be used for any project. Add fields of various types we've built in, or add y
 - [themosis/framework](https://github.com/themosis/framework) - The Themosis framework core.
 - [themosis/themosis](https://github.com/themosis/themosis) - A framework for WordPress developers.
 - [ClassicPress/ClassicPress](https://github.com/ClassicPress/ClassicPress) - The CMS for Creators. Stable. Lightweight. Instantly Familiar. Forked from WordPress.
@@ -4358,7 +4365,6 @@
 - [keystonejs/keystone](https://github.com/keystonejs/keystone) - The most powerful headless CMS for Node.js — built with GraphQL and React
 - [PostHog/posthog](https://github.com/PostHog/posthog) - 🦔 PostHog provides open-source product analytics, session recording, feature flagging and a/b testing that you can self-host.
 - [WebDevStudios/nextjs-wordpress-starter](https://github.com/WebDevStudios/nextjs-wordpress-starter) - A headless starter for WordPress powered by Next.js.
-- [pubkey/rxdb](https://github.com/pubkey/rxdb) - A fast, offline-first, reactive database for JavaScript Applications https://rxdb.info/
 - [toeverything/AFFiNE](https://github.com/toeverything/AFFiNE) - There can be more than Notion and Miro. AFFiNE is a next-gen knowledge base that brings planning, sorting and creating all together. Privacy first, open-source, customizable and ready to use.
 - [redwoodjs/redwood](https://github.com/redwoodjs/redwood) - The App Framework for Startups
 - [refinedev/refine](https://github.com/refinedev/refine) - Build your React-based CRUD applications, without constraints.
@@ -5271,6 +5277,7 @@
 
 ## wordpress 
 
+- [pods-framework/pods](https://github.com/pods-framework/pods) - The Pods Framework is a Content Development Framework for WordPress - It lets you create and extend content types that can be used for any project. Add fields of various types we've built in, or add y
 - [themosis/framework](https://github.com/themosis/framework) - The Themosis framework core.
 - [themosis/themosis](https://github.com/themosis/themosis) - A framework for WordPress developers.
 - [idleberg/php-wordpress-vite-assets](https://github.com/idleberg/php-wordpress-vite-assets) - Injects assets from a Vite manifest to the Wordpress head
