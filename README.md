@@ -313,7 +313,6 @@
 
 ## Common Lisp 
 
-- [shaunsingh/nix-darwin-dotfiles](https://github.com/shaunsingh/nix-darwin-dotfiles) - Dotfiles managed via Nix-Darwin and Mk-Darwin-System, for schoolwork and kotlin, lua, and rust programming
 - [atlas-engineer/nyxt](https://github.com/atlas-engineer/nyxt) - Nyxt - the hacker's power-browser.
 
 ## DIGITAL Command Language 
@@ -922,6 +921,7 @@
 
 ## JavaScript 
 
+- [humanmade/publication-checklist](https://github.com/humanmade/publication-checklist) - Run checks and enforce conditions before posts are published. Built and designed for the WordPress block editor.
 - [patronage/bubs-next](https://github.com/patronage/bubs-next) - Headless Wordpress + Next.js Project scaffolding
 - [tailwindlabs/tailwindcss-typography](https://github.com/tailwindlabs/tailwindcss-typography) - 
 - [leagris/githubsieve](https://github.com/leagris/githubsieve) - Sieve Mail filtering and tagging for Gitub Notifications
@@ -1508,6 +1508,7 @@
 - [nix-community/nixdoc](https://github.com/nix-community/nixdoc) - Tool to generate documentation for Nix library functions [maintainer=@ryantm]
 - [vic/clap-nix](https://github.com/vic/clap-nix) - Command line argument parser in pure Nix. Supports sub-commands, typed positional arguments, value coercion and resolution via Nix Modules.
 - [vic/mk-darwin-system](https://github.com/vic/mk-darwin-system) - Small Nix utility to create an M1 aarch64-darwin (nixFlakes + nix-darwin + home-manager) system.
+- [shaunsingh/nix-darwin-dotfiles](https://github.com/shaunsingh/nix-darwin-dotfiles) - Dotfiles managed via Nix-Darwin and Mk-Darwin-System, for schoolwork and kotlin, lua, and rust programming
 - [gvolpe/nix-config](https://github.com/gvolpe/nix-config) - :space_invader: NixOS configuration
 - [Misterio77/nix-starter-configs](https://github.com/Misterio77/nix-starter-configs) - Simple and documented config templates to help you get started with NixOS + home-manager + flakes. All the boilerplate you need!
 - [Shados/nixos-config](https://github.com/Shados/nixos-config) - Generic modules and defaults for my NixOS systems.
@@ -1839,6 +1840,11 @@
 
 ## PHP 
 
+- [theMikeD/wp-term-management-tools](https://github.com/theMikeD/wp-term-management-tools) - A WordPress plugin to help with taxonomy term management. Allows you to merge terms, move terms between taxonomies, and set term parents, individually or in bulk. WPML is supported when changing taxon
+- [szepeviktor/phpcs-psr-12-neutron-hybrid-ruleset](https://github.com/szepeviktor/phpcs-psr-12-neutron-hybrid-ruleset) - My useful frankenstein PHPCS ruleset 👓 for OOP WordPress development
+- [happyprime/shadow-terms](https://github.com/happyprime/shadow-terms) - Shadow taxonomies for post types used to relate content in WordPress
+- [piotrplenik/clean-code-php](https://github.com/piotrplenik/clean-code-php) - :bathtub: Clean Code concepts adapted for PHP
+- [humanmade/hm-utility-taxonomy](https://github.com/humanmade/hm-utility-taxonomy) - A hidden taxonomy, used for filtering of posts/pages etc. in a way that is more performant than using the likes of post meta
 - [humanmade/roles-to-taxonomy](https://github.com/humanmade/roles-to-taxonomy) - WordPress plugin to store user roles and levels in a taxonomy
 - [mrbobbybryant/shadow-taxonomy](https://github.com/mrbobbybryant/shadow-taxonomy) - Provides a Simple API for making Many To Many Relationships in WordPress.
 - [pods-framework/pods](https://github.com/pods-framework/pods) - The Pods Framework is a Content Development Framework for WordPress - It lets you create and extend content types that can be used for any project. Add fields of various types we've built in, or add y
@@ -1975,7 +1981,7 @@
 - [Automattic/wordbless](https://github.com/Automattic/wordbless) - WorDBless allows you to use WordPress core functions in your PHPUnit tests without having to set up a database and the whole WordPress environment
 - [sabre-io/vobject](https://github.com/sabre-io/vobject) - :date: The VObject library for PHP allows you to easily parse and manipulate iCalendar and vCard objects
 - [alleyinteractive/logger](https://github.com/alleyinteractive/logger) - A Monolog-based logging tool for WordPress. Supports storing log message in a custom post type or in individual posts and terms.
-- [Automattic/msm-sitemap](https://github.com/Automattic/msm-sitemap) - Comprehensive sitemaps for your WordPress VIP site. Joint collaboration between Metro.co.uk, WordPress.com VIP, Alley Interactive, Maker Media, 10up, and others.
+- [Automattic/msm-sitemap](https://github.com/Automattic/msm-sitemap) - Comprehensive sitemaps for your WordPress VIP site. Joint collaboration between Metro.co.uk, WordPress VIP, Alley Interactive, Maker Media, 10up, and others.
 - [johnbillion/args](https://github.com/johnbillion/args) - Array arguments made bearable
 - [martinsluters/asynchronous-template-data](https://github.com/martinsluters/asynchronous-template-data) - A WordPress plugin that provides a programmatic interface to register data providers and display (inject) the data in templates asynchronously
 - [laravel/pint](https://github.com/laravel/pint) - Laravel Pint is an opinionated PHP code style fixer for minimalists.
