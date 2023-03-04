@@ -27,6 +27,7 @@
 - [bootstrap](#bootstrap)
 - [bot](#bot)
 - [c](#c)
+- [chatgpt](#chatgpt)
 - [chrome](#chrome)
 - [chrome-extension](#chrome-extension)
 - [cli](#cli)
@@ -634,6 +635,10 @@
 - [jarun/nnn](https://github.com/jarun/nnn) - n³ The unorthodox terminal file manager
 - [kovidgoyal/kitty](https://github.com/kovidgoyal/kitty) - Cross-platform, fast, feature-rich, GPU based terminal
 
+## chatgpt 
+
+- [siyuan-note/siyuan](https://github.com/siyuan-note/siyuan) - Build Your Eternal Digital Garden
+
 ## chrome 
 
 - [b0o/surfingkeys-conf](https://github.com/b0o/surfingkeys-conf) - 🏄‍♀️ A SurfingKeys config which adds 180+ key mappings & 50+ search engines
@@ -675,10 +680,8 @@
 - [str4d/rage](https://github.com/str4d/rage) - A simple, secure and modern encryption tool (and Rust library) with small explicit keys, no config options, and UNIX-style composability.
 - [sharkdp/hyperfine](https://github.com/sharkdp/hyperfine) - A command-line benchmarking tool
 - [imsnif/diskonaut](https://github.com/imsnif/diskonaut) - Terminal disk space navigator 🔭
-- [nix-community/nurl](https://github.com/nix-community/nurl) - Generate Nix fetcher calls from repository URLs [maintainer=@figsoda]
 - [svg/svgo](https://github.com/svg/svgo) - ⚙️ Node.js tool for optimizing SVG files
 - [cocogitto/cocogitto](https://github.com/cocogitto/cocogitto) - The Conventional Commits toolbox
-- [nix-community/patsh](https://github.com/nix-community/patsh) - A command-line tool for patching shell scripts inspired by resholve [maintainer=@figsoda]
 - [sharkdp/pastel](https://github.com/sharkdp/pastel) - A command-line tool to generate, analyze, convert and manipulate colors
 - [charmbracelet/vhs](https://github.com/charmbracelet/vhs) - Your CLI home video recorder 📼
 - [gruntwork-io/git-xargs](https://github.com/gruntwork-io/git-xargs) - git-xargs is a command-line tool (CLI) for making updates across multiple Github repositories with a single command.
@@ -1634,6 +1637,7 @@
 
 ## graphql 
 
+- [jasonkuhrt/graphql-request](https://github.com/jasonkuhrt/graphql-request) - Minimal GraphQL client supporting Node and browsers for scripts or simple apps
 - [ritz078/transform](https://github.com/ritz078/transform) - A polyglot web converter.
 - [AxeWP/wp-graphql-headless-login](https://github.com/AxeWP/wp-graphql-headless-login) - A WordPress plugin that provides Headless login and authentication for WPGraphQL, supporting traditional passwords, OAuth2/OpenID Connect, JWT, and more.
 - [wp-graphql/wp-graphql-jwt-authentication](https://github.com/wp-graphql/wp-graphql-jwt-authentication) - Authentication for WPGraphQL using JWT (JSON Web Tokens)
@@ -2682,6 +2686,7 @@
 
 ## nodejs 
 
+- [jasonkuhrt/graphql-request](https://github.com/jasonkuhrt/graphql-request) - Minimal GraphQL client supporting Node and browsers for scripts or simple apps
 - [philipstanislaus/performant-array-to-tree](https://github.com/philipstanislaus/performant-array-to-tree) - Converts an array of items with ids and parent ids to a nested tree in a performant O(n) way. Runs in browsers and Node.js.
 - [svg/svgo](https://github.com/svg/svgo) - ⚙️ Node.js tool for optimizing SVG files
 - [lovell/sharp](https://github.com/lovell/sharp) - High performance Node.js image processing, the fastest module to resize JPEG, PNG, WebP, AVIF and TIFF images. Uses the libvips library.
@@ -2789,6 +2794,13 @@
 
 ## others 
 
+- [joshuadavidnelson/disable-blog](https://github.com/joshuadavidnelson/disable-blog) - Power a blogless site with WordPress. This plugin disables all blog-related functionality (by hiding, removing, and redirecting).
+- [kylephillips/wp-nested-pages](https://github.com/kylephillips/wp-nested-pages) - A more intuitive way to manage pages and content structure in the WordPress admin
+- [humanmade/publication-checklist](https://github.com/humanmade/publication-checklist) - Run checks and enforce conditions before posts are published. Built and designed for the WordPress block editor.
+- [theMikeD/wp-term-management-tools](https://github.com/theMikeD/wp-term-management-tools) - A WordPress plugin to help with taxonomy term management. Allows you to merge terms, move terms between taxonomies, and set term parents, individually or in bulk. WPML is supported when changing taxon
+- [happyprime/shadow-terms](https://github.com/happyprime/shadow-terms) - Shadow taxonomies for post types used to relate content in WordPress
+- [piotrplenik/clean-code-php](https://github.com/piotrplenik/clean-code-php) - :bathtub: Clean Code concepts adapted for PHP
+- [humanmade/hm-utility-taxonomy](https://github.com/humanmade/hm-utility-taxonomy) - A hidden taxonomy, used for filtering of posts/pages etc. in a way that is more performant than using the likes of post meta
 - [humanmade/roles-to-taxonomy](https://github.com/humanmade/roles-to-taxonomy) - WordPress plugin to store user roles and levels in a taxonomy
 - [mrbobbybryant/shadow-taxonomy](https://github.com/mrbobbybryant/shadow-taxonomy) - Provides a Simple API for making Many To Many Relationships in WordPress.
 - [creative-andrew/ca-blog-next-js](https://github.com/creative-andrew/ca-blog-next-js) - Next.js Blog powered by headless WordPress
@@ -5017,6 +5029,7 @@
 
 ## typescript 
 
+- [jasonkuhrt/graphql-request](https://github.com/jasonkuhrt/graphql-request) - Minimal GraphQL client supporting Node and browsers for scripts or simple apps
 - [ritz078/transform](https://github.com/ritz078/transform) - A polyglot web converter.
 - [roots/bud](https://github.com/roots/bud) - ⚡️ Lightning fast webpack framework combining the best parts of Laravel Mix and Symfony Encore
 - [philipstanislaus/performant-array-to-tree](https://github.com/philipstanislaus/performant-array-to-tree) - Converts an array of items with ids and parent ids to a nested tree in a performant O(n) way. Runs in browsers and Node.js.
@@ -5277,6 +5290,7 @@
 
 ## wordpress 
 
+- [szepeviktor/phpcs-psr-12-neutron-hybrid-ruleset](https://github.com/szepeviktor/phpcs-psr-12-neutron-hybrid-ruleset) - My useful frankenstein PHPCS ruleset 👓 for OOP WordPress development
 - [pods-framework/pods](https://github.com/pods-framework/pods) - The Pods Framework is a Content Development Framework for WordPress - It lets you create and extend content types that can be used for any project. Add fields of various types we've built in, or add y
 - [themosis/framework](https://github.com/themosis/framework) - The Themosis framework core.
 - [themosis/themosis](https://github.com/themosis/themosis) - A framework for WordPress developers.
@@ -5372,7 +5386,7 @@
 - [nlemoine/wp-cli-fixtures](https://github.com/nlemoine/wp-cli-fixtures) - Easily generate custom fake data for WordPress
 - [alwaysblank/plumbing-templates](https://github.com/alwaysblank/plumbing-templates) - 👩‍🔧 Custom directories for custom templates!
 - [alleyinteractive/logger](https://github.com/alleyinteractive/logger) - A Monolog-based logging tool for WordPress. Supports storing log message in a custom post type or in individual posts and terms.
-- [Automattic/msm-sitemap](https://github.com/Automattic/msm-sitemap) - Comprehensive sitemaps for your WordPress VIP site. Joint collaboration between Metro.co.uk, WordPress.com VIP, Alley Interactive, Maker Media, 10up, and others.
+- [Automattic/msm-sitemap](https://github.com/Automattic/msm-sitemap) - Comprehensive sitemaps for your WordPress VIP site. Joint collaboration between Metro.co.uk, WordPress VIP, Alley Interactive, Maker Media, 10up, and others.
 - [johnbillion/args](https://github.com/johnbillion/args) - Array arguments made bearable
 - [Rarst/laps](https://github.com/Rarst/laps) - Light WordPress profiler.
 - [markjaquith/wp-help](https://github.com/markjaquith/wp-help) - #WordPressPlugin: Site operators can create detailed, hierarchical documentation for the site's authors, editors, and contributors, viewable in the WordPress admin
