@@ -116,6 +116,7 @@
 - [library](#library)
 - [linux](#linux)
 - [lua](#lua)
+- [mac](#mac)
 - [machine-learning](#machine-learning)
 - [macos](#macos)
 - [markdown](#markdown)
@@ -274,6 +275,7 @@
 
 ## api 
 
+- [renatonascalves/wp-graphql-buddypress](https://github.com/renatonascalves/wp-graphql-buddypress) - Bringing the power of GraphQL to BuddyPress.
 - [sybrew/the-seo-framework](https://github.com/sybrew/the-seo-framework) - The SEO Framework WordPress plugin.
 - [leoloso/PoP](https://github.com/leoloso/PoP) - Monorepo of the PoP project, including: a server-side component model in PHP, a GraphQL server, a GraphQL API plugin for WordPress, and a website builder
 - [wp-graphql/wp-graphql](https://github.com/wp-graphql/wp-graphql) - :rocket: GraphQL API for WordPress
@@ -859,6 +861,7 @@
 
 ## css 
 
+- [mdn/content](https://github.com/mdn/content) - The content behind MDN Web Docs
 - [Etesam913/rounded-fox](https://github.com/Etesam913/rounded-fox) - A userchrome css configuration for firefox that is ultra-minimalistic
 - [ritz078/transform](https://github.com/ritz078/transform) - A polyglot web converter.
 - [joe-bell/cva](https://github.com/joe-bell/cva) - Class Variance Authority
@@ -1006,6 +1009,7 @@
 
 ## docker 
 
+- [imranhsayed/nextjs-headless-wordpress](https://github.com/imranhsayed/nextjs-headless-wordpress) - 🔥 Nextjs Headless WordPress
 - [ChristianLempa/boilerplates](https://github.com/ChristianLempa/boilerplates) - This is my personal template collection. Here you'll find templates, and configurations for various tools, and technologies.
 - [jonascarpay/iplz](https://github.com/jonascarpay/iplz) - Demo project for building, provisioning, and deploying a web service with a single command, using Terraform and Nix.
 - [F1bonacc1/process-compose](https://github.com/F1bonacc1/process-compose) - Process Compose is a simple and flexible scheduler and orchestrator to manage non-containerized applications.
@@ -1024,7 +1028,7 @@
 - [chriszarate/docker-wordpress-vip](https://github.com/chriszarate/docker-wordpress-vip) - A Docker-based development environment for WordPress VIP development
 - [chriszarate/docker-compose-wordpress](https://github.com/chriszarate/docker-compose-wordpress) - An example Docker Compose setup for WordPress plugin or theme development.
 - [wagoodman/dive](https://github.com/wagoodman/dive) - A tool for exploring each layer in a docker image
-- [drud/ddev](https://github.com/drud/ddev) - Docker-based local PHP+Node.js web development environments
+- [ddev/ddev](https://github.com/ddev/ddev) - Docker-based local PHP+Node.js web development environments
 - [louislam/uptime-kuma](https://github.com/louislam/uptime-kuma) - A fancy self-hosted monitoring tool
 - [aquasecurity/trivy](https://github.com/aquasecurity/trivy) - Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes, code repositories, clouds and more
 - [nezhar/wordpress-docker-compose](https://github.com/nezhar/wordpress-docker-compose) - Easy Wordpress development with Docker and Docker Compose
@@ -1066,6 +1070,7 @@
 
 ## documentation 
 
+- [mdn/content](https://github.com/mdn/content) - The content behind MDN Web Docs
 - [tajo/ladle](https://github.com/tajo/ladle) - 🥄 Develop, test and document your React story components faster.
 - [uber/react-view](https://github.com/uber/react-view) - React View is an interactive playground, documentation and code generator for your components.
 - [nanotee/nvim-lua-guide](https://github.com/nanotee/nvim-lua-guide) - A guide to using Lua in Neovim
@@ -1637,6 +1642,8 @@
 
 ## graphql 
 
+- [renatonascalves/wp-graphql-buddypress](https://github.com/renatonascalves/wp-graphql-buddypress) - Bringing the power of GraphQL to BuddyPress.
+- [imranhsayed/nextjs-headless-wordpress](https://github.com/imranhsayed/nextjs-headless-wordpress) - 🔥 Nextjs Headless WordPress
 - [jasonkuhrt/graphql-request](https://github.com/jasonkuhrt/graphql-request) - Minimal GraphQL client supporting Node and browsers for scripts or simple apps
 - [ritz078/transform](https://github.com/ritz078/transform) - A polyglot web converter.
 - [AxeWP/wp-graphql-headless-login](https://github.com/AxeWP/wp-graphql-headless-login) - A WordPress plugin that provides Headless login and authentication for WPGraphQL, supporting traditional passwords, OAuth2/OpenID Connect, JWT, and more.
@@ -1669,6 +1676,7 @@
 
 ## hacktoberfest 
 
+- [imranhsayed/nextjs-headless-wordpress](https://github.com/imranhsayed/nextjs-headless-wordpress) - 🔥 Nextjs Headless WordPress
 - [pods-framework/pods](https://github.com/pods-framework/pods) - The Pods Framework is a Content Development Framework for WordPress - It lets you create and extend content types that can be used for any project. Add fields of various types we've built in, or add y
 - [Hyde46/hoard](https://github.com/Hyde46/hoard) - cli command organizer written in rust
 - [wecodemore/wpstarter](https://github.com/wecodemore/wpstarter) - Easily bootstrap whole site Composer packages for WordPress.
@@ -1902,6 +1910,7 @@
 
 ## html 
 
+- [mdn/content](https://github.com/mdn/content) - The content behind MDN Web Docs
 - [dbohdan/structured-text-tools](https://github.com/dbohdan/structured-text-tools) - A list of command line tools for manipulating structured text data
 - [vidstack/player](https://github.com/vidstack/player) - (Beta) Customizable, lightweight, accessible, and framework-agnostic media player for the web. Modern alternative to Videojs.
 - [mrVanDalo/landingpage](https://github.com/mrVanDalo/landingpage) - a simple html file using json to render a bookmark page to be shared across teams.
@@ -1924,6 +1933,7 @@
 
 ## http 
 
+- [mdn/content](https://github.com/mdn/content) - The content behind MDN Web Docs
 - [mitmproxy/mitmproxy](https://github.com/mitmproxy/mitmproxy) - An interactive TLS-capable intercepting HTTP proxy for penetration testers and software developers.
 - [lavabit/magma](https://github.com/lavabit/magma) - The magma server daemon, is an encrypted email system with support for SMTP, POP, IMAP, HTTP and MOLTEN,. Additional support for DMTP and DMAP is currently in active development.
 - [caddyserver/caddy](https://github.com/caddyserver/caddy) - Fast and extensible multi-platform HTTP/1-2-3 web server with automatic HTTPS
@@ -1978,6 +1988,7 @@
 
 ## javascript 
 
+- [mdn/content](https://github.com/mdn/content) - The content behind MDN Web Docs
 - [philipstanislaus/performant-array-to-tree](https://github.com/philipstanislaus/performant-array-to-tree) - Converts an array of items with ids and parent ids to a nested tree in a performant O(n) way. Runs in browsers and Node.js.
 - [vidstack/player](https://github.com/vidstack/player) - (Beta) Customizable, lightweight, accessible, and framework-agnostic media player for the web. Modern alternative to Videojs.
 - [svg/svgo](https://github.com/svg/svgo) - ⚙️ Node.js tool for optimizing SVG files
@@ -2173,7 +2184,7 @@
 
 - [roots/acorn](https://github.com/roots/acorn) - Laravel components for WordPress plugins and themes
 - [pixelfed/pixelfed](https://github.com/pixelfed/pixelfed) - Photo Sharing. For Everyone.
-- [drud/ddev](https://github.com/drud/ddev) - Docker-based local PHP+Node.js web development environments
+- [ddev/ddev](https://github.com/ddev/ddev) - Docker-based local PHP+Node.js web development environments
 - [itsgoingd/clockwork](https://github.com/itsgoingd/clockwork) - Clockwork - php dev tools in your browser - server-side component
 - [lando/lando](https://github.com/lando/lando) - A development tool for all your projects that is fast, easy, powerful and liberating
 - [Kovah/LinkAce](https://github.com/Kovah/LinkAce) - LinkAce is a self-hosted archive to collect links of your favorite websites.
@@ -2196,6 +2207,7 @@
 
 ## learning 
 
+- [mdn/content](https://github.com/mdn/content) - The content behind MDN Web Docs
 - [gamontal/awesome-katas](https://github.com/gamontal/awesome-katas) - A curated list of code katas
 - [learn-anything/command-line-tools](https://github.com/learn-anything/command-line-tools) - Awesome Command Line Utilities
 - [nikitavoloboev/knowledge](https://github.com/nikitavoloboev/knowledge) - Everything I know
@@ -2230,7 +2242,7 @@
 - [krallin/tini](https://github.com/krallin/tini) - A tiny but valid `init` for containers
 - [meienberger/runtipi](https://github.com/meienberger/runtipi) - Tipi is a homeserver for everyone! One command setup, one click installs for your favorites self-hosted apps. ✨
 - [samhh/dotfiles](https://github.com/samhh/dotfiles) - Configuring the universe with Nix.
-- [drud/ddev](https://github.com/drud/ddev) - Docker-based local PHP+Node.js web development environments
+- [ddev/ddev](https://github.com/ddev/ddev) - Docker-based local PHP+Node.js web development environments
 - [protesilaos/dotfiles](https://github.com/protesilaos/dotfiles) - [Mirror] Configuration files for Emacs and some other programs. Running on Arch Linux. Managed with GNU Stow.
 - [petrstepanov/gnome-macos-remap](https://github.com/petrstepanov/gnome-macos-remap) - Script remaps default GNOME keyboard shortcuts to macOS standards. This provides native desktop environment feel for Mac users that are utilizing GNOME-based Linux desktop environment. Read more infor
 - [H-M-H/Weylus](https://github.com/H-M-H/Weylus) - Use your tablet as graphic tablet/touch screen on your computer.
@@ -2329,6 +2341,21 @@
 - [dbalatero/VimMode.spoon](https://github.com/dbalatero/VimMode.spoon) - Adds vim keybindings to all OS X inputs
 - [Hammerspoon/hammerspoon](https://github.com/Hammerspoon/hammerspoon) - Staggeringly powerful macOS desktop automation with Lua
 
+## mac 
+
+- [donnemartin/dev-setup](https://github.com/donnemartin/dev-setup) - macOS development environment setup:  Easy-to-understand instructions with automated setup scripts for developer tools like Vim, Sublime Text, Bash, iTerm, Python data analysis, Spark, Hadoop MapReduc
+- [notable/notable](https://github.com/notable/notable) - The Markdown-based note-taking app that doesn't suck.
+- [syncthing/syncthing-macos](https://github.com/syncthing/syncthing-macos) - Official frugal and native macOS Syncthing application bundle
+- [univ-of-utah-marriott-library-apple/display_manager](https://github.com/univ-of-utah-marriott-library-apple/display_manager) - An open-source Python library which can modify your Mac's display settings manually or automatically.
+- [ianyh/Amethyst](https://github.com/ianyh/Amethyst) - Automatic tiling window manager for macOS à la xmonad.
+- [marlonrichert/.config](https://github.com/marlonrichert/.config) - ⚙️ Bootstrappable user environment for macOS & Ubuntu
+- [wulkano/Kap](https://github.com/wulkano/Kap) - An open-source screen recorder built with web technology
+- [zzamboni/dot-hammerspoon](https://github.com/zzamboni/dot-hammerspoon) - My personal Hammerspoon configuration - mirrored from GitLab
+- [agalwood/Motrix](https://github.com/agalwood/Motrix) - A full-featured download manager.
+- [serhii-londar/open-source-mac-os-apps](https://github.com/serhii-londar/open-source-mac-os-apps) - 🚀 Awesome list of open source applications for macOS. https://t.me/s/opensourcemacosapps
+- [matryer/xbar](https://github.com/matryer/xbar) - Put the output from any script or program into your macOS Menu Bar (the BitBar reboot)
+- [rgcr/m-cli](https://github.com/rgcr/m-cli) -  Swiss Army Knife for macOS
+
 ## machine-learning 
 
 - [ramitsurana/awesome-kubernetes](https://github.com/ramitsurana/awesome-kubernetes) - A curated list for awesome kubernetes sources :ship::tada:
@@ -2347,7 +2374,7 @@
 - [Code-Hex/vz](https://github.com/Code-Hex/vz) - Create virtual machines and run Linux-based operating systems in Go using Apple Virtualization.framework.
 - [watchexec/watchexec](https://github.com/watchexec/watchexec) - Executes commands in response to file modifications
 - [hackworthltd/hacknix](https://github.com/hackworthltd/hacknix) - Hackworth Ltd's nix overlays and modules.
-- [drud/ddev](https://github.com/drud/ddev) - Docker-based local PHP+Node.js web development environments
+- [ddev/ddev](https://github.com/ddev/ddev) - Docker-based local PHP+Node.js web development environments
 - [petrstepanov/gnome-macos-remap](https://github.com/petrstepanov/gnome-macos-remap) - Script remaps default GNOME keyboard shortcuts to macOS standards. This provides native desktop environment feel for Mac users that are utilizing GNOME-based Linux desktop environment. Read more infor
 - [EasyEngine/easyengine](https://github.com/EasyEngine/easyengine) - Command-line control panel for Nginx Server to manage WordPress sites running on Nginx, PHP, MySQL, and Let's Encrypt
 - [kholia/OSX-KVM](https://github.com/kholia/OSX-KVM) - Run macOS on QEMU/KVM. With OpenCore + Big Sur + Monterey + Ventura support now! Only commercial (paid) support is available now to avoid spammy issues. No Mac system is required.
@@ -2508,6 +2535,7 @@
 
 ## monitoring 
 
+- [Pierre-Lannoy/wp-decalog](https://github.com/Pierre-Lannoy/wp-decalog) - Capture and log events, metrics and traces on your site. Make WordPress observable - finally!
 - [VictoriaMetrics/VictoriaMetrics](https://github.com/VictoriaMetrics/VictoriaMetrics) - VictoriaMetrics: fast, cost-effective monitoring solution and time series database
 - [coroot/coroot](https://github.com/coroot/coroot) - A zero-instrumentation observability tool for microservice architectures.
 - [influxdata/telegraf](https://github.com/influxdata/telegraf) - The plugin-driven server agent for collecting & reporting metrics.
@@ -2630,6 +2658,7 @@
 
 ## nextjs 
 
+- [imranhsayed/nextjs-headless-wordpress](https://github.com/imranhsayed/nextjs-headless-wordpress) - 🔥 Nextjs Headless WordPress
 - [kleinweb/logan-center](https://github.com/kleinweb/logan-center) - Source code for the Logan Center for Urban Investigative Reporting website
 - [shuding/nextra](https://github.com/shuding/nextra) - Simple, powerful and flexible site generation framework with everything you love from Next.js.
 - [Highfivery/nextjs-starter](https://github.com/Highfivery/nextjs-starter) - A Next.js 13 CMS & theme agnostic starter framework to build fully-featured headless sites.
@@ -2693,7 +2722,7 @@
 - [gqty-dev/gqty](https://github.com/gqty-dev/gqty) - a GraphQL client built for rapid iteration
 - [coralproject/talk](https://github.com/coralproject/talk) - A better commenting experience from Vox Media
 - [keystonejs/keystone](https://github.com/keystonejs/keystone) - The most powerful headless CMS for Node.js — built with GraphQL and React
-- [drud/ddev](https://github.com/drud/ddev) - Docker-based local PHP+Node.js web development environments
+- [ddev/ddev](https://github.com/ddev/ddev) - Docker-based local PHP+Node.js web development environments
 - [lando/lando](https://github.com/lando/lando) - A development tool for all your projects that is fast, easy, powerful and liberating
 - [pubkey/rxdb](https://github.com/pubkey/rxdb) - A fast, offline-first, reactive database for JavaScript Applications https://rxdb.info/
 - [immich-app/immich](https://github.com/immich-app/immich) - Self-hosted photo and video backup solution directly from your mobile phone.
@@ -2794,6 +2823,9 @@
 
 ## others 
 
+- [kellenmace/apollo-client-cache-rehydration-in-next-js](https://github.com/kellenmace/apollo-client-cache-rehydration-in-next-js) - Apollo Client Cache Rehydration in Next.js
+- [Shelob9/headless-mode](https://github.com/Shelob9/headless-mode) - Put your WordPress site in headless mode -- wp-admin, wp-rest-api and wp-graphql only.
+- [kellenmace/headless-wordpress-authentication-native-cookies](https://github.com/kellenmace/headless-wordpress-authentication-native-cookies) - 
 - [joshuadavidnelson/disable-blog](https://github.com/joshuadavidnelson/disable-blog) - Power a blogless site with WordPress. This plugin disables all blog-related functionality (by hiding, removing, and redirecting).
 - [kylephillips/wp-nested-pages](https://github.com/kylephillips/wp-nested-pages) - A more intuitive way to manage pages and content structure in the WordPress admin
 - [humanmade/publication-checklist](https://github.com/humanmade/publication-checklist) - Run checks and enforce conditions before posts are published. Built and designed for the WordPress block editor.
@@ -3727,7 +3759,7 @@
 - [MobileOrg/mobileorg](https://github.com/MobileOrg/mobileorg) - MobileOrg iPhone App
 - [snowtrack/snowfs](https://github.com/snowtrack/snowfs) - SnowFS - a fast, scalable version control file storage for graphic files :art:
 - [tumashu/ivy-posframe](https://github.com/tumashu/ivy-posframe) - ivy-posframe is a ivy extension, which let ivy use posframe to show its candidate menu, ivy-posframe is a **GNU ELPA** package.
-- [nmartin84/.doom.d](https://github.com/nmartin84/.doom.d) - Private DOOM Emacs config highly focused around orgmode and GTD methodology, along with language support for Python and Elisp.
+- [Zyrohex/.doom.d](https://github.com/Zyrohex/.doom.d) - Private DOOM Emacs config highly focused around orgmode and GTD methodology, along with language support for Python and Elisp.
 - [asdf-vm/asdf-nodejs](https://github.com/asdf-vm/asdf-nodejs) - Node.js plugin for asdf version manager
 - [Automattic/phpcs-neutron-standard](https://github.com/Automattic/phpcs-neutron-standard) - A set of phpcs sniffs for PHP &gt;7 development
 - [teesloane/laundromat](https://github.com/teesloane/laundromat) - generative midi sequencer inspired by the OP-1 Tombola
@@ -3832,7 +3864,6 @@
 - [tinted-theming/base16-jetbrains](https://github.com/tinted-theming/base16-jetbrains) - Base16 themes for Jetbrains IDE's (IntelliJ, PyCharm, Webstorm, etc) - and the Material Theme plugin
 - [metalelf0/base16-black-metal-scheme](https://github.com/metalelf0/base16-black-metal-scheme) - A collection of Black Metal inspired base16 schemes.
 - [zenhob/hcl](https://github.com/zenhob/hcl) - Command-line tool for manipulating Harvest timesheets
-- [matryer/xbar](https://github.com/matryer/xbar) - Put the output from any script or program into your macOS Menu Bar (the BitBar reboot)
 - [cmacrae/spacebar](https://github.com/cmacrae/spacebar) - A minimal status bar for macOS. Ideal for use with tiling window managers like yabai
 - [ajdnik/powerbar](https://github.com/ajdnik/powerbar) - Übersicht widget status bar in Powerline style with chunkwm support.
 - [lucaorio/nero](https://github.com/lucaorio/nero) - Übersicht widget to monitor the state of Yabai tiling window manager
@@ -4107,6 +4138,7 @@
 
 ## php 
 
+- [inpsyde/Wonolog](https://github.com/inpsyde/Wonolog) - Monolog-based logging package for WordPress.
 - [pods-framework/pods](https://github.com/pods-framework/pods) - The Pods Framework is a Content Development Framework for WordPress - It lets you create and extend content types that can be used for any project. Add fields of various types we've built in, or add y
 - [themosis/framework](https://github.com/themosis/framework) - The Themosis framework core.
 - [themosis/themosis](https://github.com/themosis/themosis) - A framework for WordPress developers.
@@ -4121,7 +4153,7 @@
 - [pristas-peter/wp-graphql-gutenberg](https://github.com/pristas-peter/wp-graphql-gutenberg) - Query gutenberg blocks with wp-graphql
 - [gregrickaby/nextjs-wordpress](https://github.com/gregrickaby/nextjs-wordpress) - 💀 It's headless WordPress!
 - [open-telemetry/opentelemetry-php](https://github.com/open-telemetry/opentelemetry-php) - The OpenTelemetry PHP Library
-- [drud/ddev](https://github.com/drud/ddev) - Docker-based local PHP+Node.js web development environments
+- [ddev/ddev](https://github.com/ddev/ddev) - Docker-based local PHP+Node.js web development environments
 - [vlucas/phpdotenv](https://github.com/vlucas/phpdotenv) - Loads environment variables from `.env` to `getenv()`, `$_ENV` and `$_SERVER` automagically.
 - [roots/wp-config](https://github.com/roots/wp-config) - Bedrock's failsafe wp-config
 - [aimeos/map](https://github.com/aimeos/map) - PHP arrays and collections made easy
@@ -4462,6 +4494,7 @@
 
 ## reactjs 
 
+- [imranhsayed/nextjs-headless-wordpress](https://github.com/imranhsayed/nextjs-headless-wordpress) - 🔥 Nextjs Headless WordPress
 - [component-driven/awesome-list](https://github.com/component-driven/awesome-list) - Curated list of links on component-driven development and design systems
 - [ecosse3/nvim](https://github.com/ecosse3/nvim) - A non-minimal Neovim config built to work most efficiently with Frontend Development - React & Vue.js
 - [ben-rogerson/twin.macro](https://github.com/ben-rogerson/twin.macro) - 🦹‍♂️ Twin blends the magic of Tailwind with the flexibility of css-in-js (emotion, styled-components, stitches and goober) at build time.
@@ -4492,6 +4525,7 @@
 
 ## rest-api 
 
+- [Pierre-Lannoy/wp-keys-master](https://github.com/Pierre-Lannoy/wp-keys-master) - Powerful application passwords manager for WordPress with role-based usage control and full analytics reporting capabilities.
 - [leoloso/PoP](https://github.com/leoloso/PoP) - Monorepo of the PoP project, including: a server-side component model in PHP, a GraphQL server, a GraphQL API plugin for WordPress, and a website builder
 - [postlight/headless-wp-starter](https://github.com/postlight/headless-wp-starter) - 🔪 WordPress + React Starter Kit: Spin up a WordPress-powered React app in one step
 - [spacedmonkey/wp-rest-blocks](https://github.com/spacedmonkey/wp-rest-blocks) - Add gutenberg blocks data into post / page / widget REST API endpoints.
@@ -4640,6 +4674,7 @@
 
 ## security 
 
+- [Pierre-Lannoy/wp-keys-master](https://github.com/Pierre-Lannoy/wp-keys-master) - Powerful application passwords manager for WordPress with role-based usage control and full analytics reporting capabilities.
 - [dotenv-org/dotenv-vault](https://github.com/dotenv-org/dotenv-vault) - Sync .env files
 - [turbot/steampipe](https://github.com/turbot/steampipe) - Use SQL to instantly query your cloud services (AWS, Azure, GCP and more). Open source CLI. No DB required.
 - [kanidm/kanidm](https://github.com/kanidm/kanidm) - Kanidm: A simple, secure and fast identity management platform
@@ -5263,7 +5298,7 @@
 ## windows 
 
 - [watchexec/watchexec](https://github.com/watchexec/watchexec) - Executes commands in response to file modifications
-- [drud/ddev](https://github.com/drud/ddev) - Docker-based local PHP+Node.js web development environments
+- [ddev/ddev](https://github.com/ddev/ddev) - Docker-based local PHP+Node.js web development environments
 - [ventoy/Ventoy](https://github.com/ventoy/Ventoy) - A new bootable USB solution.
 - [ciderapp/Cider](https://github.com/ciderapp/Cider) - A new cross-platform Apple Music experience based on Electron and Vue.js written from scratch with performance in mind. 🚀
 - [Nheko-Reborn/nheko](https://github.com/Nheko-Reborn/nheko) - Desktop client for Matrix using Qt and C++20.
@@ -5290,6 +5325,11 @@
 
 ## wordpress 
 
+- [inpsyde/Wonolog](https://github.com/inpsyde/Wonolog) - Monolog-based logging package for WordPress.
+- [Pierre-Lannoy/wp-keys-master](https://github.com/Pierre-Lannoy/wp-keys-master) - Powerful application passwords manager for WordPress with role-based usage control and full analytics reporting capabilities.
+- [Pierre-Lannoy/wp-decalog](https://github.com/Pierre-Lannoy/wp-decalog) - Capture and log events, metrics and traces on your site. Make WordPress observable - finally!
+- [renatonascalves/wp-graphql-buddypress](https://github.com/renatonascalves/wp-graphql-buddypress) - Bringing the power of GraphQL to BuddyPress.
+- [imranhsayed/nextjs-headless-wordpress](https://github.com/imranhsayed/nextjs-headless-wordpress) - 🔥 Nextjs Headless WordPress
 - [szepeviktor/phpcs-psr-12-neutron-hybrid-ruleset](https://github.com/szepeviktor/phpcs-psr-12-neutron-hybrid-ruleset) - My useful frankenstein PHPCS ruleset 👓 for OOP WordPress development
 - [pods-framework/pods](https://github.com/pods-framework/pods) - The Pods Framework is a Content Development Framework for WordPress - It lets you create and extend content types that can be used for any project. Add fields of various types we've built in, or add y
 - [themosis/framework](https://github.com/themosis/framework) - The Themosis framework core.
@@ -5345,7 +5385,7 @@
 - [10up/wp-hammer](https://github.com/10up/wp-hammer) - WP Hammer cleans your WordPress site of personally identifiable information and extra content.
 - [Automattic/vip-go-mu-plugins](https://github.com/Automattic/vip-go-mu-plugins) - The development repo for mu-plugins used on the WordPress VIP Platform.
 - [boxuk/wp-project-skeleton](https://github.com/boxuk/wp-project-skeleton) - A skeleton WordPress project to be used as a base for new WordPress projects.
-- [drud/ddev](https://github.com/drud/ddev) - Docker-based local PHP+Node.js web development environments
+- [ddev/ddev](https://github.com/ddev/ddev) - Docker-based local PHP+Node.js web development environments
 - [roots/wp-config](https://github.com/roots/wp-config) - Bedrock's failsafe wp-config
 - [webredone/theme-redone](https://github.com/webredone/theme-redone) - Theme Redone is a custom WordPress theme starter/framework with its own Gutenberg blocks solution and a CLI that speeds up the block creation process.
 - [WordPress/wordpress-playground](https://github.com/WordPress/wordpress-playground) - Run WordPress in the browser thanks to WebAssembly magic
