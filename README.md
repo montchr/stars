@@ -552,7 +552,7 @@
 - [jtmoulia/elisp-koans](https://github.com/jtmoulia/elisp-koans) - Emacs Lisp Koans -- learn elisp through test-driven development.
 - [AloisJanicek/.doom.d-2nd](https://github.com/AloisJanicek/.doom.d-2nd) - My private module for Doom Emacs
 - [tumashu/ivy-posframe](https://github.com/tumashu/ivy-posframe) - ivy-posframe is a ivy extension, which let ivy use posframe to show its candidate menu, ivy-posframe is a **GNU ELPA** package.
-- [nmartin84/.doom.d](https://github.com/nmartin84/.doom.d) - Private DOOM Emacs config highly focused around orgmode and GTD methodology, along with language support for Python and Elisp.
+- [Zyrohex/.doom.d](https://github.com/Zyrohex/.doom.d) - Private DOOM Emacs config highly focused around orgmode and GTD methodology, along with language support for Python and Elisp.
 - [jwiegley/use-package](https://github.com/jwiegley/use-package) - A use-package declaration for simplifying your .emacs
 - [emacs-php/phpactor.el](https://github.com/emacs-php/phpactor.el) - Interface to Phpactor (an intelligent code-completion and refactoring tool for PHP)
 - [rougier/mu4e-thread-folding](https://github.com/rougier/mu4e-thread-folding) - Functions for folding threads in mu4e headers view
@@ -666,7 +666,7 @@
 - [netbirdio/netbird](https://github.com/netbirdio/netbird) - Connect your devices into a single secure private WireGuard®-based mesh network with SSO/MFA and simple access controls.
 - [mergestat/mergestat-lite](https://github.com/mergestat/mergestat-lite) - Query git repositories with SQL. Generate reports, perform status checks, analyze codebases. 🔍 📊
 - [mailhog/MailHog](https://github.com/mailhog/MailHog) - Web and API based SMTP testing
-- [drud/ddev](https://github.com/drud/ddev) - Docker-based local PHP+Node.js web development environments
+- [ddev/ddev](https://github.com/ddev/ddev) - Docker-based local PHP+Node.js web development environments
 - [mbrt/gmailctl](https://github.com/mbrt/gmailctl) - Declarative configuration for Gmail filters
 - [aquasecurity/trivy](https://github.com/aquasecurity/trivy) - Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes, code repositories, clouds and more
 - [benchkram/bob](https://github.com/benchkram/bob) - Bob is a high-level build tool for multi-language projects.
@@ -921,6 +921,8 @@
 
 ## JavaScript 
 
+- [Pierre-Lannoy/wp-keys-master](https://github.com/Pierre-Lannoy/wp-keys-master) - Powerful application passwords manager for WordPress with role-based usage control and full analytics reporting capabilities.
+- [imranhsayed/nextjs-headless-wordpress](https://github.com/imranhsayed/nextjs-headless-wordpress) - 🔥 Nextjs Headless WordPress
 - [humanmade/publication-checklist](https://github.com/humanmade/publication-checklist) - Run checks and enforce conditions before posts are published. Built and designed for the WordPress block editor.
 - [patronage/bubs-next](https://github.com/patronage/bubs-next) - Headless Wordpress + Next.js Project scaffolding
 - [tailwindlabs/tailwindcss-typography](https://github.com/tailwindlabs/tailwindcss-typography) - 
@@ -1297,6 +1299,7 @@
 
 ## Markdown 
 
+- [mdn/content](https://github.com/mdn/content) - The content behind MDN Web Docs
 - [JoseDeFreitas/awesome-youtubers](https://github.com/JoseDeFreitas/awesome-youtubers) - An awesome list of awesome YouTubers that teach about technology. Tutorials about web development, computer science, machine learning, game development, cybersecurity, and more.
 - [tldr-pages/tldr](https://github.com/tldr-pages/tldr) - 📚 Collaborative cheatsheets for console commands
 
@@ -1841,6 +1844,10 @@
 
 ## PHP 
 
+- [inpsyde/Wonolog](https://github.com/inpsyde/Wonolog) - Monolog-based logging package for WordPress.
+- [Pierre-Lannoy/wp-decalog](https://github.com/Pierre-Lannoy/wp-decalog) - Capture and log events, metrics and traces on your site. Make WordPress observable - finally!
+- [Shelob9/headless-mode](https://github.com/Shelob9/headless-mode) - Put your WordPress site in headless mode -- wp-admin, wp-rest-api and wp-graphql only.
+- [renatonascalves/wp-graphql-buddypress](https://github.com/renatonascalves/wp-graphql-buddypress) - Bringing the power of GraphQL to BuddyPress.
 - [joshuadavidnelson/disable-blog](https://github.com/joshuadavidnelson/disable-blog) - Power a blogless site with WordPress. This plugin disables all blog-related functionality (by hiding, removing, and redirecting).
 - [kylephillips/wp-nested-pages](https://github.com/kylephillips/wp-nested-pages) - A more intuitive way to manage pages and content structure in the WordPress admin
 - [theMikeD/wp-term-management-tools](https://github.com/theMikeD/wp-term-management-tools) - A WordPress plugin to help with taxonomy term management. Allows you to merge terms, move terms between taxonomies, and set term parents, individually or in bulk. WPML is supported when changing taxon
@@ -2814,6 +2821,8 @@
 
 ## TypeScript 
 
+- [kellenmace/apollo-client-cache-rehydration-in-next-js](https://github.com/kellenmace/apollo-client-cache-rehydration-in-next-js) - Apollo Client Cache Rehydration in Next.js
+- [kellenmace/headless-wordpress-authentication-native-cookies](https://github.com/kellenmace/headless-wordpress-authentication-native-cookies) - 
 - [jasonkuhrt/graphql-request](https://github.com/jasonkuhrt/graphql-request) - Minimal GraphQL client supporting Node and browsers for scripts or simple apps
 - [creative-andrew/ca-blog-next-js](https://github.com/creative-andrew/ca-blog-next-js) - Next.js Blog powered by headless WordPress
 - [alleyinteractive/fm-gutenberg](https://github.com/alleyinteractive/fm-gutenberg) - Fieldmanager Gutenberg
