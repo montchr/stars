@@ -921,6 +921,8 @@
 
 ## JavaScript 
 
+- [DekodeInteraktiv/coding-standards](https://github.com/DekodeInteraktiv/coding-standards) - Dekode Coding Standards
+- [talss89/wp-editor-query-plugin](https://github.com/talss89/wp-editor-query-plugin) - Webpack plugin for wp @editor extraction.
 - [Pierre-Lannoy/wp-keys-master](https://github.com/Pierre-Lannoy/wp-keys-master) - Powerful application passwords manager for WordPress with role-based usage control and full analytics reporting capabilities.
 - [imranhsayed/nextjs-headless-wordpress](https://github.com/imranhsayed/nextjs-headless-wordpress) - 🔥 Nextjs Headless WordPress
 - [humanmade/publication-checklist](https://github.com/humanmade/publication-checklist) - Run checks and enforce conditions before posts are published. Built and designed for the WordPress block editor.
@@ -2029,7 +2031,7 @@
 - [bobthecow/psysh](https://github.com/bobthecow/psysh) - A REPL for PHP
 - [BracketSpace/Notification](https://github.com/BracketSpace/Notification) - WordPress Notification plugin
 - [nette/neon](https://github.com/nette/neon) - 🍸 Encodes and decodes NEON file format.
-- [szepeviktor/small-project](https://github.com/szepeviktor/small-project) - Template for small PHP fixes or enhancements, WordPress plugins
+- [szepeviktor/starter-plugin](https://github.com/szepeviktor/starter-plugin) - Template for WordPress plugins
 - [Automattic/phpcs-neutron-standard](https://github.com/Automattic/phpcs-neutron-standard) - A set of phpcs sniffs for PHP &gt;7 development
 - [php-stubs/wordpress-stubs](https://github.com/php-stubs/wordpress-stubs) - Up-to-date WordPress function and class declaration stubs for static analysis by PHPStan
 - [phpactor/phpactor](https://github.com/phpactor/phpactor) - Mainly a PHP Language Server
@@ -2821,6 +2823,7 @@
 
 ## TypeScript 
 
+- [gregrickaby/nextjs-app-directory](https://github.com/gregrickaby/nextjs-app-directory) - A sandbox for learning/testing the new /app directory
 - [kellenmace/apollo-client-cache-rehydration-in-next-js](https://github.com/kellenmace/apollo-client-cache-rehydration-in-next-js) - Apollo Client Cache Rehydration in Next.js
 - [kellenmace/headless-wordpress-authentication-native-cookies](https://github.com/kellenmace/headless-wordpress-authentication-native-cookies) - 
 - [jasonkuhrt/graphql-request](https://github.com/jasonkuhrt/graphql-request) - Minimal GraphQL client supporting Node and browsers for scripts or simple apps
