@@ -1471,7 +1471,7 @@
 - [DanielFGray/fzf-scripts](https://github.com/DanielFGray/fzf-scripts) - a collection of scripts that rely on https://github.com/junegunn/fzf
 - [ssbanerje/dotfiles](https://github.com/ssbanerje/dotfiles) - My configuration files
 - [so-fancy/diff-so-fancy](https://github.com/so-fancy/diff-so-fancy) - Good-lookin' diffs. Actually… nah… The best-lookin' diffs. :tada:
-- [GitCredentialManager/git-credential-manager](https://github.com/GitCredentialManager/git-credential-manager) - Secure, cross-platform Git credential storage with authentication to GitHub, Azure Repos, and other popular Git hosting services.
+- [git-ecosystem/git-credential-manager](https://github.com/git-ecosystem/git-credential-manager) - Secure, cross-platform Git credential storage with authentication to GitHub, Azure Repos, and other popular Git hosting services.
 - [extrawurst/gitui](https://github.com/extrawurst/gitui) - Blazing 💥 fast terminal-ui for git written in rust 🦀
 - [hercules-ci/gitignore.nix](https://github.com/hercules-ci/gitignore.nix) - Nix functions for filtering local git sources
 - [donnemartin/dev-setup](https://github.com/donnemartin/dev-setup) - macOS development environment setup:  Easy-to-understand instructions with automated setup scripts for developer tools like Vim, Sublime Text, Bash, iTerm, Python data analysis, Spark, Hadoop MapReduc
@@ -1515,7 +1515,7 @@
 - [sindresorhus/notifier-for-github](https://github.com/sindresorhus/notifier-for-github) - Browser extension - Get notified about new GitHub notifications
 - [stefanbuck/awesome-browser-extensions-for-github](https://github.com/stefanbuck/awesome-browser-extensions-for-github) - A collection of awesome browser extensions for GitHub.
 - [OctoLinker/OctoLinker](https://github.com/OctoLinker/OctoLinker) - OctoLinker — Links together, what belongs together
-- [GitCredentialManager/git-credential-manager](https://github.com/GitCredentialManager/git-credential-manager) - Secure, cross-platform Git credential storage with authentication to GitHub, Azure Repos, and other popular Git hosting services.
+- [git-ecosystem/git-credential-manager](https://github.com/git-ecosystem/git-credential-manager) - Secure, cross-platform Git credential storage with authentication to GitHub, Azure Repos, and other popular Git hosting services.
 - [xeruf/kull](https://github.com/xeruf/kull) - Kull is a collaboration convention that preserves order through clear rules and processes
 - [Burnett01/rsync-deployments](https://github.com/Burnett01/rsync-deployments) - GitHub Action for deploying code via rsync over ssh
 - [gee1k/uPic](https://github.com/gee1k/uPic) - 📤uPic is a native, powerful, beautiful and simple picture and file upload tool for macOS.
@@ -1759,7 +1759,6 @@
 - [vlang/v](https://github.com/vlang/v) - Simple, fast, safe, compiled language for developing maintainable software. Compiles itself in &lt;1s with zero library dependencies. Supports automatic C =&gt; V translation. https://vlang.io
 - [volta-cli/volta](https://github.com/volta-cli/volta) - Volta: JS Toolchains as Code. ⚡
 - [editorconfig-checker/editorconfig-checker](https://github.com/editorconfig-checker/editorconfig-checker) - A tool to verify that your files are in harmony with your .editorconfig
-- [GitCredentialManager/git-credential-manager](https://github.com/GitCredentialManager/git-credential-manager) - Secure, cross-platform Git credential storage with authentication to GitHub, Azure Repos, and other popular Git hosting services.
 - [jorgelbg/pinentry-touchid](https://github.com/jorgelbg/pinentry-touchid) - Custom GPG pinentry program for macOS that allows using Touch ID for fetching the password from the macOS keychain.
 - [sherlock-project/sherlock](https://github.com/sherlock-project/sherlock) - 🔎 Hunt down social media accounts by username across social networks
 - [Lissy93/personal-security-checklist](https://github.com/Lissy93/personal-security-checklist) - 🔒 A compiled checklist of 300+ tips for protecting digital security and privacy in 2022
@@ -1788,7 +1787,6 @@
 - [vic/vix](https://github.com/vic/vix) - Vic's *Nix config.
 - [unisonweb/unison](https://github.com/unisonweb/unison) - A friendly programming language from the future
 - [BrianHicks/nix-script](https://github.com/BrianHicks/nix-script) - write scripts in compiled languages that run in the nix ecosystem, with no separate build step
-- [nix-community/fenix](https://github.com/nix-community/fenix) - Rust toolchains and rust-analyzer nightly for Nix [maintainer=@figsoda]
 - [nvim-neorg/neorg](https://github.com/nvim-neorg/neorg) - Modernity meets insane extensibility. The future of organizing your life in Neovim.
 - [LunarVim/LunarVim](https://github.com/LunarVim/LunarVim) - 🌙 LunarVim is an IDE layer for Neovim. Completely free and community driven.
 - [plexdrive/plexdrive](https://github.com/plexdrive/plexdrive) - Plexdrive mounts your Google Drive FUSE filesystem (optimized for media playback)
@@ -2174,7 +2172,6 @@
 - [rant-lang/rant](https://github.com/rant-lang/rant) - Rant - The templating language for procedural generation.
 - [vito/bass](https://github.com/vito/bass) - a low fidelity scripting language for project infrastructure
 - [vlang/v](https://github.com/vlang/v) - Simple, fast, safe, compiled language for developing maintainable software. Compiles itself in &lt;1s with zero library dependencies. Supports automatic C =&gt; V translation. https://vlang.io
-- [p-org/P](https://github.com/p-org/P) - The P programming language.
 - [amperser/proselint](https://github.com/amperser/proselint) - A linter for prose.
 - [nette/neon](https://github.com/nette/neon) - 🍸 Encodes and decodes NEON file format.
 - [dariusk/corpora](https://github.com/dariusk/corpora) - A collection of small corpuses of interesting data for the creation of bots and similar stuff.
@@ -2657,6 +2654,7 @@
 
 ## nextjs 
 
+- [gregrickaby/nextjs-app-router-examples](https://github.com/gregrickaby/nextjs-app-router-examples) - Next.js 13 App Router Examples
 - [imranhsayed/nextjs-headless-wordpress](https://github.com/imranhsayed/nextjs-headless-wordpress) - 🔥 Nextjs Headless WordPress
 - [kleinweb/logan-center](https://github.com/kleinweb/logan-center) - Source code for the Logan Center for Urban Investigative Reporting website
 - [shuding/nextra](https://github.com/shuding/nextra) - Simple, powerful and flexible site generation framework with everything you love from Next.js.
@@ -2822,12 +2820,12 @@
 
 ## others 
 
+- [adventistchurch/alps-wordpress](https://github.com/adventistchurch/alps-wordpress) - This Wordpress theme is an implementation of the Adventist Living Pattern System (ALPS) designed to support the work of the Seventh-day Adventist church.
 - [talss89/wp-editor-query-plugin](https://github.com/talss89/wp-editor-query-plugin) - Webpack plugin for wp @editor extraction.
-- [gregrickaby/nextjs-app-directory](https://github.com/gregrickaby/nextjs-app-directory) - A sandbox for learning/testing the new /app directory
 - [kellenmace/apollo-client-cache-rehydration-in-next-js](https://github.com/kellenmace/apollo-client-cache-rehydration-in-next-js) - Apollo Client Cache Rehydration in Next.js
 - [Shelob9/headless-mode](https://github.com/Shelob9/headless-mode) - Put your WordPress site in headless mode -- wp-admin, wp-rest-api and wp-graphql only.
 - [kellenmace/headless-wordpress-authentication-native-cookies](https://github.com/kellenmace/headless-wordpress-authentication-native-cookies) - 
-- [joshuadavidnelson/disable-blog](https://github.com/joshuadavidnelson/disable-blog) - Power a blogless site with WordPress. This plugin disables all blog-related functionality (by hiding, removing, and redirecting).
+- [joshuadavidnelson/disable-blog](https://github.com/joshuadavidnelson/disable-blog) - All the power of WordPress, without a blog. This plugin removes blog related functionality.
 - [kylephillips/wp-nested-pages](https://github.com/kylephillips/wp-nested-pages) - A more intuitive way to manage pages and content structure in the WordPress admin
 - [humanmade/publication-checklist](https://github.com/humanmade/publication-checklist) - Run checks and enforce conditions before posts are published. Built and designed for the WordPress block editor.
 - [theMikeD/wp-term-management-tools](https://github.com/theMikeD/wp-term-management-tools) - A WordPress plugin to help with taxonomy term management. Allows you to merge terms, move terms between taxonomies, and set term parents, individually or in bulk. WPML is supported when changing taxon
@@ -2931,7 +2929,7 @@
 - [ytdl-org/youtube-dl](https://github.com/ytdl-org/youtube-dl) - Command-line program to download videos from YouTube.com and other video sites
 - [cid-chan/urknall](https://github.com/cid-chan/urknall) - Nix Module System for Infrastructure Provisioning
 - [nix-community/noogle](https://github.com/nix-community/noogle) - https://noogle.dev - nix function exploring.
-- [GTrunSec/cells-lab](https://github.com/GTrunSec/cells-lab) - 
+- [GTrunSec/std-ext](https://github.com/GTrunSec/std-ext) - 
 - [aristanetworks/nix-serve-ng](https://github.com/aristanetworks/nix-serve-ng) - A drop-in replacement for nix-serve that is faster and more reliable
 - [danielfullmer/robotnix](https://github.com/danielfullmer/robotnix) - Build Android (AOSP) using Nix
 - [Hoverbear-Consulting/flake](https://github.com/Hoverbear-Consulting/flake) - Company Nix expressions.
@@ -4205,7 +4203,7 @@
 - [bobthecow/psysh](https://github.com/bobthecow/psysh) - A REPL for PHP
 - [shivammathur/setup-php](https://github.com/shivammathur/setup-php) - GitHub action to set up PHP with extensions, php.ini configuration, coverage drivers, and various tools.
 - [nette/neon](https://github.com/nette/neon) - 🍸 Encodes and decodes NEON file format.
-- [szepeviktor/starter-plugin](https://github.com/szepeviktor/starter-plugin) - Template for WordPress plugins
+- [szepeviktor/starter-plugin](https://github.com/szepeviktor/starter-plugin) - Template for WordPress plugins, it took 7 years to write
 - [phpactor/phpactor](https://github.com/phpactor/phpactor) - Mainly a PHP Language Server
 - [vimeo/psalm](https://github.com/vimeo/psalm) - A static analysis tool for finding errors in PHP applications
 - [emacs-lsp/lsp-mode](https://github.com/emacs-lsp/lsp-mode) - Emacs client/library for the Language Server Protocol
@@ -5067,6 +5065,7 @@
 
 ## typescript 
 
+- [gregrickaby/nextjs-app-router-examples](https://github.com/gregrickaby/nextjs-app-router-examples) - Next.js 13 App Router Examples
 - [jasonkuhrt/graphql-request](https://github.com/jasonkuhrt/graphql-request) - Minimal GraphQL client supporting Node and browsers for scripts or simple apps
 - [ritz078/transform](https://github.com/ritz078/transform) - A polyglot web converter.
 - [roots/bud](https://github.com/roots/bud) - ⚡️ Lightning fast webpack framework combining the best parts of Laravel Mix and Symfony Encore
@@ -5447,7 +5446,7 @@
 - [BrianHenryIE/bh-wp-logger](https://github.com/BrianHenryIE/bh-wp-logger) - Zero-config log UI for WordPress plugins
 - [grafted-in/wordpress-nginx-nix](https://github.com/grafted-in/wordpress-nginx-nix) - One-stop shop for defining, testing, and deploying a WordPress CMS site using Nginx with Nix, NixOps, and NixOS
 - [BracketSpace/Notification](https://github.com/BracketSpace/Notification) - WordPress Notification plugin
-- [szepeviktor/starter-plugin](https://github.com/szepeviktor/starter-plugin) - Template for WordPress plugins
+- [szepeviktor/starter-plugin](https://github.com/szepeviktor/starter-plugin) - Template for WordPress plugins, it took 7 years to write
 - [php-stubs/wordpress-stubs](https://github.com/php-stubs/wordpress-stubs) - Up-to-date WordPress function and class declaration stubs for static analysis by PHPStan
 - [alleyinteractive/mantle](https://github.com/alleyinteractive/mantle) - Mantle is a framework for building large, robust websites and applications with WordPress
 - [alleyinteractive/wp-experimental-features](https://github.com/alleyinteractive/wp-experimental-features) - A feature flags system for beta testing experimental features in WordPress.
