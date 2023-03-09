@@ -185,7 +185,7 @@
 ## C# # 
 
 - [ShareX/ShareX](https://github.com/ShareX/ShareX) - ShareX is a free and open source program that lets you capture or record any area of your screen and share it with a single press of a key. It also allows uploading images, text or other types of file
-- [GitCredentialManager/git-credential-manager](https://github.com/GitCredentialManager/git-credential-manager) - Secure, cross-platform Git credential storage with authentication to GitHub, Azure Repos, and other popular Git hosting services.
+- [git-ecosystem/git-credential-manager](https://github.com/git-ecosystem/git-credential-manager) - Secure, cross-platform Git credential storage with authentication to GitHub, Azure Repos, and other popular Git hosting services.
 - [p-org/P](https://github.com/p-org/P) - The P programming language.
 - [wabbajack-tools/wabbajack](https://github.com/wabbajack-tools/wabbajack) - An automated Modlist installer for various games.
 - [rottytooth/rot8000](https://github.com/rottytooth/rot8000) - rot13 for the Unicode generation
@@ -809,6 +809,7 @@
 - [zimfw/zimfw](https://github.com/zimfw/zimfw) - Zim: Modular, customizable, and blazing fast Zsh framework
 - [johannesloetzsch/swlkup](https://github.com/johannesloetzsch/swlkup) - An application to manage a database of supervisors and provide anonymous access for authorized users
 - [cstate/cstate](https://github.com/cstate/cstate) - 🔥 Open source static (serverless) status page. Uses hyperfast Go & Hugo, minimal HTML/CSS/JS, customizable, outstanding browser support (IE8+), preloaded CMS, read-only API, badges & more.
+- [kimono-koans/httm](https://github.com/kimono-koans/httm) - Interactive, file-level Time Machine-like tool for ZFS/btrfs/nilfs2
 - [miziomon/awesome-wordpress](https://github.com/miziomon/awesome-wordpress) - A curated list of amazingly awesome WordPress resources, themes, plugins and shiny things. Inspired by awesome-php.
 - [mark-when/markwhen](https://github.com/mark-when/markwhen) - Make a cascading timeline from markdown-like text. Supports simple American/European date styles, ISO8601, images, links, locations, and more.
 - [fabrizioschiavi/arrow-finder](https://github.com/fabrizioschiavi/arrow-finder) - These docs help you to find and use arrows you need more quickly
@@ -1342,7 +1343,7 @@
 - [rgbatty/cauldron](https://github.com/rgbatty/cauldron) - Double, double toil and trouble; Fire burn and caldron bubble - A collection of declarative user and host configurations (eg. dotfiles) managed with Nix
 - [cid-chan/urknall](https://github.com/cid-chan/urknall) - Nix Module System for Infrastructure Provisioning
 - [nix-community/nixpkgs-terraform-providers-bin](https://github.com/nix-community/nixpkgs-terraform-providers-bin) - auto-updating terraform providers for nix [maintainer=@zimbatm]
-- [GTrunSec/cells-lab](https://github.com/GTrunSec/cells-lab) - 
+- [GTrunSec/std-ext](https://github.com/GTrunSec/std-ext) - 
 - [danielfullmer/robotnix](https://github.com/danielfullmer/robotnix) - Build Android (AOSP) using Nix
 - [Hoverbear-Consulting/flake](https://github.com/Hoverbear-Consulting/flake) - Company Nix expressions.
 - [paisano-nix/core](https://github.com/paisano-nix/core) - Standard's grow function family. Factorized.
@@ -1765,6 +1766,7 @@
 - [fosslife/awesome-ricing](https://github.com/fosslife/awesome-ricing) - A curated list of awesome tools and technology to help you out with ricing on linux
 - [shuaibiyy/awesome-terraform](https://github.com/shuaibiyy/awesome-terraform) - Curated list of resources on HashiCorp's Terraform
 - [cjbarber/ToolsOfTheTrade](https://github.com/cjbarber/ToolsOfTheTrade) - Tools of The Trade, from Hacker News.
+- [notable/notable](https://github.com/notable/notable) - The Markdown-based note-taking app that doesn't suck.
 - [reHackable/awesome-reMarkable](https://github.com/reHackable/awesome-reMarkable) - A curated list of projects related to the reMarkable tablet
 - [noctuid/evil-guide](https://github.com/noctuid/evil-guide) - Draft of a guide for using emacs with evil
 - [selfrefactor/useful-javascript-libraries](https://github.com/selfrefactor/useful-javascript-libraries) - Collection of Javascript libraries
@@ -1846,12 +1848,13 @@
 
 ## PHP 
 
+- [adventistchurch/alps-wordpress](https://github.com/adventistchurch/alps-wordpress) - This Wordpress theme is an implementation of the Adventist Living Pattern System (ALPS) designed to support the work of the Seventh-day Adventist church.
 - [php-stubs/wordpress-globals](https://github.com/php-stubs/wordpress-globals) - Global variables and global constants from WordPress core
 - [inpsyde/Wonolog](https://github.com/inpsyde/Wonolog) - Monolog-based logging package for WordPress.
 - [Pierre-Lannoy/wp-decalog](https://github.com/Pierre-Lannoy/wp-decalog) - Capture and log events, metrics and traces on your site. Make WordPress observable - finally!
 - [Shelob9/headless-mode](https://github.com/Shelob9/headless-mode) - Put your WordPress site in headless mode -- wp-admin, wp-rest-api and wp-graphql only.
 - [renatonascalves/wp-graphql-buddypress](https://github.com/renatonascalves/wp-graphql-buddypress) - Bringing the power of GraphQL to BuddyPress.
-- [joshuadavidnelson/disable-blog](https://github.com/joshuadavidnelson/disable-blog) - Power a blogless site with WordPress. This plugin disables all blog-related functionality (by hiding, removing, and redirecting).
+- [joshuadavidnelson/disable-blog](https://github.com/joshuadavidnelson/disable-blog) - All the power of WordPress, without a blog. This plugin removes blog related functionality.
 - [kylephillips/wp-nested-pages](https://github.com/kylephillips/wp-nested-pages) - A more intuitive way to manage pages and content structure in the WordPress admin
 - [theMikeD/wp-term-management-tools](https://github.com/theMikeD/wp-term-management-tools) - A WordPress plugin to help with taxonomy term management. Allows you to merge terms, move terms between taxonomies, and set term parents, individually or in bulk. WPML is supported when changing taxon
 - [szepeviktor/phpcs-psr-12-neutron-hybrid-ruleset](https://github.com/szepeviktor/phpcs-psr-12-neutron-hybrid-ruleset) - My useful frankenstein PHPCS ruleset 👓 for OOP WordPress development
@@ -2032,7 +2035,7 @@
 - [bobthecow/psysh](https://github.com/bobthecow/psysh) - A REPL for PHP
 - [BracketSpace/Notification](https://github.com/BracketSpace/Notification) - WordPress Notification plugin
 - [nette/neon](https://github.com/nette/neon) - 🍸 Encodes and decodes NEON file format.
-- [szepeviktor/starter-plugin](https://github.com/szepeviktor/starter-plugin) - Template for WordPress plugins
+- [szepeviktor/starter-plugin](https://github.com/szepeviktor/starter-plugin) - Template for WordPress plugins, it took 7 years to write
 - [Automattic/phpcs-neutron-standard](https://github.com/Automattic/phpcs-neutron-standard) - A set of phpcs sniffs for PHP &gt;7 development
 - [php-stubs/wordpress-stubs](https://github.com/php-stubs/wordpress-stubs) - Up-to-date WordPress function and class declaration stubs for static analysis by PHPStan
 - [phpactor/phpactor](https://github.com/phpactor/phpactor) - Mainly a PHP Language Server
@@ -2396,7 +2399,6 @@
 - [containers/krunvm](https://github.com/containers/krunvm) - Create microVMs from OCI images
 - [magic-wormhole/magic-wormhole.rs](https://github.com/magic-wormhole/magic-wormhole.rs) - Rust implementation of Magic Wormhole, with new features and enhancements
 - [Canop/broot](https://github.com/Canop/broot) - A new way to see and navigate directory trees : https://dystroy.org/broot
-- [kimono-koans/httm](https://github.com/kimono-koans/httm) - Interactive, file-level Time Machine-like tool for ZFS/btrfs/nilfs2
 - [mgunyho/tere](https://github.com/mgunyho/tere) - Terminal file explorer
 - [Qovery/Replibyte](https://github.com/Qovery/Replibyte) - Seed your development database with real data ⚡️
 - [a5huynh/spyglass](https://github.com/a5huynh/spyglass) - A personal search engine, crawl & index websites/files you want with a simple set of rules
@@ -2824,7 +2826,7 @@
 
 ## TypeScript 
 
-- [gregrickaby/nextjs-app-directory](https://github.com/gregrickaby/nextjs-app-directory) - A sandbox for learning/testing the new /app directory
+- [gregrickaby/nextjs-app-router-examples](https://github.com/gregrickaby/nextjs-app-router-examples) - Next.js 13 App Router Examples
 - [kellenmace/apollo-client-cache-rehydration-in-next-js](https://github.com/kellenmace/apollo-client-cache-rehydration-in-next-js) - Apollo Client Cache Rehydration in Next.js
 - [kellenmace/headless-wordpress-authentication-native-cookies](https://github.com/kellenmace/headless-wordpress-authentication-native-cookies) - 
 - [jasonkuhrt/graphql-request](https://github.com/jasonkuhrt/graphql-request) - Minimal GraphQL client supporting Node and browsers for scripts or simple apps
@@ -2926,7 +2928,6 @@
 - [bitspook/spookfox](https://github.com/bitspook/spookfox) - A tinkerer's bridge b/w Emacs and Firefox
 - [harlan-zw/unlighthouse](https://github.com/harlan-zw/unlighthouse) - Unlighthouse scans your entire site using Google Lighthouse, with a modern UI, minimal config and smart sampling.
 - [darkreader/darkreader](https://github.com/darkreader/darkreader) - Dark Reader Chrome and Firefox extension
-- [notable/notable](https://github.com/notable/notable) - The Markdown-based note-taking app that doesn't suck.
 - [TanStack/router](https://github.com/TanStack/router) - 🤖 Type-safe router w/ built-in caching & URL state management for JS/TS, React, Preact, Solid, Vue, Svelte and Angular
 - [vercel/swr](https://github.com/vercel/swr) - React Hooks for Data Fetching
 - [mswjs/msw](https://github.com/mswjs/msw) - Seamless REST/GraphQL API mocking library for browser and Node.js.
