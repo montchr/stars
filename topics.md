@@ -2863,7 +2863,7 @@
 - [DarthSim/overmind](https://github.com/DarthSim/overmind) - Process manager for Procfile-based applications and tmux
 - [HatsuneMiku3939/direnv-action](https://github.com/HatsuneMiku3939/direnv-action) - Provide environment variables via direnv.
 - [xt0rted/block-autosquash-commits-action](https://github.com/xt0rted/block-autosquash-commits-action) - A Github Action to prevent merging pull requests containing autosquash commit messages.
-- [WordPress/block-hydration-experiments](https://github.com/WordPress/block-hydration-experiments) - Pattern explorations for block frontend hydration
+- [WordPress/block-interactivity-experiments](https://github.com/WordPress/block-interactivity-experiments) - Pattern explorations for block frontend hydration
 - [meodai/poline](https://github.com/meodai/poline) - Esoteric Palette Generator Mico-Lib Interpolating HSL Color in cartesian space
 - [lunik1/nix-wallpaper](https://github.com/lunik1/nix-wallpaper) - A configurable wallpaper for nix systems
 - [seadome/firefox-addons](https://github.com/seadome/firefox-addons) - 
@@ -3936,7 +3936,7 @@
 - [rollup/rollup](https://github.com/rollup/rollup) - Next-generation ES module bundler
 - [deanishe/alfred-gifs](https://github.com/deanishe/alfred-gifs) - Say it with GIFs (and Alfred)
 - [msoedov/Alfred-collection](https://github.com/msoedov/Alfred-collection) - A collection of all known Alfred3 workflows
-- [eepMoody/open5e](https://github.com/eepMoody/open5e) - An SRD and open-source material reference site for 5th edition D&D
+- [open5e/open5e](https://github.com/open5e/open5e) - An SRD and open-source material reference site for 5th edition D&D
 - [prasmussen/chrome-cli](https://github.com/prasmussen/chrome-cli) - Control Google Chrome from the command line
 - [humanmade/react-wp-scripts](https://github.com/humanmade/react-wp-scripts) - Integrate create-react-app with your WordPress theme/plugin.
 - [TomodomoCo/gutenberg-hig](https://github.com/TomodomoCo/gutenberg-hig) - Suggested human interface guidelines (HIG) for Gutenberg integrations
@@ -4689,7 +4689,7 @@
 - [StevenBlack/hosts](https://github.com/StevenBlack/hosts) - 🔒 Consolidating and extending hosts files from several well-curated sources. Optionally pick extensions for porn, social media, and other categories.
 - [smallstep/cli](https://github.com/smallstep/cli) - 🧰  A zero trust swiss army knife for working with X509, OAuth, JWT, OATH OTP, etc.
 - [Lissy93/awesome-privacy](https://github.com/Lissy93/awesome-privacy) - 🦄  A curated list of privacy & security-focused software and services
-- [tenzir/vast](https://github.com/tenzir/vast) - :crystal_ball: Visibility Across Space and Time – The network telemetry engine for data-driven security investigations.
+- [tenzir/vast](https://github.com/tenzir/vast) - The open-source pipeline and storage engine for security.
 - [bunkerity/bunkerweb](https://github.com/bunkerity/bunkerweb) - 🛡️ Make your web services secure by default !
 - [fabacab/awesome-cybersecurity-blueteam](https://github.com/fabacab/awesome-cybersecurity-blueteam) - :computer:🛡️ A curated collection of awesome resources, tools, and other shiny things for cybersecurity blue teams.
 - [johnbillion/user-switching](https://github.com/johnbillion/user-switching) - WordPress plugin that provides instant switching between user accounts.
