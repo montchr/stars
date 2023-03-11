@@ -202,7 +202,7 @@
 - [topjohnwu/Magisk](https://github.com/topjohnwu/Magisk) - The Magic Mask for Android
 - [projectM-visualizer/projectm](https://github.com/projectM-visualizer/projectm) - projectM - Cross-platform Music Visualization Library. Open-source and Milkdrop-compatible.
 - [SaschaWillems/VulkanInfiniteProceduralTerrain](https://github.com/SaschaWillems/VulkanInfiniteProceduralTerrain) - Playground for doing procedurally infinite terrain rendering experiments with Vulkan
-- [snyball/Hawck](https://github.com/snyball/Hawck) - Key-rebinding daemon for Linux (Wayland/X11/Console)
+- [snyball/hawck](https://github.com/snyball/hawck) - Key-rebinding daemon for Linux (Wayland/X11/Console)
 - [hyprwm/Hyprland](https://github.com/hyprwm/Hyprland) - Hyprland is a highly customizable dynamic tiling Wayland compositor that doesn't sacrifice on its looks.
 - [Zygo/bees](https://github.com/Zygo/bees) - Best-Effort Extent-Same, a btrfs dedupe agent
 - [openSUSE/snapper](https://github.com/openSUSE/snapper) - Manage filesystem snapshots and allow undo of system modifications
@@ -362,7 +362,7 @@
 - [progfolio/.emacs.d](https://github.com/progfolio/.emacs.d) - Emacs literate config
 - [terlar/emacs-config](https://github.com/terlar/emacs-config) - Emacs configuration
 - [angrybacon/dotemacs](https://github.com/angrybacon/dotemacs) - My Emacs configuration
-- [abougouffa/minemacs](https://github.com/abougouffa/minemacs) - Minimal Emacs config for daily use
+- [abougouffa/minemacs](https://github.com/abougouffa/minemacs) - MinEmacs: a minimal Emacs configuration framework for daily use
 - [emacs-twist/nix3.el](https://github.com/emacs-twist/nix3.el) - (WIP) Emacs interface to experimental commands of Nix
 - [manateelazycat/awesome-tray](https://github.com/manateelazycat/awesome-tray) - Hide mode-line, display necessary information at right of minibuffer.
 - [manateelazycat/blink-search](https://github.com/manateelazycat/blink-search) - In the blink of an eye, the search is complete
@@ -2401,7 +2401,7 @@
 - [kimono-koans/httm](https://github.com/kimono-koans/httm) - Interactive, file-level Time Machine-like tool for ZFS/btrfs/nilfs2
 - [mgunyho/tere](https://github.com/mgunyho/tere) - Terminal file explorer
 - [Qovery/Replibyte](https://github.com/Qovery/Replibyte) - Seed your development database with real data ⚡️
-- [a5huynh/spyglass](https://github.com/a5huynh/spyglass) - A personal search engine, crawl & index websites/files you want with a simple set of rules
+- [spyglass-search/spyglass](https://github.com/spyglass-search/spyglass) - A personal search engine, crawl & index websites/files you want with a simple set of rules
 - [martinvonz/jj](https://github.com/martinvonz/jj) - A Git-compatible DVCS that is both simple and powerful
 - [arxanas/git-branchless](https://github.com/arxanas/git-branchless) - High-velocity, monorepo-scale workflow for Git
 - [bvaisvil/zenith](https://github.com/bvaisvil/zenith) - Zenith - sort of like top or htop but with zoom-able charts, CPU, GPU, network, and disk usage
@@ -2553,7 +2553,7 @@
 - [tombetthauser/zine-garden](https://github.com/tombetthauser/zine-garden) - An endless garden of zines. Create printable pdfs, upload them, search for zines, download them, print them etc.
 - [64kramsystem/zfs-installer](https://github.com/64kramsystem/zfs-installer) - Program that prepares ZFS on a system, and installs Linux
 - [terem42/zfs-hetzner-vm](https://github.com/terem42/zfs-hetzner-vm) - script to install Debian 11, 10 and Ubuntu 20 LTS and 18.04 LTS with ZFS root on Hetzner VPS
-- [szepeviktor/composer-managed-wordpress](https://github.com/szepeviktor/composer-managed-wordpress) - Install and manage WordPress with Composer
+- [szepeviktor/composer-managed-wordpress](https://github.com/szepeviktor/composer-managed-wordpress) - Install and manage WordPress with Composer 👨‍🚀
 - [MichaelCade/90DaysOfDevOps](https://github.com/MichaelCade/90DaysOfDevOps) - I am using this repository to document my journey learning about DevOps. I began this process on January 1, 2022, and plan to continue until March 31. I will be dedicating one hour each day, including
 - [dspinellis/git-issue](https://github.com/dspinellis/git-issue) - Git-based decentralized issue management
 - [ailrk/kirby](https://github.com/ailrk/kirby) - kirby
