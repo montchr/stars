@@ -196,6 +196,7 @@
 - [vim](#vim)
 - [visual-studio-code](#visual-studio-code)
 - [vue](#vue)
+- [vuejs](#vuejs)
 - [web](#web)
 - [web-assembly](#web-assembly)
 - [web-components](#web-components)
@@ -547,7 +548,7 @@
 - [shellspec/shellspec](https://github.com/shellspec/shellspec) - A full-featured BDD unit testing framework for bash, ksh, zsh, dash and all POSIX shells
 - [ko1nksm/getoptions](https://github.com/ko1nksm/getoptions) - An elegant option/argument parser for shell scripts (full support for bash and all POSIX shells)
 - [bregman-arie/devops-resources](https://github.com/bregman-arie/devops-resources) - DevOps resources - Linux, Jenkins, AWS, SRE, Prometheus, Docker, Python, Ansible, Git, Kubernetes, Terraform, OpenStack, SQL, NoSQL, Azure, GCP
-- [hyperupcall/bash-object](https://github.com/hyperupcall/bash-object) - Manipulate heterogenous data hierarchies in Bash
+- [hyperupcall/bash-object](https://github.com/hyperupcall/bash-object) - The _first_ Bash library for manipulating heterogenous data hierarchies
 - [dcreemer/1pass](https://github.com/dcreemer/1pass) - A caching wrapper for the 1Password CLI
 - [ericdallo/dotfiles](https://github.com/ericdallo/dotfiles) - Dotfiles for my NixOS system based on Dracula theme
 - [trapd00r/LS_COLORS](https://github.com/trapd00r/LS_COLORS) - A collection of LS_COLORS definitions; needs your contribution!
@@ -1392,6 +1393,7 @@
 
 ## font 
 
+- [rubjo/victor-mono](https://github.com/rubjo/victor-mono) - A free programming font with cursive italics and ligatures. Donations welcome ❤️
 - [nerdypepper/scientifica](https://github.com/nerdypepper/scientifica) - tall, condensed, bitmap font for geeks
 - [IdreesInc/Monocraft](https://github.com/IdreesInc/Monocraft) - A monospaced programming font inspired by the Minecraft typeface
 - [source-foundry/font-line](https://github.com/source-foundry/font-line) - OpenType vertical metrics reporting and font line spacing adjustment tool
@@ -1536,6 +1538,7 @@
 
 ## go 
 
+- [nix-community/nix-init](https://github.com/nix-community/nix-init) - Generate Nix packages from URLs with hash prefetching, dependency inference, license detection, and more [maintainer=@figsoda]
 - [guumaster/hostctl](https://github.com/guumaster/hostctl) - Your dev tool to manage /etc/hosts like a pro!
 - [Xe/x](https://github.com/Xe/x) - Various tools, trinkets and experiments
 - [F1bonacc1/process-compose](https://github.com/F1bonacc1/process-compose) - Process Compose is a simple and flexible scheduler and orchestrator to manage non-containerized applications.
@@ -2107,7 +2110,7 @@
 - [dbohdan/structured-text-tools](https://github.com/dbohdan/structured-text-tools) - A list of command line tools for manipulating structured text data
 - [mrVanDalo/landingpage](https://github.com/mrVanDalo/landingpage) - a simple html file using json to render a bookmark page to be shared across teams.
 - [antonmedv/fx](https://github.com/antonmedv/fx) - Terminal JSON viewer
-- [AykutSarac/jsoncrack.com](https://github.com/AykutSarac/jsoncrack.com) - 🔮 Seamlessly visualize your JSON data instantly into graphs; paste, import or fetch!
+- [AykutSarac/jsoncrack.com](https://github.com/AykutSarac/jsoncrack.com) - ⭐️ Transform data chaos into clarity with JSON Crack - the ultimate JSON visualization solution.
 - [neilotoole/sq](https://github.com/neilotoole/sq) - swiss-army knife for data
 - [cube2222/octosql](https://github.com/cube2222/octosql) - OctoSQL is a query tool that allows you to join, analyse and transform data from multiple databases and file formats using SQL.
 - [ThomasAribart/json-schema-to-ts](https://github.com/ThomasAribart/json-schema-to-ts) - Infer TS types from JSON schemas 📝
@@ -2672,7 +2675,7 @@
 - [gqty-dev/gqty](https://github.com/gqty-dev/gqty) - a GraphQL client built for rapid iteration
 - [wpengine/faustjs](https://github.com/wpengine/faustjs) - Faust.js - The Headless WordPress Framework
 - [belgattitude/nextjs-monorepo-example](https://github.com/belgattitude/nextjs-monorepo-example) - Collection of monorepo tips & tricks
-- [AykutSarac/jsoncrack.com](https://github.com/AykutSarac/jsoncrack.com) - 🔮 Seamlessly visualize your JSON data instantly into graphs; paste, import or fetch!
+- [AykutSarac/jsoncrack.com](https://github.com/AykutSarac/jsoncrack.com) - ⭐️ Transform data chaos into clarity with JSON Crack - the ultimate JSON visualization solution.
 - [rtCamp/wp-decoupled](https://github.com/rtCamp/wp-decoupled) - Next.js app with WPGraphQL and WordPress at the backend.
 - [gregrickaby/nextjs-wordpress](https://github.com/gregrickaby/nextjs-wordpress) - 💀 It's headless WordPress!
 - [postlight/headless-wp-starter](https://github.com/postlight/headless-wp-starter) - 🔪 WordPress + React Starter Kit: Spin up a WordPress-powered React app in one step
@@ -2824,6 +2827,9 @@
 
 ## others 
 
+- [schuelermine/xhmm](https://github.com/schuelermine/xhmm) - Extra home manager modules
+- [coveooss/json-schema-for-humans](https://github.com/coveooss/json-schema-for-humans) - Quickly generate HTML documentation from a JSON schema
+- [kleinweb/php-coding-standards](https://github.com/kleinweb/php-coding-standards) - 
 - [adventistchurch/alps-wordpress](https://github.com/adventistchurch/alps-wordpress) - This Wordpress theme is an implementation of the Adventist Living Pattern System (ALPS) designed to support the work of the Seventh-day Adventist church.
 - [talss89/wp-editor-query-plugin](https://github.com/talss89/wp-editor-query-plugin) - Webpack plugin for wp @editor extraction.
 - [kellenmace/apollo-client-cache-rehydration-in-next-js](https://github.com/kellenmace/apollo-client-cache-rehydration-in-next-js) - Apollo Client Cache Rehydration in Next.js
@@ -3317,7 +3323,7 @@
 - [input-output-hk/bitte](https://github.com/input-output-hk/bitte) - Nix Ops for Terraform, Consul, Vault, Nomad
 - [input-output-hk/bitte-cells](https://github.com/input-output-hk/bitte-cells) - Shared infrastructure components commonly used across clusters
 - [meseck/random-samples](https://github.com/meseck/random-samples) - A small Bash script to download random audio files from the BBC Sound Effects library.
-- [cstrahan/tree-sitter-nix](https://github.com/cstrahan/tree-sitter-nix) - Nix grammar for tree-sitter
+- [nix-community/tree-sitter-nix](https://github.com/nix-community/tree-sitter-nix) - Nix grammar for tree-sitter [maintainer=@cstrahan]
 - [nix-community/nixpkgs-lint](https://github.com/nix-community/nixpkgs-lint) - A fast semantic linter for Nix using tree-sitter 🌳 + ❄️. [maintainers=@Artturin,@siraben]
 - [pimeys/nixos](https://github.com/pimeys/nixos) - NixOS Configuration
 - [SystemCrafters/crafted-emacs](https://github.com/SystemCrafters/crafted-emacs) - A sensible base Emacs configuration.
@@ -4207,7 +4213,7 @@
 - [bobthecow/psysh](https://github.com/bobthecow/psysh) - A REPL for PHP
 - [shivammathur/setup-php](https://github.com/shivammathur/setup-php) - GitHub action to set up PHP with extensions, php.ini configuration, coverage drivers, and various tools.
 - [nette/neon](https://github.com/nette/neon) - 🍸 Encodes and decodes NEON file format.
-- [szepeviktor/starter-plugin](https://github.com/szepeviktor/starter-plugin) - Template for WordPress plugins, it took 7 years to write
+- [szepeviktor/starter-plugin](https://github.com/szepeviktor/starter-plugin) - Template for WordPress plugins, it took 7️⃣ years to write
 - [phpactor/phpactor](https://github.com/phpactor/phpactor) - Mainly a PHP Language Server
 - [vimeo/psalm](https://github.com/vimeo/psalm) - A static analysis tool for finding errors in PHP applications
 - [emacs-lsp/lsp-mode](https://github.com/emacs-lsp/lsp-mode) - Emacs client/library for the Language Server Protocol
@@ -4261,6 +4267,7 @@
 
 ## programming 
 
+- [remeda/remeda](https://github.com/remeda/remeda) - A utility library for JavaScript and TypeScript.
 - [hwayne/awesome-cold-showers](https://github.com/hwayne/awesome-cold-showers) - For when people get too hyped up about things
 - [donnemartin/haxor-news](https://github.com/donnemartin/haxor-news) - Browse Hacker News like a haxor: A Hacker News command line interface (CLI).
 - [donnemartin/system-design-primer](https://github.com/donnemartin/system-design-primer) - Learn how to design large-scale systems. Prep for the system design interview.  Includes Anki flashcards.
@@ -4286,6 +4293,7 @@
 
 ## python 
 
+- [nix-community/nix-init](https://github.com/nix-community/nix-init) - Generate Nix packages from URLs with hash prefetching, dependency inference, license detection, and more [maintainer=@figsoda]
 - [nickstenning/honcho](https://github.com/nickstenning/honcho) - Honcho: a python clone of Foreman. For managing Procfile-based applications.
 - [fsfe/reuse-tool](https://github.com/fsfe/reuse-tool) - reuse is a tool for compliance with the REUSE recommendations.
 - [searxng/searxng](https://github.com/searxng/searxng) - SearXNG is a free internet metasearch engine which aggregates results from various search services and databases. Users are neither tracked nor profiled.
@@ -4403,7 +4411,7 @@
 - [soywod/react-use-bireducer](https://github.com/soywod/react-use-bireducer) - React hook for managing effectful reducers.
 - [bbc/simorgh](https://github.com/bbc/simorgh) - The BBC's Open Source Single Page Application. Contributions welcome! Used on some of our biggest websites, e.g.
 - [a-ahandani/remixpress](https://github.com/a-ahandani/remixpress) - ✏ RemixPress is a presentation layer built with React, Remix, MUI and GraphQl that works with Wordress as a headless CMS
-- [AykutSarac/jsoncrack.com](https://github.com/AykutSarac/jsoncrack.com) - 🔮 Seamlessly visualize your JSON data instantly into graphs; paste, import or fetch!
+- [AykutSarac/jsoncrack.com](https://github.com/AykutSarac/jsoncrack.com) - ⭐️ Transform data chaos into clarity with JSON Crack - the ultimate JSON visualization solution.
 - [code-hike/codehike](https://github.com/code-hike/codehike) - Marvellous code walkthroughs
 - [rtCamp/wp-decoupled](https://github.com/rtCamp/wp-decoupled) - Next.js app with WPGraphQL and WordPress at the backend.
 - [gregrickaby/nextjs-wordpress](https://github.com/gregrickaby/nextjs-wordpress) - 💀 It's headless WordPress!
@@ -4568,6 +4576,7 @@
 
 ## rust 
 
+- [nix-community/nix-init](https://github.com/nix-community/nix-init) - Generate Nix packages from URLs with hash prefetching, dependency inference, license detection, and more [maintainer=@figsoda]
 - [Hyde46/hoard](https://github.com/Hyde46/hoard) - cli command organizer written in rust
 - [ritz078/transform](https://github.com/ritz078/transform) - A polyglot web converter.
 - [davidcole1340/ext-php-rs](https://github.com/davidcole1340/ext-php-rs) - Bindings for the Zend API to build PHP extensions natively in Rust.
@@ -4693,7 +4702,6 @@
 - [StevenBlack/hosts](https://github.com/StevenBlack/hosts) - 🔒 Consolidating and extending hosts files from several well-curated sources. Optionally pick extensions for porn, social media, and other categories.
 - [smallstep/cli](https://github.com/smallstep/cli) - 🧰  A zero trust swiss army knife for working with X509, OAuth, JWT, OATH OTP, etc.
 - [Lissy93/awesome-privacy](https://github.com/Lissy93/awesome-privacy) - 🦄  A curated list of privacy & security-focused software and services
-- [tenzir/vast](https://github.com/tenzir/vast) - The open-source pipeline and storage engine for security.
 - [bunkerity/bunkerweb](https://github.com/bunkerity/bunkerweb) - 🛡️ Make your web services secure by default !
 - [fabacab/awesome-cybersecurity-blueteam](https://github.com/fabacab/awesome-cybersecurity-blueteam) - :computer:🛡️ A curated collection of awesome resources, tools, and other shiny things for cybersecurity blue teams.
 - [johnbillion/user-switching](https://github.com/johnbillion/user-switching) - WordPress plugin that provides instant switching between user accounts.
@@ -4779,7 +4787,7 @@
 - [jeffreytse/zsh-vi-mode](https://github.com/jeffreytse/zsh-vi-mode) - 💻 A better and friendly vi(vim) mode plugin for ZSH.
 - [fish-shell/fish-shell](https://github.com/fish-shell/fish-shell) - The user-friendly command line shell.
 - [franciscolourenco/done](https://github.com/franciscolourenco/done) - A fish-shell package to automatically receive notifications when long processes finish.
-- [hyperupcall/bash-object](https://github.com/hyperupcall/bash-object) - Manipulate heterogenous data hierarchies in Bash
+- [hyperupcall/bash-object](https://github.com/hyperupcall/bash-object) - The _first_ Bash library for manipulating heterogenous data hierarchies
 - [paulotome/emacstool](https://github.com/paulotome/emacstool) - Using Emacs Ediff as Git Merge/Difftool
 - [stark/Color-Scripts](https://github.com/stark/Color-Scripts) - User contributed color scripts
 - [marlonrichert/.config](https://github.com/marlonrichert/.config) - ⚙️ Bootstrappable user environment for macOS & Ubuntu
@@ -5070,6 +5078,7 @@
 
 ## typescript 
 
+- [remeda/remeda](https://github.com/remeda/remeda) - A utility library for JavaScript and TypeScript.
 - [gregrickaby/nextjs-app-router-examples](https://github.com/gregrickaby/nextjs-app-router-examples) - Next.js 13 App Router Examples
 - [jasonkuhrt/graphql-request](https://github.com/jasonkuhrt/graphql-request) - Minimal GraphQL client supporting Node and browsers for scripts or simple apps
 - [ritz078/transform](https://github.com/ritz078/transform) - A polyglot web converter.
@@ -5252,6 +5261,13 @@
 - [nextcloud/photos](https://github.com/nextcloud/photos) - 📸 Your memories under your control
 - [sentriz/betanin](https://github.com/sentriz/betanin) - beets based mitm of your torrent client and music player
 - [koel/koel](https://github.com/koel/koel) - 🐦 A personal music streaming server that works.
+
+## vuejs 
+
+- [TeamPiped/Piped](https://github.com/TeamPiped/Piped) - An alternative privacy-friendly YouTube frontend which is efficient by design.
+- [filebrowser/filebrowser](https://github.com/filebrowser/filebrowser) - 📂 Web File Browser
+- [willmcpo/body-scroll-lock](https://github.com/willmcpo/body-scroll-lock) - Body scroll locking that just works with everything 😏
+- [nextcloud/photos](https://github.com/nextcloud/photos) - 📸 Your memories under your control
 
 ## web 
 
@@ -5452,7 +5468,7 @@
 - [BrianHenryIE/bh-wp-logger](https://github.com/BrianHenryIE/bh-wp-logger) - Zero-config log UI for WordPress plugins
 - [grafted-in/wordpress-nginx-nix](https://github.com/grafted-in/wordpress-nginx-nix) - One-stop shop for defining, testing, and deploying a WordPress CMS site using Nginx with Nix, NixOps, and NixOS
 - [BracketSpace/Notification](https://github.com/BracketSpace/Notification) - WordPress Notification plugin
-- [szepeviktor/starter-plugin](https://github.com/szepeviktor/starter-plugin) - Template for WordPress plugins, it took 7 years to write
+- [szepeviktor/starter-plugin](https://github.com/szepeviktor/starter-plugin) - Template for WordPress plugins, it took 7️⃣ years to write
 - [php-stubs/wordpress-stubs](https://github.com/php-stubs/wordpress-stubs) - Up-to-date WordPress function and class declaration stubs for static analysis by PHPStan
 - [alleyinteractive/mantle](https://github.com/alleyinteractive/mantle) - Mantle is a framework for building large, robust websites and applications with WordPress
 - [alleyinteractive/wp-experimental-features](https://github.com/alleyinteractive/wp-experimental-features) - A feature flags system for beta testing experimental features in WordPress.
