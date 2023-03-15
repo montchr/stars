@@ -921,6 +921,7 @@
 
 ## JavaScript 
 
+- [gregsullivan/_tw-themejson](https://github.com/gregsullivan/_tw-themejson) - A Tailwind CSS plugin that automatically pulls colors and widths from a WordPress theme’s theme.json file
 - [WordPress/gutenberg-examples](https://github.com/WordPress/gutenberg-examples) - Examples for extending WordPress/Gutenberg with blocks.
 - [DekodeInteraktiv/coding-standards](https://github.com/DekodeInteraktiv/coding-standards) - Dekode Coding Standards
 - [talss89/wp-editor-query-plugin](https://github.com/talss89/wp-editor-query-plugin) - Webpack plugin for wp @editor extraction.
@@ -1135,7 +1136,6 @@
 - [Flood-UI/flood](https://github.com/Flood-UI/flood) - A web UI for rTorrent, qBittorrent and Transmission with a Node.js backend and React frontend. Migrate to v4: https://github.com/jesec/flood/wiki/Migrate-from-older-versions-of-Flood.
 - [spiritedmedia/tachyon-edge](https://github.com/spiritedmedia/tachyon-edge) - A reworked version of Tachyon that works with Lambda@Edge
 - [defunkt/jquery-pjax](https://github.com/defunkt/jquery-pjax) - pushState + ajax = pjax
-- [sebpiq/WebPd](https://github.com/sebpiq/WebPd) - Run your Pure Data patches on the web.
 - [kylestetz/AudioKeys](https://github.com/kylestetz/AudioKeys) - :musical_keyboard: a QWERTY keyboard for web audio projects
 - [kylestetz/Sentencer](https://github.com/kylestetz/Sentencer) - :pencil2: madlibs-style sentence templating in Javascript
 - [jaysalvat/buzz](https://github.com/jaysalvat/buzz) - Buzz is a small but powerful Javascript library that allows you to easily take advantage of the new HTML5 audio element. It tries to degrade silently on non-modern browsers.
@@ -1851,6 +1851,8 @@
 
 ## PHP 
 
+- [junaidbhura/composer-wp-pro-plugins](https://github.com/junaidbhura/composer-wp-pro-plugins) - Composer installer for Pro WordPress plugins.
+- [acf-extended/ACF-Extended](https://github.com/acf-extended/ACF-Extended) - 🚀 All-in-one enhancement suite that improves WordPress & Advanced Custom Fields
 - [adventistchurch/alps-wordpress](https://github.com/adventistchurch/alps-wordpress) - This Wordpress theme is an implementation of the Adventist Living Pattern System (ALPS) designed to support the work of the Seventh-day Adventist church.
 - [php-stubs/wordpress-globals](https://github.com/php-stubs/wordpress-globals) - Global variables and global constants from WordPress core
 - [inpsyde/Wonolog](https://github.com/inpsyde/Wonolog) - Monolog-based logging package for WordPress.
@@ -1974,7 +1976,7 @@
 - [doctrine/DoctrineMigrationsBundle](https://github.com/doctrine/DoctrineMigrationsBundle) - Symfony integration for the doctrine/migrations library
 - [auraphp/Aura.Sql](https://github.com/auraphp/Aura.Sql) - SQL database access through PDO.
 - [Seldaek/monolog](https://github.com/Seldaek/monolog) - Sends your logs to files, sockets, inboxes, databases and various web services
-- [symfony/var-dumper](https://github.com/symfony/var-dumper) - The VarDumper component provides mechanisms for walking through any arbitrary PHP variable. It provides a better dump() function that you can use instead of var_dump().
+- [symfony/var-dumper](https://github.com/symfony/var-dumper) - Provides mechanisms for walking through any arbitrary PHP variable
 - [antecedent/patchwork](https://github.com/antecedent/patchwork) - Method redefinition (monkey-patching) functionality for PHP.
 - [lstrojny/functional-php](https://github.com/lstrojny/functional-php) - Primitives for functional programming in PHP
 - [Trismegiste/Mondrian](https://github.com/Trismegiste/Mondrian) - A static php code analysis tool using the Graph Theory
@@ -2327,7 +2329,7 @@
 ## Ruby 
 
 - [toy/image_optim](https://github.com/toy/image_optim) - Optimize images using multiple utilities
-- [wpscanteam/wpscan](https://github.com/wpscanteam/wpscan) - WPScan WordPress security scanner. Written for security professionals and blog maintainers to test the security of their WordPress websites.
+- [wpscanteam/wpscan](https://github.com/wpscanteam/wpscan) - WPScan WordPress security scanner. Written for security professionals and blog maintainers to test the security of their WordPress websites. Contact us via contact@wpscan.com
 - [oxdi/vagrant-nixos](https://github.com/oxdi/vagrant-nixos) - Vagrant plugin to add nixos guest capabilities and nix provisioning
 - [bayandin/awesome-awesomeness](https://github.com/bayandin/awesome-awesomeness) - A curated list of awesome awesomeness
 - [hack-different/apple-knowledge](https://github.com/hack-different/apple-knowledge) - A collection of reverse engineered Apple things, as well as a machine-readable database of Apple hardware
@@ -2845,7 +2847,7 @@
 - [ritz078/transform](https://github.com/ritz078/transform) - A polyglot web converter.
 - [shuding/nextra](https://github.com/shuding/nextra) - Simple, powerful and flexible site generation framework with everything you love from Next.js.
 - [Highfivery/nextjs-starter](https://github.com/Highfivery/nextjs-starter) - A Next.js 13 CMS & theme agnostic starter framework to build fully-featured headless sites.
-- [roots/bud](https://github.com/roots/bud) - ⚡️ Lightning fast webpack framework combining the best parts of Laravel Mix and Symfony Encore
+- [roots/bud](https://github.com/roots/bud) - High-performance build system that supports SWC, esbuild, and Babel
 - [joe-bell/cva](https://github.com/joe-bell/cva) - Class Variance Authority
 - [dotenv-org/dotenv-vault](https://github.com/dotenv-org/dotenv-vault) - Sync .env files
 - [philipstanislaus/performant-array-to-tree](https://github.com/philipstanislaus/performant-array-to-tree) - Converts an array of items with ids and parent ids to a nested tree in a performant O(n) way. Runs in browsers and Node.js.
@@ -3018,6 +3020,7 @@
 - [sindresorhus/caprine](https://github.com/sindresorhus/caprine) - Elegant Facebook Messenger desktop app
 - [pajoma/vscode-journal](https://github.com/pajoma/vscode-journal) - Lightweight journal and simple notes support for Visual Studio Code
 - [refined-github/refined-github](https://github.com/refined-github/refined-github) - :octocat: Browser extension that simplifies the GitHub interface and adds useful features
+- [sebpiq/WebPd](https://github.com/sebpiq/WebPd) - Run your Pure Data patches on the web.
 
 ## V 
 
