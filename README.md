@@ -390,7 +390,7 @@
 - [zkry/yaml.el](https://github.com/zkry/yaml.el) - YAML parser in Elisp
 - [yoshiki/yaml-mode](https://github.com/yoshiki/yaml-mode) - The emacs major mode for editing files in the YAML data serialization format.
 - [alphapapa/obvious.el](https://github.com/alphapapa/obvious.el) - Who needs comments when the code is so obvious
-- [ogdenwebb/snug-emacs](https://github.com/ogdenwebb/snug-emacs) - Emacs config based on evil, use-package & straight.el
+- [ogdenwebb/snug-emacs](https://github.com/ogdenwebb/snug-emacs) - My  personal Emacs configuration
 - [astoff/devdocs.el](https://github.com/astoff/devdocs.el) - Emacs viewer for DevDocs
 - [mhayashi1120/Emacs-wgrep](https://github.com/mhayashi1120/Emacs-wgrep) - Writable grep buffer and apply the changes to files
 - [minad/consult](https://github.com/minad/consult) - :mag: consult.el - Consulting completing-read
@@ -2501,7 +2501,7 @@
 - [denoland/deno](https://github.com/denoland/deno) - A modern runtime for JavaScript and TypeScript.
 - [mlvzk/manix](https://github.com/mlvzk/manix) - A fast CLI documentation searcher for Nix.
 - [tweag/nickel](https://github.com/tweag/nickel) - Better configuration for less
-- [nix-community/rnix-lsp](https://github.com/nix-community/rnix-lsp) - WIP Language Server for Nix! [maintainers=@aaronjanse]
+- [nix-community/rnix-lsp](https://github.com/nix-community/rnix-lsp) - WIP Language Server for Nix! [maintainer=@aaronjanse]
 - [cloudhead/rx](https://github.com/cloudhead/rx) - 👾 Modern and minimalist pixel editor
 - [wez/wezterm](https://github.com/wez/wezterm) - A GPU-accelerated cross-platform terminal emulator and multiplexer written by @wez and implemented in Rust
 - [denisidoro/navi](https://github.com/denisidoro/navi) - An interactive cheatsheet tool for the command-line
