@@ -1667,6 +1667,7 @@
 
 ## Others 
 
+- [lukecav/awesome-acf](https://github.com/lukecav/awesome-acf) - A collection of third party add-ons for Advanced Custom Fields plugin for WordPress.
 - [dgwyer/gutenberg-development-resources](https://github.com/dgwyer/gutenberg-development-resources) - List of resources related to Gutenberg and block development.
 - [kleinweb/php-coding-standards](https://github.com/kleinweb/php-coding-standards) - 
 - [szepeviktor/how-to-operate](https://github.com/szepeviktor/how-to-operate) - THis is hot stuff on people working with web applications 🌶
@@ -1854,6 +1855,9 @@
 
 ## PHP 
 
+- [schmittjoh/php-option](https://github.com/schmittjoh/php-option) - Option Type for PHP
+- [spatie/laravel-ignition](https://github.com/spatie/laravel-ignition) - A beautiful error page for Laravel apps
+- [Log1x/sage-directives](https://github.com/Log1x/sage-directives) - A set of Blade directives for use with Roots Sage.
 - [joanrodas/plubo](https://github.com/joanrodas/plubo) - Simple WordPress plugin boilerplate
 - [10up/safe-redirect-manager](https://github.com/10up/safe-redirect-manager) - A simple HTTP redirection plugin for WordPress.
 - [FlorianMoser/bedrock-deployer](https://github.com/FlorianMoser/bedrock-deployer) - Deployer recipes for Roots Bedrock
@@ -2359,7 +2363,7 @@
 - [masterkain/loved2itunes](https://github.com/masterkain/loved2itunes) - Import your loved last.fm tracks to iTunes
 - [athityakumar/colorls](https://github.com/athityakumar/colorls) - A Ruby gem that beautifies the terminal's ls command, with color and font-awesome icons. :tada:
 - [sds/overcommit](https://github.com/sds/overcommit) - A fully configurable and extendable Git hook manager
-- [benjaminoakes/maid](https://github.com/benjaminoakes/maid) - Be lazy.  Let Maid clean up after you, based on rules you define.  Think of it as "Hazel for hackers".
+- [maid/maid](https://github.com/maid/maid) - Be lazy.  Let Maid clean up after you, based on rules you define.  Think of it as "Hazel for hackers".
 - [github-changelog-generator/github-changelog-generator](https://github.com/github-changelog-generator/github-changelog-generator) - Automatically generate change log from your tags, issues, labels and pull requests on GitHub.
 - [ttscoff/doing](https://github.com/ttscoff/doing) - 
 - [dblandin/timetrap-harvest](https://github.com/dblandin/timetrap-harvest) - A Harvest formatter for Timetrap
