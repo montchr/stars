@@ -918,6 +918,7 @@
 
 ## data-structures 
 
+- [azjezz/psl](https://github.com/azjezz/psl) - 📚 PHP Standard Library - a modern, consistent, centralized, well-typed, non-blocking set of APIs for PHP programmers
 - [philipstanislaus/performant-array-to-tree](https://github.com/philipstanislaus/performant-array-to-tree) - Converts an array of items with ids and parent ids to a nested tree in a performant O(n) way. Runs in browsers and Node.js.
 - [trekhleb/javascript-algorithms](https://github.com/trekhleb/javascript-algorithms) - 📝 Algorithms and data structures implemented in JavaScript with explanations and links to further readings
 
@@ -1915,6 +1916,7 @@
 
 ## html 
 
+- [azjezz/psl](https://github.com/azjezz/psl) - 📚 PHP Standard Library - a modern, consistent, centralized, well-typed, non-blocking set of APIs for PHP programmers
 - [mdn/content](https://github.com/mdn/content) - The content behind MDN Web Docs
 - [dbohdan/structured-text-tools](https://github.com/dbohdan/structured-text-tools) - A list of command line tools for manipulating structured text data
 - [vidstack/player](https://github.com/vidstack/player) - (Beta) Customizable, lightweight, accessible, and framework-agnostic media player for the web. Modern alternative to Videojs.
@@ -2111,6 +2113,7 @@
 
 ## json 
 
+- [azjezz/psl](https://github.com/azjezz/psl) - 📚 PHP Standard Library - a modern, consistent, centralized, well-typed, non-blocking set of APIs for PHP programmers
 - [dbohdan/structured-text-tools](https://github.com/dbohdan/structured-text-tools) - A list of command line tools for manipulating structured text data
 - [mrVanDalo/landingpage](https://github.com/mrVanDalo/landingpage) - a simple html file using json to render a bookmark page to be shared across teams.
 - [antonmedv/fx](https://github.com/antonmedv/fx) - Terminal JSON viewer
@@ -2832,6 +2835,7 @@
 
 ## others 
 
+- [schmittjoh/php-option](https://github.com/schmittjoh/php-option) - Option Type for PHP
 - [Automattic/block-experiments](https://github.com/Automattic/block-experiments) - A monorepo of Block Experiments
 - [10up/safe-redirect-manager](https://github.com/10up/safe-redirect-manager) - A simple HTTP redirection plugin for WordPress.
 - [FlorianMoser/bedrock-deployer](https://github.com/FlorianMoser/bedrock-deployer) - Deployer recipes for Roots Bedrock
@@ -3983,7 +3987,7 @@
 - [AZOPCORP/amen_pi](https://github.com/AZOPCORP/amen_pi) - Amen Break sequencer based on PI digits numbers.
 - [isdampe/music-for-programming](https://github.com/isdampe/music-for-programming) - Stream musicforprogramming.net directly into your terminal
 - [ClintH/gtbg](https://github.com/ClintH/gtbg) - Sample preparer for Elektron Octatrack and Machinedrum units
-- [benjaminoakes/maid](https://github.com/benjaminoakes/maid) - Be lazy.  Let Maid clean up after you, based on rules you define.  Think of it as "Hazel for hackers".
+- [maid/maid](https://github.com/maid/maid) - Be lazy.  Let Maid clean up after you, based on rules you define.  Think of it as "Hazel for hackers".
 - [marchdoe/dcrug](https://github.com/marchdoe/dcrug) - Presentation for the 7/14/2016 DCRUG Meetup
 - [RomanKubiak/ctrlr](https://github.com/RomanKubiak/ctrlr) - Ctrlr
 - [lichen-community-systems/Flocking](https://github.com/lichen-community-systems/Flocking) - Flocking - Creative audio synthesis for the Web
@@ -4160,6 +4164,8 @@
 
 ## php 
 
+- [azjezz/psl](https://github.com/azjezz/psl) - 📚 PHP Standard Library - a modern, consistent, centralized, well-typed, non-blocking set of APIs for PHP programmers
+- [spatie/laravel-ignition](https://github.com/spatie/laravel-ignition) - A beautiful error page for Laravel apps
 - [lucatume/wp-browser](https://github.com/lucatume/wp-browser) - The easy and reliable way to test WordPress with Codeception. 10 years of proven success.
 - [acf-extended/ACF-Extended](https://github.com/acf-extended/ACF-Extended) - 🚀 All-in-one enhancement suite that improves WordPress & Advanced Custom Fields
 - [inpsyde/Wonolog](https://github.com/inpsyde/Wonolog) - Monolog-based logging package for WordPress.
@@ -4774,6 +4780,7 @@
 
 ## shell 
 
+- [azjezz/psl](https://github.com/azjezz/psl) - 📚 PHP Standard Library - a modern, consistent, centralized, well-typed, non-blocking set of APIs for PHP programmers
 - [nix-community/patsh](https://github.com/nix-community/patsh) - A command-line tool for patching shell scripts inspired by resholve [maintainer=@figsoda]
 - [szepeviktor/debian-server-tools](https://github.com/szepeviktor/debian-server-tools) - Tools and living docs 🧬 for Debian-based servers and Web Applications
 - [charmbracelet/gum](https://github.com/charmbracelet/gum) - A tool for glamorous shell scripts 🎀
@@ -5365,6 +5372,8 @@
 
 ## wordpress 
 
+- [Log1x/sage-directives](https://github.com/Log1x/sage-directives) - A set of Blade directives for use with Roots Sage.
+- [lukecav/awesome-acf](https://github.com/lukecav/awesome-acf) - A collection of third party add-ons for Advanced Custom Fields plugin for WordPress.
 - [joanrodas/plubo](https://github.com/joanrodas/plubo) - Simple WordPress plugin boilerplate
 - [flyntwp/flynt](https://github.com/flyntwp/flynt) - Component based WordPress starter theme, powered by ACF Pro and Timber, optimized for a11y and fast page load results.
 - [lucatume/wp-browser](https://github.com/lucatume/wp-browser) - The easy and reliable way to test WordPress with Codeception. 10 years of proven success.
