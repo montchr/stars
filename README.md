@@ -922,6 +922,7 @@
 
 ## JavaScript 
 
+- [area17/tailwind-plugins](https://github.com/area17/tailwind-plugins) - A series of Tailwind plugins to enable/encourage systematised web design/development and some other useful utility classes.
 - [Automattic/block-experiments](https://github.com/Automattic/block-experiments) - A monorepo of Block Experiments
 - [gregsullivan/_tw-themejson](https://github.com/gregsullivan/_tw-themejson) - A Tailwind CSS plugin that automatically pulls colors and widths from a WordPress theme’s theme.json file
 - [WordPress/gutenberg-examples](https://github.com/WordPress/gutenberg-examples) - Examples for extending WordPress/Gutenberg with blocks.
@@ -1667,6 +1668,7 @@
 
 ## Others 
 
+- [szepeviktor/infrastructure-for-hosting-web-applications](https://github.com/szepeviktor/infrastructure-for-hosting-web-applications) - My policies on hosting anything web-related 💾
 - [lukecav/awesome-acf](https://github.com/lukecav/awesome-acf) - A collection of third party add-ons for Advanced Custom Fields plugin for WordPress.
 - [dgwyer/gutenberg-development-resources](https://github.com/dgwyer/gutenberg-development-resources) - List of resources related to Gutenberg and block development.
 - [kleinweb/php-coding-standards](https://github.com/kleinweb/php-coding-standards) - 
@@ -1855,6 +1857,15 @@
 
 ## PHP 
 
+- [php-stubs/acf-pro-stubs](https://github.com/php-stubs/acf-pro-stubs) - ACF PRO stubs for static analysis
+- [spatie/menu](https://github.com/spatie/menu) - Html menu generator
+- [broskees/gutenberg-tailwind-safelist](https://github.com/broskees/gutenberg-tailwind-safelist) - Creates a safelist in your Tailwind config for all the Tailwind classes used in the Wordpress/Gutenberg editor.
+- [humanmade/react-wp-ssr](https://github.com/humanmade/react-wp-ssr) - Server-side rendering for React-based WordPress plugins and themes.
+- [spatie/package-skeleton-laravel](https://github.com/spatie/package-skeleton-laravel) - A skeleton repository for Spatie's Laravel Packages
+- [spatie/schema-org](https://github.com/spatie/schema-org) - A fluent builder Schema.org types and ld+json generator
+- [Brain-WP/Hierarchy](https://github.com/Brain-WP/Hierarchy) - No-dependencies package that embodies WordPress template hierarchy
+- [szepeviktor/Toolkit4WP](https://github.com/szepeviktor/Toolkit4WP) - OOP toolkit :wrench: for daily tasks in WordPress development.
+- [azjezz/psl](https://github.com/azjezz/psl) - 📚 PHP Standard Library - a modern, consistent, centralized, well-typed, non-blocking set of APIs for PHP programmers
 - [schmittjoh/php-option](https://github.com/schmittjoh/php-option) - Option Type for PHP
 - [spatie/laravel-ignition](https://github.com/spatie/laravel-ignition) - A beautiful error page for Laravel apps
 - [Log1x/sage-directives](https://github.com/Log1x/sage-directives) - A set of Blade directives for use with Roots Sage.
@@ -2030,7 +2041,7 @@
 - [WordPress/hosting-handbook](https://github.com/WordPress/hosting-handbook) - Hosting Handbook
 - [alleyinteractive/wp-find-one](https://github.com/alleyinteractive/wp-find-one) - Query for and return one WordPress post, term, or other object, bypassing intermediate arrays.
 - [johnbillion/query-monitor](https://github.com/johnbillion/query-monitor) - The Developer Tools Panel for WordPress
-- [pestphp/pest](https://github.com/pestphp/pest) - Pest is a testing framework with a focus on simplicity, meticulously designed to bring back the joy of testing in PHP.
+- [pestphp/pest](https://github.com/pestphp/pest) - Pest is an elegant PHP testing Framework with a focus on simplicity, meticulously designed to bring back the joy of testing in PHP.
 - [alleyinteractive/traverse-reshape](https://github.com/alleyinteractive/traverse-reshape) - Safely break down arrays or objects, and put them back together in new shapes.
 - [RefactoringGuru/design-patterns-php](https://github.com/RefactoringGuru/design-patterns-php) - Design Pattern Examples in PHP
 - [stayallive/wp-sentry](https://github.com/stayallive/wp-sentry) - A (unofficial) WordPress plugin reporting PHP and JavaScript errors to Sentry.
@@ -2432,7 +2443,7 @@
 - [timvisee/ffsend](https://github.com/timvisee/ffsend) - :mailbox_with_mail: Easily and securely share files from the command line. A fully featured Firefox Send client.
 - [nitnelave/lldap](https://github.com/nitnelave/lldap) - Light LDAP implementation
 - [agersant/polaris](https://github.com/agersant/polaris) - Polaris is a music streaming application, designed to let you enjoy your music collection from any computer or mobile device.
-- [chaosprint/glicol](https://github.com/chaosprint/glicol) - Graph-oriented live coding language and music DSP library written in Rust
+- [chaosprint/glicol](https://github.com/chaosprint/glicol) - Graph-oriented live coding language and music/audio DSP library written in Rust
 - [izderadicka/audioserve](https://github.com/izderadicka/audioserve) - Simple personal server to serve audiofiles files from folders.  Intended primarily for audio books, but anything with decent folder structure will do.
 - [jonhoo/fantoccini](https://github.com/jonhoo/fantoccini) - A high-level API for programmatically interacting with web pages through WebDriver.
 - [sayanarijit/xplr](https://github.com/sayanarijit/xplr) - A hackable, minimal, fast TUI file explorer
