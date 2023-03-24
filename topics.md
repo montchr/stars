@@ -228,7 +228,7 @@
 ## analytics 
 
 - [nunomaduro/phpinsights](https://github.com/nunomaduro/phpinsights) - 🔰 Instant PHP quality checks from your console
-- [vidstack/player](https://github.com/vidstack/player) - (Beta) Build and ship a production-ready player in a day. Robust, customizable, accessible, and framework-agnostic. Modern open-source alternative to JWPlayer and Video.js.
+- [vidstack/player](https://github.com/vidstack/player) - (Beta) Build and ship a production-ready player in minutes. Robust, customizable, accessible, and framework-agnostic. Modern open-source alternative to JWPlayer and Video.js.
 - [PostHog/posthog](https://github.com/PostHog/posthog) - 🦔 PostHog provides open-source product analytics, session recording, feature flagging and a/b testing that you can self-host.
 - [arp242/goatcounter](https://github.com/arp242/goatcounter) - Easy web analytics. No tracking of personal data.
 
@@ -820,6 +820,7 @@
 
 ## compiler 
 
+- [typst/typst](https://github.com/typst/typst) - A new markup-based typesetting system that is powerful and easy to learn.
 - [vercel/next.js](https://github.com/vercel/next.js) - The React Framework
 - [sveltejs/svelte](https://github.com/sveltejs/svelte) - Cybernetically enhanced web apps
 - [vlang/v](https://github.com/vlang/v) - Simple, fast, safe, compiled language for developing maintainable software. Compiles itself in &lt;1s with zero library dependencies. Supports automatic C =&gt; V translation. https://vlang.io
@@ -1920,7 +1921,7 @@
 - [azjezz/psl](https://github.com/azjezz/psl) - 📚 PHP Standard Library - a modern, consistent, centralized, well-typed, non-blocking set of APIs for PHP programmers
 - [mdn/content](https://github.com/mdn/content) - The content behind MDN Web Docs
 - [dbohdan/structured-text-tools](https://github.com/dbohdan/structured-text-tools) - A list of command line tools for manipulating structured text data
-- [vidstack/player](https://github.com/vidstack/player) - (Beta) Build and ship a production-ready player in a day. Robust, customizable, accessible, and framework-agnostic. Modern open-source alternative to JWPlayer and Video.js.
+- [vidstack/player](https://github.com/vidstack/player) - (Beta) Build and ship a production-ready player in minutes. Robust, customizable, accessible, and framework-agnostic. Modern open-source alternative to JWPlayer and Video.js.
 - [mrVanDalo/landingpage](https://github.com/mrVanDalo/landingpage) - a simple html file using json to render a bookmark page to be shared across teams.
 - [fabrizioschiavi/arrow-finder](https://github.com/fabrizioschiavi/arrow-finder) - These docs help you to find and use arrows you need more quickly
 - [cloudflare/lol-html](https://github.com/cloudflare/lol-html) - Low output latency streaming HTML parser/rewriter with CSS selector-based API
@@ -2001,7 +2002,7 @@
 - [acf-extended/ACF-Extended](https://github.com/acf-extended/ACF-Extended) - 🚀 All-in-one enhancement suite that improves WordPress & Advanced Custom Fields
 - [mdn/content](https://github.com/mdn/content) - The content behind MDN Web Docs
 - [philipstanislaus/performant-array-to-tree](https://github.com/philipstanislaus/performant-array-to-tree) - Converts an array of items with ids and parent ids to a nested tree in a performant O(n) way. Runs in browsers and Node.js.
-- [vidstack/player](https://github.com/vidstack/player) - (Beta) Build and ship a production-ready player in a day. Robust, customizable, accessible, and framework-agnostic. Modern open-source alternative to JWPlayer and Video.js.
+- [vidstack/player](https://github.com/vidstack/player) - (Beta) Build and ship a production-ready player in minutes. Robust, customizable, accessible, and framework-agnostic. Modern open-source alternative to JWPlayer and Video.js.
 - [svg/svgo](https://github.com/svg/svgo) - ⚙️ Node.js tool for optimizing SVG files
 - [lindylearn/unclutter](https://github.com/lindylearn/unclutter) - A modern reader mode and article library for your browser.
 - [lovell/sharp](https://github.com/lovell/sharp) - High performance Node.js image processing, the fastest module to resize JPEG, PNG, WebP, AVIF and TIFF images. Uses the libvips library.
@@ -4480,7 +4481,7 @@
 - [aeagle/react-spaces](https://github.com/aeagle/react-spaces) - React components that allow you to divide a page or container into nestable anchored, scrollable and resizable spaces.
 - [rehooks/awesome-react-hooks](https://github.com/rehooks/awesome-react-hooks) - Awesome React Hooks
 - [welldone-software/why-did-you-render](https://github.com/welldone-software/why-did-you-render) - why-did-you-render by Welldone Software monkey patches React to notify you about potentially avoidable re-renders. (Works with React Native as well.)
-- [mantinedev/mantine](https://github.com/mantinedev/mantine) - React components library with native dark theme support
+- [mantinedev/mantine](https://github.com/mantinedev/mantine) - A fully featured React components library
 - [jeetiss/tabs](https://github.com/jeetiss/tabs) - React tabs with hooks
 - [org-roam/org-roam-ui](https://github.com/org-roam/org-roam-ui) - A graphical frontend for exploring your org-roam Zettelkasten
 - [hedgedoc/react-client](https://github.com/hedgedoc/react-client) - The frontend of the upcoming version 2.0
@@ -5115,7 +5116,7 @@
 - [ritz078/transform](https://github.com/ritz078/transform) - A polyglot web converter.
 - [roots/bud](https://github.com/roots/bud) - High-performance build system that supports SWC, esbuild, and Babel
 - [philipstanislaus/performant-array-to-tree](https://github.com/philipstanislaus/performant-array-to-tree) - Converts an array of items with ids and parent ids to a nested tree in a performant O(n) way. Runs in browsers and Node.js.
-- [vidstack/player](https://github.com/vidstack/player) - (Beta) Build and ship a production-ready player in a day. Robust, customizable, accessible, and framework-agnostic. Modern open-source alternative to JWPlayer and Video.js.
+- [vidstack/player](https://github.com/vidstack/player) - (Beta) Build and ship a production-ready player in minutes. Robust, customizable, accessible, and framework-agnostic. Modern open-source alternative to JWPlayer and Video.js.
 - [VSCodeVim/Vim](https://github.com/VSCodeVim/Vim) - :star: Vim for Visual Studio Code
 - [KevinBatdorf/gutenberg-rust-starter](https://github.com/KevinBatdorf/gutenberg-rust-starter) - Gutenberg + Rust + TypeScript
 - [tajo/ladle](https://github.com/tajo/ladle) - 🥄 Develop, test and document your React story components faster.
@@ -5155,7 +5156,7 @@
 - [theodorusclarence/rhf-stepform](https://github.com/theodorusclarence/rhf-stepform) - 🦘Step form built using React Hook Form, Yup, Typescript, and Zustand
 - [evanw/esbuild](https://github.com/evanw/esbuild) - An extremely fast bundler for the web
 - [typescript-language-server/typescript-language-server](https://github.com/typescript-language-server/typescript-language-server) - TypeScript & JavaScript Language Server
-- [mantinedev/mantine](https://github.com/mantinedev/mantine) - React components library with native dark theme support
+- [mantinedev/mantine](https://github.com/mantinedev/mantine) - A fully featured React components library
 - [rasendubi/uniorg](https://github.com/rasendubi/uniorg) - An accurate Org-mode parser
 - [org-roam/org-roam-ui](https://github.com/org-roam/org-roam-ui) - A graphical frontend for exploring your org-roam Zettelkasten
 - [statelyai/xstate](https://github.com/statelyai/xstate) - State machines and statecharts for the modern web.
@@ -5325,7 +5326,7 @@
 
 ## web-components 
 
-- [vidstack/player](https://github.com/vidstack/player) - (Beta) Build and ship a production-ready player in a day. Robust, customizable, accessible, and framework-agnostic. Modern open-source alternative to JWPlayer and Video.js.
+- [vidstack/player](https://github.com/vidstack/player) - (Beta) Build and ship a production-ready player in minutes. Robust, customizable, accessible, and framework-agnostic. Modern open-source alternative to JWPlayer and Video.js.
 - [openui/open-ui](https://github.com/openui/open-ui) - Maintain an open standard for UI and promote its adherence and adoption.
 
 ## webapp 
