@@ -234,7 +234,7 @@
 
 ## android 
 
-- [JunkFood02/Seal](https://github.com/JunkFood02/Seal) - Video/Audio downloader for Android, based on yt-dlp, designed and themed with Material You
+- [JunkFood02/Seal](https://github.com/JunkFood02/Seal) - Video/Audio Downloader for Android, based on yt-dlp, designed with Material You
 - [streetcomplete/StreetComplete](https://github.com/streetcomplete/StreetComplete) - Easy to use OpenStreetMap editor for Android
 - [deckerst/aves](https://github.com/deckerst/aves) - Aves is a gallery and metadata explorer app, built for Android with Flutter.
 - [d4rken-org/capod](https://github.com/d4rken-org/capod) - A companion app for AirPods on Android.
@@ -2072,7 +2072,7 @@
 - [denoland/deno](https://github.com/denoland/deno) - A modern runtime for JavaScript and TypeScript.
 - [emacs-ng/emacs-ng](https://github.com/emacs-ng/emacs-ng) - A new approach to Emacs - Including TypeScript, Threading, Async I/O, and WebRender.
 - [isamert/jsdoc.el](https://github.com/isamert/jsdoc.el) - Insert JSDoc comments easily with Emacs
-- [pnpm/pnpm](https://github.com/pnpm/pnpm) - Fast, disk space efficient package manager -- 快速的，节省磁盘空间的包管理工具
+- [pnpm/pnpm](https://github.com/pnpm/pnpm) - Fast, disk space efficient package manager
 - [niieani/hashids.js](https://github.com/niieani/hashids.js) - A small JavaScript library to generate YouTube-like ids from numbers.
 - [statico/dotfiles](https://github.com/statico/dotfiles) - :floppy_disk:  Ian's dotfiles, utils, and Zsh/Vim/tmux configs
 - [marko-js/marko](https://github.com/marko-js/marko) - A declarative, HTML-based language that makes building web apps fun
@@ -2146,7 +2146,7 @@
 
 ## kotlin 
 
-- [JunkFood02/Seal](https://github.com/JunkFood02/Seal) - Video/Audio downloader for Android, based on yt-dlp, designed and themed with Material You
+- [JunkFood02/Seal](https://github.com/JunkFood02/Seal) - Video/Audio Downloader for Android, based on yt-dlp, designed with Material You
 - [florisboard/florisboard](https://github.com/florisboard/florisboard) - An open-source keyboard for Android which respects your privacy. Currently in early-beta.
 - [Ezwen/bandcamp-collection-downloader](https://github.com/Ezwen/bandcamp-collection-downloader) - A command-line tool to automatically download all releases purchased with a Bandcamp account. The official page of the project is https://framagit.org/Ezwen/bandcamp-collection-downloader, while here 
 
@@ -2529,7 +2529,7 @@
 
 ## material-design 
 
-- [JunkFood02/Seal](https://github.com/JunkFood02/Seal) - Video/Audio downloader for Android, based on yt-dlp, designed and themed with Material You
+- [JunkFood02/Seal](https://github.com/JunkFood02/Seal) - Video/Audio Downloader for Android, based on yt-dlp, designed with Material You
 - [LukasMasuch/best-of-react](https://github.com/LukasMasuch/best-of-react) - 🏆 A ranked list of awesome React open-source libraries and tools. Updated weekly.
 
 ## minecraft 
@@ -2722,7 +2722,7 @@
 - [validatorjs/validator.js](https://github.com/validatorjs/validator.js) - String validation
 - [n8n-io/n8n](https://github.com/n8n-io/n8n) - Free and source-available fair-code licensed workflow automation tool. Easily automate tasks across different services.
 - [azu/kvs](https://github.com/azu/kvs) - Lightweight key-value storage library for Browser, Node.js, and In-Memory.
-- [pnpm/pnpm](https://github.com/pnpm/pnpm) - Fast, disk space efficient package manager -- 快速的，节省磁盘空间的包管理工具
+- [pnpm/pnpm](https://github.com/pnpm/pnpm) - Fast, disk space efficient package manager
 - [niieani/hashids.js](https://github.com/niieani/hashids.js) - A small JavaScript library to generate YouTube-like ids from numbers.
 - [manosim/gitify](https://github.com/manosim/gitify) - GitHub notifications on your menu bar. Available on macOS, Windows & Linux.
 - [enquirer/enquirer](https://github.com/enquirer/enquirer) - Stylish, intuitive and user-friendly prompts, for Node.js. Used by eslint, webpack, yarn, pm2, pnpm, RedwoodJS, FactorJS, salesforce, Cypress, Google Lighthouse, Generate, tencent cloudbase, lint-stag
@@ -2756,7 +2756,7 @@
 - [google/zx](https://github.com/google/zx) - A tool for writing better scripts
 - [oclif/oclif](https://github.com/oclif/oclif) - Node.js Open CLI Framework. Built by Salesforce.
 - [sindresorhus/eslint-plugin-unicorn](https://github.com/sindresorhus/eslint-plugin-unicorn) - More than 100 powerful ESLint rules
-- [pnpm/pnpm](https://github.com/pnpm/pnpm) - Fast, disk space efficient package manager -- 快速的，节省磁盘空间的包管理工具
+- [pnpm/pnpm](https://github.com/pnpm/pnpm) - Fast, disk space efficient package manager
 - [marko-js/marko](https://github.com/marko-js/marko) - A declarative, HTML-based language that makes building web apps fun
 - [aortbals/github-stars-to-pinboard](https://github.com/aortbals/github-stars-to-pinboard) - Sync GitHub Stars to Pinboard
 - [nativefier/nativefier](https://github.com/nativefier/nativefier) - Make any web page a desktop application
@@ -2788,7 +2788,7 @@
 - [kachkaev/njt](https://github.com/kachkaev/njt) - njt (npm jump to): a quick navigation tool for npm packages
 - [IBM/audit-ci](https://github.com/IBM/audit-ci) - Audit NPM, Yarn, and PNPM dependencies in continuous integration environments, preventing integration if vulnerabilities are found at or above a configurable threshold while ignoring allowlisted advis
 - [lerna/lerna](https://github.com/lerna/lerna) - :dragon: Lerna is a fast, modern build system for managing and publishing multiple JavaScript/TypeScript packages from the same repository.
-- [pnpm/pnpm](https://github.com/pnpm/pnpm) - Fast, disk space efficient package manager -- 快速的，节省磁盘空间的包管理工具
+- [pnpm/pnpm](https://github.com/pnpm/pnpm) - Fast, disk space efficient package manager
 
 ## numpy 
 
@@ -4153,7 +4153,7 @@
 - [DavHau/nix-portable](https://github.com/DavHau/nix-portable) - Nix - Static, Permissionless, Installation-free, Pre-configured
 - [NixOS/nix](https://github.com/NixOS/nix) - Nix, the purely functional package manager
 - [nmattia/niv](https://github.com/nmattia/niv) - Easy dependency management for Nix projects
-- [pnpm/pnpm](https://github.com/pnpm/pnpm) - Fast, disk space efficient package manager -- 快速的，节省磁盘空间的包管理工具
+- [pnpm/pnpm](https://github.com/pnpm/pnpm) - Fast, disk space efficient package manager
 - [basherpm/basher](https://github.com/basherpm/basher) - A package manager for shell scripts.
 - [bpkg/bpkg](https://github.com/bpkg/bpkg) - Lightweight bash package manager
 - [aspiers/stow](https://github.com/aspiers/stow) - GNU Stow - mirror of savannah git repository occasionally with more bleeding-edge branches
