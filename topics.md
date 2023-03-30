@@ -2839,6 +2839,9 @@
 
 ## others 
 
+- [gbprod/tree-sitter-twig](https://github.com/gbprod/tree-sitter-twig) - Twig grammar for Tree-sitter
+- [KaranAhlawat/tree-sitter-blade](https://github.com/KaranAhlawat/tree-sitter-blade) - [EXPERIMENTAL] A tree sitter grammar for the Blade templating language.
+- [DeterminateSystems/nuenv](https://github.com/DeterminateSystems/nuenv) - A Nushell environment for Nix
 - [area17/tailwind-plugins](https://github.com/area17/tailwind-plugins) - A series of Tailwind plugins to enable/encourage systematised web design/development and some other useful utility classes.
 - [humanmade/react-wp-ssr](https://github.com/humanmade/react-wp-ssr) - Server-side rendering for React-based WordPress plugins and themes.
 - [schmittjoh/php-option](https://github.com/schmittjoh/php-option) - Option Type for PHP
