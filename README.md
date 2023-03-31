@@ -350,6 +350,7 @@
 
 ## Emacs Lisp 
 
+- [Lambda-Emacs/lambda-emacs](https://github.com/Lambda-Emacs/lambda-emacs) - Emacs distribution with sane defaults, pre-configured packages, and useful functions.
 - [mickeynp/combobulate](https://github.com/mickeynp/combobulate) - Structured Editing and Navigation in Emacs
 - [purcell/envrc](https://github.com/purcell/envrc) - Emacs support for direnv which operates buffer-locally
 - [alphapapa/prism.el](https://github.com/alphapapa/prism.el) - Disperse Lisp forms (and other languages) into a spectrum of colors by depth
@@ -1463,7 +1464,7 @@
 - [barrucadu/nixfiles](https://github.com/barrucadu/nixfiles) - My NixOS configuration and assorted other crap.
 - [bhougland18/nixos_config](https://github.com/bhougland18/nixos_config) - Nixos configuration
 - [sgillespie/nixos-yubikey-luks](https://github.com/sgillespie/nixos-yubikey-luks) - Set up a LUKS-encrypted filesystem for Yubikey in NixOS
-- [houstdav000/terranix-linode-poc](https://github.com/houstdav000/terranix-linode-poc) - A Proof-of-Concept for deploying NixOS to Linode with Terranix
+- [cyntheticfox/terranix-linode-poc](https://github.com/cyntheticfox/terranix-linode-poc) - A Proof-of-Concept for deploying NixOS to Linode with Terranix
 - [terranix/terranix](https://github.com/terranix/terranix) - terranix is a terraform.json generator with a nix-like feeling
 - [lilyinstarlight/foosteros](https://github.com/lilyinstarlight/foosteros) - FoosterOS/2 Warp - NixOS-based system configuration for my computers
 - [johnae/world](https://github.com/johnae/world) - NixOS configuration
@@ -1825,7 +1826,7 @@
 - [mnielsen/notes-on-writing](https://github.com/mnielsen/notes-on-writing) - Notes on writing
 - [sobolevn/awesome-cryptography](https://github.com/sobolevn/awesome-cryptography) - A curated list of cryptography resources and links.
 - [drduh/Debian-Privacy-Server-Guide](https://github.com/drduh/Debian-Privacy-Server-Guide) - Guide to using a remote Debian server for security and privacy services
-- [nix-community/awesome-nix](https://github.com/nix-community/awesome-nix) - 😎 A curated list of the best resources in the Nix community [maintainer=@houstdav000]
+- [nix-community/awesome-nix](https://github.com/nix-community/awesome-nix) - 😎 A curated list of the best resources in the Nix community [maintainer=@cyntheticfox]
 - [templeman/awesome-ipsum](https://github.com/templeman/awesome-ipsum) - A curated list of awesome lorem ipsum generators.
 - [Siilwyn/awesome-pixel-art](https://github.com/Siilwyn/awesome-pixel-art) - Curated list of everything awesome around pixel art.
 - [Idnan/bash-guide](https://github.com/Idnan/bash-guide) - A guide to learn bash
@@ -2449,7 +2450,7 @@
 - [Mic92/vmsh](https://github.com/Mic92/vmsh) - Shell into a virtualized linux, with your own tools
 - [PRQL/prql](https://github.com/PRQL/prql) - PRQL is a modern language for transforming data — a simple, powerful, pipelined SQL replacement
 - [timvisee/ffsend](https://github.com/timvisee/ffsend) - :mailbox_with_mail: Easily and securely share files from the command line. A fully featured Firefox Send client.
-- [nitnelave/lldap](https://github.com/nitnelave/lldap) - Light LDAP implementation
+- [lldap/lldap](https://github.com/lldap/lldap) - Light LDAP implementation
 - [agersant/polaris](https://github.com/agersant/polaris) - Polaris is a music streaming application, designed to let you enjoy your music collection from any computer or mobile device.
 - [chaosprint/glicol](https://github.com/chaosprint/glicol) - Graph-oriented live coding language and music/audio DSP library written in Rust
 - [izderadicka/audioserve](https://github.com/izderadicka/audioserve) - Simple personal server to serve audiofiles files from folders.  Intended primarily for audio books, but anything with decent folder structure will do.
