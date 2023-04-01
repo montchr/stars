@@ -2556,7 +2556,7 @@
 - [dastergon/awesome-sre](https://github.com/dastergon/awesome-sre) - A curated list of Site Reliability and Production Engineering resources.
 - [szepeviktor/debian-server-tools](https://github.com/szepeviktor/debian-server-tools) - Tools and living docs 🧬 for Debian-based servers and Web Applications
 - [louislam/uptime-kuma](https://github.com/louislam/uptime-kuma) - A fancy self-hosted monitoring tool
-- [dgtlmoon/changedetection.io](https://github.com/dgtlmoon/changedetection.io) - The best and simplest self-hosted free open source website change detection, monitor and notification service. Restock Monitor, change detection. Designed for simplicity - the main goal is to simply m
+- [dgtlmoon/changedetection.io](https://github.com/dgtlmoon/changedetection.io) - The best and simplest free open source website change detection, restock monitor and notification service. Restock Monitor, change detection. Designed for simplicity - Simply monitor which websites ha
 - [f100024/syncthing_exporter](https://github.com/f100024/syncthing_exporter) - Syncthing metrics exporter for prometheus
 - [mgramin/awesome-db-tools](https://github.com/mgramin/awesome-db-tools) - Everything that makes working with databases easier
 - [cortexproject/cortex](https://github.com/cortexproject/cortex) - A horizontally scalable, highly available, multi-tenant, long term Prometheus.
@@ -2838,6 +2838,7 @@
 
 ## others 
 
+- [10up/block-components](https://github.com/10up/block-components) - A collection of components built to be used in the block editor
 - [Lambda-Emacs/lambda-emacs](https://github.com/Lambda-Emacs/lambda-emacs) - Emacs distribution with sane defaults, pre-configured packages, and useful functions.
 - [gbprod/tree-sitter-twig](https://github.com/gbprod/tree-sitter-twig) - Twig grammar for Tree-sitter
 - [KaranAhlawat/tree-sitter-blade](https://github.com/KaranAhlawat/tree-sitter-blade) - [EXPERIMENTAL] A tree sitter grammar for the Blade templating language.
@@ -2879,7 +2880,7 @@
 - [funkhaus/fuxt-backend](https://github.com/funkhaus/fuxt-backend) - A theme that turns WordPress into a true GraphQL powered Headless CMS. Optimized for the fuxt frontend boilerplate.
 - [funkhaus/wp-graphql-cors](https://github.com/funkhaus/wp-graphql-cors) - Makes WP GraphQL's authetication "just work". It does this by customizing the CORS headers.
 - [patronage/bubs-next](https://github.com/patronage/bubs-next) - Headless Wordpress + Next.js Project scaffolding
-- [tailwindlabs/tailwindcss-typography](https://github.com/tailwindlabs/tailwindcss-typography) - 
+- [tailwindlabs/tailwindcss-typography](https://github.com/tailwindlabs/tailwindcss-typography) - Beautiful typographic defaults for HTML you don't control.
 - [funkhaus/wp-gql-gutenberg](https://github.com/funkhaus/wp-gql-gutenberg) - 
 - [boxybird/wordpress-inertia-starter-theme](https://github.com/boxybird/wordpress-inertia-starter-theme) - A bare-bones example theme using Inertia with Vue, and the WordPress Inertia adapter.
 - [boxybird/morph](https://github.com/boxybird/morph) - A WordPress theme package for building Laravel Livewire inspired WordPress components with Alpine.js.
@@ -4162,6 +4163,7 @@
 
 ## parsing 
 
+- [curl/urler](https://github.com/curl/urler) - command line tool for URL parsing and manipulation
 - [ko1nksm/getoptions](https://github.com/ko1nksm/getoptions) - An elegant option/argument parser for shell scripts (full support for bash and all POSIX shells)
 - [nette/neon](https://github.com/nette/neon) - 🍸 Encodes and decodes NEON file format.
 
@@ -5385,6 +5387,7 @@
 
 ## wordpress 
 
+- [10up/gutenberg-best-practices](https://github.com/10up/gutenberg-best-practices) - Welcome to the 10up Gutenberg Best Practices!
 - [php-stubs/acf-pro-stubs](https://github.com/php-stubs/acf-pro-stubs) - ACF PRO stubs for static analysis
 - [broskees/gutenberg-tailwind-safelist](https://github.com/broskees/gutenberg-tailwind-safelist) - Creates a safelist in your Tailwind config for all the Tailwind classes used in the Wordpress/Gutenberg editor.
 - [Brain-WP/Hierarchy](https://github.com/Brain-WP/Hierarchy) - No-dependencies package that embodies WordPress template hierarchy
