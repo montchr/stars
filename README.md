@@ -112,6 +112,7 @@
 
 ## C 
 
+- [curl/urler](https://github.com/curl/urler) - command line tool for URL parsing and manipulation
 - [gbprod/tree-sitter-twig](https://github.com/gbprod/tree-sitter-twig) - Twig grammar for Tree-sitter
 - [KaranAhlawat/tree-sitter-blade](https://github.com/KaranAhlawat/tree-sitter-blade) - [EXPERIMENTAL] A tree sitter grammar for the Blade templating language.
 - [koute/bytehound](https://github.com/koute/bytehound) - A memory profiler for Linux.
@@ -927,6 +928,8 @@
 
 ## JavaScript 
 
+- [10up/block-components](https://github.com/10up/block-components) - A collection of components built to be used in the block editor
+- [10up/gutenberg-best-practices](https://github.com/10up/gutenberg-best-practices) - Welcome to the 10up Gutenberg Best Practices!
 - [area17/tailwind-plugins](https://github.com/area17/tailwind-plugins) - A series of Tailwind plugins to enable/encourage systematised web design/development and some other useful utility classes.
 - [Automattic/block-experiments](https://github.com/Automattic/block-experiments) - A monorepo of Block Experiments
 - [gregsullivan/_tw-themejson](https://github.com/gregsullivan/_tw-themejson) - A Tailwind CSS plugin that automatically pulls colors and widths from a WordPress theme’s theme.json file
@@ -937,7 +940,7 @@
 - [imranhsayed/nextjs-headless-wordpress](https://github.com/imranhsayed/nextjs-headless-wordpress) - 🔥 Nextjs Headless WordPress
 - [humanmade/publication-checklist](https://github.com/humanmade/publication-checklist) - Run checks and enforce conditions before posts are published. Built and designed for the WordPress block editor.
 - [patronage/bubs-next](https://github.com/patronage/bubs-next) - Headless Wordpress + Next.js Project scaffolding
-- [tailwindlabs/tailwindcss-typography](https://github.com/tailwindlabs/tailwindcss-typography) - 
+- [tailwindlabs/tailwindcss-typography](https://github.com/tailwindlabs/tailwindcss-typography) - Beautiful typographic defaults for HTML you don't control.
 - [leagris/githubsieve](https://github.com/leagris/githubsieve) - Sieve Mail filtering and tagging for Gitub Notifications
 - [HatsuneMiku3939/direnv-action](https://github.com/HatsuneMiku3939/direnv-action) - Provide environment variables via direnv.
 - [xt0rted/block-autosquash-commits-action](https://github.com/xt0rted/block-autosquash-commits-action) - A Github Action to prevent merging pull requests containing autosquash commit messages.
@@ -2201,7 +2204,7 @@
 - [nix-community/pip2nix](https://github.com/nix-community/pip2nix) - Freeze pip-installable packages into Nix expressions [maintainer=@datakurre]
 - [StevenBlack/hosts](https://github.com/StevenBlack/hosts) - 🔒 Consolidating and extending hosts files from several well-curated sources. Optionally pick extensions for porn, social media, and other categories.
 - [asottile/git-code-debt](https://github.com/asottile/git-code-debt) - A dashboard for monitoring code debt in a git repository.
-- [dgtlmoon/changedetection.io](https://github.com/dgtlmoon/changedetection.io) - The best and simplest self-hosted free open source website change detection, monitor and notification service. Restock Monitor, change detection. Designed for simplicity - the main goal is to simply m
+- [dgtlmoon/changedetection.io](https://github.com/dgtlmoon/changedetection.io) - The best and simplest free open source website change detection, restock monitor and notification service. Restock Monitor, change detection. Designed for simplicity - Simply monitor which websites ha
 - [source-foundry/font-line](https://github.com/source-foundry/font-line) - OpenType vertical metrics reporting and font line spacing adjustment tool
 - [andrejlamov/andrejlamov](https://github.com/andrejlamov/andrejlamov) - 
 - [datafold/data-diff](https://github.com/datafold/data-diff) - Compare tables within or across databases
