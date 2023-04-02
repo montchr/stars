@@ -1010,7 +1010,7 @@
 ## discord 
 
 - [Xe/x](https://github.com/Xe/x) - Various tools, trinkets and experiments
-- [gqty-dev/gqty](https://github.com/gqty-dev/gqty) - a GraphQL client built for rapid iteration
+- [gqty-dev/gqty](https://github.com/gqty-dev/gqty) - The No-GraphQL Client for TypeScript
 - [shayaantx/botdarr](https://github.com/shayaantx/botdarr) - Slack/Discord/Telegram/Matrix bot for accessing radarr, sonarr, and lidarr
 
 ## django 
@@ -1666,7 +1666,7 @@
 - [B2o5T/graphql-eslint](https://github.com/B2o5T/graphql-eslint) - ESLint parser, plugin and set rules for GraphQL (for schema and operations). Easily customizable with custom rules. Integrates with IDEs and modern GraphQL tools.
 - [wp-graphql/wp-graphql](https://github.com/wp-graphql/wp-graphql) - :rocket: GraphQL API for WordPress
 - [nikitowsky/next-advanced-apollo-starter](https://github.com/nikitowsky/next-advanced-apollo-starter) - Advanced, but minimalistic Next.js and Apollo starter
-- [gqty-dev/gqty](https://github.com/gqty-dev/gqty) - a GraphQL client built for rapid iteration
+- [gqty-dev/gqty](https://github.com/gqty-dev/gqty) - The No-GraphQL Client for TypeScript
 - [a-ahandani/remixpress](https://github.com/a-ahandani/remixpress) - ✏ RemixPress is a presentation layer built with React, Remix, MUI and GraphQl that works with Wordress as a headless CMS
 - [rtCamp/wp-decoupled](https://github.com/rtCamp/wp-decoupled) - Next.js app with WPGraphQL and WordPress at the backend.
 - [pristas-peter/wp-graphql-gutenberg](https://github.com/pristas-peter/wp-graphql-gutenberg) - Query gutenberg blocks with wp-graphql
@@ -1710,7 +1710,7 @@
 - [SchemaStore/schemastore](https://github.com/SchemaStore/schemastore) - A collection of JSON schema files including full API
 - [nvim-treesitter/nvim-treesitter-textobjects](https://github.com/nvim-treesitter/nvim-treesitter-textobjects) - 
 - [vscode-neovim/vscode-neovim](https://github.com/vscode-neovim/vscode-neovim) - Vim-mode for VS Code using embedded Neovim
-- [gqty-dev/gqty](https://github.com/gqty-dev/gqty) - a GraphQL client built for rapid iteration
+- [gqty-dev/gqty](https://github.com/gqty-dev/gqty) - The No-GraphQL Client for TypeScript
 - [wpengine/faustjs](https://github.com/wpengine/faustjs) - Faust.js - The Headless WordPress Framework
 - [evilmartians/lefthook](https://github.com/evilmartians/lefthook) - Fast and powerful Git hooks manager for any type of projects.
 - [Roave/BetterReflection](https://github.com/Roave/BetterReflection) - :crystal_ball: Better Reflection is a reflection API that aims to improve and provide more features than PHP's built-in reflection API.
@@ -2010,7 +2010,7 @@
 - [mrVanDalo/landingpage](https://github.com/mrVanDalo/landingpage) - a simple html file using json to render a bookmark page to be shared across teams.
 - [nix-community/napalm](https://github.com/nix-community/napalm) - Support for building npm packages in Nix and lightweight npm registry [maintainer @jtojnar]
 - [tajo/ladle](https://github.com/tajo/ladle) - 🥄 Develop, test and document your React story components faster.
-- [gqty-dev/gqty](https://github.com/gqty-dev/gqty) - a GraphQL client built for rapid iteration
+- [gqty-dev/gqty](https://github.com/gqty-dev/gqty) - The No-GraphQL Client for TypeScript
 - [wpengine/faustjs](https://github.com/wpengine/faustjs) - Faust.js - The Headless WordPress Framework
 - [code-hike/codehike](https://github.com/code-hike/codehike) - Marvellous code walkthroughs
 - [pristas-peter/wp-graphql-gutenberg](https://github.com/pristas-peter/wp-graphql-gutenberg) - Query gutenberg blocks with wp-graphql
@@ -2683,7 +2683,7 @@
 - [allister-grange/startertab](https://github.com/allister-grange/startertab) - A custom new tab page, keeping all the best info handy (a work in progress, feedback is invaluable)
 - [ixartz/Next-js-Boilerplate](https://github.com/ixartz/Next-js-Boilerplate) - 🚀🎉📚 Boilerplate and Starter for Next.js 13+, Tailwind CSS 3.3 and TypeScript ⚡️ Made with developer experience first: Next.js + TypeScript + ESLint + Prettier + Husky + Lint-Staged + Jest + Testing Li
 - [vercel/next.js](https://github.com/vercel/next.js) - The React Framework
-- [gqty-dev/gqty](https://github.com/gqty-dev/gqty) - a GraphQL client built for rapid iteration
+- [gqty-dev/gqty](https://github.com/gqty-dev/gqty) - The No-GraphQL Client for TypeScript
 - [wpengine/faustjs](https://github.com/wpengine/faustjs) - Faust.js - The Headless WordPress Framework
 - [belgattitude/nextjs-monorepo-example](https://github.com/belgattitude/nextjs-monorepo-example) - Collection of monorepo tips & tricks
 - [AykutSarac/jsoncrack.com](https://github.com/AykutSarac/jsoncrack.com) - ⭐️ Transform data chaos into clarity with JSON Crack - the ultimate JSON visualization solution.
@@ -2734,7 +2734,7 @@
 - [philipstanislaus/performant-array-to-tree](https://github.com/philipstanislaus/performant-array-to-tree) - Converts an array of items with ids and parent ids to a nested tree in a performant O(n) way. Runs in browsers and Node.js.
 - [svg/svgo](https://github.com/svg/svgo) - ⚙️ Node.js tool for optimizing SVG files
 - [lovell/sharp](https://github.com/lovell/sharp) - High performance Node.js image processing, the fastest module to resize JPEG, PNG, WebP, AVIF and TIFF images. Uses the libvips library.
-- [gqty-dev/gqty](https://github.com/gqty-dev/gqty) - a GraphQL client built for rapid iteration
+- [gqty-dev/gqty](https://github.com/gqty-dev/gqty) - The No-GraphQL Client for TypeScript
 - [coralproject/talk](https://github.com/coralproject/talk) - A better commenting experience from Vox Media
 - [keystonejs/keystone](https://github.com/keystonejs/keystone) - The most powerful headless CMS for Node.js — built with GraphQL and React
 - [ddev/ddev](https://github.com/ddev/ddev) - Docker-based local PHP+Node.js web development environments
@@ -2838,6 +2838,7 @@
 
 ## others 
 
+- [nix-community/haumea](https://github.com/nix-community/haumea) - Filesystem-based module system for Nix [maintainer=@figsoda]
 - [10up/block-components](https://github.com/10up/block-components) - A collection of components built to be used in the block editor
 - [Lambda-Emacs/lambda-emacs](https://github.com/Lambda-Emacs/lambda-emacs) - Emacs distribution with sane defaults, pre-configured packages, and useful functions.
 - [gbprod/tree-sitter-twig](https://github.com/gbprod/tree-sitter-twig) - Twig grammar for Tree-sitter
@@ -4437,7 +4438,7 @@
 - [uber/react-view](https://github.com/uber/react-view) - React View is an interactive playground, documentation and code generator for your components.
 - [prettier/eslint-config-prettier](https://github.com/prettier/eslint-config-prettier) - Turns off all rules that are unnecessary or might conflict with Prettier.
 - [vercel/next.js](https://github.com/vercel/next.js) - The React Framework
-- [gqty-dev/gqty](https://github.com/gqty-dev/gqty) - a GraphQL client built for rapid iteration
+- [gqty-dev/gqty](https://github.com/gqty-dev/gqty) - The No-GraphQL Client for TypeScript
 - [wpengine/faustjs](https://github.com/wpengine/faustjs) - Faust.js - The Headless WordPress Framework
 - [ben-rogerson/twin.macro](https://github.com/ben-rogerson/twin.macro) - 🦹‍♂️ Twin blends the magic of Tailwind with the flexibility of css-in-js (emotion, styled-components, stitches and goober) at build time.
 - [soywod/react-use-bireducer](https://github.com/soywod/react-use-bireducer) - React hook for managing effectful reducers.
@@ -5126,7 +5127,7 @@
 - [tajo/ladle](https://github.com/tajo/ladle) - 🥄 Develop, test and document your React story components faster.
 - [nikitowsky/next-advanced-apollo-starter](https://github.com/nikitowsky/next-advanced-apollo-starter) - Advanced, but minimalistic Next.js and Apollo starter
 - [ixartz/Next-js-Boilerplate](https://github.com/ixartz/Next-js-Boilerplate) - 🚀🎉📚 Boilerplate and Starter for Next.js 13+, Tailwind CSS 3.3 and TypeScript ⚡️ Made with developer experience first: Next.js + TypeScript + ESLint + Prettier + Husky + Lint-Staged + Jest + Testing Li
-- [gqty-dev/gqty](https://github.com/gqty-dev/gqty) - a GraphQL client built for rapid iteration
+- [gqty-dev/gqty](https://github.com/gqty-dev/gqty) - The No-GraphQL Client for TypeScript
 - [belgattitude/nextjs-monorepo-example](https://github.com/belgattitude/nextjs-monorepo-example) - Collection of monorepo tips & tricks
 - [tremorlabs/tremor](https://github.com/tremorlabs/tremor) - The React library to build dashboards fast.
 - [gregrickaby/nextjs-wordpress](https://github.com/gregrickaby/nextjs-wordpress) - 💀 It's headless WordPress!
@@ -5387,6 +5388,8 @@
 
 ## wordpress 
 
+- [Brain-WP/Assets](https://github.com/Brain-WP/Assets) - WordPress assets helpers
+- [szepeviktor/SentencePress](https://github.com/szepeviktor/SentencePress) - A set of words that is complete in itself. - WordPress OOP wrappers
 - [10up/gutenberg-best-practices](https://github.com/10up/gutenberg-best-practices) - Welcome to the 10up Gutenberg Best Practices!
 - [php-stubs/acf-pro-stubs](https://github.com/php-stubs/acf-pro-stubs) - ACF PRO stubs for static analysis
 - [broskees/gutenberg-tailwind-safelist](https://github.com/broskees/gutenberg-tailwind-safelist) - Creates a safelist in your Tailwind config for all the Tailwind classes used in the Wordpress/Gutenberg editor.
