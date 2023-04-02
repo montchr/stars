@@ -1328,6 +1328,7 @@
 
 ## Nix 
 
+- [nix-community/haumea](https://github.com/nix-community/haumea) - Filesystem-based module system for Nix [maintainer=@figsoda]
 - [divnix/std-data-collection](https://github.com/divnix/std-data-collection) - A collection of nixago configurations that you can use if you like them.
 - [schuelermine/xhmm](https://github.com/schuelermine/xhmm) - Extra home manager modules
 - [dxmh/system-config](https://github.com/dxmh/system-config) - My macOS setup with nix and Homebrew, managed by nix-darwin
@@ -1867,6 +1868,8 @@
 
 ## PHP 
 
+- [Brain-WP/Assets](https://github.com/Brain-WP/Assets) - WordPress assets helpers
+- [szepeviktor/SentencePress](https://github.com/szepeviktor/SentencePress) - A set of words that is complete in itself. - WordPress OOP wrappers
 - [php-stubs/acf-pro-stubs](https://github.com/php-stubs/acf-pro-stubs) - ACF PRO stubs for static analysis
 - [spatie/menu](https://github.com/spatie/menu) - Html menu generator
 - [broskees/gutenberg-tailwind-safelist](https://github.com/broskees/gutenberg-tailwind-safelist) - Creates a safelist in your Tailwind config for all the Tailwind classes used in the Wordpress/Gutenberg editor.
@@ -2909,7 +2912,7 @@
 - [paulintrognon/next-typescript](https://github.com/paulintrognon/next-typescript) - Starter template for a clean Next.js + TypeScript + ESLint project
 - [tailwindlabs/tailwindcss-intellisense](https://github.com/tailwindlabs/tailwindcss-intellisense) - Intelligent Tailwind CSS tooling for Visual Studio Code
 - [vscode-neovim/vscode-neovim](https://github.com/vscode-neovim/vscode-neovim) - Vim-mode for VS Code using embedded Neovim
-- [gqty-dev/gqty](https://github.com/gqty-dev/gqty) - a GraphQL client built for rapid iteration
+- [gqty-dev/gqty](https://github.com/gqty-dev/gqty) - The No-GraphQL Client for TypeScript
 - [wpengine/faustjs](https://github.com/wpengine/faustjs) - Faust.js - The Headless WordPress Framework
 - [alexeagleson/nextjs-fullstack-app-template](https://github.com/alexeagleson/nextjs-fullstack-app-template) - A fullstack template for a NextJs App
 - [ben-rogerson/twin.macro](https://github.com/ben-rogerson/twin.macro) - 🦹‍♂️ Twin blends the magic of Tailwind with the flexibility of css-in-js (emotion, styled-components, stitches and goober) at build time.
