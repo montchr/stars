@@ -596,6 +596,7 @@
 - [jlevy/the-art-of-command-line](https://github.com/jlevy/the-art-of-command-line) - Master the command line, in one page
 - [skywind3000/z.lua](https://github.com/skywind3000/z.lua) - :zap: A new cd command that helps you navigate faster by learning your habits.
 - [dylanaraps/neofetch](https://github.com/dylanaraps/neofetch) - 🖼️  A command-line system information tool written in bash 3.2+
+- [asdf-vm/asdf](https://github.com/asdf-vm/asdf) - Extendable version manager with support for Ruby, Node.js, Elixir, Erlang & more
 - [bevry/dorothy](https://github.com/bevry/dorothy) - 🧙🏻‍♀️ A better dotfile ecosystem with cross-platform automations. Supports fish, zsh, bash, mac, linux, windows. Zero to hero in minutes on new and existing machines.
 - [modernish/modernish](https://github.com/modernish/modernish) - Modernish is a library for writing robust, portable, readable, and powerful programs for POSIX-based shells and utilities.
 - [xwmx/nb](https://github.com/xwmx/nb) - CLI and local web plain text note‑taking, bookmarking, and archiving with linking, tagging, filtering, search, Git versioning & syncing, Pandoc conversion, + more, in a single portable script.
@@ -1642,6 +1643,7 @@
 - [juicedata/juicefs](https://github.com/juicedata/juicefs) - JuiceFS is a distributed POSIX file system built on top of Redis and S3.
 - [sentriz/gonic](https://github.com/sentriz/gonic) - music streaming server / subsonic server API implementation
 - [photoprism/photoprism](https://github.com/photoprism/photoprism) - AI-Powered Photos App for the Decentralized Web 🌈💎✨
+- [asdf-vm/asdf](https://github.com/asdf-vm/asdf) - Extendable version manager with support for Ruby, Node.js, Elixir, Erlang & more
 
 ## google 
 
@@ -1783,7 +1785,7 @@
 - [mermaid-js/mermaid](https://github.com/mermaid-js/mermaid) - Generation of diagrams like flowcharts or sequence diagrams from text in a similar manner as markdown
 - [NobbZ/nixos-config](https://github.com/NobbZ/nixos-config) - 
 - [polybar/polybar](https://github.com/polybar/polybar) - A fast and easy-to-use status bar
-- [NvChad/NvChad](https://github.com/NvChad/NvChad) - An attempt to make neovim cli functional like an IDE while being very beautiful, blazing fast startuptime
+- [NvChad/NvChad](https://github.com/NvChad/NvChad) - Blazing fast Neovim config providing solid defaults and a beautiful UI, enhancing your neovim experience.
 - [sharkdp/fd](https://github.com/sharkdp/fd) - A simple, fast and user-friendly alternative to 'find'
 - [charmbracelet/charm](https://github.com/charmbracelet/charm) - The Charm Tool and Library 🌟
 - [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) - A powerful little TUI framework 🏗
@@ -2344,8 +2346,8 @@
 - [snyball/hawck](https://github.com/snyball/hawck) - Key-rebinding daemon for Linux (Wayland/X11/Console)
 - [nyoom-engineering/nyoom.nvim](https://github.com/nyoom-engineering/nyoom.nvim) - A Neovim framework and doom emacs alternative for the stubborn martian hacker. Powered by fennel and the oxocarbon theme
 - [neovim/neovim](https://github.com/neovim/neovim) - Vim-fork focused on extensibility and usability
-- [NvChad/NvChad](https://github.com/NvChad/NvChad) - An attempt to make neovim cli functional like an IDE while being very beautiful, blazing fast startuptime
-- [echasnovski/mini.nvim](https://github.com/echasnovski/mini.nvim) - Library of 20+ independent Lua modules improving overall Neovim (version 0.7 and higher) experience with minimal effort
+- [NvChad/NvChad](https://github.com/NvChad/NvChad) - Blazing fast Neovim config providing solid defaults and a beautiful UI, enhancing your neovim experience.
+- [echasnovski/mini.nvim](https://github.com/echasnovski/mini.nvim) - Library of 25+ independent Lua modules improving overall Neovim (version 0.7 and higher) experience with minimal effort
 - [nvim-neorg/neorg](https://github.com/nvim-neorg/neorg) - Modernity meets insane extensibility. The future of organizing your life in Neovim.
 - [NTBBloodbath/cheovim](https://github.com/NTBBloodbath/cheovim) - Neovim configuration switcher written in Lua. Inspired by chemacs.
 - [crivotz/nv-ide](https://github.com/crivotz/nv-ide) - Neovim custom configuration, oriented for full stack developers (rails, ruby, php, html, css, SCSS, javascript)
@@ -2638,11 +2640,11 @@
 - [viperML/dotfiles](https://github.com/viperML/dotfiles) - Personal configuration files for my PC
 - [qvacua/vimr](https://github.com/qvacua/vimr) - VimR — Neovim GUI for macOS in Swift
 - [neovim/neovim](https://github.com/neovim/neovim) - Vim-fork focused on extensibility and usability
-- [NvChad/NvChad](https://github.com/NvChad/NvChad) - An attempt to make neovim cli functional like an IDE while being very beautiful, blazing fast startuptime
+- [NvChad/NvChad](https://github.com/NvChad/NvChad) - Blazing fast Neovim config providing solid defaults and a beautiful UI, enhancing your neovim experience.
 - [6gk/polka](https://github.com/6gk/polka) - 🐢 dotless files  (sponsored by https://git.io/kiwmi)
 - [EdenEast/nyx](https://github.com/EdenEast/nyx) - ⚙️Nix[OS] Configuration
 - [rockerBOO/awesome-neovim](https://github.com/rockerBOO/awesome-neovim) - Collections of awesome neovim plugins.
-- [echasnovski/mini.nvim](https://github.com/echasnovski/mini.nvim) - Library of 20+ independent Lua modules improving overall Neovim (version 0.7 and higher) experience with minimal effort
+- [echasnovski/mini.nvim](https://github.com/echasnovski/mini.nvim) - Library of 25+ independent Lua modules improving overall Neovim (version 0.7 and higher) experience with minimal effort
 - [gvolpe/nix-config](https://github.com/gvolpe/nix-config) - :space_invader: NixOS configuration
 - [nvim-neorg/neorg](https://github.com/nvim-neorg/neorg) - Modernity meets insane extensibility. The future of organizing your life in Neovim.
 - [disrupted/dotfiles](https://github.com/disrupted/dotfiles) - 👨🏻‍💻 My personal Neovim config entirely written in Lua (requires nightly), ZSH with zinit plugin manager & powerlevel10k prompt, and other dotfiles I am adding over time
@@ -2725,6 +2727,7 @@
 - [niieani/hashids.js](https://github.com/niieani/hashids.js) - A small JavaScript library to generate YouTube-like ids from numbers.
 - [manosim/gitify](https://github.com/manosim/gitify) - GitHub notifications on your menu bar. Available on macOS, Windows & Linux.
 - [enquirer/enquirer](https://github.com/enquirer/enquirer) - Stylish, intuitive and user-friendly prompts, for Node.js. Used by eslint, webpack, yarn, pm2, pnpm, RedwoodJS, FactorJS, salesforce, Cypress, Google Lighthouse, Generate, tencent cloudbase, lint-stag
+- [asdf-vm/asdf](https://github.com/asdf-vm/asdf) - Extendable version manager with support for Ruby, Node.js, Elixir, Erlang & more
 - [commitizen/cz-cli](https://github.com/commitizen/cz-cli) - The commitizen command line utility. #BlackLivesMatter
 - [apostrophecms/apostrophe](https://github.com/apostrophecms/apostrophe) - Apostrophe is a full-featured, open-source CMS built with Node.js that empowers organizations by combining in-context editing and headless architecture in a full-stack JS environment.
 
@@ -2763,7 +2766,6 @@
 - [enquirer/enquirer](https://github.com/enquirer/enquirer) - Stylish, intuitive and user-friendly prompts, for Node.js. Used by eslint, webpack, yarn, pm2, pnpm, RedwoodJS, FactorJS, salesforce, Cypress, Google Lighthouse, Generate, tencent cloudbase, lint-stag
 - [leon-ai/leon](https://github.com/leon-ai/leon) - 🧠 Leon is your open-source personal assistant.
 - [NicolasPetton/Indium](https://github.com/NicolasPetton/Indium) - A JavaScript development environment for Emacs
-- [asdf-vm/asdf](https://github.com/asdf-vm/asdf) - Extendable version manager with support for Ruby, Node.js, Elixir, Erlang & more
 - [sindresorhus/do-not-disturb-cli](https://github.com/sindresorhus/do-not-disturb-cli) - Control the macOS `Do Not Disturb` feature from the command-line
 - [sindresorhus/alfy](https://github.com/sindresorhus/alfy) - Create Alfred workflows with ease
 - [sindresorhus/caprine](https://github.com/sindresorhus/caprine) - Elegant Facebook Messenger desktop app
@@ -2812,7 +2814,7 @@
 - [facebook/docusaurus](https://github.com/facebook/docusaurus) - Easy to maintain open source documentation websites.
 - [RunaCapital/awesome-oss-alternatives](https://github.com/RunaCapital/awesome-oss-alternatives) - Awesome list of open-source startup alternatives to well-known SaaS products 🚀
 - [Lissy93/personal-security-checklist](https://github.com/Lissy93/personal-security-checklist) - 🔒 A compiled checklist of 300+ tips for protecting digital security and privacy in 2022
-- [NvChad/NvChad](https://github.com/NvChad/NvChad) - An attempt to make neovim cli functional like an IDE while being very beautiful, blazing fast startuptime
+- [NvChad/NvChad](https://github.com/NvChad/NvChad) - Blazing fast Neovim config providing solid defaults and a beautiful UI, enhancing your neovim experience.
 - [transloadit/uppy](https://github.com/transloadit/uppy) - The next open source file uploader for web browsers :dog:
 - [wulkano/Kap](https://github.com/wulkano/Kap) - An open-source screen recorder built with web technology
 - [calcom/cal.com](https://github.com/calcom/cal.com) - Scheduling infrastructure for absolutely everyone.
@@ -3283,7 +3285,7 @@
 - [talyz/nixos-config](https://github.com/talyz/nixos-config) - My NixOS configuration
 - [bugaevc/wl-clipboard](https://github.com/bugaevc/wl-clipboard) - Command-line copy/paste utilities for Wayland
 - [shadowspawn/node-version-usage](https://github.com/shadowspawn/node-version-usage) - Document current usage of .node-version file
-- [ailrk/kirby](https://github.com/ailrk/kirby) - kirby
+- [ailrk/kirby](https://github.com/ailrk/kirby) - A nix home manager configuration
 - [terlar/nix-config](https://github.com/terlar/nix-config) - Configuration for NixOS and user home (dot files).
 - [barrucadu/nixfiles](https://github.com/barrucadu/nixfiles) - My NixOS configuration and assorted other crap.
 - [WayfireWM/wayfire](https://github.com/WayfireWM/wayfire) - A modular and extensible wayland compositor
@@ -4164,7 +4166,7 @@
 
 ## parsing 
 
-- [curl/urler](https://github.com/curl/urler) - command line tool for URL parsing and manipulation
+- [curl/urler](https://github.com/curl/urler) - trurl is a command line tool for URL parsing and manipulation.
 - [ko1nksm/getoptions](https://github.com/ko1nksm/getoptions) - An elegant option/argument parser for shell scripts (full support for bash and all POSIX shells)
 - [nette/neon](https://github.com/nette/neon) - 🍸 Encodes and decodes NEON file format.
 
@@ -4297,6 +4299,7 @@
 - [ajeetdsouza/zoxide](https://github.com/ajeetdsouza/zoxide) - A smarter cd command. Supports all major shells.
 - [faressoft/terminalizer](https://github.com/faressoft/terminalizer) - 🦄 Record your terminal and generate animated gif images or share a web player
 - [skywind3000/z.lua](https://github.com/skywind3000/z.lua) - :zap: A new cd command that helps you navigate faster by learning your habits.
+- [asdf-vm/asdf](https://github.com/asdf-vm/asdf) - Extendable version manager with support for Ruby, Node.js, Elixir, Erlang & more
 
 ## programming 
 
@@ -4392,6 +4395,7 @@
 - [kellyjonbrazil/jc](https://github.com/kellyjonbrazil/jc) - CLI tool and python library that converts the output of popular command-line tools, file-types, and common strings to JSON, YAML, or Dictionaries. This allows piping of output to tools like jq and sim
 - [rcmdnk/homebrew-file](https://github.com/rcmdnk/homebrew-file) - Brewfile manager for  Homebrew
 - [philipmat/discogs-xml2db](https://github.com/philipmat/discogs-xml2db) - Imports the discogs.com monthly XML dumps into databases
+- [asdf-vm/asdf](https://github.com/asdf-vm/asdf) - Extendable version manager with support for Ruby, Node.js, Elixir, Erlang & more
 - [sloria/dotfiles](https://github.com/sloria/dotfiles) - sloria's dotfiles as Ansible roles
 - [kovidgoyal/kitty](https://github.com/kovidgoyal/kitty) - Cross-platform, fast, feature-rich, GPU based terminal
 - [caronc/apprise](https://github.com/caronc/apprise) - Apprise - Push Notifications that work with just about every platform!
@@ -5234,7 +5238,7 @@
 - [qvacua/vimr](https://github.com/qvacua/vimr) - VimR — Neovim GUI for macOS in Swift
 - [neovim/neovim](https://github.com/neovim/neovim) - Vim-fork focused on extensibility and usability
 - [donnemartin/dev-setup](https://github.com/donnemartin/dev-setup) - macOS development environment setup:  Easy-to-understand instructions with automated setup scripts for developer tools like Vim, Sublime Text, Bash, iTerm, Python data analysis, Spark, Hadoop MapReduc
-- [NvChad/NvChad](https://github.com/NvChad/NvChad) - An attempt to make neovim cli functional like an IDE while being very beautiful, blazing fast startuptime
+- [NvChad/NvChad](https://github.com/NvChad/NvChad) - Blazing fast Neovim config providing solid defaults and a beautiful UI, enhancing your neovim experience.
 - [emacs-evil/evil](https://github.com/emacs-evil/evil) - The extensible vi layer for Emacs.
 - [6gk/polka](https://github.com/6gk/polka) - 🐢 dotless files  (sponsored by https://git.io/kiwmi)
 - [mantoni/eslint_d.js](https://github.com/mantoni/eslint_d.js) - Makes eslint the fastest linter on the planet
