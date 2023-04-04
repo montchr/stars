@@ -668,6 +668,7 @@
 - [sindresorhus/notifier-for-github](https://github.com/sindresorhus/notifier-for-github) - Browser extension - Get notified about new GitHub notifications
 - [stefanbuck/awesome-browser-extensions-for-github](https://github.com/stefanbuck/awesome-browser-extensions-for-github) - A collection of awesome browser extensions for GitHub.
 - [bhollis/jsonview](https://github.com/bhollis/jsonview) - A web extension that helps you view JSON documents in the browser.
+- [bitspook/spookfox](https://github.com/bitspook/spookfox) - A tinkerer's bridge b/w Emacs and Web Browser (Firefox and Chrome)
 - [darkreader/darkreader](https://github.com/darkreader/darkreader) - Dark Reader Chrome and Firefox extension
 - [openstyles/stylus](https://github.com/openstyles/stylus) - Stylus - Userstyles Manager
 - [nccgroup/tracy](https://github.com/nccgroup/tracy) - A tool designed to assist with finding all sinks and sources of a web application and display these results in a digestible manner.
@@ -1181,7 +1182,7 @@
 - [tam5/util-font-patcher](https://github.com/tam5/util-font-patcher) - Font line height patcher
 - [motform/stimmung-themes](https://github.com/motform/stimmung-themes) - emacs tuned to inner harmonies
 - [tychoish/.emacs.d](https://github.com/tychoish/.emacs.d) - Tycho Emacs Config Kit
-- [bitspook/spookfox](https://github.com/bitspook/spookfox) - A tinkerer's bridge b/w Emacs and Firefox
+- [bitspook/spookfox](https://github.com/bitspook/spookfox) - A tinkerer's bridge b/w Emacs and Web Browser (Firefox and Chrome)
 - [siraben/dotfiles](https://github.com/siraben/dotfiles) - A collection of my dotfiles
 - [d12frosted/flyspell-correct](https://github.com/d12frosted/flyspell-correct) - Distraction-free words correction with flyspell via selected interface.
 - [jacktasia/dumb-jump](https://github.com/jacktasia/dumb-jump) - an Emacs "jump to definition" package for 50+ languages
@@ -2840,6 +2841,7 @@
 
 ## others 
 
+- [jammus/dotfiles](https://github.com/jammus/dotfiles) - 
 - [nix-community/haumea](https://github.com/nix-community/haumea) - Filesystem-based module system for Nix [maintainer=@figsoda]
 - [10up/block-components](https://github.com/10up/block-components) - A collection of components built to be used in the block editor
 - [Lambda-Emacs/lambda-emacs](https://github.com/Lambda-Emacs/lambda-emacs) - Emacs distribution with sane defaults, pre-configured packages, and useful functions.
@@ -2956,7 +2958,7 @@
 - [srid/flake-root](https://github.com/srid/flake-root) - A `flake-parts` module for finding your way to the project root directory
 - [zhaofengli/attic](https://github.com/zhaofengli/attic) - Multi-tenant Nix Binary Cache
 - [teamniteo/handbook](https://github.com/teamniteo/handbook) - The Niteo Handbook
-- [numtide/srvos](https://github.com/numtide/srvos) - Server-optimized nixos configuration
+- [numtide/srvos](https://github.com/numtide/srvos) - NixOS profiles for servers
 - [alleyinteractive/wp-bulk-task](https://github.com/alleyinteractive/wp-bulk-task) - A library to assist with running performant bulk tasks against WordPress database objects.
 - [numtide/terraform-nixos-install](https://github.com/numtide/terraform-nixos-install) - 
 - [codeguy/php-the-right-way](https://github.com/codeguy/php-the-right-way) - An easy-to-read, quick reference for PHP best practices, accepted coding standards, and links to authoritative tutorials around the Web
@@ -3450,7 +3452,7 @@
 - [berbiche/dotfiles](https://github.com/berbiche/dotfiles) - My messy system configuration setup
 - [elkowar/rnix-lsp](https://github.com/elkowar/rnix-lsp) - WIP Language Server for Nix! [maintainer=@jD91mZM2]
 - [kreisys/rnix-lsp](https://github.com/kreisys/rnix-lsp) - WIP Language Server for Nix! [maintainer=@jD91mZM2]
-- [nix-community/nixpkgs-wayland](https://github.com/nix-community/nixpkgs-wayland) - Automated, pre-built packages for Wayland (sway/wlroots) tools for NixOS. [maintainers=@colemickens,@Artturin]
+- [nix-community/nixpkgs-wayland](https://github.com/nix-community/nixpkgs-wayland) - Automated, pre-built packages for Wayland (sway/wlroots) tools for NixOS. [maintainers=@colemickens, @Artturin]
 - [graninas/The-Voids-Of-Haskell](https://github.com/graninas/The-Voids-Of-Haskell) - 
 - [foreverphoenix/the-phoenix-flavour](https://github.com/foreverphoenix/the-phoenix-flavour) - A Skyrim SE modding guide.
 - [bennofs/nix-index](https://github.com/bennofs/nix-index) - Quickly locate nix packages with specific files
@@ -4166,7 +4168,7 @@
 
 ## parsing 
 
-- [curl/urler](https://github.com/curl/urler) - trurl is a command line tool for URL parsing and manipulation.
+- [curl/trurl](https://github.com/curl/trurl) - trurl is a command line tool for URL parsing and manipulation.
 - [ko1nksm/getoptions](https://github.com/ko1nksm/getoptions) - An elegant option/argument parser for shell scripts (full support for bash and all POSIX shells)
 - [nette/neon](https://github.com/nette/neon) - 🍸 Encodes and decodes NEON file format.
 
