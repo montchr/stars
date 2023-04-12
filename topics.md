@@ -278,6 +278,7 @@
 
 ## api 
 
+- [learn-anything/learn-anything](https://github.com/learn-anything/learn-anything) - Organize world's knowledge, explore connections and curate learning paths
 - [renatonascalves/wp-graphql-buddypress](https://github.com/renatonascalves/wp-graphql-buddypress) - Bringing the power of GraphQL to BuddyPress.
 - [sybrew/the-seo-framework](https://github.com/sybrew/the-seo-framework) - The SEO Framework WordPress plugin.
 - [leoloso/PoP](https://github.com/leoloso/PoP) - Monorepo of the PoP project, including: a server-side component model in PHP, a GraphQL server, a GraphQL API plugin for WordPress, and a website builder
@@ -1121,6 +1122,7 @@
 
 ## education 
 
+- [learn-anything/learn-anything](https://github.com/learn-anything/learn-anything) - Organize world's knowledge, explore connections and curate learning paths
 - [yrgo/awesome-educational-games](https://github.com/yrgo/awesome-educational-games) - A curated list of awesome educational games to learn editors, languages, programming, etc
 - [brootware/awesome-cyber-security-university](https://github.com/brootware/awesome-cyber-security-university) - 🎓 Because Education should be free. Contributions welcome! 🕵️
 - [30-seconds/30-seconds-of-code](https://github.com/30-seconds/30-seconds-of-code) - Short JavaScript code snippets for all your development needs
@@ -2861,6 +2863,7 @@
 
 ## others 
 
+- [ronisbr/doom-nano-modeline](https://github.com/ronisbr/doom-nano-modeline) - A modeline for Doom Emacs based on N Λ N O Modeline
 - [tinted-theming/base16-schemes](https://github.com/tinted-theming/base16-schemes) - All the color schemes for use in base16 packages
 - [numtide/system-manager](https://github.com/numtide/system-manager) - Manage system config using nix on any distro
 - [nixie-dev/nixie](https://github.com/nixie-dev/nixie) - Put Nix in everything!
@@ -3876,7 +3879,7 @@
 - [jkitchin/ov-highlight](https://github.com/jkitchin/ov-highlight) - A persistent highlighter for Emacs
 - [dustinpaluch/init.el](https://github.com/dustinpaluch/init.el) - My Emacs init file
 - [hetzneronline/installimage](https://github.com/hetzneronline/installimage) - Bash scripts to universally deploy various distributions
-- [leinelissen/jellyfin-audio-player](https://github.com/leinelissen/jellyfin-audio-player) - A standalone music streaming app for Jellyfin
+- [leinelissen/jellyfin-audio-player](https://github.com/leinelissen/jellyfin-audio-player) - 🎵 A gorgeous Jellyfin audio streaming app for iOS and Android
 - [base16-manager/base16-manager](https://github.com/base16-manager/base16-manager) - A command line tool to install base16 templates and set themes globally.
 - [rainglow/jetbrains](https://github.com/rainglow/jetbrains) - 320+ color themes for JetBrains IDEs including PHPStorm, Webstorm and more.
 - [asdf-community/asdf-direnv](https://github.com/asdf-community/asdf-direnv) - direnv plugin for the asdf version manager
