@@ -349,6 +349,7 @@
 
 ## Emacs Lisp 
 
+- [ronisbr/doom-nano-modeline](https://github.com/ronisbr/doom-nano-modeline) - A modeline for Doom Emacs based on N Λ N O Modeline
 - [Lambda-Emacs/lambda-emacs](https://github.com/Lambda-Emacs/lambda-emacs) - Emacs distribution with sane defaults, pre-configured packages, and useful functions.
 - [mickeynp/combobulate](https://github.com/mickeynp/combobulate) - Structured Editing and Navigation in Emacs
 - [purcell/envrc](https://github.com/purcell/envrc) - Emacs support for direnv which operates buffer-locally
@@ -1099,7 +1100,6 @@
 - [xiaoxiaoflood/firefox-scripts](https://github.com/xiaoxiaoflood/firefox-scripts) - userChromeJS / autoconfig.js and extensions
 - [migueravila/Bento](https://github.com/migueravila/Bento) - 🍱 The minimalist, elegant and hackable startpage.
 - [morepurplemorebetter/MPMBs-Character-Record-Sheet](https://github.com/morepurplemorebetter/MPMBs-Character-Record-Sheet) - MorePurpleMoreBetter's D&D 5e Character Record Sheet
-- [leon-ai/leon](https://github.com/leon-ai/leon) - 🧠 Leon is your open-source personal assistant.
 - [bahamas10/hue-cli](https://github.com/bahamas10/hue-cli) - A command line interface to phillips hue
 - [nextcloud/photos](https://github.com/nextcloud/photos) - 📸 Your memories under your control
 - [express-labs/pure-react-carousel](https://github.com/express-labs/pure-react-carousel) - A highly impartial suite of React components that can be assembled by the consumer to create a carousel with almost no limits on DOM structure or CSS styles.  If you're tired of fighting some other de
@@ -2875,6 +2875,7 @@
 
 ## TypeScript 
 
+- [learn-anything/learn-anything](https://github.com/learn-anything/learn-anything) - Organize world's knowledge, explore connections and curate learning paths
 - [floating-ui/floating-ui](https://github.com/floating-ui/floating-ui) - A low-level toolkit to create floating elements. Tooltips, popovers, dropdowns, and more
 - [remeda/remeda](https://github.com/remeda/remeda) - A utility library for JavaScript and TypeScript.
 - [gregrickaby/nextjs-app-router-examples](https://github.com/gregrickaby/nextjs-app-router-examples) - Next.js 13 App Router Examples
@@ -3053,8 +3054,9 @@
 - [snowtrack/snowfs](https://github.com/snowtrack/snowfs) - SnowFS - a fast, scalable version control file storage for graphic files :art:
 - [TanStack/query](https://github.com/TanStack/query) - 🤖 Powerful asynchronous state management, server-state utilities and data fetching for the web. TS/JS, React Query, Solid Query, Svelte Query and Vue Query.
 - [tridactyl/tridactyl](https://github.com/tridactyl/tridactyl) - A Vim-like interface for Firefox, inspired by Vimperator/Pentadactyl.
-- [leinelissen/jellyfin-audio-player](https://github.com/leinelissen/jellyfin-audio-player) - A standalone music streaming app for Jellyfin
+- [leinelissen/jellyfin-audio-player](https://github.com/leinelissen/jellyfin-audio-player) - 🎵 A gorgeous Jellyfin audio streaming app for iOS and Android
 - [roderickhsiao/react-in-viewport](https://github.com/roderickhsiao/react-in-viewport) - Detect if React component is in viewport
+- [leon-ai/leon](https://github.com/leon-ai/leon) - 🧠 Leon is your open-source personal assistant.
 - [jaredpalmer/the-platform](https://github.com/jaredpalmer/the-platform) - Web. Components. 😂
 - [screeny05/letterboxd-list-radarr](https://github.com/screeny05/letterboxd-list-radarr) - Connect radarr to letterboxd.com lists
 - [expo/expo](https://github.com/expo/expo) - An open-source platform for making universal native apps with React. Expo runs on Android, iOS, and the web.
