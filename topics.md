@@ -683,6 +683,7 @@
 
 ## cli 
 
+- [numtide/github-deploy](https://github.com/numtide/github-deploy) - Track deployments on GitHub PRs
 - [ouch-org/ouch](https://github.com/ouch-org/ouch) - Painless compression and decompression for your terminal
 - [Hyde46/hoard](https://github.com/Hyde46/hoard) - cli command organizer written in rust
 - [nunomaduro/phpinsights](https://github.com/nunomaduro/phpinsights) - 🔰 Instant PHP quality checks from your console
@@ -1711,6 +1712,7 @@
 
 ## hacktoberfest 
 
+- [pyrech/composer-changelogs](https://github.com/pyrech/composer-changelogs) - :notebook: Display better summary after Composer update
 - [floating-ui/floating-ui](https://github.com/floating-ui/floating-ui) - A low-level toolkit to create floating elements. Tooltips, popovers, dropdowns, and more
 - [ouch-org/ouch](https://github.com/ouch-org/ouch) - Painless compression and decompression for your terminal
 - [imranhsayed/nextjs-headless-wordpress](https://github.com/imranhsayed/nextjs-headless-wordpress) - 🔥 Nextjs Headless WordPress
@@ -1902,7 +1904,6 @@
 - [ohmyzsh/ohmyzsh](https://github.com/ohmyzsh/ohmyzsh) - 🙃   A delightful community-driven (with 2,100+ contributors) framework for managing your zsh configuration. Includes 300+ optional plugins (rails, git, macOS, hub, docker, homebrew, node, php, python,
 - [gharlan/alfred-github-workflow](https://github.com/gharlan/alfred-github-workflow) - GitHub Workflow for Alfred 4
 - [wp-cli/wp-cli](https://github.com/wp-cli/wp-cli) - ⚙️ WP-CLI framework
-- [apostrophecms/apostrophe](https://github.com/apostrophecms/apostrophe) - Apostrophe is a full-featured, open-source CMS built with Node.js that empowers organizations by combining in-context editing and headless architecture in a full-stack JS environment.
 - [beetbox/beets](https://github.com/beetbox/beets) - music library manager and MusicBrainz tagger
 
 ## haskell 
@@ -3003,7 +3004,7 @@
 - [divnix/incl](https://github.com/divnix/incl) - A nix filter with straight-forward include semantic
 - [huytd/vscode-github-light-monochrome](https://github.com/huytd/vscode-github-light-monochrome) - 
 - [canva-public/js2nix](https://github.com/canva-public/js2nix) - Node.js modules installation using Nix
-- [divnix/data-merge](https://github.com/divnix/data-merge) - A mini merge DSL for data overlays
+- [divnix/dmerge](https://github.com/divnix/dmerge) - A mini merge DSL for data overlays
 - [jenspfahl/BDT](https://github.com/jenspfahl/BDT) - Break.Down.Timer
 - [mingrammer/diagrams](https://github.com/mingrammer/diagrams) - :art: Diagram as Code for prototyping cloud system architectures
 - [cachix/devenv](https://github.com/cachix/devenv) - Fast, Declarative, Reproducible, and Composable Developer Environments
@@ -4204,6 +4205,8 @@
 
 ## php 
 
+- [szepeviktor/very-clean-code](https://github.com/szepeviktor/very-clean-code) - How to code without future problems ⚪
+- [pyrech/composer-changelogs](https://github.com/pyrech/composer-changelogs) - :notebook: Display better summary after Composer update
 - [spaze/phpstan-disallowed-calls](https://github.com/spaze/phpstan-disallowed-calls) - PHPStan rules to detect disallowed method & function calls, constant, namespace & superglobal usages
 - [spatie/menu](https://github.com/spatie/menu) - Html menu generator
 - [spatie/package-skeleton-laravel](https://github.com/spatie/package-skeleton-laravel) - A skeleton repository for Spatie's Laravel Packages
@@ -4342,6 +4345,7 @@
 
 ## project-management 
 
+- [mark-when/markwhen](https://github.com/mark-when/markwhen) - Make a cascading timeline from markdown-like text. Supports simple American/European date styles, ISO8601, images, links, locations, and more.
 - [bbatsov/projectile](https://github.com/bbatsov/projectile) - Project Interaction Library for Emacs
 - [200ok-ch/organice](https://github.com/200ok-ch/organice) - An implementation of Org mode without the dependency of Emacs - built for mobile and desktop browsers
 
@@ -4755,6 +4759,7 @@
 
 ## security 
 
+- [szepeviktor/waf4wordpress](https://github.com/szepeviktor/waf4wordpress) - WAF for WordPress 🔥 with 60+ security checks and weekly updates
 - [Pierre-Lannoy/wp-keys-master](https://github.com/Pierre-Lannoy/wp-keys-master) - Powerful application passwords manager for WordPress with role-based usage control and full analytics reporting capabilities.
 - [dotenv-org/dotenv-vault](https://github.com/dotenv-org/dotenv-vault) - Simplify Your Secrets
 - [turbot/steampipe](https://github.com/turbot/steampipe) - Use SQL to instantly query your cloud services (AWS, Azure, GCP and more). Open source CLI. No DB required.
@@ -5423,6 +5428,7 @@
 
 ## wordpress 
 
+- [szepeviktor/waf4wordpress](https://github.com/szepeviktor/waf4wordpress) - WAF for WordPress 🔥 with 60+ security checks and weekly updates
 - [Brain-WP/Assets](https://github.com/Brain-WP/Assets) - WordPress assets helpers
 - [szepeviktor/SentencePress](https://github.com/szepeviktor/SentencePress) - A set of words that is complete in itself. - WordPress OOP wrappers
 - [10up/gutenberg-best-practices](https://github.com/10up/gutenberg-best-practices) - Welcome to the 10up Gutenberg Best Practices!
