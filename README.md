@@ -628,6 +628,7 @@
 
 ## Go 
 
+- [numtide/github-deploy](https://github.com/numtide/github-deploy) - Track deployments on GitHub PRs
 - [guumaster/hostctl](https://github.com/guumaster/hostctl) - Your dev tool to manage /etc/hosts like a pro!
 - [DarthSim/overmind](https://github.com/DarthSim/overmind) - Process manager for Procfile-based applications and tmux
 - [helsinki-systems/wp4nix](https://github.com/helsinki-systems/wp4nix) - Read-Only mirror of our GitLab repository
@@ -1365,7 +1366,7 @@
 - [GTrunSec/hive](https://github.com/GTrunSec/hive) - A declarative configuration framework based on the structural theory of std.
 - [divnix/incl](https://github.com/divnix/incl) - A nix filter with straight-forward include semantic
 - [canva-public/js2nix](https://github.com/canva-public/js2nix) - Node.js modules installation using Nix
-- [divnix/data-merge](https://github.com/divnix/data-merge) - A mini merge DSL for data overlays
+- [divnix/dmerge](https://github.com/divnix/dmerge) - A mini merge DSL for data overlays
 - [cachix/devenv](https://github.com/cachix/devenv) - Fast, Declarative, Reproducible, and Composable Developer Environments
 - [tpwrules/nixos-apple-silicon](https://github.com/tpwrules/nixos-apple-silicon) - Resources to install NixOS bare metal on Apple Silicon Macs
 - [mrVanDalo/landingpage](https://github.com/mrVanDalo/landingpage) - a simple html file using json to render a bookmark page to be shared across teams.
@@ -1680,6 +1681,7 @@
 
 ## Others 
 
+- [szepeviktor/very-clean-code](https://github.com/szepeviktor/very-clean-code) - How to code without future problems ⚪
 - [tinted-theming/base16-schemes](https://github.com/tinted-theming/base16-schemes) - All the color schemes for use in base16 packages
 - [szepeviktor/infrastructure-for-hosting-web-applications](https://github.com/szepeviktor/infrastructure-for-hosting-web-applications) - My policies on hosting anything web-related 💾
 - [lukecav/awesome-acf](https://github.com/lukecav/awesome-acf) - A collection of third party add-ons for Advanced Custom Fields plugin for WordPress.
@@ -1868,6 +1870,8 @@
 
 ## PHP 
 
+- [szepeviktor/waf4wordpress](https://github.com/szepeviktor/waf4wordpress) - WAF for WordPress 🔥 with 60+ security checks and weekly updates
+- [pyrech/composer-changelogs](https://github.com/pyrech/composer-changelogs) - :notebook: Display better summary after Composer update
 - [spaze/phpstan-disallowed-calls](https://github.com/spaze/phpstan-disallowed-calls) - PHPStan rules to detect disallowed method & function calls, constant, namespace & superglobal usages
 - [Brain-WP/Assets](https://github.com/Brain-WP/Assets) - WordPress assets helpers
 - [szepeviktor/SentencePress](https://github.com/szepeviktor/SentencePress) - A set of words that is complete in itself. - WordPress OOP wrappers
