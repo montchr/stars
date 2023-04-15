@@ -2870,7 +2870,7 @@
 
 ## Tcl 
 
-- [blobject/agave](https://github.com/blobject/agave) - succulent monospaced programming font
+- [blobject/agave](https://github.com/blobject/agave) - succulent monospace programming font
 - [cea-hpc/modules](https://github.com/cea-hpc/modules) - Environment Modules: provides dynamic modification of a user's environment
 
 ## TeX 
@@ -2970,7 +2970,7 @@
 - [markdoc/markdoc](https://github.com/markdoc/markdoc) - A powerful, flexible, Markdown-based authoring framework.
 - [facebook/docusaurus](https://github.com/facebook/docusaurus) - Easy to maintain open source documentation websites.
 - [bhollis/jsonview](https://github.com/bhollis/jsonview) - A web extension that helps you view JSON documents in the browser.
-- [jotaijs/jotai-form](https://github.com/jotaijs/jotai-form) - 
+- [jotaijs/jotai-form](https://github.com/jotaijs/jotai-form) - Form atoms for Jotai
 - [TanStack/table](https://github.com/TanStack/table) - 🤖 Headless UI for building powerful tables & datagrids for TS/JS -  React-Table, Vue-Table, Solid-Table, Svelte-Table
 - [typescript-exercises/typescript-exercises](https://github.com/typescript-exercises/typescript-exercises) - A set of interactive TypeScript exercises
 - [johnlindquist/kit](https://github.com/johnlindquist/kit) - Script Kit. Automate Anything.
@@ -3072,7 +3072,7 @@
 ## V 
 
 - [vlang/v](https://github.com/vlang/v) - Simple, fast, safe, compiled language for developing maintainable software. Compiles itself in &lt;1s with zero library dependencies. Supports automatic C =&gt; V translation. https://vlang.io
-- [vlang/ui](https://github.com/vlang/ui) - Cross-platform UI library written in V
+- [vlang/ui](https://github.com/vlang/ui) - A cross-platform UI library written in V
 
 ## Vala 
 
