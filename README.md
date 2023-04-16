@@ -340,6 +340,7 @@
 
 ## Elixir 
 
+- [the-nix-way/nix-flake-dev-environments](https://github.com/the-nix-way/nix-flake-dev-environments) - Nix flake examples for real-world development environments [maintainer=@lucperkins]
 - [midarrlabs/midarr-server](https://github.com/midarrlabs/midarr-server) - 🔥Midarr, the minimal lightweight media server.
 
 ## Elm 
@@ -857,7 +858,6 @@
 - [NUKnightLab/soundcite](https://github.com/NUKnightLab/soundcite) - Making Inline Audio Easy and Seamless
 - [abbernie/tune](https://github.com/abbernie/tune) - A web audio tuning library of microtonal and just intonation scales
 - [mlarcher/docssa](https://github.com/mlarcher/docssa) - DoCSSa – Sass based CSS architecture and methodology – http://mlarcher.github.io/docssa/
-- [michelson/Dante](https://github.com/michelson/Dante) - Just another Medium wysiwyg editor clone
 - [jglovier/gifs](https://github.com/jglovier/gifs) - :joy: :camera: :sparkler: Storage place for all mah gifs.
 - [bootflat/bootflat.github.io](https://github.com/bootflat/bootflat.github.io) - BOOTFLAT is an open source Flat UI KIT based on Bootstrap 3.3.0 CSS framework. It provides a faster, easier and less repetitive way for web developers to create elegant web apps.
 - [codrops/AnimatedHeader](https://github.com/codrops/AnimatedHeader) - A fixed header that will animate its size on scroll. The inner elements will also adjust their size with a transition.
@@ -1177,6 +1177,7 @@
 - [lkwdwrd/generator-vvv](https://github.com/lkwdwrd/generator-vvv) - Yeoman generator for VVV auto site setup
 - [HBRGTech/daisy](https://github.com/HBRGTech/daisy) - daisy is a vagrant and grunt-powered Pattern Lab, derivative work from hbr.org's 2014 redesign.
 - [maciejczyzewski/hyhyhy](https://github.com/maciejczyzewski/hyhyhy) - A tool for creating nice looking HTML5 presentations. :trollface:
+- [michelson/Dante](https://github.com/michelson/Dante) - Just another Medium wysiwyg editor clone
 - [wp-shortcake/shortcake](https://github.com/wp-shortcake/shortcake) - Shortcake makes using WordPress shortcodes a piece of cake.
 - [sewpafly/post-thumbnail-editor](https://github.com/sewpafly/post-thumbnail-editor) - Wordpress Plugin to manually edit post thumbnails
 - [RealFaviconGenerator/grunt-real-favicon](https://github.com/RealFaviconGenerator/grunt-real-favicon) - Generate a multiplatform favicon with RealFaviconGenerator
@@ -1681,6 +1682,7 @@
 
 ## Others 
 
+- [tonsky/sublime-scheme-alabaster](https://github.com/tonsky/sublime-scheme-alabaster) - Minimalist color scheme for Sublime Text 3
 - [szepeviktor/very-clean-code](https://github.com/szepeviktor/very-clean-code) - How to code without future problems ⚪
 - [tinted-theming/base16-schemes](https://github.com/tinted-theming/base16-schemes) - All the color schemes for use in base16 packages
 - [szepeviktor/infrastructure-for-hosting-web-applications](https://github.com/szepeviktor/infrastructure-for-hosting-web-applications) - My policies on hosting anything web-related 💾
