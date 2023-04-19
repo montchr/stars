@@ -2676,7 +2676,7 @@
 - [digital-asset/dev-env](https://github.com/digital-asset/dev-env) - Per-project isolated set of dev tools
 - [myspaghetti/macos-virtualbox](https://github.com/myspaghetti/macos-virtualbox) - Push-button installer of macOS Catalina, Mojave, and High Sierra guests in Virtualbox for Windows, Linux, and macOS
 - [MichaelAquilina/zsh-auto-notify](https://github.com/MichaelAquilina/zsh-auto-notify) - ⏰ ZSH plugin that automatically sends out a notification when a long running task has completed.
-- [hyperupcall/bash-object](https://github.com/hyperupcall/bash-object) - The _first_ Bash library for manipulating heterogenous data hierarchies
+- [bash-bastion/bash-object](https://github.com/bash-bastion/bash-object) - The _first_ Bash library for manipulating heterogenous data hierarchies
 - [paulotome/emacstool](https://github.com/paulotome/emacstool) - Using Emacs Ediff as Git Merge/Difftool
 - [dcreemer/1pass](https://github.com/dcreemer/1pass) - A caching wrapper for the 1Password CLI
 - [Narice/nixos-system](https://github.com/Narice/nixos-system) - My NixOS System!
@@ -2840,7 +2840,7 @@
 
 ## Svelte 
 
-- [open-source-labs/Svelvet](https://github.com/open-source-labs/Svelvet) - A lightweight Svelte component library for building interactive node-based flow diagrams
+- [open-source-labs/Svelvet](https://github.com/open-source-labs/Svelvet) - A lightweight Svelte component library for building interactive node-based UIs
 - [safeapps-io/money-client](https://github.com/safeapps-io/money-client) - World's first 100% secure finance tracker. Save more money. Plan for future. Preserve your privacy.
 - [simonxciv/eavesdrop.fm](https://github.com/simonxciv/eavesdrop.fm) - Eavesdrop.FM automagically takes Plex Webhooks and transmogrifies them into ListenBrainz... listens
 
