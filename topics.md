@@ -2870,6 +2870,8 @@
 
 ## others 
 
+- [foo-dogsquared/nixos-config](https://github.com/foo-dogsquared/nixos-config) - Aiming to be the most overkill NixOS config in the whole wide world.
+- [cbroglie/mustache](https://github.com/cbroglie/mustache) - The mustache template language in Go
 - [shyim/nixcfg](https://github.com/shyim/nixcfg) - My Nix config for my Macbook and Server
 - [ethnt/tilde](https://github.com/ethnt/tilde) - macOS configuration via Nix
 - [ethnt/e10](https://github.com/ethnt/e10) - My local network, built with Nix and Terraform
