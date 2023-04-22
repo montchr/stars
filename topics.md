@@ -685,6 +685,7 @@
 
 ## cli 
 
+- [replicadse/complate](https://github.com/replicadse/complate) - A powerful text templating tool.
 - [numtide/github-deploy](https://github.com/numtide/github-deploy) - Track deployments on GitHub PRs
 - [ouch-org/ouch](https://github.com/ouch-org/ouch) - Painless compression and decompression for your terminal
 - [Hyde46/hoard](https://github.com/Hyde46/hoard) - cli command organizer written in rust
@@ -1487,6 +1488,7 @@
 
 ## git 
 
+- [replicadse/complate](https://github.com/replicadse/complate) - A powerful text templating tool.
 - [nix-community/nurl](https://github.com/nix-community/nurl) - Generate Nix fetcher calls from repository URLs [maintainer=@figsoda]
 - [rgbatty/cauldron](https://github.com/rgbatty/cauldron) - Double, double toil and trouble; Fire burn and caldron bubble - A collection of declarative user and host configurations (eg. dotfiles) managed with Nix
 - [cocogitto/cocogitto](https://github.com/cocogitto/cocogitto) - The Conventional Commits toolbox
@@ -2460,7 +2462,7 @@
 - [utmapp/UTM](https://github.com/utmapp/UTM) - Virtual machines for iOS and macOS
 - [jacobfoard/dotfiles](https://github.com/jacobfoard/dotfiles) - 
 - [laravel/valet](https://github.com/laravel/valet) - A more enjoyable local development experience for Mac.
-- [myspaghetti/macos-virtualbox](https://github.com/myspaghetti/macos-virtualbox) - Push-button installer of macOS Catalina, Mojave, and High Sierra guests in Virtualbox for Windows, Linux, and macOS
+- [myspaghetti/macos-virtualbox](https://github.com/myspaghetti/macos-virtualbox) - Push-button installer of macOS Catalina, Mojave, and High Sierra guests in Virtualbox on x86 CPUs for Windows, Linux, and macOS
 - [ianyh/Amethyst](https://github.com/ianyh/Amethyst) - Automatic tiling window manager for macOS à la xmonad.
 - [marlonrichert/.config](https://github.com/marlonrichert/.config) - ⚙️ Bootstrappable user environment for macOS & Ubuntu
 - [nikitavoloboev/my-mac](https://github.com/nikitavoloboev/my-mac) - List of applications and tools that make my macOS experience even more amazing
@@ -3292,7 +3294,7 @@
 - [pyinvoke/invoke](https://github.com/pyinvoke/invoke) - Pythonic task management & command execution.
 - [izderadicka/audioserve](https://github.com/izderadicka/audioserve) - Simple personal server to serve audiofiles files from folders.  Intended primarily for audio books, but anything with decent folder structure will do.
 - [TLATER/nixos-hosts](https://github.com/TLATER/nixos-hosts) - NixOS host configuration
-- [terem42/zfs-hetzner-vm](https://github.com/terem42/zfs-hetzner-vm) - script to install Debian 11, 10 and Ubuntu 20 LTS and 18.04 LTS with ZFS root on Hetzner VPS
+- [terem42/zfs-hetzner-vm](https://github.com/terem42/zfs-hetzner-vm) - script to install Debian 10, 11 and Ubuntu 18, 20, 22 LTS with ZFS root on Hetzner VPS
 - [TheReal1604/disk-encryption-hetzner](https://github.com/TheReal1604/disk-encryption-hetzner) - Encrypt a hetzner server from the "serverbörse" and unlock it remote via ssh
 - [ncfavier/config](https://github.com/ncfavier/config) - My NixOS configurations
 - [vweevers/common-changelog](https://github.com/vweevers/common-changelog) - Write changelogs for humans. A style guide.
@@ -4659,6 +4661,7 @@
 
 ## rust 
 
+- [replicadse/complate](https://github.com/replicadse/complate) - A powerful text templating tool.
 - [ouch-org/ouch](https://github.com/ouch-org/ouch) - Painless compression and decompression for your terminal
 - [nix-community/nix-init](https://github.com/nix-community/nix-init) - Generate Nix packages from URLs with hash prefetching, dependency inference, license detection, and more [maintainer=@figsoda]
 - [Hyde46/hoard](https://github.com/Hyde46/hoard) - cli command organizer written in rust
