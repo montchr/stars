@@ -350,6 +350,7 @@
 
 ## Emacs Lisp 
 
+- [repelliuss/bind](https://github.com/repelliuss/bind) - `bind' many commands to keys in many keymaps, multiple times and support prefix, autoload, repeat-mode and save&restore.
 - [rougier/nano-dialog](https://github.com/rougier/nano-dialog) - Emac native dialog box
 - [ronisbr/doom-nano-modeline](https://github.com/ronisbr/doom-nano-modeline) - A modeline for Doom Emacs based on N Λ N O Modeline
 - [Lambda-Emacs/lambda-emacs](https://github.com/Lambda-Emacs/lambda-emacs) - Emacs distribution with sane defaults, pre-configured packages, and useful functions.
@@ -682,7 +683,7 @@
 - [jetpack-io/devbox](https://github.com/jetpack-io/devbox) - Instant, easy, and predictable development environments
 - [autobrr/autobrr](https://github.com/autobrr/autobrr) - Modern, easy to use download automation for torrents and usenet.
 - [schollz/croc](https://github.com/schollz/croc) - Easily and securely send things from one computer to another :crocodile: :package:
-- [neilotoole/sq](https://github.com/neilotoole/sq) - sq: the missing data wrangler
+- [neilotoole/sq](https://github.com/neilotoole/sq) - sq: data wrangler
 - [wtfutil/wtf](https://github.com/wtfutil/wtf) - The personal information dashboard for your terminal
 - [charmbracelet/gum](https://github.com/charmbracelet/gum) - A tool for glamorous shell scripts 🎀
 - [containerd/nerdctl](https://github.com/containerd/nerdctl) - contaiNERD CTL - Docker-compatible CLI for containerd, with support for Compose, Rootless, eStargz, OCIcrypt, IPFS, ...
