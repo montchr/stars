@@ -840,6 +840,7 @@
 - [arianvp/nixos-stuff](https://github.com/arianvp/nixos-stuff) - Nixos stuff
 - [krzemienski/awesome-video](https://github.com/krzemienski/awesome-video) - A curated list of awesome streaming video tools, frameworks, libraries, and learning resources.
 - [uswds/public-sans](https://github.com/uswds/public-sans) - A strong, neutral, principles-driven, open source typeface for text or display
+- [xwiki-labs/cryptpad](https://github.com/xwiki-labs/cryptpad) - Collaborative office suite, end-to-end encrypted and open-source.
 - [0x6b/copy-selection-as-markdown](https://github.com/0x6b/copy-selection-as-markdown) - Firefox add-on to copy selection as Markdown
 - [javier-lopez/learn](https://github.com/javier-lopez/learn) - random files I've been collecting & programming
 - [jashkenas/docco](https://github.com/jashkenas/docco) - Literate Programming can be Quick and Dirty.
@@ -1060,7 +1061,6 @@
 - [donavon/use-persisted-state](https://github.com/donavon/use-persisted-state) - A custom React Hook that provides a multi-instance, multi-tab/browser shared and persistent state.
 - [downshift-js/downshift](https://github.com/downshift-js/downshift) - 🏎 A set of primitives to build simple, flexible, WAI-ARIA compliant React autocomplete, combobox or select dropdown components.
 - [brightcove/react-player-loader](https://github.com/brightcove/react-player-loader) - A React component that embeds and loads Brightcove Player scripts.
-- [xwiki-labs/cryptpad](https://github.com/xwiki-labs/cryptpad) - Collaborative office suite, end-to-end encrypted and open-source.
 - [nccgroup/tracy](https://github.com/nccgroup/tracy) - A tool designed to assist with finding all sinks and sources of a web application and display these results in a digestible manner.
 - [abhijithvijayan/web-extension-starter](https://github.com/abhijithvijayan/web-extension-starter) - 🖥🔋Web Extension starter to build "Write Once Run on Any Browser" extension
 - [floccusaddon/floccus](https://github.com/floccusaddon/floccus) - :cloud: Sync your bookmarks privately across browsers and devices
@@ -1432,7 +1432,6 @@
 - [yawnt/declarative-nix-flatpak](https://github.com/yawnt/declarative-nix-flatpak) - flatpak-install, but declarative
 - [jordanisaacs/dotfiles](https://github.com/jordanisaacs/dotfiles) - My NixOS dotfiles for desktops and servers
 - [the-nix-way/dev-templates](https://github.com/the-nix-way/dev-templates) - Dev environments for numerous languages based on Nix flakes [maintainer=@lucperkins]
-- [MSF-OCB/NixOS](https://github.com/MSF-OCB/NixOS) - MSF OCB NixOS config
 - [nix-community/disko](https://github.com/nix-community/disko) - Format disks with nix-config [maintainer=@Lassulus]
 - [internet4refugees/beherbergung](https://github.com/internet4refugees/beherbergung) - Tools for ngos, organizing private hosting :blue_heart: :yellow_heart:
 - [jonringer/server-configuration](https://github.com/jonringer/server-configuration) - Build server nixos configuration
@@ -1884,6 +1883,7 @@
 
 ## PHP 
 
+- [alleyinteractive/mantle-framework](https://github.com/alleyinteractive/mantle-framework) - Mantle is a framework for building large, robust websites and applications with WordPress. Framework for https://github.com/alleyinteractive/mantle
 - [szepeviktor/waf4wordpress](https://github.com/szepeviktor/waf4wordpress) - WAF for WordPress 🔥 with 60+ security checks and weekly updates
 - [pyrech/composer-changelogs](https://github.com/pyrech/composer-changelogs) - :notebook: Display better summary after Composer update
 - [spaze/phpstan-disallowed-calls](https://github.com/spaze/phpstan-disallowed-calls) - PHPStan rules to detect disallowed method & function calls, constant, namespace & superglobal usages
@@ -2936,7 +2936,7 @@
 - [tailwindlabs/tailwindcss-intellisense](https://github.com/tailwindlabs/tailwindcss-intellisense) - Intelligent Tailwind CSS tooling for Visual Studio Code
 - [vscode-neovim/vscode-neovim](https://github.com/vscode-neovim/vscode-neovim) - Vim-mode for VS Code using embedded Neovim
 - [gqty-dev/gqty](https://github.com/gqty-dev/gqty) - The No-GraphQL Client for TypeScript
-- [wpengine/faustjs](https://github.com/wpengine/faustjs) - Faust.js - The Headless WordPress Framework
+- [wpengine/faustjs](https://github.com/wpengine/faustjs) - Faust.js™ - The Headless WordPress Framework
 - [alexeagleson/nextjs-fullstack-app-template](https://github.com/alexeagleson/nextjs-fullstack-app-template) - A fullstack template for a NextJs App
 - [ben-rogerson/twin.macro](https://github.com/ben-rogerson/twin.macro) - 🦹‍♂️ Twin blends the magic of Tailwind with the flexibility of css-in-js (emotion, styled-components, stitches and goober) at build time.
 - [input-output-hk/cardano-js-sdk](https://github.com/input-output-hk/cardano-js-sdk) - JavaScript SDK for interacting with Cardano, providing various key management options, with support for popular hardware wallets
