@@ -1749,7 +1749,7 @@
 - [nvim-treesitter/nvim-treesitter-textobjects](https://github.com/nvim-treesitter/nvim-treesitter-textobjects) - 
 - [vscode-neovim/vscode-neovim](https://github.com/vscode-neovim/vscode-neovim) - Vim-mode for VS Code using embedded Neovim
 - [gqty-dev/gqty](https://github.com/gqty-dev/gqty) - The No-GraphQL Client for TypeScript
-- [wpengine/faustjs](https://github.com/wpengine/faustjs) - Faust.js - The Headless WordPress Framework
+- [wpengine/faustjs](https://github.com/wpengine/faustjs) - Faust.js™ - The Headless WordPress Framework
 - [evilmartians/lefthook](https://github.com/evilmartians/lefthook) - Fast and powerful Git hooks manager for any type of projects.
 - [Roave/BetterReflection](https://github.com/Roave/BetterReflection) - :crystal_ball: Better Reflection is a reflection API that aims to improve and provide more features than PHP's built-in reflection API.
 - [dunglas/frankenphp](https://github.com/dunglas/frankenphp) - The modern PHP app server
@@ -2048,7 +2048,7 @@
 - [nix-community/napalm](https://github.com/nix-community/napalm) - Support for building npm packages in Nix and lightweight npm registry [maintainer @jtojnar]
 - [tajo/ladle](https://github.com/tajo/ladle) - 🥄 Develop, test and document your React story components faster.
 - [gqty-dev/gqty](https://github.com/gqty-dev/gqty) - The No-GraphQL Client for TypeScript
-- [wpengine/faustjs](https://github.com/wpengine/faustjs) - Faust.js - The Headless WordPress Framework
+- [wpengine/faustjs](https://github.com/wpengine/faustjs) - Faust.js™ - The Headless WordPress Framework
 - [code-hike/codehike](https://github.com/code-hike/codehike) - Marvellous code walkthroughs
 - [pristas-peter/wp-graphql-gutenberg](https://github.com/pristas-peter/wp-graphql-gutenberg) - Query gutenberg blocks with wp-graphql
 - [coralproject/talk](https://github.com/coralproject/talk) - A better commenting experience from Vox Media
@@ -2722,7 +2722,7 @@
 - [ixartz/Next-js-Boilerplate](https://github.com/ixartz/Next-js-Boilerplate) - 🚀🎉📚 Boilerplate and Starter for Next.js 13+, Tailwind CSS 3.3 and TypeScript ⚡️ Made with developer experience first: Next.js + TypeScript + ESLint + Prettier + Husky + Lint-Staged + Jest + Testing Li
 - [vercel/next.js](https://github.com/vercel/next.js) - The React Framework
 - [gqty-dev/gqty](https://github.com/gqty-dev/gqty) - The No-GraphQL Client for TypeScript
-- [wpengine/faustjs](https://github.com/wpengine/faustjs) - Faust.js - The Headless WordPress Framework
+- [wpengine/faustjs](https://github.com/wpengine/faustjs) - Faust.js™ - The Headless WordPress Framework
 - [belgattitude/nextjs-monorepo-example](https://github.com/belgattitude/nextjs-monorepo-example) - Collection of monorepo tips & tricks
 - [AykutSarac/jsoncrack.com](https://github.com/AykutSarac/jsoncrack.com) - ⭐️ Transform data chaos into clarity with JSON Crack - the ultimate JSON visualization solution.
 - [rtCamp/wp-decoupled](https://github.com/rtCamp/wp-decoupled) - Next.js app with WPGraphQL and WordPress at the backend.
@@ -3148,7 +3148,6 @@
 - [input-output-hk/devshell-capsules](https://github.com/input-output-hk/devshell-capsules) - Space Capsules for the Modern DevShell
 - [humanmade/asset-manager-framework](https://github.com/humanmade/asset-manager-framework) - A framework for overriding the WordPress media library with an external asset provider, such as a DAM
 - [aaemnnosttv/wp-sqlite-db](https://github.com/aaemnnosttv/wp-sqlite-db) - A single file drop-in for using a SQLite database with WordPress. Based on the original SQLite Integration plugin.
-- [MSF-OCB/NixOS](https://github.com/MSF-OCB/NixOS) - MSF OCB NixOS config
 - [simonthum/git-sync](https://github.com/simonthum/git-sync) - Safe and simple one-script git synchronization
 - [jetpack-io/devbox](https://github.com/jetpack-io/devbox) - Instant, easy, and predictable development environments
 - [cid-chan/peerix](https://github.com/cid-chan/peerix) - Peer2Peer Nix-Binary-Cache
@@ -4498,7 +4497,7 @@
 - [prettier/eslint-config-prettier](https://github.com/prettier/eslint-config-prettier) - Turns off all rules that are unnecessary or might conflict with Prettier.
 - [vercel/next.js](https://github.com/vercel/next.js) - The React Framework
 - [gqty-dev/gqty](https://github.com/gqty-dev/gqty) - The No-GraphQL Client for TypeScript
-- [wpengine/faustjs](https://github.com/wpengine/faustjs) - Faust.js - The Headless WordPress Framework
+- [wpengine/faustjs](https://github.com/wpengine/faustjs) - Faust.js™ - The Headless WordPress Framework
 - [ben-rogerson/twin.macro](https://github.com/ben-rogerson/twin.macro) - 🦹‍♂️ Twin blends the magic of Tailwind with the flexibility of css-in-js (emotion, styled-components, stitches and goober) at build time.
 - [soywod/react-use-bireducer](https://github.com/soywod/react-use-bireducer) - React hook for managing effectful reducers.
 - [bbc/simorgh](https://github.com/bbc/simorgh) - The BBC's Open Source Single Page Application. Contributions welcome! Used on some of our biggest websites, e.g.
@@ -5450,6 +5449,7 @@
 
 ## wordpress 
 
+- [alleyinteractive/mantle-framework](https://github.com/alleyinteractive/mantle-framework) - Mantle is a framework for building large, robust websites and applications with WordPress. Framework for https://github.com/alleyinteractive/mantle
 - [szepeviktor/waf4wordpress](https://github.com/szepeviktor/waf4wordpress) - WAF for WordPress 🔥 with 60+ security checks and weekly updates
 - [Brain-WP/Assets](https://github.com/Brain-WP/Assets) - WordPress assets helpers
 - [szepeviktor/SentencePress](https://github.com/szepeviktor/SentencePress) - A set of words that is complete in itself. - WordPress OOP wrappers
@@ -5504,7 +5504,7 @@
 - [TukuToi/better-wp-plugin-boilerplate](https://github.com/TukuToi/better-wp-plugin-boilerplate) - (Hard) Fork of WordPress Plugin Boilerplate, actively taking PRs and actively maintained. Following WordPress Coding Standards. With more features than the original.
 - [campuspress/divi-accessibility](https://github.com/campuspress/divi-accessibility) - Improve Divi accessibility in accordance with WCAG 2.0 guidelines.
 - [wodby/docker4wordpress](https://github.com/wodby/docker4wordpress) - Docker-based WordPress stack
-- [wpengine/faustjs](https://github.com/wpengine/faustjs) - Faust.js - The Headless WordPress Framework
+- [wpengine/faustjs](https://github.com/wpengine/faustjs) - Faust.js™ - The Headless WordPress Framework
 - [a-ahandani/remixpress](https://github.com/a-ahandani/remixpress) - ✏ RemixPress is a presentation layer built with React, Remix, MUI and GraphQl that works with Wordress as a headless CMS
 - [wpscanteam/wpscan](https://github.com/wpscanteam/wpscan) - WPScan WordPress security scanner. Written for security professionals and blog maintainers to test the security of their WordPress websites. Contact us via contact@wpscan.com
 - [humanmade/wp-simple-saml](https://github.com/humanmade/wp-simple-saml) - WordPress Simple SAML plugin
