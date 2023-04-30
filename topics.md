@@ -2876,6 +2876,7 @@
 
 ## others 
 
+- [nix-community/comma](https://github.com/nix-community/comma) - Comma runs software without installing it. [maintainers=@Artturin,@burke,@DavHau]
 - [mattstauffer/Torch](https://github.com/mattstauffer/Torch) - Examples of using each Illuminate component in non-Laravel applications
 - [nix-community/nix-melt](https://github.com/nix-community/nix-melt) - A ranger-like flake.lock viewer [maintainer=@figsoda]
 - [MayNiklas/nixos](https://github.com/MayNiklas/nixos) - My personal NixOS infrastructure
@@ -3706,7 +3707,6 @@
 - [chipsenkbeil/choose](https://github.com/chipsenkbeil/choose) - Fuzzy matcher for OS X that uses both std{in,out} and a native GUI
 - [alezost/bui.el](https://github.com/alezost/bui.el) - Buffer interface library for Emacs
 - [andyrichardson/nix-node](https://github.com/andyrichardson/nix-node) - The closest thing to nvm on Nix!
-- [gytis-ivaskevicius/flake-utils-plus](https://github.com/gytis-ivaskevicius/flake-utils-plus) - Use Nix flakes without any fluff.
 - [blahgeek/emacs-devdocs-browser](https://github.com/blahgeek/emacs-devdocs-browser) - 
 - [emacsorphanage/anzu](https://github.com/emacsorphanage/anzu) - Emacs Port of anzu.vim
 - [abathur/resholve](https://github.com/abathur/resholve) - a shell resolver? :)
