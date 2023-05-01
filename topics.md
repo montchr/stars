@@ -1128,6 +1128,7 @@
 
 ## education 
 
+- [0atman/noboilerplate](https://github.com/0atman/noboilerplate) - Code for my talks on the No Boilerplate channel
 - [learn-anything/learn-anything](https://github.com/learn-anything/learn-anything) - Organize world's knowledge, explore connections and curate learning paths
 - [yrgo/awesome-educational-games](https://github.com/yrgo/awesome-educational-games) - A curated list of awesome educational games to learn editors, languages, programming, etc
 - [brootware/awesome-cyber-security-university](https://github.com/brootware/awesome-cyber-security-university) - 🎓 Because Education should be free. Contributions welcome! 🕵️
@@ -1727,7 +1728,7 @@
 ## hacktoberfest 
 
 - [pyrech/composer-changelogs](https://github.com/pyrech/composer-changelogs) - :notebook: Display better summary after Composer update
-- [floating-ui/floating-ui](https://github.com/floating-ui/floating-ui) - Toolkit to create floating elements: tooltips, popovers, dropdowns, and more
+- [floating-ui/floating-ui](https://github.com/floating-ui/floating-ui) - A JavaScript library to position floating elements and create interactions for them.
 - [ouch-org/ouch](https://github.com/ouch-org/ouch) - Painless compression and decompression for your terminal
 - [imranhsayed/nextjs-headless-wordpress](https://github.com/imranhsayed/nextjs-headless-wordpress) - 🔥 Nextjs Headless WordPress
 - [pods-framework/pods](https://github.com/pods-framework/pods) - The Pods Framework is a Content Development Framework for WordPress - It lets you create and extend content types that can be used for any project. Add fields of various types we've built in, or add y
@@ -2876,6 +2877,7 @@
 
 ## others 
 
+- [nix-community/nixt](https://github.com/nix-community/nixt) - Simple unit-testing for Nix [maintainer=@Lord-Valen]
 - [nix-community/comma](https://github.com/nix-community/comma) - Comma runs software without installing it. [maintainers=@Artturin,@burke,@DavHau]
 - [mattstauffer/Torch](https://github.com/mattstauffer/Torch) - Examples of using each Illuminate component in non-Laravel applications
 - [nix-community/nix-melt](https://github.com/nix-community/nix-melt) - A ranger-like flake.lock viewer [maintainer=@figsoda]
@@ -4668,6 +4670,7 @@
 
 ## rust 
 
+- [0atman/noboilerplate](https://github.com/0atman/noboilerplate) - Code for my talks on the No Boilerplate channel
 - [replicadse/complate](https://github.com/replicadse/complate) - A powerful text templating tool.
 - [ouch-org/ouch](https://github.com/ouch-org/ouch) - Painless compression and decompression for your terminal
 - [nix-community/nix-init](https://github.com/nix-community/nix-init) - Generate Nix packages from URLs with hash prefetching, dependency inference, license detection, and more [maintainer=@figsoda]
