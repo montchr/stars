@@ -384,7 +384,6 @@
 - [nobiot/org-remark](https://github.com/nobiot/org-remark) - Highlight and annotate any text file with using Org mode
 - [protesilaos/denote](https://github.com/protesilaos/denote) - Simple notes for Emacs with an efficient file-naming scheme
 - [mkcms/interactive-align](https://github.com/mkcms/interactive-align) - Interactively align by regular expression in emacs
-- [elken/cape-yasnippet](https://github.com/elken/cape-yasnippet) - 
 - [protesilaos/dotfiles](https://github.com/protesilaos/dotfiles) - [Mirror] Configuration files for Emacs and some other programs. Running on Arch Linux. Managed with GNU Stow.
 - [alphapapa/dogears.el](https://github.com/alphapapa/dogears.el) - Never lose your place in Emacs again
 - [condy0919/spdx.el](https://github.com/condy0919/spdx.el) - Insert SPDX license header
@@ -935,6 +934,7 @@
 
 ## JavaScript 
 
+- [KevinBatdorf/wavy-divider](https://github.com/KevinBatdorf/wavy-divider) - A WordPress block to add colorful creative wavy svg divider shapes
 - [nextcloud/integration_dropbox](https://github.com/nextcloud/integration_dropbox) - 🧊 Dropbox integration into Nextcloud
 - [10up/block-components](https://github.com/10up/block-components) - A collection of components built to be used in the block editor
 - [10up/gutenberg-best-practices](https://github.com/10up/gutenberg-best-practices) - Welcome to the 10up Gutenberg Best Practices!
@@ -1697,6 +1697,7 @@
 
 ## Others 
 
+- [smknstd/modern-php-cheatsheet](https://github.com/smknstd/modern-php-cheatsheet) - Cheatsheet for some PHP knowledge you will frequently encounter in modern projects.
 - [tonsky/sublime-scheme-alabaster](https://github.com/tonsky/sublime-scheme-alabaster) - Minimalist color scheme for Sublime Text 3
 - [szepeviktor/very-clean-code](https://github.com/szepeviktor/very-clean-code) - How to code without future problems ⚪
 - [tinted-theming/base16-schemes](https://github.com/tinted-theming/base16-schemes) - All the color schemes for use in base16 packages
@@ -1761,7 +1762,7 @@
 - [wp-hooks/wordpress-core](https://github.com/wp-hooks/wordpress-core) - WordPress core actions and filters as JSON
 - [GEIGEIGEIST/KLOTZ](https://github.com/GEIGEIGEIST/KLOTZ) - KLOTZ is 34 keys column-staggered split keyboard. It uses an encoder and three status LEDs on each side.
 - [GEIGEIGEIST/KLOR](https://github.com/GEIGEIGEIST/KLOR) - KLOR is 36-42 keys column-staggered split keyboard. It supports a per key RGB matrix, encoders, OLED displays, haptic feedback, audio, a Pixart Paw3204 trackball and four different layouts, through br
-- [vpavlenko/study-music](https://github.com/vpavlenko/study-music) - An "awesome music theory" kinda wiki
+- [vpavlenko/study-music](https://github.com/vpavlenko/study-music) - An "awesome music theory" kinda wiki with books, resources and courses
 - [dkhamsing/open-source-ios-apps](https://github.com/dkhamsing/open-source-ios-apps) - :iphone: Collaborative List of Open-Source iOS Apps
 - [justSem/r-selfhosted-security](https://github.com/justSem/r-selfhosted-security) - Started from the beginners security guide on r/selfhosted - this repo aims to be a collection of guides
 - [kahun/awesome-sysadmin](https://github.com/kahun/awesome-sysadmin) - A curated list of amazingly awesome open source sysadmin resources inspired by Awesome PHP.
@@ -1887,6 +1888,7 @@
 
 ## PHP 
 
+- [PiotrPress/wordpress-hooks](https://github.com/PiotrPress/wordpress-hooks) - The library allows using PHP Attributes (introduced in PHP version 8) to automagically add WordPress Hooks (Filters and Actions) to objects' methods.
 - [mattstauffer/Torch](https://github.com/mattstauffer/Torch) - Examples of using each Illuminate component in non-Laravel applications
 - [alleyinteractive/mantle-framework](https://github.com/alleyinteractive/mantle-framework) - Mantle is a framework for building large, robust websites and applications with WordPress. Framework for https://github.com/alleyinteractive/mantle
 - [szepeviktor/waf4wordpress](https://github.com/szepeviktor/waf4wordpress) - WAF for WordPress 🔥 with 60+ security checks and weekly updates
