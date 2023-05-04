@@ -205,7 +205,7 @@
 
 ## C++ 
 
-- [keyboardio/Kaleidoscope](https://github.com/keyboardio/Kaleidoscope) - Firmware for the Keyboardio Model 01 and other keyboards with AVR or ARM MCUs.
+- [keyboardio/Kaleidoscope](https://github.com/keyboardio/Kaleidoscope) - Firmware for Keyboardio keyboards and other keyboards with AVR or ARM MCUs.
 - [topjohnwu/Magisk](https://github.com/topjohnwu/Magisk) - The Magic Mask for Android
 - [projectM-visualizer/projectm](https://github.com/projectM-visualizer/projectm) - projectM - Cross-platform Music Visualization Library. Open-source and Milkdrop-compatible.
 - [SaschaWillems/VulkanInfiniteProceduralTerrain](https://github.com/SaschaWillems/VulkanInfiniteProceduralTerrain) - Playground for doing procedurally infinite terrain rendering experiments with Vulkan
@@ -1744,7 +1744,7 @@
 - [neilpanchal/quantum-lorem-ipsum](https://github.com/neilpanchal/quantum-lorem-ipsum) - Lorem Ipsum, now with 100% more physics.
 - [Lissy93/awesome-privacy](https://github.com/Lissy93/awesome-privacy) - 🦄  A curated list of privacy & security-focused software and services
 - [hundredrabbits/awesome-uxn](https://github.com/hundredrabbits/awesome-uxn) - Awesome things from the community
-- [jorgebucaran/cookbook.fish](https://github.com/jorgebucaran/cookbook.fish) - Tips and recipes for Fish, from shell to plate. 🍣
+- [jorgebucaran/cookbook.fish](https://github.com/jorgebucaran/cookbook.fish) - Tips and recipes for Fish, from shell to plate 🍣
 - [shlomi-noach/awesome-mysql](https://github.com/shlomi-noach/awesome-mysql) - A curated list of awesome MySQL software, libraries, tools and resources
 - [yrgo/awesome-educational-games](https://github.com/yrgo/awesome-educational-games) - A curated list of awesome educational games to learn editors, languages, programming, etc
 - [brootware/awesome-cyber-security-university](https://github.com/brootware/awesome-cyber-security-university) - 🎓 Because Education should be free. Contributions welcome! 🕵️
@@ -1837,7 +1837,7 @@
 - [ossu/computer-science](https://github.com/ossu/computer-science) - :mortar_board: Path to a free self-taught education in Computer Science!
 - [rehooks/awesome-react-hooks](https://github.com/rehooks/awesome-react-hooks) - Awesome React Hooks
 - [nikitavoloboev/my-mac](https://github.com/nikitavoloboev/my-mac) - List of applications and tools that make my macOS experience even more amazing
-- [jorgebucaran/awsm.fish](https://github.com/jorgebucaran/awsm.fish) - A curation of prompts, plugins & other Fish treasures. 🐚
+- [jorgebucaran/awsm.fish](https://github.com/jorgebucaran/awsm.fish) - A curation of prompts, plugins & other Fish treasures 🐚💎
 - [brillout/awesome-react-components](https://github.com/brillout/awesome-react-components) - Curated List of React Components & Libraries.
 - [ibraheemdev/modern-unix](https://github.com/ibraheemdev/modern-unix) - A collection of modern/faster/saner alternatives to common unix commands.
 - [brunopulis/awesome-a11y](https://github.com/brunopulis/awesome-a11y) - A curate list about A11Y
@@ -2206,6 +2206,7 @@
 
 ## Python 
 
+- [hwchase17/langchain](https://github.com/hwchase17/langchain) - ⚡ Building applications with LLMs through composability ⚡
 - [nixie-dev/nixie](https://github.com/nixie-dev/nixie) - Put Nix in everything!
 - [zcutlip/prefsniff](https://github.com/zcutlip/prefsniff) - A utility to sniff preferences changes to macOS plist files
 - [coveooss/json-schema-for-humans](https://github.com/coveooss/json-schema-for-humans) - Quickly generate HTML documentation from a JSON schema
@@ -2643,7 +2644,7 @@
 - [rbenv/rbenv](https://github.com/rbenv/rbenv) - Manage your app's Ruby environment
 - [oh-my-fish/plugin-foreign-env](https://github.com/oh-my-fish/plugin-foreign-env) - Run foreign bash scripts and capture exported environment variables
 - [laughedelic/pisces](https://github.com/laughedelic/pisces) - ♓️ Fish shell plugin that helps you to work with paired symbols in the command line
-- [jorgebucaran/hydro](https://github.com/jorgebucaran/hydro) - Ultra-pure, lag-free prompt with async Git status. Designed for Fish.
+- [jorgebucaran/hydro](https://github.com/jorgebucaran/hydro) - Ultra-pure, lag-free prompt with async Git status—just for Fish
 - [reegnz/jq-zsh-plugin](https://github.com/reegnz/jq-zsh-plugin) - jq zsh plugin
 - [strikerlulu/nixfzf](https://github.com/strikerlulu/nixfzf) - Search nixpkgs quickly from cli
 - [meseck/random-samples](https://github.com/meseck/random-samples) - A small Bash script to download random audio files from the BBC Sound Effects library.
