@@ -1340,6 +1340,7 @@
 
 ## Nix 
 
+- [musnix/musnix](https://github.com/musnix/musnix) - Real-time audio in NixOS
 - [MayNiklas/nixos](https://github.com/MayNiklas/nixos) - My personal NixOS infrastructure
 - [foo-dogsquared/nixos-config](https://github.com/foo-dogsquared/nixos-config) - Aiming to be the most overkill NixOS config in the whole wide world.
 - [shyim/nixcfg](https://github.com/shyim/nixcfg) - My Nix config for my Macbook and Server
