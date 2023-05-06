@@ -868,7 +868,7 @@
 - [InfiniTimeOrg/InfiniTime](https://github.com/InfiniTimeOrg/InfiniTime) - Firmware for Pinetime smartwatch written in C++ and based on FreeRTOS
 - [polybar/polybar](https://github.com/polybar/polybar) - A fast and easy-to-use status bar
 - [grame-cncm/faust](https://github.com/grame-cncm/faust) - Functional programming language for signal processing and sound synthesis
-- [typesense/typesense](https://github.com/typesense/typesense) - Open Source alternative to Algolia and an Easier-to-Use alternative to ElasticSearch ⚡ 🔍 ✨ Fast, typo tolerant, in-memory fuzzy Search Engine for building delightful search experiences
+- [typesense/typesense](https://github.com/typesense/typesense) - Open Source alternative to Algolia + Pinecone and an Easier-to-Use alternative to ElasticSearch ⚡ 🔍 ✨ Fast, typo tolerant, in-memory fuzzy Search Engine for building delightful search experiences
 - [emacs-lsp/lsp-mode](https://github.com/emacs-lsp/lsp-mode) - Emacs client/library for the Language Server Protocol
 
 ## csharp 
@@ -1613,6 +1613,7 @@
 - [caddyserver/caddy](https://github.com/caddyserver/caddy) - Fast and extensible multi-platform HTTP/1-2-3 web server with automatic HTTPS
 - [charmbracelet/lipgloss](https://github.com/charmbracelet/lipgloss) - Style definitions for nice terminal layouts 👄
 - [rs/curlie](https://github.com/rs/curlie) - The power of curl, the ease of use of httpie.
+- [charmbracelet/charm](https://github.com/charmbracelet/charm) - The Charm Tool and Library 🌟
 - [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) - A powerful little TUI framework 🏗
 - [VKCOM/noverify](https://github.com/VKCOM/noverify) - Pretty fast linter (code static analysis utility) for PHP
 - [bregman-arie/devops-resources](https://github.com/bregman-arie/devops-resources) - DevOps resources - Linux, Jenkins, AWS, SRE, Prometheus, Docker, Python, Ansible, Git, Kubernetes, Terraform, OpenStack, SQL, NoSQL, Azure, GCP
@@ -1667,6 +1668,7 @@
 - [caddyserver/caddy](https://github.com/caddyserver/caddy) - Fast and extensible multi-platform HTTP/1-2-3 web server with automatic HTTPS
 - [charmbracelet/lipgloss](https://github.com/charmbracelet/lipgloss) - Style definitions for nice terminal layouts 👄
 - [sqshq/sampler](https://github.com/sqshq/sampler) - Tool for shell commands execution, visualization and alerting. Configured with a simple YAML file.
+- [charmbracelet/charm](https://github.com/charmbracelet/charm) - The Charm Tool and Library 🌟
 - [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) - A powerful little TUI framework 🏗
 - [rehacktive/caffeine](https://github.com/rehacktive/caffeine) - A basic REST service for JSON data - enough for prototyping and MVPs!
 - [VKCOM/noverify](https://github.com/VKCOM/noverify) - Pretty fast linter (code static analysis utility) for PHP
@@ -1824,7 +1826,6 @@
 - [polybar/polybar](https://github.com/polybar/polybar) - A fast and easy-to-use status bar
 - [NvChad/NvChad](https://github.com/NvChad/NvChad) - Blazing fast Neovim framework providing solid defaults and a beautiful UI, enhancing your neovim experience.
 - [sharkdp/fd](https://github.com/sharkdp/fd) - A simple, fast and user-friendly alternative to 'find'
-- [charmbracelet/charm](https://github.com/charmbracelet/charm) - The Charm Tool and Library 🌟
 - [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) - A powerful little TUI framework 🏗
 - [charmbracelet/wish](https://github.com/charmbracelet/wish) - Make SSH apps, just like that! 💫
 - [andreasgrafen/cascade](https://github.com/andreasgrafen/cascade) - A responsive One-Line CSS Theme for Firefox.
@@ -2876,6 +2877,7 @@
 
 ## others 
 
+- [torenware/ddev-viteserve](https://github.com/torenware/ddev-viteserve) - An add-on to run the Vite dev server from inside the DDEV environment.
 - [musnix/musnix](https://github.com/musnix/musnix) - Real-time audio in NixOS
 - [hwchase17/langchain](https://github.com/hwchase17/langchain) - ⚡ Building applications with LLMs through composability ⚡
 - [KevinBatdorf/wavy-divider](https://github.com/KevinBatdorf/wavy-divider) - A WordPress block to add colorful creative wavy svg divider shapes
@@ -5456,6 +5458,7 @@
 
 ## wordpress 
 
+- [youknowriad/blockbook](https://github.com/youknowriad/blockbook) - Build and Share WordPress Blocks in Isolation.
 - [PiotrPress/wordpress-hooks](https://github.com/PiotrPress/wordpress-hooks) - The library allows using PHP Attributes (introduced in PHP version 8) to automagically add WordPress Hooks (Filters and Actions) to objects' methods.
 - [alleyinteractive/mantle-framework](https://github.com/alleyinteractive/mantle-framework) - Mantle is a framework for building large, robust websites and applications with WordPress. Framework for https://github.com/alleyinteractive/mantle
 - [szepeviktor/waf4wordpress](https://github.com/szepeviktor/waf4wordpress) - WAF for WordPress 🔥 with 60+ security checks and weekly updates
