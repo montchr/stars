@@ -2877,6 +2877,8 @@
 
 ## others 
 
+- [hwchase17/langchain-hub](https://github.com/hwchase17/langchain-hub) - 
+- [flakelib/fl](https://github.com/flakelib/fl) - callPackage for Nix flakes
 - [torenware/ddev-viteserve](https://github.com/torenware/ddev-viteserve) - An add-on to run the Vite dev server from inside the DDEV environment.
 - [musnix/musnix](https://github.com/musnix/musnix) - Real-time audio in NixOS
 - [hwchase17/langchain](https://github.com/hwchase17/langchain) - ⚡ Building applications with LLMs through composability ⚡
