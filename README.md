@@ -1341,6 +1341,7 @@
 
 ## Nix 
 
+- [xddxdd/nixos-config](https://github.com/xddxdd/nixos-config) - 
 - [sioodmy/dotfiles](https://github.com/sioodmy/dotfiles) - Mirror of https://git.sioodmy.dev/sioodmy/dotfiles
 - [flakelib/fl](https://github.com/flakelib/fl) - callPackage for Nix flakes
 - [musnix/musnix](https://github.com/musnix/musnix) - Real-time audio in NixOS
@@ -1893,6 +1894,7 @@
 
 ## PHP 
 
+- [szepeviktor/running-laravel](https://github.com/szepeviktor/running-laravel) - Running Laraval framework-based web applications for long years 🪘
 - [PiotrPress/wordpress-hooks](https://github.com/PiotrPress/wordpress-hooks) - The library allows using PHP Attributes (introduced in PHP version 8) to automagically add WordPress Hooks (Filters and Actions) to objects' methods.
 - [mattstauffer/Torch](https://github.com/mattstauffer/Torch) - Examples of using each Illuminate component in non-Laravel applications
 - [alleyinteractive/mantle-framework](https://github.com/alleyinteractive/mantle-framework) - Mantle is a framework for building large, robust websites and applications with WordPress. Framework for https://github.com/alleyinteractive/mantle
@@ -2435,6 +2437,8 @@
 
 ## Rust 
 
+- [ast-grep/ast-grep](https://github.com/ast-grep/ast-grep) - ⚡A fast and polyglot tool for code searching, linting, rewriting at large scale. Written in Rust
+- [Stranger6667/css-inline](https://github.com/Stranger6667/css-inline) - Inline CSS into style attributes
 - [parcel-bundler/lightningcss](https://github.com/parcel-bundler/lightningcss) - An extremely fast CSS parser, transformer, bundler, and minifier written in Rust.
 - [trimental/inlyne](https://github.com/trimental/inlyne) - Introducing Inlyne, a GPU powered yet browserless tool to help you quickly view markdown files in the blink of an eye.
 - [nix-community/comma](https://github.com/nix-community/comma) - Comma runs software without installing it. [maintainers=@Artturin,@burke,@DavHau]
