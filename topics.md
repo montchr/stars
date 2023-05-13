@@ -2893,6 +2893,7 @@
 
 ## others 
 
+- [figsoda/rand-nix](https://github.com/figsoda/rand-nix) - 🔥 Eval-time random number generator for Nix without IFD 🚀
 - [xddxdd/nixos-config](https://github.com/xddxdd/nixos-config) - 
 - [lg/yabai-and-skhd-highlighting](https://github.com/lg/yabai-and-skhd-highlighting) - yabai and skhd syntax highlighting for vscode
 - [unocss/unocss](https://github.com/unocss/unocss) - The instant on-demand atomic CSS engine.
@@ -5024,7 +5025,7 @@
 
 - [Highfivery/nextjs-starter](https://github.com/Highfivery/nextjs-starter) - A Next.js 13 CMS & theme agnostic starter framework to build fully-featured headless sites.
 - [klaufel/awesome-design-systems](https://github.com/klaufel/awesome-design-systems) - 📒 A curated list of bookmarks, resources and articles about design systems focused on developers.
-- [lost-pixel/lost-pixel](https://github.com/lost-pixel/lost-pixel) - Holistic visual testing for your Frontend 🖼 First class integration with Storybook, Ladle & other frontend libraries.
+- [lost-pixel/lost-pixel](https://github.com/lost-pixel/lost-pixel) - Holistic visual testing for your Frontend 🖼 First class integration with Storybook, Ladle, Playwright & other frontend libraries.
 - [lauthieb/awesome-storybook](https://github.com/lauthieb/awesome-storybook) - A collection of awesome resources about @storybookjs ecosystem 🎨
 - [WebDevStudios/nextjs-wordpress-starter](https://github.com/WebDevStudios/nextjs-wordpress-starter) - A headless starter for WordPress powered by Next.js.
 - [nrwl/nx](https://github.com/nrwl/nx) - Smart, Fast and Extensible Build System
@@ -5234,7 +5235,7 @@
 - [coralproject/talk](https://github.com/coralproject/talk) - A better commenting experience from Vox Media
 - [Automattic/vip-go-nextjs-skeleton](https://github.com/Automattic/vip-go-nextjs-skeleton) - A Next.js boilerplate for decoupled WordPress on VIP.
 - [artilleryio/artillery](https://github.com/artilleryio/artillery) - 🌩 Cloud-scale load testing. Fully serverless, test any stack, test at any scale.
-- [lost-pixel/lost-pixel](https://github.com/lost-pixel/lost-pixel) - Holistic visual testing for your Frontend 🖼 First class integration with Storybook, Ladle & other frontend libraries.
+- [lost-pixel/lost-pixel](https://github.com/lost-pixel/lost-pixel) - Holistic visual testing for your Frontend 🖼 First class integration with Storybook, Ladle, Playwright & other frontend libraries.
 - [PostHog/posthog](https://github.com/PostHog/posthog) - 🦔 PostHog provides open-source product analytics, session recording, feature flagging and a/b testing that you can self-host.
 - [WorldBrain/Memex](https://github.com/WorldBrain/Memex) - Browser extension to curate, annotate, and discuss the most valuable content and ideas on the web. As individuals, teams and communities.
 - [prisma/prisma](https://github.com/prisma/prisma) - Next-generation ORM for Node.js & TypeScript | PostgreSQL, MySQL, MariaDB, SQL Server, SQLite, MongoDB and CockroachDB
