@@ -697,7 +697,7 @@
 - [dotenv-org/dotenv-vault](https://github.com/dotenv-org/dotenv-vault) - Simplify Your Secrets
 - [dbohdan/structured-text-tools](https://github.com/dbohdan/structured-text-tools) - A list of command line tools for manipulating structured text data
 - [guumaster/hostctl](https://github.com/guumaster/hostctl) - Your dev tool to manage /etc/hosts like a pro!
-- [str4d/rage](https://github.com/str4d/rage) - A simple, secure and modern encryption tool (and Rust library) with small explicit keys, no config options, and UNIX-style composability.
+- [str4d/rage](https://github.com/str4d/rage) - A simple, secure and modern file encryption tool (and Rust library) with small explicit keys, no config options, and UNIX-style composability.
 - [sharkdp/hyperfine](https://github.com/sharkdp/hyperfine) - A command-line benchmarking tool
 - [imsnif/diskonaut](https://github.com/imsnif/diskonaut) - Terminal disk space navigator 🔭
 - [svg/svgo](https://github.com/svg/svgo) - ⚙️ Node.js tool for optimizing SVG files
@@ -3229,7 +3229,7 @@
 - [mclear-tools/tabspaces](https://github.com/mclear-tools/tabspaces) - 
 - [tecosaur/golgi](https://github.com/tecosaur/golgi) - My personal server. Mirror of https://git.tecosaur.net/tec/golgi.
 - [hyprwm/Hyprland](https://github.com/hyprwm/Hyprland) - Hyprland is a highly customizable dynamic tiling Wayland compositor that doesn't sacrifice on its looks.
-- [jorgebucaran/cookbook.fish](https://github.com/jorgebucaran/cookbook.fish) - Tips and recipes for Fish, from shell to plate 🍣
+- [jorgebucaran/cookbook.fish](https://github.com/jorgebucaran/cookbook.fish) - Catch, Cook, and Conquer: Unleashing the flavor of Fish 🦞
 - [licht1stein/obsidian.el](https://github.com/licht1stein/obsidian.el) - Obsidian Notes for Emacs
 - [elFarto/nvidia-vaapi-driver](https://github.com/elFarto/nvidia-vaapi-driver) - A VA-API implemention using NVIDIA's NVDEC
 - [ag91/code-compass](https://github.com/ag91/code-compass) - A set of code analyses that assist you in tackling software complexity
@@ -4712,7 +4712,7 @@
 - [Hyde46/hoard](https://github.com/Hyde46/hoard) - cli command organizer written in rust
 - [ritz078/transform](https://github.com/ritz078/transform) - A polyglot web converter.
 - [davidcole1340/ext-php-rs](https://github.com/davidcole1340/ext-php-rs) - Bindings for the Zend API to build PHP extensions natively in Rust.
-- [str4d/rage](https://github.com/str4d/rage) - A simple, secure and modern encryption tool (and Rust library) with small explicit keys, no config options, and UNIX-style composability.
+- [str4d/rage](https://github.com/str4d/rage) - A simple, secure and modern file encryption tool (and Rust library) with small explicit keys, no config options, and UNIX-style composability.
 - [sharkdp/hyperfine](https://github.com/sharkdp/hyperfine) - A command-line benchmarking tool
 - [rust-unofficial/awesome-rust](https://github.com/rust-unofficial/awesome-rust) - A curated list of Rust code and resources.
 - [kanidm/kanidm](https://github.com/kanidm/kanidm) - Kanidm: A simple, secure and fast identity management platform
