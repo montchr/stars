@@ -816,6 +816,7 @@
 
 ## HTML 
 
+- [markmead/hyperjs](https://github.com/markmead/hyperjs) - HyperJS is a component library for Alpine JS allowing developers to quickly copy and paste functionality into their projects 🛵
 - [alpinejs/alpine](https://github.com/alpinejs/alpine) - A rugged, minimal framework for composing JavaScript behavior in your markup.
 - [mozilla/policy-templates](https://github.com/mozilla/policy-templates) - Policy Templates for Firefox
 - [erebe/personal-server](https://github.com/erebe/personal-server) - Personal server configuration with k3s
@@ -836,7 +837,6 @@
 - [TandoorRecipes/recipes](https://github.com/TandoorRecipes/recipes) - Application for managing recipes, planning meals, building shopping lists and much much more!
 - [cleverca22/nixos-configs](https://github.com/cleverca22/nixos-configs) - 
 - [umpirsky/country-list](https://github.com/umpirsky/country-list) - :globe_with_meridians: List of all countries with names and ISO 3166-1 codes in all languages and data formats.
-- [aeagle/react-spaces](https://github.com/aeagle/react-spaces) - React components that allow you to divide a page or container into nestable anchored, scrollable and resizable spaces.
 - [pqrs-org/KE-complex_modifications](https://github.com/pqrs-org/KE-complex_modifications) - Karabiner-Elements complex_modifications rules
 - [arianvp/nixos-stuff](https://github.com/arianvp/nixos-stuff) - Nixos stuff
 - [krzemienski/awesome-video](https://github.com/krzemienski/awesome-video) - A curated list of awesome streaming video tools, frameworks, libraries, and learning resources.
@@ -934,6 +934,8 @@
 
 ## JavaScript 
 
+- [yuschick/stylelint-plugin-defensive-css](https://github.com/yuschick/stylelint-plugin-defensive-css) - A Stylelint plugin for enforcing defensive CSS best practices.
+- [markmead/alpinejs-component](https://github.com/markmead/alpinejs-component) - Reusable HTML components powered by Alpine JS reactivity 🛸
 - [KevinBatdorf/wavy-divider](https://github.com/KevinBatdorf/wavy-divider) - A WordPress block to add colorful creative wavy svg divider shapes
 - [nextcloud/integration_dropbox](https://github.com/nextcloud/integration_dropbox) - 🧊 Dropbox integration into Nextcloud
 - [10up/block-components](https://github.com/10up/block-components) - A collection of components built to be used in the block editor
@@ -1600,7 +1602,7 @@
 - [kanwren/nixfiles](https://github.com/kanwren/nixfiles) - My NixOS configurations and other Nix files :snowflake:
 - [pinpox/nixos](https://github.com/pinpox/nixos) - My NixOS Configurations
 - [kamadorueda/machine](https://github.com/kamadorueda/machine) - My OS, development tools, and dotfiles, as code
-- [fluidattacks/makes](https://github.com/fluidattacks/makes) - A DevSecOps framework powered by Nix.
+- [fluidattacks/makes](https://github.com/fluidattacks/makes) - A software supply chain framework powered by Nix.
 - [chessai/nix-std](https://github.com/chessai/nix-std) - no-nixpkgs standard library for the nix expression language
 - [nix-ocaml/nix-overlays](https://github.com/nix-ocaml/nix-overlays) - OCaml-focused, custom nix-overlays
 - [adisbladis/nixconfig](https://github.com/adisbladis/nixconfig) - My nixos config
@@ -1894,6 +1896,8 @@
 
 ## PHP 
 
+- [szepeviktor/WordPress-the-good-parts](https://github.com/szepeviktor/WordPress-the-good-parts) - A sustainable and modernized version of WordPress core.
+- [nikic/PHP-Parser](https://github.com/nikic/PHP-Parser) - A PHP parser written in PHP
 - [szepeviktor/running-laravel](https://github.com/szepeviktor/running-laravel) - Running Laraval framework-based web applications for long years 🪘
 - [PiotrPress/wordpress-hooks](https://github.com/PiotrPress/wordpress-hooks) - The library allows using PHP Attributes (introduced in PHP version 8) to automagically add WordPress Hooks (Filters and Actions) to objects' methods.
 - [mattstauffer/Torch](https://github.com/mattstauffer/Torch) - Examples of using each Illuminate component in non-Laravel applications
@@ -2437,6 +2441,7 @@
 
 ## Rust 
 
+- [urbas/rix](https://github.com/urbas/rix) - A reimplementation of nix in Rust.
 - [ast-grep/ast-grep](https://github.com/ast-grep/ast-grep) - ⚡A fast and polyglot tool for code searching, linting, rewriting at large scale. Written in Rust
 - [Stranger6667/css-inline](https://github.com/Stranger6667/css-inline) - Inline CSS into style attributes
 - [parcel-bundler/lightningcss](https://github.com/parcel-bundler/lightningcss) - An extremely fast CSS parser, transformer, bundler, and minifier written in Rust.
@@ -3053,6 +3058,7 @@
 - [alexnault/react-headings](https://github.com/alexnault/react-headings) - ⚛ Auto-increment your HTML headings (h1, h2, etc.) for improved accessibility and SEO.
 - [ariakit/ariakit](https://github.com/ariakit/ariakit) - Toolkit for building accessible web apps with React
 - [typescript-language-server/typescript-language-server](https://github.com/typescript-language-server/typescript-language-server) - TypeScript & JavaScript Language Server
+- [aeagle/react-spaces](https://github.com/aeagle/react-spaces) - React components that allow you to divide a page or container into nestable anchored, scrollable and resizable spaces.
 - [mantinedev/mantine](https://github.com/mantinedev/mantine) - A fully featured React components library
 - [sindresorhus/modern-normalize](https://github.com/sindresorhus/modern-normalize) - 🐒 Normalize browsers' default style
 - [rasendubi/uniorg](https://github.com/rasendubi/uniorg) - An accurate Org-mode parser for JavaScript/TypeScript
@@ -3092,7 +3098,7 @@
 - [niieani/bashscript](https://github.com/niieani/bashscript) - TypeScript to bash transpiler. Because.
 - [Aperocky/cellular-automata](https://github.com/Aperocky/cellular-automata) - 
 - [inkandswitch/cambria-project](https://github.com/inkandswitch/cambria-project) - Schema evolution with bi-directional lenses.
-- [siyuan-note/siyuan](https://github.com/siyuan-note/siyuan) - Build Your Eternal Digital Garden
+- [siyuan-note/siyuan](https://github.com/siyuan-note/siyuan) - A privacy-first, self-hosted, fully open-source personal knowledge management software, written in typescript and golang.
 - [shivammathur/setup-php](https://github.com/shivammathur/setup-php) - GitHub action to set up PHP with extensions, php.ini configuration, coverage drivers, and various tools.
 - [manosim/gitify](https://github.com/manosim/gitify) - GitHub notifications on your menu bar. Available on macOS, Windows & Linux.
 - [aortbals/github-stars-to-pinboard](https://github.com/aortbals/github-stars-to-pinboard) - Sync GitHub Stars to Pinboard
