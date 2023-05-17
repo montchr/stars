@@ -1373,7 +1373,7 @@
 - [aakropotkin/floco](https://github.com/aakropotkin/floco) - Using Nix to put NPM and Yarn in a coffin
 - [aakropotkin/ak-nix](https://github.com/aakropotkin/ak-nix) - Various `nix` and NixOS extensions
 - [aakropotkin/laika](https://github.com/aakropotkin/laika) - Nix fetcher abstractions.
-- [aakropotkin/rime](https://github.com/aakropotkin/rime) - Nix CLI Frontend Generators
+- [aakropotkin/rime](https://github.com/aakropotkin/rime) - Nix URI libs and utils
 - [numtide/nix-stdlib](https://github.com/numtide/nix-stdlib) - experimental nix prelude
 - [emacs-twist/twist.nix](https://github.com/emacs-twist/twist.nix) - A Nix library for building a set of locally-freezed elisp packages
 - [planetbeldar/mac-overlay](https://github.com/planetbeldar/mac-overlay) - nixpkgs mac overlay (mmm, dmgs)
@@ -1704,6 +1704,7 @@
 
 ## Others 
 
+- [BillyDM/Awesome-Audio-DSP](https://github.com/BillyDM/Awesome-Audio-DSP) - My curated list of audio DSP and plugin development resources
 - [lg/yabai-and-skhd-highlighting](https://github.com/lg/yabai-and-skhd-highlighting) - yabai and skhd syntax highlighting for vscode
 - [smknstd/modern-php-cheatsheet](https://github.com/smknstd/modern-php-cheatsheet) - Cheatsheet for some PHP knowledge you will frequently encounter in modern projects.
 - [tonsky/sublime-scheme-alabaster](https://github.com/tonsky/sublime-scheme-alabaster) - Minimalist color scheme for Sublime Text 3
@@ -2441,6 +2442,7 @@
 
 ## Rust 
 
+- [Canop/rhit](https://github.com/Canop/rhit) - A nginx log explorer
 - [urbas/rix](https://github.com/urbas/rix) - A reimplementation of nix in Rust.
 - [ast-grep/ast-grep](https://github.com/ast-grep/ast-grep) - ⚡A fast and polyglot tool for code searching, linting, rewriting at large scale. Written in Rust
 - [Stranger6667/css-inline](https://github.com/Stranger6667/css-inline) - Inline CSS into style attributes
