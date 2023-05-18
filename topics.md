@@ -1159,7 +1159,7 @@
 - [microsoft/playwright](https://github.com/microsoft/playwright) - Playwright is a framework for Web Testing and Automation. It allows testing Chromium, Firefox and WebKit with a single API.
 - [wulkano/Kap](https://github.com/wulkano/Kap) - An open-source screen recorder built with web technology
 - [kamranahmedse/pennywise](https://github.com/kamranahmedse/pennywise) - Cross-platform application to open any website or media in a floating window
-- [manosim/gitify](https://github.com/manosim/gitify) - GitHub notifications on your menu bar. Available on macOS, Windows & Linux.
+- [gitify-app/gitify](https://github.com/gitify-app/gitify) - GitHub notifications on your menu bar. Available on macOS, Windows & Linux.
 - [Foundry376/Mailspring](https://github.com/Foundry376/Mailspring) - :love_letter: A beautiful, fast and fully open source mail client for Mac, Windows and Linux.
 - [hackjutsu/Lepton](https://github.com/hackjutsu/Lepton) - 💻     Democratizing Snippet Management (macOS/Win/Linux)
 - [cerebroapp/cerebro](https://github.com/cerebroapp/cerebro) - 🔵 Cerebro is an open-source launcher to improve your productivity and efficiency
@@ -1391,6 +1391,7 @@
 
 ## firefox 
 
+- [piroor/treestyletab](https://github.com/piroor/treestyletab) - Tree Style Tab, Show tabs like a tree.
 - [Etesam913/rounded-fox](https://github.com/Etesam913/rounded-fox) - A userchrome css configuration for firefox that is ultra-minimalistic
 - [b0o/surfingkeys-conf](https://github.com/b0o/surfingkeys-conf) - 🏄‍♀️ A SurfingKeys config which adds 180+ key mappings & 50+ search engines
 - [kittywitch/nixfiles](https://github.com/kittywitch/nixfiles) - kat's configuration flake
@@ -1581,7 +1582,7 @@
 - [Burnett01/rsync-deployments](https://github.com/Burnett01/rsync-deployments) - GitHub Action for deploying code via rsync over ssh
 - [gee1k/uPic](https://github.com/gee1k/uPic) - 📤uPic is a native, powerful, beautiful and simple picture and file upload tool for macOS.
 - [ovity/octotree](https://github.com/ovity/octotree) - GitHub on steroids
-- [manosim/gitify](https://github.com/manosim/gitify) - GitHub notifications on your menu bar. Available on macOS, Windows & Linux.
+- [gitify-app/gitify](https://github.com/gitify-app/gitify) - GitHub notifications on your menu bar. Available on macOS, Windows & Linux.
 - [aortbals/github-stars-to-pinboard](https://github.com/aortbals/github-stars-to-pinboard) - Sync GitHub Stars to Pinboard
 - [astralapp/astral](https://github.com/astralapp/astral) - Organize Your GitHub Stars With Ease
 - [MatthieuBizien/roam-to-git](https://github.com/MatthieuBizien/roam-to-git) - Automatic RoamResearch backup to Git
@@ -1590,7 +1591,7 @@
 
 ## github-api 
 
-- [manosim/gitify](https://github.com/manosim/gitify) - GitHub notifications on your menu bar. Available on macOS, Windows & Linux.
+- [gitify-app/gitify](https://github.com/gitify-app/gitify) - GitHub notifications on your menu bar. Available on macOS, Windows & Linux.
 - [github-changelog-generator/github-changelog-generator](https://github.com/github-changelog-generator/github-changelog-generator) - Automatically generate change log from your tags, issues, labels and pull requests on GitHub.
 
 ## go 
@@ -1744,6 +1745,7 @@
 
 ## hacktoberfest 
 
+- [piroor/treestyletab](https://github.com/piroor/treestyletab) - Tree Style Tab, Show tabs like a tree.
 - [Stranger6667/css-inline](https://github.com/Stranger6667/css-inline) - Inline CSS into style attributes
 - [pyrech/composer-changelogs](https://github.com/pyrech/composer-changelogs) - :notebook: Display better summary after Composer update
 - [floating-ui/floating-ui](https://github.com/floating-ui/floating-ui) - A JavaScript library to position floating elements and create interactions for them.
@@ -2056,6 +2058,7 @@
 
 ## javascript 
 
+- [piroor/treestyletab](https://github.com/piroor/treestyletab) - Tree Style Tab, Show tabs like a tree.
 - [markmead/alpinejs-component](https://github.com/markmead/alpinejs-component) - Reusable HTML components powered by Alpine JS reactivity 🛸
 - [markmead/hyperjs](https://github.com/markmead/hyperjs) - HyperJS is a component library for Alpine JS allowing developers to quickly copy and paste functionality into their projects 🛵
 - [google/closure-compiler](https://github.com/google/closure-compiler) - A JavaScript checker and optimizer.
@@ -2126,7 +2129,7 @@
 - [azu/kvs](https://github.com/azu/kvs) - Lightweight key-value storage library for Browser, Node.js, and In-Memory.
 - [textlint/textlint](https://github.com/textlint/textlint) - The pluggable natural language linter for text and markdown.
 - [rome/tools](https://github.com/rome/tools) - Unified developer tools for JavaScript, TypeScript, and the web
-- [xwiki-labs/cryptpad](https://github.com/xwiki-labs/cryptpad) - Collaborative office suite, end-to-end encrypted and open-source.
+- [cryptpad/cryptpad](https://github.com/cryptpad/cryptpad) - Collaborative office suite, end-to-end encrypted and open-source.
 - [gorhill/uBlock](https://github.com/gorhill/uBlock) - uBlock Origin - An efficient blocker for Chromium and Firefox. Fast and lean.
 - [denoland/deno](https://github.com/denoland/deno) - A modern runtime for JavaScript and TypeScript.
 - [emacs-ng/emacs-ng](https://github.com/emacs-ng/emacs-ng) - A new approach to Emacs - Including TypeScript, Threading, Async I/O, and WebRender.
@@ -2784,7 +2787,7 @@
 - [azu/kvs](https://github.com/azu/kvs) - Lightweight key-value storage library for Browser, Node.js, and In-Memory.
 - [pnpm/pnpm](https://github.com/pnpm/pnpm) - Fast, disk space efficient package manager
 - [niieani/hashids.js](https://github.com/niieani/hashids.js) - A small JavaScript library to generate YouTube-like ids from numbers.
-- [manosim/gitify](https://github.com/manosim/gitify) - GitHub notifications on your menu bar. Available on macOS, Windows & Linux.
+- [gitify-app/gitify](https://github.com/gitify-app/gitify) - GitHub notifications on your menu bar. Available on macOS, Windows & Linux.
 - [enquirer/enquirer](https://github.com/enquirer/enquirer) - Stylish, intuitive and user-friendly prompts, for Node.js. Used by eslint, webpack, yarn, pm2, pnpm, RedwoodJS, FactorJS, salesforce, Cypress, Google Lighthouse, Generate, tencent cloudbase, lint-stag
 - [asdf-vm/asdf](https://github.com/asdf-vm/asdf) - Extendable version manager with support for Ruby, Node.js, Elixir, Erlang & more
 - [commitizen/cz-cli](https://github.com/commitizen/cz-cli) - The commitizen command line utility. #BlackLivesMatter
@@ -2899,6 +2902,7 @@
 
 ## others 
 
+- [hendricius/the-sourdough-framework](https://github.com/hendricius/the-sourdough-framework) - Open source book dedicated to helping you to make the best possible sourdough bread at home.
 - [szepeviktor/WordPress-the-good-parts](https://github.com/szepeviktor/WordPress-the-good-parts) - A sustainable and modernized version of WordPress core.
 - [urbas/rix](https://github.com/urbas/rix) - A reimplementation of nix in Rust.
 - [figsoda/rand-nix](https://github.com/figsoda/rand-nix) - 🔥 Eval-time random number generator for Nix without IFD 🚀
@@ -4605,7 +4609,7 @@
 - [saltyshiomix/webpack-typescript-react-starter](https://github.com/saltyshiomix/webpack-typescript-react-starter) - Webpack + TypeScript + React = ❤️
 - [willmcpo/body-scroll-lock](https://github.com/willmcpo/body-scroll-lock) - Body scroll locking that just works with everything 😏
 - [beizhedenglong/react-hooks-lib](https://github.com/beizhedenglong/react-hooks-lib) - A set of reusable React Hooks.
-- [manosim/gitify](https://github.com/manosim/gitify) - GitHub notifications on your menu bar. Available on macOS, Windows & Linux.
+- [gitify-app/gitify](https://github.com/gitify-app/gitify) - GitHub notifications on your menu bar. Available on macOS, Windows & Linux.
 - [hackjutsu/Lepton](https://github.com/hackjutsu/Lepton) - 💻     Democratizing Snippet Management (macOS/Win/Linux)
 - [TanStack/query](https://github.com/TanStack/query) - 🤖 Powerful asynchronous state management, server-state utilities and data fetching for the web. TS/JS, React Query, Solid Query, Svelte Query and Vue Query.
 - [roderickhsiao/react-in-viewport](https://github.com/roderickhsiao/react-in-viewport) - Detect if React component is in viewport
