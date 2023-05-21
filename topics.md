@@ -958,6 +958,7 @@
 - [VictoriaMetrics/VictoriaMetrics](https://github.com/VictoriaMetrics/VictoriaMetrics) - VictoriaMetrics: fast, cost-effective monitoring solution and time series database
 - [valeriansaliou/sonic](https://github.com/valeriansaliou/sonic) - 🦔 Fast, lightweight & schema-less search backend. An alternative to Elasticsearch that runs on a few MBs of RAM.
 - [libsql/libsql](https://github.com/libsql/libsql) - libSQL is a fork of SQLite that is both Open Source, and Open Contributions.
+- [sqitchers/sqitch](https://github.com/sqitchers/sqitch) - Sensible database change management
 - [pubkey/rxdb](https://github.com/pubkey/rxdb) - A fast, offline-first, reactive database for JavaScript Applications https://rxdb.info/
 - [neilotoole/sq](https://github.com/neilotoole/sq) - sq data wrangler
 - [datafold/data-diff](https://github.com/datafold/data-diff) - Compare tables within or across databases
@@ -1186,7 +1187,7 @@
 - [abougouffa/minemacs](https://github.com/abougouffa/minemacs) - MinEmacs: a personal and minimal Emacs configuration framework for daily use
 - [wbthomason/dotfiles](https://github.com/wbthomason/dotfiles) - My dotfiles
 - [hlissner/.doom.d](https://github.com/hlissner/.doom.d) - My private config for Doom Emacs
-- [nobiot/org-remark](https://github.com/nobiot/org-remark) - Highlight and annotate any text file with using Org mode
+- [nobiot/org-remark](https://github.com/nobiot/org-remark) - Highlight and annotate text file and websites
 - [protesilaos/denote](https://github.com/protesilaos/denote) - Simple notes for Emacs with an efficient file-naming scheme
 - [mkcms/interactive-align](https://github.com/mkcms/interactive-align) - Interactively align by regular expression in emacs
 - [neeasade/dotfiles](https://github.com/neeasade/dotfiles) - garden
@@ -3173,7 +3174,7 @@
 - [snowfallorg/lib](https://github.com/snowfallorg/lib) - Unified configuration for systems, packages, modules, shells, templates, and more with Nix Flakes.
 - [nix-community/nixpkgs.lib](https://github.com/nix-community/nixpkgs.lib) - nixpkgs lib for cheap instantiation [maintainer=@github-action] (with initial help from @blaggacao)
 - [vlinkz/nix-software-center](https://github.com/vlinkz/nix-software-center) - A simple gtk4/libadwaita software center to easily install and manage nix packages
-- [sissbruecker/linkding](https://github.com/sissbruecker/linkding) - Self-hosted bookmark service
+- [sissbruecker/linkding](https://github.com/sissbruecker/linkding) - Self-hosted bookmark manager that is designed be to be minimal, fast, and easy to set up using Docker.
 - [jmgilman/std-example](https://github.com/jmgilman/std-example) - An example repository showcasing the Nix std framework
 - [SaschaWillems/VulkanInfiniteProceduralTerrain](https://github.com/SaschaWillems/VulkanInfiniteProceduralTerrain) - Playground for doing procedurally infinite terrain rendering experiments with Vulkan
 - [Maks-s/sd-akashic](https://github.com/Maks-s/sd-akashic) - A compendium of informations regarding Stable Diffusion (SD)
@@ -3422,7 +3423,6 @@
 - [joaotavora/eglot](https://github.com/joaotavora/eglot) - A client for Language Server Protocol servers
 - [fabrizioschiavi/pragmatapro-semiotics](https://github.com/fabrizioschiavi/pragmatapro-semiotics) - Semiotics of all the symbols and signs of Pragmata Pro typeface
 - [stayallive/wp-sentry](https://github.com/stayallive/wp-sentry) - A (unofficial) WordPress plugin reporting PHP and JavaScript errors to Sentry.
-- [spacedriveapp/spacedrive](https://github.com/spacedriveapp/spacedrive) - Spacedrive is an open source cross-platform file explorer, powered by a virtual distributed filesystem written in Rust.
 - [zgrossbart/jdd](https://github.com/zgrossbart/jdd) - A semantic JSON compare tool
 - [jotaijs/jotai-form](https://github.com/jotaijs/jotai-form) - Form atoms for Jotai
 - [montchr/dotfield](https://github.com/montchr/dotfield) - All I see is little dots – some are smeared, and some are spots.
@@ -4768,6 +4768,7 @@
 - [ellie/atuin](https://github.com/ellie/atuin) - 🐢 Magical shell history
 - [ClementTsang/bottom](https://github.com/ClementTsang/bottom) - Yet another cross-platform graphical process/system monitor.
 - [cantino/mcfly](https://github.com/cantino/mcfly) - Fly through your shell history. Great Scott!
+- [spacedriveapp/spacedrive](https://github.com/spacedriveapp/spacedrive) - Spacedrive is an open source cross-platform file explorer, powered by a virtual distributed filesystem written in Rust.
 - [kamadorueda/alejandra](https://github.com/kamadorueda/alejandra) - The Uncompromising Nix Code Formatter
 - [ducaale/xh](https://github.com/ducaale/xh) - Friendly and fast tool for sending HTTP requests
 - [nix-community/rnix-parser](https://github.com/nix-community/rnix-parser) - A Nix parser written in Rust [maintainer=@oberblastmeister]
@@ -5265,6 +5266,7 @@
 - [microsoft/tsdoc](https://github.com/microsoft/tsdoc) - A doc comment standard for TypeScript
 - [woutervh-/typescript-is](https://github.com/woutervh-/typescript-is) - 
 - [drwpow/openapi-typescript](https://github.com/drwpow/openapi-typescript) - Generate TypeScript types from OpenAPI 3 specs
+- [spacedriveapp/spacedrive](https://github.com/spacedriveapp/spacedrive) - Spacedrive is an open source cross-platform file explorer, powered by a virtual distributed filesystem written in Rust.
 - [TanStack/table](https://github.com/TanStack/table) - 🤖 Headless UI for building powerful tables & datagrids for TS/JS -  React-Table, Vue-Table, Solid-Table, Svelte-Table
 - [vercel/turbo](https://github.com/vercel/turbo) - Incremental bundler and build system optimized for JavaScript and TypeScript, written in Rust – including Turbopack and Turborepo.
 - [ts-essentials/ts-essentials](https://github.com/ts-essentials/ts-essentials) - All basic TypeScript types in one place 🤙
