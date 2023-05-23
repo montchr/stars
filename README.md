@@ -132,6 +132,7 @@
 - [hpjansson/chafa](https://github.com/hpjansson/chafa) - 📺🗿 Terminal graphics for the 21st century.
 - [elFarto/nvidia-vaapi-driver](https://github.com/elFarto/nvidia-vaapi-driver) - A VA-API implemention using NVIDIA's NVDEC
 - [okbob/pspg](https://github.com/okbob/pspg) - Unix pager (with very rich functionality) designed for work with tables. Designed for PostgreSQL, but MySQL is supported too. Works well with pgcli too. Can be used as CSV or TSV viewer too. It suppor
+- [bunkerity/bunkerweb](https://github.com/bunkerity/bunkerweb) - 🛡️ Make your web services secure by default !
 - [amadvance/snapraid](https://github.com/amadvance/snapraid) - A backup program for disk arrays. It stores parity information of your data and it recovers from up to six disk failures
 - [manna-harbour/miryoku_kmonad](https://github.com/manna-harbour/miryoku_kmonad) - Miryoku is an ergonomic, minimal, orthogonal, and universal keyboard layout. Miryoku KMonad is the Miryoku implementation for KMonad.
 - [NLnetLabs/ldns](https://github.com/NLnetLabs/ldns) - LDNS is a DNS library that facilitates DNS tool programming
@@ -2255,7 +2256,6 @@
 - [andrejlamov/andrejlamov](https://github.com/andrejlamov/andrejlamov) - 
 - [datafold/data-diff](https://github.com/datafold/data-diff) - Compare tables within or across databases
 - [dbcli/mycli](https://github.com/dbcli/mycli) - A Terminal Client for MySQL with AutoCompletion and Syntax Highlighting.
-- [bunkerity/bunkerweb](https://github.com/bunkerity/bunkerweb) - 🛡️ Make your web services secure by default !
 - [s0md3v/Breacher](https://github.com/s0md3v/Breacher) - An advanced multithreaded admin panel finder written in python.
 - [kholia/OSX-KVM](https://github.com/kholia/OSX-KVM) - Run macOS on QEMU/KVM. With OpenCore + Big Sur + Monterey + Ventura support now! Only commercial (paid) support is available now to avoid spammy issues. No Mac system is required.
 - [icloud-photos-downloader/icloud_photos_downloader](https://github.com/icloud-photos-downloader/icloud_photos_downloader) - A command-line tool to download photos from iCloud
