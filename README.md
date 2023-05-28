@@ -935,6 +935,7 @@
 
 ## JavaScript 
 
+- [violentmonkey/violentmonkey](https://github.com/violentmonkey/violentmonkey) - Violentmonkey provides userscripts support for browsers. It works on browsers with WebExtensions support.
 - [piroor/treestyletab](https://github.com/piroor/treestyletab) - Tree Style Tab, Show tabs like a tree.
 - [yuschick/stylelint-plugin-defensive-css](https://github.com/yuschick/stylelint-plugin-defensive-css) - A Stylelint plugin for enforcing defensive CSS best practices.
 - [markmead/alpinejs-component](https://github.com/markmead/alpinejs-component) - Reusable HTML components powered by Alpine JS reactivity 🛸
@@ -1021,7 +1022,7 @@
 - [jakoblind/webpack-autoconf](https://github.com/jakoblind/webpack-autoconf) - A tool to create frontend apps using webpack, Parcel or Snowpack
 - [brightcove/player-loader](https://github.com/brightcove/player-loader) - An asynchronous script loader and embed generator for the Brightcove Player.
 - [GoogleChrome/dialog-polyfill](https://github.com/GoogleChrome/dialog-polyfill) - Polyfill for the HTML dialog element
-- [harlan-zw/unlighthouse](https://github.com/harlan-zw/unlighthouse) - Unlighthouse scans your entire site using Google Lighthouse, with a modern UI, minimal config and smart sampling.
+- [harlan-zw/unlighthouse](https://github.com/harlan-zw/unlighthouse) - Scan your entire site with Google Lighthouse in 2 minutes (on average). Open source, fully configurable with minimal setup.
 - [DIYgod/RSSHub](https://github.com/DIYgod/RSSHub) - 🍰 Everything is RSSible
 - [blinksh/themes](https://github.com/blinksh/themes) - blink themes collection
 - [mermaid-js/mermaid](https://github.com/mermaid-js/mermaid) - Generation of diagrams like flowcharts or sequence diagrams from text in a similar manner as markdown
@@ -1282,7 +1283,7 @@
 - [rlch/dotfiles](https://github.com/rlch/dotfiles) - neovim + tmux + yabai + kitty + fish
 - [NvChad/NvChad](https://github.com/NvChad/NvChad) - Blazing fast Neovim framework providing solid defaults and a beautiful UI, enhancing your neovim experience.
 - [EdenEast/nyx](https://github.com/EdenEast/nyx) - ⚙️Nix[OS] Configuration
-- [echasnovski/mini.nvim](https://github.com/echasnovski/mini.nvim) - Library of 25+ independent Lua modules improving overall Neovim (version 0.7 and higher) experience with minimal effort
+- [echasnovski/mini.nvim](https://github.com/echasnovski/mini.nvim) - Library of 30+ independent Lua modules improving overall Neovim (version 0.7 and higher) experience with minimal effort
 - [evanrelf/dotfiles](https://github.com/evanrelf/dotfiles) - My personal dotfiles
 - [nvim-neorg/neorg](https://github.com/nvim-neorg/neorg) - Modernity meets insane extensibility. The future of organizing your life in Neovim.
 - [disrupted/dotfiles](https://github.com/disrupted/dotfiles) - 👨🏻‍💻 My dotfiles including Neovim Lua config, ZSH with zinit plugin manager & powerlevel10k prompt
@@ -1706,6 +1707,7 @@
 
 ## Others 
 
+- [zakirullin/cognitive-load](https://github.com/zakirullin/cognitive-load) - 🧠 Cognitive Load Developer's Handbook
 - [BillyDM/Awesome-Audio-DSP](https://github.com/BillyDM/Awesome-Audio-DSP) - My curated list of audio DSP and plugin development resources
 - [lg/yabai-and-skhd-highlighting](https://github.com/lg/yabai-and-skhd-highlighting) - yabai and skhd syntax highlighting for vscode
 - [smknstd/modern-php-cheatsheet](https://github.com/smknstd/modern-php-cheatsheet) - Cheatsheet for some PHP knowledge you will frequently encounter in modern projects.
@@ -2120,7 +2122,7 @@
 - [szepeviktor/starter-plugin](https://github.com/szepeviktor/starter-plugin) - Template for WordPress plugins, it took 7️⃣ years to write
 - [Automattic/phpcs-neutron-standard](https://github.com/Automattic/phpcs-neutron-standard) - A set of phpcs sniffs for PHP &gt;7 development
 - [php-stubs/wordpress-stubs](https://github.com/php-stubs/wordpress-stubs) - Up-to-date WordPress function and class declaration stubs for static analysis by PHPStan
-- [phpactor/phpactor](https://github.com/phpactor/phpactor) - Mainly a PHP Language Server
+- [phpactor/phpactor](https://github.com/phpactor/phpactor) - Mainly a PHP Language Server with more features than you can shake a stick at
 - [vimeo/psalm](https://github.com/vimeo/psalm) - A static analysis tool for finding errors in PHP applications
 - [alleyinteractive/mantle](https://github.com/alleyinteractive/mantle) - Mantle is a framework for building large, robust websites and applications with WordPress
 - [astralapp/astral](https://github.com/astralapp/astral) - Organize Your GitHub Stars With Ease
@@ -2443,6 +2445,7 @@
 
 ## Rust 
 
+- [Deaftone/Deaftone](https://github.com/Deaftone/Deaftone) - Lightweight music server. With a clean and simple API
 - [Canop/rhit](https://github.com/Canop/rhit) - A nginx log explorer
 - [urbas/rix](https://github.com/urbas/rix) - A reimplementation of nix in Rust.
 - [ast-grep/ast-grep](https://github.com/ast-grep/ast-grep) - ⚡A fast and polyglot tool for code searching, linting, rewriting at large scale. Written in Rust
