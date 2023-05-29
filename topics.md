@@ -3435,7 +3435,7 @@
 - [johnae/nix-flake-templates](https://github.com/johnae/nix-flake-templates) - Templates for Nix flakes
 - [chvp/nixos-config](https://github.com/chvp/nixos-config) - Configuration of my machines (main development happens at https://git.chvp.be/chvp/nixos-config these days)
 - [sahibjotsaggu/San-Francisco-Pro-Fonts](https://github.com/sahibjotsaggu/San-Francisco-Pro-Fonts) - The entire collection of San Francisco Pro Fonts
-- [stedolan/jq](https://github.com/stedolan/jq) - Command-line JSON processor
+- [jqlang/jq](https://github.com/jqlang/jq) - Command-line JSON processor
 - [ljharb/can-merge](https://github.com/ljharb/can-merge) - 
 - [nix-community/nix-snippets](https://github.com/nix-community/nix-snippets) - Nix Snippets: Curated, simple, fun examples of the Nix Expression Language [maintainer=]
 - [GPGTools/pinentry](https://github.com/GPGTools/pinentry) - 
