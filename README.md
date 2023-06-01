@@ -1126,7 +1126,7 @@
 - [satya164/minimal.widget](https://github.com/satya164/minimal.widget) - A minimal widget for Übersicht which displays a panel on top right and apps list on top left
 - [brainhubeu/react-carousel](https://github.com/brainhubeu/react-carousel) - A pure extendable React carousel, powered by Brainhub (craftsmen who ❤️ JS)
 - [200ok-ch/organice](https://github.com/200ok-ch/organice) - An implementation of Org mode without the dependency of Emacs - built for mobile and desktop browsers
-- [uidotdev/usehooks](https://github.com/uidotdev/usehooks) - A collection of Server Component safe React Hooks – from the ui.dev team
+- [uidotdev/usehooks](https://github.com/uidotdev/usehooks) - A collection of modern, server-safe React hooks – from the ui.dev team
 - [reactjs/react-modal](https://github.com/reactjs/react-modal) - Accessible modal dialog component for React
 - [marshallbrekka/yabai-config](https://github.com/marshallbrekka/yabai-config) - Configurations for yabai and skhd for window management.
 - [kkga/nibar](https://github.com/kkga/nibar) - Simple Übersicht status bar with yabai support.
@@ -1902,6 +1902,8 @@
 
 ## PHP 
 
+- [ffraenz/private-composer-installer](https://github.com/ffraenz/private-composer-installer) - Composer install helper outsourcing sensitive keys from the package URL into environment variables
+- [Automattic/blocks-everywhere](https://github.com/Automattic/blocks-everywhere) - Gutenberg block editor in WordPress comments, admin pages, bbPress, and BuddyPress.
 - [szepeviktor/WordPress-the-good-parts](https://github.com/szepeviktor/WordPress-the-good-parts) - A sustainable and modernized version of WordPress core.
 - [nikic/PHP-Parser](https://github.com/nikic/PHP-Parser) - A PHP parser written in PHP
 - [szepeviktor/running-laravel](https://github.com/szepeviktor/running-laravel) - Running Laraval framework-based web applications for long years 🪘
