@@ -1902,6 +1902,7 @@
 
 ## PHP 
 
+- [cycle/annotated](https://github.com/cycle/annotated) - Schema generation using annotated entities and mappers
 - [ffraenz/private-composer-installer](https://github.com/ffraenz/private-composer-installer) - Composer install helper outsourcing sensitive keys from the package URL into environment variables
 - [Automattic/blocks-everywhere](https://github.com/Automattic/blocks-everywhere) - Gutenberg block editor in WordPress comments, admin pages, bbPress, and BuddyPress.
 - [szepeviktor/WordPress-the-good-parts](https://github.com/szepeviktor/WordPress-the-good-parts) - A sustainable and modernized version of WordPress core.
@@ -2628,6 +2629,7 @@
 
 ## Shell 
 
+- [typkrft/chezmoi](https://github.com/typkrft/chezmoi) - 
 - [torenware/ddev-viteserve](https://github.com/torenware/ddev-viteserve) - An add-on to run the Vite dev server from inside the DDEV environment.
 - [junegunn/fzf-git.sh](https://github.com/junegunn/fzf-git.sh) - bash and zsh key bindings for Git objects, powered by fzf
 - [numtide/nixos-anywhere](https://github.com/numtide/nixos-anywhere) - install nixos everywhere via ssh
@@ -2934,6 +2936,7 @@
 
 ## TypeScript 
 
+- [makeplane/plane](https://github.com/makeplane/plane) - 🔥 🔥 🔥 Open Source JIRA, Linear and Height Alternative. Plane helps you track your issues, epics, and product roadmaps in the simplest way possible.
 - [unocss/unocss](https://github.com/unocss/unocss) - The instant on-demand atomic CSS engine.
 - [antfu/vscode-theme-vitesse](https://github.com/antfu/vscode-theme-vitesse) - 🏕 Vitesse theme for VS Code
 - [nix-community/nixt](https://github.com/nix-community/nixt) - Simple unit-testing for Nix [maintainer=@Lord-Valen]
