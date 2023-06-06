@@ -820,7 +820,6 @@
 
 - [markmead/hyperjs](https://github.com/markmead/hyperjs) - HyperJS is a component library for Alpine JS allowing developers to quickly copy and paste functionality into their projects 🛵
 - [alpinejs/alpine](https://github.com/alpinejs/alpine) - A rugged, minimal framework for composing JavaScript behavior in your markup.
-- [mozilla/policy-templates](https://github.com/mozilla/policy-templates) - Policy Templates for Firefox
 - [erebe/personal-server](https://github.com/erebe/personal-server) - Personal server configuration with k3s
 - [zimfw/zimfw](https://github.com/zimfw/zimfw) - Zim: Modular, customizable, and blazing fast Zsh framework
 - [johannesloetzsch/swlkup](https://github.com/johannesloetzsch/swlkup) - An application to manage a database of supervisors and provide anonymous access for authorized users
@@ -1729,6 +1728,7 @@
 - [DavHau/edict](https://github.com/DavHau/edict) - Run nix commands on remote machines
 - [dbohdan/structured-text-tools](https://github.com/dbohdan/structured-text-tools) - A list of command line tools for manipulating structured text data
 - [bbatsov/emacs-lisp-style-guide](https://github.com/bbatsov/emacs-lisp-style-guide) - A community-driven Emacs Lisp style guide
+- [mozilla/policy-templates](https://github.com/mozilla/policy-templates) - Policy Templates for Firefox
 - [stevep99/seniply](https://github.com/stevep99/seniply) - An ergonomic, six-layer extended keyboard layout designed for small keyboards.
 - [montchr/stars](https://github.com/montchr/stars) - 
 - [pluja/awesome-privacy](https://github.com/pluja/awesome-privacy) - Awesome Privacy - A curated list of services and alternatives that respect your privacy because PRIVACY MATTERS.
@@ -1907,6 +1907,7 @@
 
 ## PHP 
 
+- [rjjakes/wordpress-orm](https://github.com/rjjakes/wordpress-orm) - WORM. A lightweight, object oriented Doctrine style ORM for Wordpress 4.8+.
 - [cycle/annotated](https://github.com/cycle/annotated) - Schema generation using annotated entities and mappers
 - [ffraenz/private-composer-installer](https://github.com/ffraenz/private-composer-installer) - Composer install helper outsourcing sensitive keys from the package URL into environment variables
 - [Automattic/blocks-everywhere](https://github.com/Automattic/blocks-everywhere) - Gutenberg block editor in WordPress comments, admin pages, bbPress, and BuddyPress.
@@ -1940,7 +1941,7 @@
 - [lucatume/wp-browser](https://github.com/lucatume/wp-browser) - The easy and reliable way to test WordPress with Codeception. 10 years of proven success.
 - [junaidbhura/composer-wp-pro-plugins](https://github.com/junaidbhura/composer-wp-pro-plugins) - Composer installer for Pro WordPress plugins.
 - [acf-extended/ACF-Extended](https://github.com/acf-extended/ACF-Extended) - 🚀 All-in-one enhancement suite that improves WordPress & Advanced Custom Fields
-- [adventistchurch/alps-wordpress](https://github.com/adventistchurch/alps-wordpress) - This Wordpress theme is an implementation of the Adventist Living Pattern System (ALPS) designed to support the work of the Seventh-day Adventist church.
+- [adventistchurch/alps-wordpress](https://github.com/adventistchurch/alps-wordpress) - This Wordpress theme is an implementation of the Adventist Living Pattern System (ALPS) designed to support the work of the Seventh-day Adventist Church.
 - [php-stubs/wordpress-globals](https://github.com/php-stubs/wordpress-globals) - Global variables and global constants from WordPress core
 - [inpsyde/Wonolog](https://github.com/inpsyde/Wonolog) - Monolog-based logging package for WordPress.
 - [Pierre-Lannoy/wp-decalog](https://github.com/Pierre-Lannoy/wp-decalog) - Capture and log events, metrics and traces on your site. Make WordPress observable - finally!
@@ -2459,7 +2460,7 @@
 - [Deaftone/Deaftone](https://github.com/Deaftone/Deaftone) - Lightweight music server. With a clean and simple API
 - [Canop/rhit](https://github.com/Canop/rhit) - A nginx log explorer
 - [urbas/rix](https://github.com/urbas/rix) - A reimplementation of nix in Rust.
-- [ast-grep/ast-grep](https://github.com/ast-grep/ast-grep) - ⚡A fast and polyglot tool for code searching, linting, rewriting at large scale. Written in Rust
+- [ast-grep/ast-grep](https://github.com/ast-grep/ast-grep) - ⚡A fast and polyglot tool for code structrual search, lint and rewriting at large scale. Written in Rust
 - [Stranger6667/css-inline](https://github.com/Stranger6667/css-inline) - Inline CSS into style attributes
 - [parcel-bundler/lightningcss](https://github.com/parcel-bundler/lightningcss) - An extremely fast CSS parser, transformer, bundler, and minifier written in Rust.
 - [trimental/inlyne](https://github.com/trimental/inlyne) - Introducing Inlyne, a GPU powered yet browserless tool to help you quickly view markdown files in the blink of an eye.
@@ -3023,7 +3024,7 @@
 - [redwoodjs/redwood](https://github.com/redwoodjs/redwood) - The App Framework for Startups
 - [JustinBeckwith/linkinator](https://github.com/JustinBeckwith/linkinator) - 🐿 Scurry around your site and find all those broken links.
 - [johnbillion/wp-json-schemas](https://github.com/johnbillion/wp-json-schemas) - JSON schemas for WordPress PHP objects and REST  API responses
-- [refinedev/refine](https://github.com/refinedev/refine) - Build your React-based CRUD applications, without constraints.
+- [refinedev/refine](https://github.com/refinedev/refine) - Build your React-based CRUD applications, without constraints. 🌟 Star to support our work!
 - [denoland/fresh](https://github.com/denoland/fresh) - The next-gen web framework.
 - [pawelmalak/flame](https://github.com/pawelmalak/flame) - Flame is self-hosted startpage for your server. Easily manage your apps and bookmarks with built-in editors.
 - [TanStack/virtual](https://github.com/TanStack/virtual) - 🤖 Headless UI for Virtualizing Large Element Lists in JS/TS, React, Solid, Vue and Svelte
