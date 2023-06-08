@@ -611,7 +611,7 @@
 - [modernish/modernish](https://github.com/modernish/modernish) - Modernish is a library for writing robust, portable, readable, and powerful programs for POSIX-based shells and utilities.
 - [xwmx/nb](https://github.com/xwmx/nb) - CLI and local web plain text note‑taking, bookmarking, and archiving with linking, tagging, filtering, search, Git versioning & syncing, Pandoc conversion, + more, in a single portable script.
 - [alrra/dotfiles](https://github.com/alrra/dotfiles) - 💻 macOS / Ubuntu dotfiles
-- [edheltzel/dotfiles](https://github.com/edheltzel/dotfiles) - 🔧 My personal •files and 🐠 Shell configuration +   macOS toolbox which is a WIP
+- [edheltzel/dotfiles](https://github.com/edheltzel/dotfiles) - 🔧 My personal dot files and 🐠 Shell configuration + macOS toolbox - which changes regularly.
 - [rgcr/m-cli](https://github.com/rgcr/m-cli) -  Swiss Army Knife for macOS
 - [mathiasbynens/dotfiles](https://github.com/mathiasbynens/dotfiles) - :wrench: .files, including ~/.macos — sensible hacker defaults for macOS
 
@@ -2552,7 +2552,7 @@
 - [matthewdias/applescripts](https://github.com/matthewdias/applescripts) - Some AppleScripts for OS X customization
 - [sindresorhus/do-not-disturb-cli](https://github.com/sindresorhus/do-not-disturb-cli) - Control the macOS `Do Not Disturb` feature from the command-line
 - [sindresorhus/alfy](https://github.com/sindresorhus/alfy) - Create Alfred workflows with ease
-- [edheltzel/dotfiles](https://github.com/edheltzel/dotfiles) - 🔧 My personal •files and 🐠 Shell configuration +   macOS toolbox which is a WIP
+- [edheltzel/dotfiles](https://github.com/edheltzel/dotfiles) - 🔧 My personal dot files and 🐠 Shell configuration + macOS toolbox - which changes regularly.
 - [yuuiko/AquaTouch](https://github.com/yuuiko/AquaTouch) - Dynamic Custom Macros for your MacBook TouchBar! (Supports 40+ Apps and Websites)
 - [rgcr/m-cli](https://github.com/rgcr/m-cli) -  Swiss Army Knife for macOS
 - [johnste/finicky](https://github.com/johnste/finicky) - A macOS app for customizing which browser to start
@@ -5066,7 +5066,7 @@
 - [tony/tmux-config](https://github.com/tony/tmux-config) - :green_book: Example tmux configuration - screen + vim key-bindings, system stat, cpu load bar.
 - [tony/.dot-config](https://github.com/tony/.dot-config) - :books: Example dot configs for tmux, tmuxp, vim, vcspull, i3 and awesome
 - [gpakosz/.tmux](https://github.com/gpakosz/.tmux) - 🇫🇷 Oh my tmux! My self-contained, pretty & versatile tmux configuration made with ❤️
-- [edheltzel/dotfiles](https://github.com/edheltzel/dotfiles) - 🔧 My personal •files and 🐠 Shell configuration +   macOS toolbox which is a WIP
+- [edheltzel/dotfiles](https://github.com/edheltzel/dotfiles) - 🔧 My personal dot files and 🐠 Shell configuration + macOS toolbox - which changes regularly.
 - [zsh-users/zsh-autosuggestions](https://github.com/zsh-users/zsh-autosuggestions) - Fish-like autosuggestions for zsh
 - [ohmyzsh/ohmyzsh](https://github.com/ohmyzsh/ohmyzsh) - 🙃   A delightful community-driven (with 2,100+ contributors) framework for managing your zsh configuration. Includes 300+ optional plugins (rails, git, macOS, hub, docker, homebrew, node, php, python,
 - [holman/dotfiles](https://github.com/holman/dotfiles) - @holman does dotfiles
@@ -5575,6 +5575,7 @@
 
 ## wordpress 
 
+- [wearerequired/coding-standards](https://github.com/wearerequired/coding-standards) - 💻 required coding standards for PHP, JavaScript and CSS.
 - [ffraenz/private-composer-installer](https://github.com/ffraenz/private-composer-installer) - Composer install helper outsourcing sensitive keys from the package URL into environment variables
 - [youknowriad/blockbook](https://github.com/youknowriad/blockbook) - Build and Share WordPress Blocks in Isolation.
 - [PiotrPress/wordpress-hooks](https://github.com/PiotrPress/wordpress-hooks) - The library allows using PHP Attributes (introduced in PHP version 8) to automagically add WordPress Hooks (Filters and Actions) to objects' methods.
