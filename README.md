@@ -205,6 +205,7 @@
 
 ## C++ 
 
+- [nix-community/nixd](https://github.com/nix-community/nixd) - Nix language server, based on nix libraries [maintainer=@inclyc]
 - [porla/porla](https://github.com/porla/porla) - A high performance BitTorrent client for servers and seedboxes.
 - [keyboardio/Kaleidoscope](https://github.com/keyboardio/Kaleidoscope) - Firmware for Keyboardio keyboards and other keyboards with AVR or ARM MCUs.
 - [topjohnwu/Magisk](https://github.com/topjohnwu/Magisk) - The Magic Mask for Android
@@ -604,7 +605,7 @@
 - [bastibe/org-journal](https://github.com/bastibe/org-journal) - A simple org-mode based journaling mode
 - [sk8ingdom/.emacs.d](https://github.com/sk8ingdom/.emacs.d) - Emacs Configuration Files
 - [davep/pinboard.el](https://github.com/davep/pinboard.el) - A pinboard.in client for Emacs.
-- [LionyxML/auto-dark-emacs](https://github.com/LionyxML/auto-dark-emacs) - Auto-Dark-Emacs is an auto changer between 2 themes, dark/light, following MacOS Dark Mode settings
+- [LionyxML/auto-dark-emacs](https://github.com/LionyxML/auto-dark-emacs) - Auto-Dark-Emacs is an auto changer between 2 themes, dark/light, following MacOS, Linux or Windows Dark Mode settings
 - [progfolio/doct](https://github.com/progfolio/doct) - DOCT: Declarative Org Capture Templates for Emacs
 - [org-roam/org-roam](https://github.com/org-roam/org-roam) - Rudimentary Roam replica with Org-mode
 
@@ -1224,7 +1225,6 @@
 - [jart/occupywallst](https://github.com/jart/occupywallst) - Stomping out capitalism, one line of code at a time
 - [bradfrost/patternlab](https://github.com/bradfrost/patternlab) - Make a pattern library using atomic design.
 - [samargulies/galleria-galleria](https://github.com/samargulies/galleria-galleria) - Galleria Galleria is a fork of the Photo Galleria Wordpress plugin that is designed to minimize resources and selectively load javascript.
-- [d3/d3](https://github.com/d3/d3) - Bring data to life with SVG, Canvas and HTML. :bar_chart::chart_with_upwards_trend::tada:
 - [mleibman/SlickGrid](https://github.com/mleibman/SlickGrid) - A lightning fast JavaScript grid/spreadsheet
 - [adobe/brackets](https://github.com/adobe/brackets) - An open source code editor for the web, written in JavaScript, HTML and CSS.
 - [mozilla/r2d2b2g](https://github.com/mozilla/r2d2b2g) - Firefox OS Simulator is a test environment for Firefox OS. Use it to test your apps in a Firefox OS-like environment that looks and feels like a mobile phone.
@@ -1317,6 +1317,7 @@
 
 ## Makefile 
 
+- [Crell/php-project-template](https://github.com/Crell/php-project-template) - My personal template for new PHP projects.
 - [teamniteo/handbook](https://github.com/teamniteo/handbook) - The Niteo Handbook
 - [wodby/docker4wordpress](https://github.com/wodby/docker4wordpress) - Docker-based WordPress stack
 - [Automattic/vip-gold](https://github.com/Automattic/vip-gold) - VIP Go Local Development
@@ -1910,6 +1911,12 @@
 
 ## PHP 
 
+- [webmozarts/assert](https://github.com/webmozarts/assert) - Assertions to validate method input/output with nice error messages.
+- [alleyinteractive/pest-plugin-wordpress](https://github.com/alleyinteractive/pest-plugin-wordpress) - A Pest plugin for WordPress
+- [Crell/fp](https://github.com/Crell/fp) - Utilities for functional tasks in PHP. Expect the list to grow over time.
+- [Crell/Serde](https://github.com/Crell/Serde) - Robust Serde (serialization/deserialization) library for PHP 8.
+- [Crell/Tukio](https://github.com/Crell/Tukio) - A complete and robust implementation of the PSR-14 EventDispatcher specification.
+- [doctrine/coding-standard](https://github.com/doctrine/coding-standard) - The coding standard of the Doctrine project.
 - [slevomat/coding-standard](https://github.com/slevomat/coding-standard) - Slevomat Coding Standard for PHP_CodeSniffer provides many useful sniffs
 - [ramsey/collection](https://github.com/ramsey/collection) - :card_index_dividers: A PHP library for representing and manipulating collections.
 - [rjjakes/wordpress-orm](https://github.com/rjjakes/wordpress-orm) - WORM. A lightweight, object oriented Doctrine style ORM for Wordpress 4.8+.
@@ -2568,7 +2575,7 @@
 - [kreisys/rnix-lsp](https://github.com/kreisys/rnix-lsp) - WIP Language Server for Nix! [maintainer=@jD91mZM2]
 - [yewstack/yew](https://github.com/yewstack/yew) - Rust / Wasm framework for building client web apps
 - [nix-community/nixdoc](https://github.com/nix-community/nixdoc) - Tool to generate documentation for Nix library functions [maintainer=@asymmetric]
-- [bennofs/nix-index](https://github.com/bennofs/nix-index) - Quickly locate nix packages with specific files
+- [nix-community/nix-index](https://github.com/nix-community/nix-index) - Quickly locate nix packages with specific files
 - [lf-/nix-doc](https://github.com/lf-/nix-doc) - An interactive Nix documentation tool providing a CLI for function search, a Nix plugin for docs in the REPL, and a ctags implementation for Nix script
 - [astro/deadnix](https://github.com/astro/deadnix) - Scan Nix files for dead code
 - [BrianHicks/nix-script](https://github.com/BrianHicks/nix-script) - write scripts in compiled languages that run in the nix ecosystem, with no separate build step
@@ -2891,6 +2898,7 @@
 - [holman/dotfiles](https://github.com/holman/dotfiles) - @holman does dotfiles
 - [necolas/dotfiles](https://github.com/necolas/dotfiles) - OS X dotfiles: bash, git, vim, etc.
 - [ericmann/vvv-apache](https://github.com/ericmann/vvv-apache) - Apache-based fork of 10up's Varying Vagrant Vagrants configuration
+- [d3/d3](https://github.com/d3/d3) - Bring data to life with SVG, Canvas and HTML. :bar_chart::chart_with_upwards_trend::tada:
 
 ## Sieve 
 
@@ -2970,7 +2978,7 @@
 - [Highfivery/nextjs-starter](https://github.com/Highfivery/nextjs-starter) - A Next.js 13 CMS & theme agnostic starter framework to build fully-featured headless sites.
 - [roots/bud](https://github.com/roots/bud) - High-performance build system that supports SWC, esbuild, and Babel
 - [joe-bell/cva](https://github.com/joe-bell/cva) - Class Variance Authority
-- [dotenv-org/dotenv-vault](https://github.com/dotenv-org/dotenv-vault) - Simplify Your Secrets
+- [dotenv-org/dotenv-vault](https://github.com/dotenv-org/dotenv-vault) - Simplify Your Secrets. The #1 secrets manager for .env files.
 - [philipstanislaus/performant-array-to-tree](https://github.com/philipstanislaus/performant-array-to-tree) - Converts an array of items with ids and parent ids to a nested tree in a performant O(n) way. Runs in browsers and Node.js.
 - [meodai/poline](https://github.com/meodai/poline) - Esoteric Palette Generator Mico-Lib Interpolating HSL Color in cartesian space
 - [sjinks/setup-wordpress-test-library](https://github.com/sjinks/setup-wordpress-test-library) - Set up WordPress and WordPress Test Library for unit tests
