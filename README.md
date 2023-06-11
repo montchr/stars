@@ -1349,6 +1349,7 @@
 
 ## Nix 
 
+- [oddlama/nix-config](https://github.com/oddlama/nix-config) - ❄️ My nix config and dotfiles
 - [oddlama/agenix-rekey](https://github.com/oddlama/agenix-rekey) - An agenix extension adding secret generation and automatic rekeying using a YubiKey or master-identity
 - [montchr/nix-base16-schemes](https://github.com/montchr/nix-base16-schemes) - yet another way to paint a cat
 - [bertof/nix-rice](https://github.com/bertof/nix-rice) - A library to functionally define your configuration and theme (rice) with Nix
