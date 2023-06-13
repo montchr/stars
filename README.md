@@ -1349,6 +1349,7 @@
 
 ## Nix 
 
+- [astro/skyflake](https://github.com/astro/skyflake) - NixOS Hyperconverged Infrastructure on Nomad/NixOS
 - [oddlama/nix-config](https://github.com/oddlama/nix-config) - ❄️ My nix config and dotfiles
 - [oddlama/agenix-rekey](https://github.com/oddlama/agenix-rekey) - An agenix extension adding secret generation and automatic rekeying using a YubiKey or master-identity
 - [montchr/nix-base16-schemes](https://github.com/montchr/nix-base16-schemes) - yet another way to paint a cat
@@ -2472,6 +2473,7 @@
 
 ## Rust 
 
+- [samwho/spacer](https://github.com/samwho/spacer) - CLI tool to insert spacers in when command output stops
 - [swsnr/mdcat](https://github.com/swsnr/mdcat) - cat for markdown
 - [Deaftone/Deaftone](https://github.com/Deaftone/Deaftone) - Lightweight music server. With a clean and simple API
 - [Canop/rhit](https://github.com/Canop/rhit) - A nginx log explorer
