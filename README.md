@@ -2473,7 +2473,8 @@
 
 ## Rust 
 
-- [samwho/spacer](https://github.com/samwho/spacer) - CLI tool to insert spacers in when command output stops
+- [AmrDeveloper/GQL](https://github.com/AmrDeveloper/GQL) - Git Query Language (GQL)
+- [samwho/spacer](https://github.com/samwho/spacer) - CLI tool to insert spacers when command output stops
 - [swsnr/mdcat](https://github.com/swsnr/mdcat) - cat for markdown
 - [Deaftone/Deaftone](https://github.com/Deaftone/Deaftone) - Lightweight music server. With a clean and simple API
 - [Canop/rhit](https://github.com/Canop/rhit) - A nginx log explorer
@@ -2580,7 +2581,7 @@
 - [kreisys/rnix-lsp](https://github.com/kreisys/rnix-lsp) - WIP Language Server for Nix! [maintainer=@jD91mZM2]
 - [yewstack/yew](https://github.com/yewstack/yew) - Rust / Wasm framework for building client web apps
 - [nix-community/nixdoc](https://github.com/nix-community/nixdoc) - Tool to generate documentation for Nix library functions [maintainer=@asymmetric]
-- [nix-community/nix-index](https://github.com/nix-community/nix-index) - Quickly locate nix packages with specific files
+- [nix-community/nix-index](https://github.com/nix-community/nix-index) - Quickly locate nix packages with specific files [maintainers=@bennofs @figsoda @raitobezarius]
 - [lf-/nix-doc](https://github.com/lf-/nix-doc) - An interactive Nix documentation tool providing a CLI for function search, a Nix plugin for docs in the REPL, and a ctags implementation for Nix script
 - [astro/deadnix](https://github.com/astro/deadnix) - Scan Nix files for dead code
 - [BrianHicks/nix-script](https://github.com/BrianHicks/nix-script) - write scripts in compiled languages that run in the nix ecosystem, with no separate build step
