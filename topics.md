@@ -692,7 +692,7 @@
 
 ## cli 
 
-- [samwho/spacer](https://github.com/samwho/spacer) - CLI tool to insert spacers in when command output stops
+- [samwho/spacer](https://github.com/samwho/spacer) - CLI tool to insert spacers when command output stops
 - [sioodmy/dotfiles](https://github.com/sioodmy/dotfiles) - Mirror of https://git.sioodmy.dev/sioodmy/dotfiles
 - [replicadse/complate](https://github.com/replicadse/complate) - A powerful text templating tool.
 - [numtide/github-deploy](https://github.com/numtide/github-deploy) - Track deployments on GitHub PRs
@@ -1513,6 +1513,7 @@
 
 ## git 
 
+- [AmrDeveloper/GQL](https://github.com/AmrDeveloper/GQL) - Git Query Language (GQL)
 - [replicadse/complate](https://github.com/replicadse/complate) - A powerful text templating tool.
 - [nix-community/nurl](https://github.com/nix-community/nurl) - Generate Nix fetcher calls from repository URLs [maintainer=@figsoda]
 - [rgbatty/cauldron](https://github.com/rgbatty/cauldron) - Double, double toil and trouble; Fire burn and caldron bubble - A collection of declarative user and host configurations (eg. dotfiles) managed with Nix
@@ -3577,7 +3578,7 @@
 - [nix-community/nixpkgs-wayland](https://github.com/nix-community/nixpkgs-wayland) - Automated, pre-built packages for Wayland (sway/wlroots) tools for NixOS. [maintainers=@colemickens, @Artturin]
 - [graninas/The-Voids-Of-Haskell](https://github.com/graninas/The-Voids-Of-Haskell) - 
 - [foreverphoenix/the-phoenix-flavour](https://github.com/foreverphoenix/the-phoenix-flavour) - A Skyrim SE modding guide.
-- [nix-community/nix-index](https://github.com/nix-community/nix-index) - Quickly locate nix packages with specific files
+- [nix-community/nix-index](https://github.com/nix-community/nix-index) - Quickly locate nix packages with specific files [maintainers=@bennofs @figsoda @raitobezarius]
 - [TitansBane/Elysium](https://github.com/TitansBane/Elysium) - Elysium is a visually focused list that is fully featured with hundreds of new additions and optional Creation Club support—extending the base setup with Enai Siaion's full suite of gameplay overhauls
 - [wabbajack-tools/wabbajack](https://github.com/wabbajack-tools/wabbajack) - An automated Modlist installer for various games.
 - [LibreVR/Revive](https://github.com/LibreVR/Revive) - Play Oculus-exclusive games on the HTC Vive or Valve Index, scroll down for downloads and installation instructions.
@@ -4429,6 +4430,7 @@
 
 - [starship/starship](https://github.com/starship/starship) - ☄🌌️  The minimal, blazing-fast, and infinitely customizable prompt for any shell!
 - [rsteube/carapace](https://github.com/rsteube/carapace) - command argument completion generator for spf13/cobra
+- [hpjansson/chafa](https://github.com/hpjansson/chafa) - 📺🗿 Terminal graphics for the 21st century.
 - [ajeetdsouza/zoxide](https://github.com/ajeetdsouza/zoxide) - A smarter cd command. Supports all major shells.
 - [faressoft/terminalizer](https://github.com/faressoft/terminalizer) - 🦄 Record your terminal and generate animated gif images or share a web player
 - [skywind3000/z.lua](https://github.com/skywind3000/z.lua) - :zap: A new cd command that helps you navigate faster by learning your habits.
@@ -5094,6 +5096,7 @@
 
 ## sql 
 
+- [AmrDeveloper/GQL](https://github.com/AmrDeveloper/GQL) - Git Query Language (GQL)
 - [turbot/steampipe](https://github.com/turbot/steampipe) - Use SQL to instantly query your cloud services (AWS, Azure, GCP and more). Open source CLI. No DB required.
 - [mergestat/mergestat-lite](https://github.com/mergestat/mergestat-lite) - Query git repositories with SQL. Generate reports, perform status checks, analyze codebases. 🔍 📊
 - [neilotoole/sq](https://github.com/neilotoole/sq) - sq data wrangler
