@@ -232,7 +232,7 @@
 ## analytics 
 
 - [nunomaduro/phpinsights](https://github.com/nunomaduro/phpinsights) - 🔰 Instant PHP quality checks from your console
-- [vidstack/player](https://github.com/vidstack/player) - (Beta) Build and ship a production-ready player in minutes. Robust, customizable, accessible, and framework-agnostic. Modern open-source alternative to JWPlayer and Video.js.
+- [vidstack/player](https://github.com/vidstack/player) - (Beta) UI component library for building high-quality, accessible video and audio players for the web. Modern open-source alternative to JWPlayer and Video.js.
 - [PostHog/posthog](https://github.com/PostHog/posthog) - 🦔 PostHog provides open-source product analytics, session recording, feature flagging and a/b testing that you can self-host.
 - [arp242/goatcounter](https://github.com/arp242/goatcounter) - Easy web analytics. No tracking of personal data.
 
@@ -1991,7 +1991,7 @@
 - [azjezz/psl](https://github.com/azjezz/psl) - 📚 PHP Standard Library - a modern, consistent, centralized, well-typed, non-blocking set of APIs for PHP programmers
 - [mdn/content](https://github.com/mdn/content) - The content behind MDN Web Docs
 - [dbohdan/structured-text-tools](https://github.com/dbohdan/structured-text-tools) - A list of command line tools for manipulating structured text data
-- [vidstack/player](https://github.com/vidstack/player) - (Beta) Build and ship a production-ready player in minutes. Robust, customizable, accessible, and framework-agnostic. Modern open-source alternative to JWPlayer and Video.js.
+- [vidstack/player](https://github.com/vidstack/player) - (Beta) UI component library for building high-quality, accessible video and audio players for the web. Modern open-source alternative to JWPlayer and Video.js.
 - [mrVanDalo/landingpage](https://github.com/mrVanDalo/landingpage) - a simple html file using json to render a bookmark page to be shared across teams.
 - [fabrizioschiavi/arrow-finder](https://github.com/fabrizioschiavi/arrow-finder) - These docs help you to find and use arrows you need more quickly
 - [cloudflare/lol-html](https://github.com/cloudflare/lol-html) - Low output latency streaming HTML parser/rewriter with CSS selector-based API
@@ -2077,7 +2077,7 @@
 - [acf-extended/ACF-Extended](https://github.com/acf-extended/ACF-Extended) - 🚀 All-in-one enhancement suite that improves WordPress & Advanced Custom Fields
 - [mdn/content](https://github.com/mdn/content) - The content behind MDN Web Docs
 - [philipstanislaus/performant-array-to-tree](https://github.com/philipstanislaus/performant-array-to-tree) - Converts an array of items with ids and parent ids to a nested tree in a performant O(n) way. Runs in browsers and Node.js.
-- [vidstack/player](https://github.com/vidstack/player) - (Beta) Build and ship a production-ready player in minutes. Robust, customizable, accessible, and framework-agnostic. Modern open-source alternative to JWPlayer and Video.js.
+- [vidstack/player](https://github.com/vidstack/player) - (Beta) UI component library for building high-quality, accessible video and audio players for the web. Modern open-source alternative to JWPlayer and Video.js.
 - [svg/svgo](https://github.com/svg/svgo) - ⚙️ Node.js tool for optimizing SVG files
 - [lindylearn/unclutter](https://github.com/lindylearn/unclutter) - A modern reader mode and article library for your browser.
 - [lovell/sharp](https://github.com/lovell/sharp) - High performance Node.js image processing, the fastest module to resize JPEG, PNG, WebP, AVIF and TIFF images. Uses the libvips library.
@@ -2269,6 +2269,7 @@
 
 ## laravel 
 
+- [laravel/docs](https://github.com/laravel/docs) - The Laravel documentation.
 - [szepeviktor/running-laravel](https://github.com/szepeviktor/running-laravel) - Running Laraval framework-based web applications for long years 🪘
 - [roots/acorn](https://github.com/roots/acorn) - Laravel components for WordPress plugins and themes
 - [pixelfed/pixelfed](https://github.com/pixelfed/pixelfed) - Photo Sharing. For Everyone.
@@ -2926,7 +2927,7 @@
 - [Crell/php-project-template](https://github.com/Crell/php-project-template) - My personal template for new PHP projects.
 - [Crell/Serde](https://github.com/Crell/Serde) - Robust Serde (serialization/deserialization) library for PHP 8.
 - [Crell/Tukio](https://github.com/Crell/Tukio) - A complete and robust implementation of the PSR-14 EventDispatcher specification.
-- [pondersson/org-bulletproof](https://github.com/pondersson/org-bulletproof) - 
+- [pondersson/org-bulletproof](https://github.com/pondersson/org-bulletproof) - Automatic bullet cycling for Org mode
 - [Automattic/phpcs-neutron-ruleset](https://github.com/Automattic/phpcs-neutron-ruleset) - A phpcs meta-ruleset for WordPress development
 - [rjjakes/wordpress-orm](https://github.com/rjjakes/wordpress-orm) - WORM. A lightweight, object oriented Doctrine style ORM for Wordpress 4.8+.
 - [montchr/nix-base16-schemes](https://github.com/montchr/nix-base16-schemes) - yet another way to paint a cat
@@ -5323,7 +5324,7 @@
 - [ritz078/transform](https://github.com/ritz078/transform) - A polyglot web converter.
 - [roots/bud](https://github.com/roots/bud) - High-performance build system that supports SWC, esbuild, and Babel
 - [philipstanislaus/performant-array-to-tree](https://github.com/philipstanislaus/performant-array-to-tree) - Converts an array of items with ids and parent ids to a nested tree in a performant O(n) way. Runs in browsers and Node.js.
-- [vidstack/player](https://github.com/vidstack/player) - (Beta) Build and ship a production-ready player in minutes. Robust, customizable, accessible, and framework-agnostic. Modern open-source alternative to JWPlayer and Video.js.
+- [vidstack/player](https://github.com/vidstack/player) - (Beta) UI component library for building high-quality, accessible video and audio players for the web. Modern open-source alternative to JWPlayer and Video.js.
 - [VSCodeVim/Vim](https://github.com/VSCodeVim/Vim) - :star: Vim for Visual Studio Code
 - [KevinBatdorf/gutenberg-rust-starter](https://github.com/KevinBatdorf/gutenberg-rust-starter) - Gutenberg + Rust + TypeScript
 - [tajo/ladle](https://github.com/tajo/ladle) - 🥄 Develop, test and document your React story components faster.
@@ -5538,7 +5539,7 @@
 
 ## web-components 
 
-- [vidstack/player](https://github.com/vidstack/player) - (Beta) Build and ship a production-ready player in minutes. Robust, customizable, accessible, and framework-agnostic. Modern open-source alternative to JWPlayer and Video.js.
+- [vidstack/player](https://github.com/vidstack/player) - (Beta) UI component library for building high-quality, accessible video and audio players for the web. Modern open-source alternative to JWPlayer and Video.js.
 - [openui/open-ui](https://github.com/openui/open-ui) - Maintain an open standard for UI and promote its adherence and adoption.
 
 ## webapp 
