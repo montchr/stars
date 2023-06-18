@@ -638,6 +638,8 @@
 
 ## Go 
 
+- [majewsky/portunus](https://github.com/majewsky/portunus) - Self-contained user/group management and authentication service
+- [vouch/vouch-proxy](https://github.com/vouch/vouch-proxy) - an SSO and OAuth / OIDC login solution for Nginx using the auth_request module
 - [cbroglie/mustache](https://github.com/cbroglie/mustache) - The mustache template language in Go
 - [numtide/github-deploy](https://github.com/numtide/github-deploy) - Track deployments on GitHub PRs
 - [guumaster/hostctl](https://github.com/guumaster/hostctl) - Your dev tool to manage /etc/hosts like a pro!
@@ -1462,7 +1464,7 @@
 - [internet4refugees/beherbergung](https://github.com/internet4refugees/beherbergung) - Tools for ngos, organizing private hosting :blue_heart: :yellow_heart:
 - [jonringer/server-configuration](https://github.com/jonringer/server-configuration) - Build server nixos configuration
 - [ZilchOS/core](https://github.com/ZilchOS/core) - ZilchOS Core, a decidedly tiny Nix-based distro to play with
-- [fricklerhandwerk/.config](https://github.com/fricklerhandwerk/.config) - user environment configurations with `home-manager`
+- [fricklerhandwerk/settings](https://github.com/fricklerhandwerk/settings) - Nix configuration for all my computers, published for educational purposes
 - [LunNova/nixos-configs](https://github.com/LunNova/nixos-configs) - Config flake for personal systems and home devices
 - [viperML/neoinfra](https://github.com/viperML/neoinfra) - Configuration of my servers
 - [colemickens/nixos-flake-example](https://github.com/colemickens/nixos-flake-example) - This is a demo NixOS config, with optional flakes support. Along with notes on why flakes is useful and worth adopting.
@@ -1572,7 +1574,7 @@
 - [shaunsingh/nix-darwin-dotfiles](https://github.com/shaunsingh/nix-darwin-dotfiles) - Dotfiles managed via Nix-Darwin and Mk-Darwin-System, for schoolwork and kotlin, lua, and rust programming
 - [gvolpe/nix-config](https://github.com/gvolpe/nix-config) - :space_invader: NixOS configuration
 - [Misterio77/nix-starter-configs](https://github.com/Misterio77/nix-starter-configs) - Simple and documented config templates to help you get started with NixOS + home-manager + flakes. All the boilerplate you need!
-- [Shados/nixos-config](https://github.com/Shados/nixos-config) - Generic modules and defaults for my NixOS systems.
+- [Shados/nix-config-shared](https://github.com/Shados/nix-config-shared) - My cross-machine shared configuration, defaults, modules, and packages not suitable for upstreaming or NUR
 - [aciceri/nixfleet](https://github.com/aciceri/nixfleet) - A complete, declarative and reproducible configuration of my entire Nix fleet.
 - [Ericson2314/nixos-configuration](https://github.com/Ericson2314/nixos-configuration) - Much better than a .dotfiles repo
 - [NixOS/nixos-org-configurations](https://github.com/NixOS/nixos-org-configurations) - NixOS configurations for nixos.org and its servers
@@ -1941,7 +1943,7 @@
 - [pyrech/composer-changelogs](https://github.com/pyrech/composer-changelogs) - :notebook: Display better summary after Composer update
 - [spaze/phpstan-disallowed-calls](https://github.com/spaze/phpstan-disallowed-calls) - PHPStan rules to detect disallowed method & function calls, constant, namespace & superglobal usages
 - [Brain-WP/Assets](https://github.com/Brain-WP/Assets) - WordPress assets helpers
-- [szepeviktor/SentencePress](https://github.com/szepeviktor/SentencePress) - A set of words that is complete in itself. - WordPress OOP wrappers
+- [szepeviktor/SentencePress](https://github.com/szepeviktor/SentencePress) - A set of words that is complete in itself. - OOP wrappers for WordPress
 - [php-stubs/acf-pro-stubs](https://github.com/php-stubs/acf-pro-stubs) - ACF PRO stubs for static analysis
 - [spatie/menu](https://github.com/spatie/menu) - Html menu generator
 - [broskees/gutenberg-tailwind-safelist](https://github.com/broskees/gutenberg-tailwind-safelist) - Creates a safelist in your Tailwind config for all the Tailwind classes used in the Wordpress/Gutenberg editor.
