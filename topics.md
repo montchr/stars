@@ -1656,6 +1656,7 @@
 
 ## golang 
 
+- [vouch/vouch-proxy](https://github.com/vouch/vouch-proxy) - an SSO and OAuth / OIDC login solution for Nginx using the auth_request module
 - [ritz078/transform](https://github.com/ritz078/transform) - A polyglot web converter.
 - [guumaster/hostctl](https://github.com/guumaster/hostctl) - Your dev tool to manage /etc/hosts like a pro!
 - [turbot/steampipe](https://github.com/turbot/steampipe) - Use SQL to instantly query your cloud services (AWS, Azure, GCP and more). Open source CLI. No DB required.
@@ -2918,6 +2919,7 @@
 
 ## others 
 
+- [majewsky/portunus](https://github.com/majewsky/portunus) - Self-contained user/group management and authentication service
 - [termstandard/colors](https://github.com/termstandard/colors) - Color standards for terminal emulators
 - [10up/headstartwp](https://github.com/10up/headstartwp) - Build a headless website fast with WordPress, the world’s most popular CMS, and Next.js, the most popular React framework. A free and open source solution by the experts at 10up.
 - [casouri/vundo](https://github.com/casouri/vundo) - Visualize the undo tree.
@@ -3241,7 +3243,7 @@
 - [tianon/dockerfiles](https://github.com/tianon/dockerfiles) - A semi-random collection of odds and ends.
 - [sabre-io/dav](https://github.com/sabre-io/dav) - sabre/dav is a CalDAV, CardDAV and WebDAV framework for PHP
 - [ZilchOS/core](https://github.com/ZilchOS/core) - ZilchOS Core, a decidedly tiny Nix-based distro to play with
-- [fricklerhandwerk/.config](https://github.com/fricklerhandwerk/.config) - user environment configurations with `home-manager`
+- [fricklerhandwerk/settings](https://github.com/fricklerhandwerk/settings) - Nix configuration for all my computers, published for educational purposes
 - [DeterminateSystems/nix-netboot-serve](https://github.com/DeterminateSystems/nix-netboot-serve) - Make any NixOS system netbootable with 10s cycle times.
 - [Wenzel/awesome-virtualization](https://github.com/Wenzel/awesome-virtualization) - Collection of resources about Virtualization
 - [bvisness/SQLJam](https://github.com/bvisness/SQLJam) - A jam project exploring new ways of querying databases.
@@ -3603,7 +3605,7 @@
 - [bigskysoftware/_hyperscript](https://github.com/bigskysoftware/_hyperscript) - a small scripting language for the web
 - [Misterio77/nix-starter-configs](https://github.com/Misterio77/nix-starter-configs) - Simple and documented config templates to help you get started with NixOS + home-manager + flakes. All the boilerplate you need!
 - [azet/community_bash_style_guide](https://github.com/azet/community_bash_style_guide) - Community Bash Style Guide: writing useful and modern bash scripts, seriously.
-- [Shados/nixos-config](https://github.com/Shados/nixos-config) - Generic modules and defaults for my NixOS systems.
+- [Shados/nix-config-shared](https://github.com/Shados/nix-config-shared) - My cross-machine shared configuration, defaults, modules, and packages not suitable for upstreaming or NUR
 - [lf-/nix-doc](https://github.com/lf-/nix-doc) - An interactive Nix documentation tool providing a CLI for function search, a Nix plugin for docs in the REPL, and a ctags implementation for Nix script
 - [sei40kr/zsh-lazy-nvm](https://github.com/sei40kr/zsh-lazy-nvm) - Lazy nvm loading with auto use support!
 - [pmndrs/zustand](https://github.com/pmndrs/zustand) - 🐻 Bear necessities for state management in React
@@ -5607,7 +5609,7 @@
 - [alleyinteractive/mantle-framework](https://github.com/alleyinteractive/mantle-framework) - Mantle is a framework for building large, robust websites and applications with WordPress. Framework for https://github.com/alleyinteractive/mantle
 - [szepeviktor/waf4wordpress](https://github.com/szepeviktor/waf4wordpress) - WAF for WordPress 🔥 with 60+ security checks and weekly updates
 - [Brain-WP/Assets](https://github.com/Brain-WP/Assets) - WordPress assets helpers
-- [szepeviktor/SentencePress](https://github.com/szepeviktor/SentencePress) - A set of words that is complete in itself. - WordPress OOP wrappers
+- [szepeviktor/SentencePress](https://github.com/szepeviktor/SentencePress) - A set of words that is complete in itself. - OOP wrappers for WordPress
 - [10up/gutenberg-best-practices](https://github.com/10up/gutenberg-best-practices) - Welcome to the 10up Gutenberg Best Practices!
 - [php-stubs/acf-pro-stubs](https://github.com/php-stubs/acf-pro-stubs) - ACF PRO stubs for static analysis
 - [broskees/gutenberg-tailwind-safelist](https://github.com/broskees/gutenberg-tailwind-safelist) - Creates a safelist in your Tailwind config for all the Tailwind classes used in the Wordpress/Gutenberg editor.
