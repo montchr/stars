@@ -67,6 +67,7 @@
 - [Rust](#rust)
 - [SCSS](#scss)
 - [Scala](#scala)
+- [Scheme](#scheme)
 - [Shell](#shell)
 - [Sieve](#sieve)
 - [SuperCollider](#supercollider)
@@ -264,6 +265,7 @@
 - [darrenjacoby/tailwindcss-fl](https://github.com/darrenjacoby/tailwindcss-fl) - TailwindCSS plugin to generate fluid utility classes using existing config
 - [Etesam913/rounded-fox](https://github.com/Etesam913/rounded-fox) - A userchrome css configuration for firefox that is ultra-minimalistic
 - [codeguy/php-the-right-way](https://github.com/codeguy/php-the-right-way) - An easy-to-read, quick reference for PHP best practices, accepted coding standards, and links to authoritative tutorials around the Web
+- [gregrickaby/nextjs-github-pages](https://github.com/gregrickaby/nextjs-github-pages) - 🚀 Deploy a Next.js app to Github Pages via Github Actions.
 - [josephfusco/angled-edges](https://github.com/josephfusco/angled-edges) - :triangular_ruler: Quickly create angled section edges using only Sass
 - [sissbruecker/linkding-extension](https://github.com/sissbruecker/linkding-extension) - Companion extension for linkding
 - [QNetITQ/WaveFox](https://github.com/QNetITQ/WaveFox) - Flexible theme for manual customization.
@@ -356,6 +358,7 @@
 
 ## Emacs Lisp 
 
+- [commercial-emacs/commercial-emacs](https://github.com/commercial-emacs/commercial-emacs) - "Evil will always triumph, because good is dumb." -- Spaceballs (1987)
 - [casouri/vundo](https://github.com/casouri/vundo) - Visualize the undo tree.
 - [pondersson/org-bulletproof](https://github.com/pondersson/org-bulletproof) - Automatic bullet cycling for Org mode
 - [repelliuss/bind](https://github.com/repelliuss/bind) - `bind' many commands to keys in many keymaps, multiple times with support for prefix, autoload, repeat-mode and save&restore.
@@ -638,8 +641,8 @@
 
 ## Go 
 
+- [oauth2-proxy/oauth2-proxy](https://github.com/oauth2-proxy/oauth2-proxy) - A reverse proxy that provides authentication with Google, Azure, OpenID Connect and many more identity providers.
 - [majewsky/portunus](https://github.com/majewsky/portunus) - Self-contained user/group management and authentication service
-- [vouch/vouch-proxy](https://github.com/vouch/vouch-proxy) - an SSO and OAuth / OIDC login solution for Nginx using the auth_request module
 - [cbroglie/mustache](https://github.com/cbroglie/mustache) - The mustache template language in Go
 - [numtide/github-deploy](https://github.com/numtide/github-deploy) - Track deployments on GitHub PRs
 - [guumaster/hostctl](https://github.com/guumaster/hostctl) - Your dev tool to manage /etc/hosts like a pro!
@@ -972,7 +975,6 @@
 - [svg/svgo](https://github.com/svg/svgo) - ⚙️ Node.js tool for optimizing SVG files
 - [lovell/sharp](https://github.com/lovell/sharp) - High performance Node.js image processing, the fastest module to resize JPEG, PNG, WebP, AVIF and TIFF images. Uses the libvips library.
 - [KevinBatdorf/gutenberg-rust-starter](https://github.com/KevinBatdorf/gutenberg-rust-starter) - Gutenberg + Rust + TypeScript
-- [gregrickaby/nextjs-github-pages](https://github.com/gregrickaby/nextjs-github-pages) - 🚀 Deploy a Next.js app to Github Pages via Github Actions.
 - [iann0036/former2](https://github.com/iann0036/former2) - Generate CloudFormation / Terraform / Troposphere templates from your existing AWS resources.
 - [simple-icons/simple-icons](https://github.com/simple-icons/simple-icons) - SVG icons for popular brands
 - [lucide-icons/lucide](https://github.com/lucide-icons/lucide) - Beautiful & consistent icon toolkit made by the community. Open-source project and a fork of Feather Icons.
@@ -1271,7 +1273,6 @@
 - [windwp/nvim-autopairs](https://github.com/windwp/nvim-autopairs) - autopairs for neovim written by lua
 - [nvim-telescope/telescope.nvim](https://github.com/nvim-telescope/telescope.nvim) - Find, Filter, Preview, Pick. All lua, all the time.
 - [folke/noice.nvim](https://github.com/folke/noice.nvim) - 💥 Highly experimental plugin that completely replaces the UI for messages, cmdline and the popupmenu.
-- [nvim-treesitter/nvim-treesitter-textobjects](https://github.com/nvim-treesitter/nvim-treesitter-textobjects) - 
 - [wbthomason/dotfiles](https://github.com/wbthomason/dotfiles) - My dotfiles
 - [wbthomason/packer.nvim](https://github.com/wbthomason/packer.nvim) - A use-package inspired plugin manager for Neovim. Uses native packages, supports Luarocks dependencies, written in Lua, allows for expressive config
 - [Optixal/neovim-init.vim](https://github.com/Optixal/neovim-init.vim) - :izakaya_lantern: A hybrid Neovim configuration for productive developers who want a functional yet aesthetic Vim experience :izakaya_lantern:
@@ -2657,6 +2658,10 @@
 ## Scala 
 
 - [guardian/frontend](https://github.com/guardian/frontend) - The Guardian DotCom.
+
+## Scheme 
+
+- [nvim-treesitter/nvim-treesitter-textobjects](https://github.com/nvim-treesitter/nvim-treesitter-textobjects) - 
 
 ## Shell 
 
