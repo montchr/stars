@@ -2491,6 +2491,7 @@
 
 ## Rust 
 
+- [sorcerers-class/automancy](https://github.com/sorcerers-class/automancy) - A game about Automation, themed around Magic, based on Hexagons, and -- there's no Conveyor Belts.
 - [uutils/coreutils](https://github.com/uutils/coreutils) - Cross-platform Rust rewrite of the GNU coreutils
 - [AmrDeveloper/GQL](https://github.com/AmrDeveloper/GQL) - A SQL like query language called GQL (Git Query Language) to perform queries on your local .git files with functions, conditions and statements
 - [samwho/spacer](https://github.com/samwho/spacer) - CLI tool to insert spacers when command output stops
