@@ -1496,6 +1496,7 @@
 
 ## game 
 
+- [sorcerers-class/automancy](https://github.com/sorcerers-class/automancy) - A game about Automation, themed around Magic, based on Hexagons, and -- there's no Conveyor Belts.
 - [dkhamsing/open-source-ios-apps](https://github.com/dkhamsing/open-source-ios-apps) - :iphone: Collaborative List of Open-Source iOS Apps
 - [a-little-org-called-mario/a-little-game-called-mario](https://github.com/a-little-org-called-mario/a-little-game-called-mario) - open source collective hell game
 
@@ -4767,6 +4768,7 @@
 
 ## rust 
 
+- [sorcerers-class/automancy](https://github.com/sorcerers-class/automancy) - A game about Automation, themed around Magic, based on Hexagons, and -- there's no Conveyor Belts.
 - [uutils/coreutils](https://github.com/uutils/coreutils) - Cross-platform Rust rewrite of the GNU coreutils
 - [swsnr/mdcat](https://github.com/swsnr/mdcat) - cat for markdown
 - [BillyDM/Awesome-Audio-DSP](https://github.com/BillyDM/Awesome-Audio-DSP) - My curated list of audio DSP and plugin development resources
