@@ -50,7 +50,6 @@
 - [Markdown](#markdown)
 - [Mustache](#mustache)
 - [Nix](#nix)
-- [Nu](#nu)
 - [Nushell](#nushell)
 - [OCaml](#ocaml)
 - [Objective-C](#objective-c)
@@ -72,6 +71,7 @@
 - [Scheme](#scheme)
 - [Shell](#shell)
 - [Sieve](#sieve)
+- [Smarty](#smarty)
 - [SuperCollider](#supercollider)
 - [Svelte](#svelte)
 - [Swift](#swift)
@@ -360,6 +360,10 @@
 
 ## Emacs Lisp 
 
+- [susam/devil](https://github.com/susam/devil) - Emacs minor mode that intercepts and translates keystrokes to provide a modifier-free editing experience
+- [positron-solutions/user-keys](https://github.com/positron-solutions/user-keys) - The keyboard belongs to the user
+- [abo-abo/orca](https://github.com/abo-abo/orca) - ORg CApture
+- [milkypostman/dotemacs](https://github.com/milkypostman/dotemacs) - .emacs.d
 - [commercial-emacs/commercial-emacs](https://github.com/commercial-emacs/commercial-emacs) - "Evil will always triumph, because good is dumb." -- Spaceballs (1987)
 - [casouri/vundo](https://github.com/casouri/vundo) - Visualize the undo tree.
 - [pondersson/org-bulletproof](https://github.com/pondersson/org-bulletproof) - Automatic bullet cycling for Org mode
@@ -1355,13 +1359,13 @@
 ## Mustache 
 
 - [danth/stylix](https://github.com/danth/stylix) - System-wide colorscheming and typography for NixOS
-- [bitnami/charts](https://github.com/bitnami/charts) - Bitnami Helm Charts
 - [hsluv/hsluv](https://github.com/hsluv/hsluv) - Human-friendly HSL, website and math
 - [kdrag0n/base16-kitty](https://github.com/kdrag0n/base16-kitty) - Base16 color scheme template for kitty
 - [tinted-theming/base16-jetbrains](https://github.com/tinted-theming/base16-jetbrains) - Base16 themes for Jetbrains IDE's (IntelliJ, PyCharm, Webstorm, etc) - and the Material Theme plugin
 
 ## Nix 
 
+- [cdepillabout/evil-nix](https://github.com/cdepillabout/evil-nix) - A Nix library to download files from the internet without requiring a hash
 - [astro/skyflake](https://github.com/astro/skyflake) - NixOS Hyperconverged Infrastructure on Nomad/NixOS
 - [oddlama/nix-config](https://github.com/oddlama/nix-config) - ❄️ My nix config and dotfiles
 - [oddlama/agenix-rekey](https://github.com/oddlama/agenix-rekey) - An agenix extension adding secret generation and automatic rekeying using a YubiKey or master-identity
@@ -1694,12 +1698,9 @@
 - [hlissner/dotfiles](https://github.com/hlissner/dotfiles) - And I say hey, what's going on?
 - [LnL7/nix-darwin](https://github.com/LnL7/nix-darwin) - nix modules for darwin
 
-## Nu 
-
-- [DeterminateSystems/nuenv](https://github.com/DeterminateSystems/nuenv) - A Nushell environment for Nix
-
 ## Nushell 
 
+- [DeterminateSystems/nuenv](https://github.com/DeterminateSystems/nuenv) - A Nushell environment for Nix
 - [nushell/nu_scripts](https://github.com/nushell/nu_scripts) - A place to share Nushell scripts with each other
 - [tony/.dot-config](https://github.com/tony/.dot-config) - :books: Example dot configs for tmux, tmuxp, vim, vcspull, i3 and awesome
 
@@ -1734,6 +1735,7 @@
 
 ## Others 
 
+- [alexeymezenin/laravel-best-practices](https://github.com/alexeymezenin/laravel-best-practices) - Laravel best practices
 - [termstandard/colors](https://github.com/termstandard/colors) - Color standards for terminal emulators
 - [laravel/docs](https://github.com/laravel/docs) - The Laravel documentation.
 - [Automattic/phpcs-neutron-ruleset](https://github.com/Automattic/phpcs-neutron-ruleset) - A phpcs meta-ruleset for WordPress development
@@ -2074,7 +2076,7 @@
 - [alleyinteractive/archiveless](https://github.com/alleyinteractive/archiveless) - WordPress plugin to hide posts from archives (lists)
 - [phpmd/phpmd](https://github.com/phpmd/phpmd) - PHPMD is a spin-off project of PHP Depend and aims to be a PHP equivalent of the well known Java tool PMD. PHPMD can be seen as an user friendly frontend application for the raw metrics stream measure
 - [sabre-io/dav](https://github.com/sabre-io/dav) - sabre/dav is a CalDAV, CardDAV and WebDAV framework for PHP
-- [Automattic/vip-container-images](https://github.com/Automattic/vip-container-images) - Multipurpose VIP Docker container images
+- [Automattic/vip-container-images](https://github.com/Automattic/vip-container-images) - Multipurpose VIP Docker container images (primarily meant for use with the VIP Local Development Environment)
 - [humanmade/Workflows](https://github.com/humanmade/Workflows) - Powerful workflows for WordPress
 - [nelmio/alice](https://github.com/nelmio/alice) - Expressive fixtures generator
 - [nette/tracy](https://github.com/nette/tracy) - 😎 Tracy: the addictive tool to ease debugging PHP code for cool developers. Friendly design, logging, profiler, advanced features like debugging AJAX calls or CLI support. You will love it.
@@ -2492,6 +2494,7 @@
 
 ## Rust 
 
+- [kamiyaa/joshuto](https://github.com/kamiyaa/joshuto) - ranger-like terminal file manager written in Rust
 - [sorcerers-class/automancy](https://github.com/sorcerers-class/automancy) - A game about Automation, themed around Magic, based on Hexagons, and -- there's no Conveyor Belts.
 - [uutils/coreutils](https://github.com/uutils/coreutils) - Cross-platform Rust rewrite of the GNU coreutils
 - [AmrDeveloper/GQL](https://github.com/AmrDeveloper/GQL) - A SQL like query language called GQL (Git Query Language) to perform queries on your local .git files with functions, conditions and statements
@@ -2932,6 +2935,10 @@
 ## Sieve 
 
 - [SoMuchToGrok/email-sieves](https://github.com/SoMuchToGrok/email-sieves) - collection of email sieves (filters)
+
+## Smarty 
+
+- [bitnami/charts](https://github.com/bitnami/charts) - Bitnami Helm Charts
 
 ## SuperCollider 
 
