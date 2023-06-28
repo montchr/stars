@@ -2936,6 +2936,7 @@
 
 ## others 
 
+- [dingo-d/wp-pest](https://github.com/dingo-d/wp-pest) - A package that will add WordPress integration test suite with Pest
 - [cdepillabout/evil-nix](https://github.com/cdepillabout/evil-nix) - A Nix library to download files from the internet without requiring a hash
 - [positron-solutions/user-keys](https://github.com/positron-solutions/user-keys) - The keyboard belongs to the user
 - [abo-abo/orca](https://github.com/abo-abo/orca) - ORg CApture
