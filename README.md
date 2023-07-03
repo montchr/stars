@@ -435,9 +435,9 @@
 - [meow-edit/meow](https://github.com/meow-edit/meow) - Yet another modal editing on Emacs / 猫态编辑
 - [jyp/boon](https://github.com/jyp/boon) - Ergonomic Command Mode for Emacs
 - [lassik/emacs-format-all-the-code](https://github.com/lassik/emacs-format-all-the-code) - Auto-format source code in many languages with one command
-- [tecosaur/org-glossary](https://github.com/tecosaur/org-glossary) - Glossary, Acronyms, and Index capability within Org
+- [tecosaur/org-glossary](https://github.com/tecosaur/org-glossary) - Mirror of https://git.tecosaur.net/tec/org-glossary
 - [jojojames/matcha](https://github.com/jojojames/matcha) - Collection of transients with a generic interface to launch them
-- [tecosaur/engrave-faces](https://github.com/tecosaur/engrave-faces) - Convert font-lock faces to other formats
+- [tecosaur/engrave-faces](https://github.com/tecosaur/engrave-faces) - Mirror of https://git.tecosaur.net/tec/engrave-faces
 - [mihaiolteanu/mugur](https://github.com/mihaiolteanu/mugur) - Configurator for QMK compatible keyboards
 - [jeetelongname/dotfiles](https://github.com/jeetelongname/dotfiles) - Dotfiles
 - [thblt/sway.el](https://github.com/thblt/sway.el) - Emacs ❤️ Sway
@@ -511,7 +511,7 @@
 - [thefrontside/frontmacs](https://github.com/thefrontside/frontmacs) - Package-based, web-centric, customizable, awesome-by-default, acceptance-tested Emacs distribution
 - [ianyepan/yay-evil-emacs](https://github.com/ianyepan/yay-evil-emacs) - 😈 A lightweight literate Emacs config with even better "better defaults". Shipped with a custom theme!
 - [purcell/emacs.d](https://github.com/purcell/emacs.d) - An Emacs configuration bundle with batteries included
-- [tecosaur/org-music](https://github.com/tecosaur/org-music) - Link to tracks in Org files
+- [tecosaur/org-music](https://github.com/tecosaur/org-music) - Mirror of https://git.tecosaur.net/tec/org-music
 - [et2010/org-gtd](https://github.com/et2010/org-gtd) - Private layer for GTD.
 - [himmAllRight/ry-org-scrum](https://github.com/himmAllRight/ry-org-scrum) - Emacs package to manage personal scrum planning in org mode
 - [mclear-tools/bespoke-modeline](https://github.com/mclear-tools/bespoke-modeline) - A simple custom modeline
@@ -580,7 +580,7 @@
 - [jwiegley/use-package](https://github.com/jwiegley/use-package) - A use-package declaration for simplifying your .emacs
 - [emacs-php/phpactor.el](https://github.com/emacs-php/phpactor.el) - Interface to Phpactor (an intelligent code-completion and refactoring tool for PHP)
 - [rougier/mu4e-thread-folding](https://github.com/rougier/mu4e-thread-folding) - Functions for folding threads in mu4e headers view
-- [tecosaur/emacs-everywhere](https://github.com/tecosaur/emacs-everywhere) - System-wide popup Emacs windows for quick edits
+- [tecosaur/emacs-everywhere](https://github.com/tecosaur/emacs-everywhere) - Mirror of https://git.tecosaur.net/tec/emacs-everywhere
 - [yuchen-lea/org-media-note](https://github.com/yuchen-lea/org-media-note) - Taking interactive notes when watching videos or listening to audios in org-mode.
 - [gf3/dotfiles](https://github.com/gf3/dotfiles) - Configurations for the tools I use every day
 - [emacs-lsp/lsp-mode](https://github.com/emacs-lsp/lsp-mode) - Emacs client/library for the Language Server Protocol
@@ -630,7 +630,6 @@
 - [ggandor/leap.nvim](https://github.com/ggandor/leap.nvim) - Neovim's answer to the mouse 🦘
 - [nyoom-engineering/nyoom.nvim](https://github.com/nyoom-engineering/nyoom.nvim) - A Neovim framework and doom emacs alternative for the stubborn martian hacker. Powered by fennel and the oxocarbon theme
 - [jsfr/Spoons](https://github.com/jsfr/Spoons) - Personal Hammerspoon Spoons Repository
-- [Olical/dotfiles](https://github.com/Olical/dotfiles) - Configuration for Linux, i3, Kitty, Fish, Neovim and more
 - [agzam/spacehammer](https://github.com/agzam/spacehammer) - Hammerspoon config inspired by Spacemacs
 
 ## GDB 
@@ -1285,7 +1284,7 @@
 - [wbthomason/packer.nvim](https://github.com/wbthomason/packer.nvim) - A use-package inspired plugin manager for Neovim. Uses native packages, supports Luarocks dependencies, written in Lua, allows for expressive config
 - [Optixal/neovim-init.vim](https://github.com/Optixal/neovim-init.vim) - :izakaya_lantern: A hybrid Neovim configuration for productive developers who want a functional yet aesthetic Vim experience :izakaya_lantern:
 - [ecosse3/nvim](https://github.com/ecosse3/nvim) - A non-minimal Neovim config built to work most efficiently with Frontend Development - React & Vue.js
-- [TimUntersberger/neogit](https://github.com/TimUntersberger/neogit) - magit for neovim
+- [NeogitOrg/neogit](https://github.com/NeogitOrg/neogit) - magit for neovim
 - [folke/tokyonight.nvim](https://github.com/folke/tokyonight.nvim) - 🏙  A clean, dark Neovim theme written in Lua, with support for lsp, treesitter and lots of plugins. Includes additional themes for Kitty, Alacritty, iTerm and Fish.
 - [ray-x/nvim](https://github.com/ray-x/nvim) - Blazing fast neovim setup with 180+ plugins.
 - [ray-x/navigator.lua](https://github.com/ray-x/navigator.lua) - Code analysis & navigation plugin for Neovim. Navigate codes like a breeze🎐  Exploring LSP and 🌲Treesitter symbols a piece of 🍰  Take control like a boss 🦍
@@ -1308,6 +1307,7 @@
 - [MCotocel/nixdots](https://github.com/MCotocel/nixdots) - I have no idea what the hell I'm doing
 - [doom-neovim/doom-nvim](https://github.com/doom-neovim/doom-nvim) - A Neovim configuration for the advanced martian hacker
 - [pinpox/wallpaper-generator](https://github.com/pinpox/wallpaper-generator) - Generate wallpaper images from mathematical functions
+- [Olical/dotfiles](https://github.com/Olical/dotfiles) - Configuration for Linux, i3, Kitty, Fish, Neovim and more
 - [nmattia/homies](https://github.com/nmattia/homies) - linux package management
 - [manilarome/the-glorious-dotfiles](https://github.com/manilarome/the-glorious-dotfiles) - A glorified personal dot files
 - [zzamboni/dot-hammerspoon](https://github.com/zzamboni/dot-hammerspoon) - My personal Hammerspoon configuration - mirrored from GitLab
@@ -1378,7 +1378,7 @@
 - [flakelib/fl](https://github.com/flakelib/fl) - callPackage for Nix flakes
 - [musnix/musnix](https://github.com/musnix/musnix) - Real-time audio in NixOS
 - [MayNiklas/nixos](https://github.com/MayNiklas/nixos) - My personal NixOS infrastructure
-- [foo-dogsquared/nixos-config](https://github.com/foo-dogsquared/nixos-config) - World's weakest NixOS user's system configuration.
+- [foo-dogsquared/nixos-config](https://github.com/foo-dogsquared/nixos-config) - Aiming to be the most overkill NixOS config in the entire world.
 - [shyim/nixcfg](https://github.com/shyim/nixcfg) - My Nix config for my Macbook and Server
 - [ethnt/tilde](https://github.com/ethnt/tilde) - macOS configuration via Nix
 - [ethnt/e10](https://github.com/ethnt/e10) - My local network, built with Nix and Terraform
@@ -2494,6 +2494,7 @@
 
 ## Rust 
 
+- [jqnatividad/qsv](https://github.com/jqnatividad/qsv) - CSVs sliced, diced & analyzed.
 - [DeterminateSystems/magic-nix-cache](https://github.com/DeterminateSystems/magic-nix-cache) - Save 30-50%+ of CI time without any effort or cost. Use Magic Nix Cache, a totally free and zero-configuration binary cache for Nix on GitHub Actions.
 - [kamiyaa/joshuto](https://github.com/kamiyaa/joshuto) - ranger-like terminal file manager written in Rust
 - [sorcerers-class/automancy](https://github.com/sorcerers-class/automancy) - A game about Automation, themed around Magic, based on Hexagons, and -- there's no Conveyor Belts.
@@ -2841,7 +2842,7 @@
 - [3v1n0/zsh-bash-completions-fallback](https://github.com/3v1n0/zsh-bash-completions-fallback) - Simple zsh plugin to support bash completions for a command if no native one is available
 - [reconquest/shdoc](https://github.com/reconquest/shdoc) - Documentation generator for shell scripts (bash, sh, zsh). Javadoc for shell scripts.
 - [fsaintjacques/semver-tool](https://github.com/fsaintjacques/semver-tool) - semver bash implementation
-- [xero/dotfiles](https://github.com/xero/dotfiles) - ▒ rice ░░  custom linux config files
+- [xero/dotfiles](https://github.com/xero/dotfiles) - rice 🍚 custom linux config files. as seen on r/unixporn #noricenolife neovim cultist. perpetual wip
 - [pratiktri/server_init_harden](https://github.com/pratiktri/server_init_harden) - Server hardening on 1st login as "root"
 - [webpro/dotfiles](https://github.com/webpro/dotfiles) - Dotfiles for macOS
 - [pch/welder](https://github.com/pch/welder) - 👨‍🏭Set up your Linux server with plain shell scripts
@@ -3021,7 +3022,7 @@
 - [Highfivery/nextjs-starter](https://github.com/Highfivery/nextjs-starter) - A Next.js 13 CMS & theme agnostic starter framework to build fully-featured headless sites.
 - [roots/bud](https://github.com/roots/bud) - High-performance build system that supports SWC, esbuild, and Babel
 - [joe-bell/cva](https://github.com/joe-bell/cva) - Class Variance Authority
-- [dotenv-org/dotenv-vault](https://github.com/dotenv-org/dotenv-vault) - Simplify Your Secrets. The #1 secrets manager for .env files.
+- [dotenv-org/dotenv-vault](https://github.com/dotenv-org/dotenv-vault) - A secrets manager for .env files
 - [philipstanislaus/performant-array-to-tree](https://github.com/philipstanislaus/performant-array-to-tree) - Converts an array of items with ids and parent ids to a nested tree in a performant O(n) way. Runs in browsers and Node.js.
 - [meodai/poline](https://github.com/meodai/poline) - Esoteric Palette Generator Mico-Lib Interpolating HSL Color in cartesian space
 - [sjinks/setup-wordpress-test-library](https://github.com/sjinks/setup-wordpress-test-library) - Set up WordPress and WordPress Test Library for unit tests
