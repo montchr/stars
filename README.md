@@ -359,6 +359,9 @@
 
 ## Emacs Lisp 
 
+- [positron-solutions/transient-showcase](https://github.com/positron-solutions/transient-showcase) - Example forms for transient UI's in Emacs
+- [neeasade/emacs.d](https://github.com/neeasade/emacs.d) - forest
+- [abo-abo/lispy](https://github.com/abo-abo/lispy) - Short and sweet LISP editing
 - [susam/devil](https://github.com/susam/devil) - Emacs minor mode that intercepts and translates keystrokes to provide a modifier-free editing experience
 - [positron-solutions/user-keys](https://github.com/positron-solutions/user-keys) - The keyboard belongs to the user
 - [abo-abo/orca](https://github.com/abo-abo/orca) - ORg CApture
@@ -996,7 +999,7 @@
 - [postlight/parser](https://github.com/postlight/parser) - 📜 Extract meaningful content from the chaos of a web page
 - [postlight/headless-wp-starter](https://github.com/postlight/headless-wp-starter) - 🔪 WordPress + React Starter Kit: Spin up a WordPress-powered React app in one step
 - [10up/wp-local-docker-v2](https://github.com/10up/wp-local-docker-v2) - A simple Docker based development environment for WordPress.
-- [artilleryio/artillery](https://github.com/artilleryio/artillery) - 🌩 Cloud-scale load testing, as easy as 1-2-3. Serverless & batteries-included. Any stack, any scale!
+- [artilleryio/artillery](https://github.com/artilleryio/artillery) - 🌩 Cloud-scale serverless load testing, as easy as 1-2-3. No DevOps needed. Never fail to scale!
 - [sveltejs/svelte](https://github.com/sveltejs/svelte) - Cybernetically enhanced web apps
 - [louislam/uptime-kuma](https://github.com/louislam/uptime-kuma) - A fancy self-hosted monitoring tool
 - [WordPress/wordpress-playground](https://github.com/WordPress/wordpress-playground) - Run WordPress in the browser via WebAssembly PHP
@@ -1674,7 +1677,7 @@
 - [numtide/flake-utils](https://github.com/numtide/flake-utils) - Pure Nix flake utility functions
 - [nix-dot-dev/getting-started-devenv-template](https://github.com/nix-dot-dev/getting-started-devenv-template) - Based on nix.dev tutorials, repository template to get you started with Nix.
 - [aergonaut/aether](https://github.com/aergonaut/aether) - Son of Erebus (Darkness) and Nyx (Night)
-- [sagittaros/emacs-osx](https://github.com/sagittaros/emacs-osx) - Emacs on Mac OSX. Install with Nix
+- [inscapist/emacs-osx](https://github.com/inscapist/emacs-osx) - Emacs on Mac OSX. Install with Nix
 - [rasendubi/dotfiles](https://github.com/rasendubi/dotfiles) - My dotfiles
 - [jtojnar/nixpkgs-hammering](https://github.com/jtojnar/nixpkgs-hammering) - Beat your package expressions into a shape
 - [jamesottaway/nixfiles](https://github.com/jamesottaway/nixfiles) - /etc/nixos/configuration.nix
@@ -2044,7 +2047,7 @@
 - [carlalexander/passwords-evolved](https://github.com/carlalexander/passwords-evolved) - WordPress password authentication for the modern era
 - [Quartz/wp-graphql-content-blocks](https://github.com/Quartz/wp-graphql-content-blocks) - Structured content blocks for WPGraphQL
 - [pristas-peter/wp-graphql-gutenberg](https://github.com/pristas-peter/wp-graphql-gutenberg) - Query gutenberg blocks with wp-graphql
-- [harness-software/wp-graphql-gravity-forms](https://github.com/harness-software/wp-graphql-gravity-forms) - GraphQL API for interacting with Gravity Forms.
+- [AxeWP/wp-graphql-gravity-forms](https://github.com/AxeWP/wp-graphql-gravity-forms) - GraphQL API for interacting with Gravity Forms.
 - [harness-software/wp-graphql-posts-to-posts](https://github.com/harness-software/wp-graphql-posts-to-posts) - Creates GraphQL connections for all registered Posts 2 Posts connections.
 - [postlight/wp-callisto-migrator](https://github.com/postlight/wp-callisto-migrator) - 🌐 👉 📋 Migrate any content to WordPress in a few clicks
 - [mindkomm/theme-lib-mix](https://github.com/mindkomm/theme-lib-mix) - A Laravel Mix function for WordPress themes.
@@ -2368,7 +2371,7 @@
 - [l3uddz/cloudplow](https://github.com/l3uddz/cloudplow) - Automatic rclone remote uploader, with support for multiple remote/folder pairings.  UnionFS Cleaner functionality: Deletion of UnionFS whiteout files  and their corresponding files on rclone remotes.
 - [DavHau/mach-nix](https://github.com/DavHau/mach-nix) - Create highly reproducible python environments
 - [NixOS/nixops](https://github.com/NixOS/nixops) - NixOps is a tool for deploying to NixOS machines in a network or cloud.
-- [jina-ai/jina](https://github.com/jina-ai/jina) - 🔮 Build multimodal AI services via cloud native technologies
+- [jina-ai/jina](https://github.com/jina-ai/jina) - 🔮 Multimodal AI services & pipelines with cloud-native stack: gRPC, Kubernetes, Docker, OpenTelemetry, Prometheus, Jaeger, etc.
 - [abathur/resholve](https://github.com/abathur/resholve) - a shell resolver? :)
 - [benbusby/whoogle-search](https://github.com/benbusby/whoogle-search) - A self-hosted, ad-free, privacy-respecting metasearch engine
 - [pindexis/marker](https://github.com/pindexis/marker) - The terminal command palette
@@ -2494,6 +2497,7 @@
 
 ## Rust 
 
+- [squidowl/halloy](https://github.com/squidowl/halloy) - IRC application written in Rust
 - [jqnatividad/qsv](https://github.com/jqnatividad/qsv) - CSVs sliced, diced & analyzed.
 - [DeterminateSystems/magic-nix-cache](https://github.com/DeterminateSystems/magic-nix-cache) - Save 30-50%+ of CI time without any effort or cost. Use Magic Nix Cache, a totally free and zero-configuration binary cache for Nix on GitHub Actions.
 - [kamiyaa/joshuto](https://github.com/kamiyaa/joshuto) - ranger-like terminal file manager written in Rust
@@ -3226,7 +3230,7 @@
 - [jaredgorski/fogbell.vim](https://github.com/jaredgorski/fogbell.vim) - 
 - [ewilazarus/preto](https://github.com/ewilazarus/preto) - A minimal dark theme for VIM.
 - [metalelf0/base16-black-metal-scheme](https://github.com/metalelf0/base16-black-metal-scheme) - A collection of Black Metal inspired base16 schemes.
-- [sagittaros/dotfiles](https://github.com/sagittaros/dotfiles) - My dotfiles - Emacs centric OSX Big Sur
+- [inscapist/dotfiles](https://github.com/inscapist/dotfiles) - My dotfiles - Emacs centric OSX Big Sur
 - [MarcoIeni/intellimacs](https://github.com/MarcoIeni/intellimacs) - Spacemacs' like key bindings for IntelliJ platform.
 - [koekeishiya/dotfiles](https://github.com/koekeishiya/dotfiles) - Configuration files
 - [terryma/vim-multiple-cursors](https://github.com/terryma/vim-multiple-cursors) - True Sublime Text style multiple selections for Vim
