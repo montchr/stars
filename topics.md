@@ -1189,6 +1189,9 @@
 
 ## emacs 
 
+- [casouri/lunarymacs](https://github.com/casouri/lunarymacs) - Moon-based Emacs configuration.
+- [olivertaylor/dotfiles](https://github.com/olivertaylor/dotfiles) - CLI, Emacs, Hammerspoon
+- [jkitchin/scimax](https://github.com/jkitchin/scimax) - An emacs starterkit for scientists and engineers
 - [susam/devil](https://github.com/susam/devil) - Emacs minor mode that intercepts and translates keystrokes to provide a modifier-free editing experience
 - [repelliuss/bind](https://github.com/repelliuss/bind) - `bind' many commands to keys in many keymaps, multiple times with support for prefix, autoload, repeat-mode and save&restore.
 - [rougier/nano-dialog](https://github.com/rougier/nano-dialog) - Emac native dialog box
@@ -1513,6 +1516,7 @@
 
 ## game-development 
 
+- [sorcerers-class/automancy](https://github.com/sorcerers-class/automancy) - A game about Automation, themed around Magic, based on Hexagons, and -- there's no Conveyor Belts.
 - [a-little-org-called-mario/a-little-game-called-mario](https://github.com/a-little-org-called-mario/a-little-game-called-mario) - open source collective hell game
 
 ## gamedev 
@@ -2945,6 +2949,9 @@
 
 ## others 
 
+- [priyadarshan/bind-key](https://github.com/priyadarshan/bind-key) - A module for easier management of personal keybindings in your .emacs
+- [oantolin/emacs-config](https://github.com/oantolin/emacs-config) - My personal Emacs configuration
+- [jerrypnz/major-mode-hydra.el](https://github.com/jerrypnz/major-mode-hydra.el) - Spacemacs-esque major mode leader key powered by Hydra
 - [positron-solutions/transient-showcase](https://github.com/positron-solutions/transient-showcase) - Example forms for transient UI's in Emacs
 - [neeasade/emacs.d](https://github.com/neeasade/emacs.d) - forest
 - [DeterminateSystems/nix-installer-action](https://github.com/DeterminateSystems/nix-installer-action) - A Github Action for the Determinate Nix Installer
