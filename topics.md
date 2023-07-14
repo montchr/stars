@@ -1191,6 +1191,7 @@
 
 ## emacs 
 
+- [alphapapa/ap.el](https://github.com/alphapapa/ap.el) - A simple, Emacs Lisp-focused Emacs config
 - [casouri/lunarymacs](https://github.com/casouri/lunarymacs) - Moon-based Emacs configuration.
 - [olivertaylor/dotfiles](https://github.com/olivertaylor/dotfiles) - CLI, Emacs, Hammerspoon
 - [jkitchin/scimax](https://github.com/jkitchin/scimax) - An emacs starterkit for scientists and engineers
@@ -2951,6 +2952,10 @@
 
 ## others 
 
+- [progfolio/elpaca](https://github.com/progfolio/elpaca) - An elisp package manager
+- [alphapapa/org-now](https://github.com/alphapapa/org-now) - Conveniently show current Org tasks in a sidebar window
+- [DogLooksGood/meomacs](https://github.com/DogLooksGood/meomacs) - A simple Emacs configuration with modal editing
+- [DogLooksGood/home-config](https://github.com/DogLooksGood/home-config) - 
 - [zamansky/dot-emacs](https://github.com/zamansky/dot-emacs) - 
 - [priyadarshan/bind-key](https://github.com/priyadarshan/bind-key) - A module for easier management of personal keybindings in your .emacs
 - [oantolin/emacs-config](https://github.com/oantolin/emacs-config) - My personal Emacs configuration
