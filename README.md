@@ -359,6 +359,10 @@
 
 ## Emacs Lisp 
 
+- [progfolio/elpaca](https://github.com/progfolio/elpaca) - An elisp package manager
+- [alphapapa/org-now](https://github.com/alphapapa/org-now) - Conveniently show current Org tasks in a sidebar window
+- [alphapapa/ap.el](https://github.com/alphapapa/ap.el) - A simple, Emacs Lisp-focused Emacs config
+- [DogLooksGood/meomacs](https://github.com/DogLooksGood/meomacs) - A simple Emacs configuration with modal editing
 - [zamansky/dot-emacs](https://github.com/zamansky/dot-emacs) - 
 - [oantolin/emacs-config](https://github.com/oantolin/emacs-config) - My personal Emacs configuration
 - [casouri/lunarymacs](https://github.com/casouri/lunarymacs) - Moon-based Emacs configuration.
@@ -1373,6 +1377,7 @@
 
 ## Nix 
 
+- [DogLooksGood/home-config](https://github.com/DogLooksGood/home-config) - 
 - [cdepillabout/evil-nix](https://github.com/cdepillabout/evil-nix) - A Nix library to download files from the internet without requiring a hash
 - [astro/skyflake](https://github.com/astro/skyflake) - NixOS Hyperconverged Infrastructure on Nomad/NixOS
 - [oddlama/nix-config](https://github.com/oddlama/nix-config) - ❄️ My nix config and dotfiles
