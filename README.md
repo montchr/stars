@@ -335,6 +335,7 @@
 
 - [deckerst/aves](https://github.com/deckerst/aves) - Aves is a gallery and metadata explorer app, built for Android with Flutter.
 - [jenspfahl/BDT](https://github.com/jenspfahl/BDT) - Break.Down.Timer
+- [immich-app/immich](https://github.com/immich-app/immich) - Self-hosted photo and video backup solution directly from your mobile phone.
 - [austinried/subtracks](https://github.com/austinried/subtracks) - A music streaming app for Subsonic-compatible servers
 
 ## Dhall 
@@ -366,7 +367,7 @@
 - [zamansky/dot-emacs](https://github.com/zamansky/dot-emacs) - 
 - [oantolin/emacs-config](https://github.com/oantolin/emacs-config) - My personal Emacs configuration
 - [casouri/lunarymacs](https://github.com/casouri/lunarymacs) - Moon-based Emacs configuration.
-- [olivertaylor/dotfiles](https://github.com/olivertaylor/dotfiles) - CLI, Emacs, Hammerspoon
+- [overvale/dotfiles](https://github.com/overvale/dotfiles) - CLI, Emacs, Hammerspoon
 - [jerrypnz/major-mode-hydra.el](https://github.com/jerrypnz/major-mode-hydra.el) - Spacemacs-esque major mode leader key powered by Hydra
 - [jkitchin/scimax](https://github.com/jkitchin/scimax) - An emacs starterkit for scientists and engineers
 - [positron-solutions/transient-showcase](https://github.com/positron-solutions/transient-showcase) - Example forms for transient UI's in Emacs
@@ -1441,7 +1442,7 @@
 - [justinas/nixos-ha-kubernetes](https://github.com/justinas/nixos-ha-kubernetes) - Toy highly-available Kubernetes cluster on NixOS
 - [dep-sys/nix-dabei](https://github.com/dep-sys/nix-dabei) - An operating system generator, based on nixos, focused on installation
 - [nix-community/napalm](https://github.com/nix-community/napalm) - Support for building npm packages in Nix and lightweight npm registry [maintainer @jtojnar]
-- [pta2002/nixvim](https://github.com/pta2002/nixvim) - Configure Neovim with Nix!
+- [nix-community/nixvim](https://github.com/nix-community/nixvim) - Configure Neovim with Nix! [maintainer=@pta2002]
 - [madjam002/yarnpnp2nix](https://github.com/madjam002/yarnpnp2nix) - A performance focused and space efficient way of packaging NodeJS applications with Nix
 - [divnix/hive](https://github.com/divnix/hive) - The Hive
 - [MatthewCroughan/filestash-nix](https://github.com/MatthewCroughan/filestash-nix) - A flake for testing, building and using Filestash by Mickael Kerjean
@@ -1948,6 +1949,7 @@
 
 ## PHP 
 
+- [marcuskober/php-attributes](https://github.com/marcuskober/php-attributes) - In this tutorial, I will demonstrate how to utilize WordPress hooks with PHP attributes. Although it may not be necessary for every simple plugin, employing PHP attributes can be particularly useful i
 - [dingo-d/wp-pest](https://github.com/dingo-d/wp-pest) - A package that will add WordPress integration test suite with Pest
 - [WordPress/Requests](https://github.com/WordPress/Requests) - Requests for PHP is a humble HTTP request library. It simplifies how you interact with other sites and takes away all your worries.
 - [webmozarts/assert](https://github.com/webmozarts/assert) - Assertions to validate method input/output with nice error messages.
@@ -3090,7 +3092,6 @@
 - [withastro/astro](https://github.com/withastro/astro) - The all-in-one web framework designed for speed. ⭐️ Star to support our work!
 - [toeverything/AFFiNE](https://github.com/toeverything/AFFiNE) - There can be more than Notion and Miro. AFFiNE is a next-gen knowledge base that brings planning, sorting and creating all together. Privacy first, open-source, customizable and ready to use.
 - [WorldBrain/Memex](https://github.com/WorldBrain/Memex) - Browser extension to curate, annotate, and discuss the most valuable content and ideas on the web. As individuals, teams and communities.
-- [immich-app/immich](https://github.com/immich-app/immich) - Self-hosted photo and video backup solution directly from your mobile phone.
 - [ItinerisLtd/composify](https://github.com/ItinerisLtd/composify) - Turn WordPress plugin zip files into git repositories, so that composer version constraints work properly.
 - [prisma/prisma](https://github.com/prisma/prisma) - Next-generation ORM for Node.js & TypeScript | PostgreSQL, MySQL, MariaDB, SQL Server, SQLite, MongoDB and CockroachDB
 - [multiprocessio/datastation](https://github.com/multiprocessio/datastation) - App to easily query, script, and visualize data from every database, file, and API.
@@ -3126,7 +3127,7 @@
 - [airbnb/ts-migrate](https://github.com/airbnb/ts-migrate) - A tool to help migrate JavaScript code quickly and conveniently to TypeScript
 - [bitspook/spookfox](https://github.com/bitspook/spookfox) - A tinkerer's bridge b/w Emacs and Web Browser (Firefox and Chrome)
 - [darkreader/darkreader](https://github.com/darkreader/darkreader) - Dark Reader Chrome and Firefox extension
-- [TanStack/router](https://github.com/TanStack/router) - 🤖 Type-safe router w/ built-in caching & URL state management for JS/TS, React, Preact, Solid, Vue, Svelte and Angular
+- [TanStack/router](https://github.com/TanStack/router) - 🤖 Type-safe router w/ built-in caching & URL state management for React, Preact, and friends
 - [vercel/swr](https://github.com/vercel/swr) - React Hooks for Data Fetching
 - [mswjs/msw](https://github.com/mswjs/msw) - Seamless REST/GraphQL API mocking library for browser and Node.js.
 - [remotion-dev/remotion](https://github.com/remotion-dev/remotion) - 🎥      Make videos programmatically with React
