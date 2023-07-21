@@ -335,7 +335,6 @@
 
 - [deckerst/aves](https://github.com/deckerst/aves) - Aves is a gallery and metadata explorer app, built for Android with Flutter.
 - [jenspfahl/BDT](https://github.com/jenspfahl/BDT) - Break.Down.Timer
-- [immich-app/immich](https://github.com/immich-app/immich) - Self-hosted photo and video backup solution directly from your mobile phone.
 - [austinried/subtracks](https://github.com/austinried/subtracks) - A music streaming app for Subsonic-compatible servers
 
 ## Dhall 
@@ -360,6 +359,7 @@
 
 ## Emacs Lisp 
 
+- [rejeep/drag-stuff.el](https://github.com/rejeep/drag-stuff.el) - Drag stuff around in Emacs
 - [progfolio/elpaca](https://github.com/progfolio/elpaca) - An elisp package manager
 - [alphapapa/org-now](https://github.com/alphapapa/org-now) - Conveniently show current Org tasks in a sidebar window
 - [alphapapa/ap.el](https://github.com/alphapapa/ap.el) - A simple, Emacs Lisp-focused Emacs config
@@ -962,6 +962,7 @@
 
 ## JavaScript 
 
+- [ipfs/aegir](https://github.com/ipfs/aegir) - AEgir - Automated JavaScript project building
 - [wearerequired/coding-standards](https://github.com/wearerequired/coding-standards) - 💻 required coding standards for PHP, JavaScript and CSS.
 - [violentmonkey/violentmonkey](https://github.com/violentmonkey/violentmonkey) - Violentmonkey provides userscripts support for browsers. It works on browsers with WebExtensions support.
 - [piroor/treestyletab](https://github.com/piroor/treestyletab) - Tree Style Tab, Show tabs like a tree.
@@ -1296,7 +1297,7 @@
 - [wbthomason/dotfiles](https://github.com/wbthomason/dotfiles) - My dotfiles
 - [wbthomason/packer.nvim](https://github.com/wbthomason/packer.nvim) - A use-package inspired plugin manager for Neovim. Uses native packages, supports Luarocks dependencies, written in Lua, allows for expressive config
 - [Optixal/neovim-init.vim](https://github.com/Optixal/neovim-init.vim) - :izakaya_lantern: A hybrid Neovim configuration for productive developers who want a functional yet aesthetic Vim experience :izakaya_lantern:
-- [ecosse3/nvim](https://github.com/ecosse3/nvim) - A non-minimal Neovim config built to work most efficiently with Frontend Development - React & Vue.js
+- [ecosse3/nvim](https://github.com/ecosse3/nvim) - A non-minimal Neovim config built to work most efficiently with Frontend Development
 - [NeogitOrg/neogit](https://github.com/NeogitOrg/neogit) - magit for neovim
 - [folke/tokyonight.nvim](https://github.com/folke/tokyonight.nvim) - 🏙  A clean, dark Neovim theme written in Lua, with support for lsp, treesitter and lots of plugins. Includes additional themes for Kitty, Alacritty, iTerm and Fish.
 - [ray-x/nvim](https://github.com/ray-x/nvim) - Blazing fast neovim setup with 180+ plugins.
@@ -1442,7 +1443,7 @@
 - [justinas/nixos-ha-kubernetes](https://github.com/justinas/nixos-ha-kubernetes) - Toy highly-available Kubernetes cluster on NixOS
 - [dep-sys/nix-dabei](https://github.com/dep-sys/nix-dabei) - An operating system generator, based on nixos, focused on installation
 - [nix-community/napalm](https://github.com/nix-community/napalm) - Support for building npm packages in Nix and lightweight npm registry [maintainer @jtojnar]
-- [nix-community/nixvim](https://github.com/nix-community/nixvim) - Configure Neovim with Nix! [maintainer=@pta2002, @traxys]
+- [nix-community/nixvim](https://github.com/nix-community/nixvim) - Configure Neovim with Nix! [maintainer=@pta2002, @traxys, @GaetanLepage]
 - [madjam002/yarnpnp2nix](https://github.com/madjam002/yarnpnp2nix) - A performance focused and space efficient way of packaging NodeJS applications with Nix
 - [divnix/hive](https://github.com/divnix/hive) - The Hive
 - [MatthewCroughan/filestash-nix](https://github.com/MatthewCroughan/filestash-nix) - A flake for testing, building and using Filestash by Mickael Kerjean
@@ -1948,6 +1949,7 @@
 
 ## PHP 
 
+- [Roave/Dont](https://github.com/Roave/Dont) - :no_entry_sign: Small set of defensive programming utilities/traits for PHP
 - [marcuskober/php-attributes](https://github.com/marcuskober/php-attributes) - In this tutorial, I will demonstrate how to utilize WordPress hooks with PHP attributes. Although it may not be necessary for every simple plugin, employing PHP attributes can be particularly useful i
 - [dingo-d/wp-pest](https://github.com/dingo-d/wp-pest) - A package that will add WordPress integration test suite with Pest
 - [WordPress/Requests](https://github.com/WordPress/Requests) - Requests for PHP is a humble HTTP request library. It simplifies how you interact with other sites and takes away all your worries.
@@ -2872,7 +2874,7 @@
 - [asdf-vm/asdf-nodejs](https://github.com/asdf-vm/asdf-nodejs) - Node.js plugin for asdf version manager
 - [JetBrains/JetBrainsMono](https://github.com/JetBrains/JetBrainsMono) - JetBrains Mono – the free and open-source typeface for developers
 - [CISOfy/lynis](https://github.com/CISOfy/lynis) - Lynis - Security auditing tool for Linux, macOS, and UNIX-based systems. Assists with compliance testing (HIPAA/ISO27001/PCI DSS) and system hardening. Agentless, and installation optional.
-- [ovh/debian-cis](https://github.com/ovh/debian-cis) - PCI-DSS compliant Debian 9/10 hardening
+- [ovh/debian-cis](https://github.com/ovh/debian-cis) - PCI-DSS compliant Debian 10/11 hardening
 - [kvz/bash3boilerplate](https://github.com/kvz/bash3boilerplate) - Templates to write better Bash scripts
 - [fidian/ansi](https://github.com/fidian/ansi) - ANSI escape codes in pure bash - change text color, position the cursor, much more
 - [dolegi/lockdown.sh](https://github.com/dolegi/lockdown.sh) - Lockdown your linux install. The simple zero config linux hardening script
@@ -3092,6 +3094,7 @@
 - [withastro/astro](https://github.com/withastro/astro) - The all-in-one web framework designed for speed. ⭐️ Star to support our work!
 - [toeverything/AFFiNE](https://github.com/toeverything/AFFiNE) - There can be more than Notion and Miro. AFFiNE is a next-gen knowledge base that brings planning, sorting and creating all together. Privacy first, open-source, customizable and ready to use.
 - [WorldBrain/Memex](https://github.com/WorldBrain/Memex) - Browser extension to curate, annotate, and discuss the most valuable content and ideas on the web. As individuals, teams and communities.
+- [immich-app/immich](https://github.com/immich-app/immich) - Self-hosted photo and video backup solution directly from your mobile phone.
 - [ItinerisLtd/composify](https://github.com/ItinerisLtd/composify) - Turn WordPress plugin zip files into git repositories, so that composer version constraints work properly.
 - [prisma/prisma](https://github.com/prisma/prisma) - Next-generation ORM for Node.js & TypeScript | PostgreSQL, MySQL, MariaDB, SQL Server, SQLite, MongoDB and CockroachDB
 - [multiprocessio/datastation](https://github.com/multiprocessio/datastation) - App to easily query, script, and visualize data from every database, file, and API.
