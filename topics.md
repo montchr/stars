@@ -696,6 +696,7 @@
 
 ## cli 
 
+- [nikolaeu/numi](https://github.com/nikolaeu/numi) - Beautiful calculator app for macOS
 - [jqnatividad/qsv](https://github.com/jqnatividad/qsv) - CSVs sliced, diced & analyzed.
 - [samwho/spacer](https://github.com/samwho/spacer) - CLI tool to insert spacers when command output stops
 - [sioodmy/dotfiles](https://github.com/sioodmy/dotfiles) - Mirror of https://git.sioodmy.dev/sioodmy/dotfiles
@@ -2098,6 +2099,7 @@
 
 ## javascript 
 
+- [nikolaeu/numi](https://github.com/nikolaeu/numi) - Beautiful calculator app for macOS
 - [piroor/treestyletab](https://github.com/piroor/treestyletab) - Tree Style Tab, Show tabs like a tree.
 - [markmead/alpinejs-component](https://github.com/markmead/alpinejs-component) - Reusable HTML components powered by Alpine JS reactivity 🛸
 - [markmead/hyperjs](https://github.com/markmead/hyperjs) - HyperJS is a component library for Alpine JS allowing developers to quickly copy and paste functionality into their projects 🛵
@@ -2349,6 +2351,7 @@
 
 ## linux 
 
+- [nikolaeu/numi](https://github.com/nikolaeu/numi) - Beautiful calculator app for macOS
 - [kamiyaa/joshuto](https://github.com/kamiyaa/joshuto) - ranger-like terminal file manager written in Rust
 - [material-shell/material-shell](https://github.com/material-shell/material-shell) - A modern desktop interface for Linux. Improve your user experience and get rid of the anarchy of traditional desktop workflows. Designed to simplify navigation and reduce the need to manipulate window
 - [bertof/nix-rice](https://github.com/bertof/nix-rice) - A library to functionally define your configuration and theme (rice) with Nix
@@ -2489,6 +2492,7 @@
 
 ## macos 
 
+- [nikolaeu/numi](https://github.com/nikolaeu/numi) - Beautiful calculator app for macOS
 - [bertof/nix-rice](https://github.com/bertof/nix-rice) - A library to functionally define your configuration and theme (rice) with Nix
 - [kittywitch/nixfiles](https://github.com/kittywitch/nixfiles) - kat's configuration flake
 - [pqrs-org/Tinkle](https://github.com/pqrs-org/Tinkle) - 
@@ -2953,6 +2957,7 @@
 
 ## others 
 
+- [nortakales/vs-code-qalc](https://github.com/nortakales/vs-code-qalc) - Interactive scratchpad calculator for VS Code
 - [ledger/ledger](https://github.com/ledger/ledger) - Double-entry accounting system with a command-line reporting interface
 - [minad/tempel](https://github.com/minad/tempel) - :classical_building: TempEl - Simple templates for Emacs
 - [tailwindlabs/tailwindcss-container-queries](https://github.com/tailwindlabs/tailwindcss-container-queries) - A plugin for Tailwind CSS v3.2+ that provides utilities for container queries.
