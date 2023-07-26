@@ -1522,7 +1522,7 @@
 - [davidtwco/veritas](https://github.com/davidtwco/veritas) - @davidtwco's personal mono-repo - containing the declarative configuration of servers, desktops and laptops - including dotfiles; a collection of packages; a static site generator and source of "david
 - [nh2/nixos-vm-examples](https://github.com/nh2/nixos-vm-examples) - Examples of how to build and run NixOS VMs with nix
 - [cachix/pre-commit-hooks.nix](https://github.com/cachix/pre-commit-hooks.nix) - Seamless integration of https://pre-commit.com git hooks with Nix.
-- [disassembler/network](https://github.com/disassembler/network) - NixOps home network
+- [disassembler/network](https://github.com/disassembler/network) - Home Network
 - [mikeroyal/NixOS-Guide](https://github.com/mikeroyal/NixOS-Guide) - NixOS Guide. Learn all about the immutable Nix Operating System and the declarative Nix Expression Language.
 - [input-output-hk/nixagii](https://github.com/input-output-hk/nixagii) - Nixago Pebbles for IOG
 - [polygon/scalpel](https://github.com/polygon/scalpel) - Minimally invasive safe secret provisioning to Nix-generated service config files
@@ -3076,7 +3076,7 @@
 - [gqty-dev/gqty](https://github.com/gqty-dev/gqty) - The No-GraphQL Client for TypeScript
 - [wpengine/faustjs](https://github.com/wpengine/faustjs) - Faust.js™ - The Headless WordPress Framework
 - [alexeagleson/nextjs-fullstack-app-template](https://github.com/alexeagleson/nextjs-fullstack-app-template) - A fullstack template for a NextJs App
-- [ben-rogerson/twin.macro](https://github.com/ben-rogerson/twin.macro) - 🦹‍♂️ Twin blends the magic of Tailwind with the flexibility of css-in-js (emotion, styled-components, stitches and goober) at build time.
+- [ben-rogerson/twin.macro](https://github.com/ben-rogerson/twin.macro) - 🦹‍♂️ Twin blends the magic of Tailwind with the flexibility of css-in-js (emotion, styled-components, solid-styled-components, stitches and goober) at build time.
 - [input-output-hk/cardano-js-sdk](https://github.com/input-output-hk/cardano-js-sdk) - JavaScript SDK for interacting with Cardano, providing various key management options, with support for popular hardware wallets
 - [soywod/react-use-bireducer](https://github.com/soywod/react-use-bireducer) - React hook for managing effectful reducers.
 - [belgattitude/nextjs-monorepo-example](https://github.com/belgattitude/nextjs-monorepo-example) - Collection of monorepo tips & tricks
