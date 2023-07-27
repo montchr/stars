@@ -2959,6 +2959,7 @@
 
 ## others 
 
+- [Log1x/acf-builder-cheatsheet](https://github.com/Log1x/acf-builder-cheatsheet) - A cheatsheet for use with ACF Builder.
 - [rougier/URFIST-git-course](https://github.com/rougier/URFIST-git-course) - This is the material for the URFIST course on Git & GitHub.   Bordeaux, March 27 & 28, 2018.
 - [nortakales/vs-code-qalc](https://github.com/nortakales/vs-code-qalc) - Interactive scratchpad calculator for VS Code
 - [ledger/ledger](https://github.com/ledger/ledger) - Double-entry accounting system with a command-line reporting interface
