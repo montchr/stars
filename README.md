@@ -208,6 +208,7 @@
 
 ## C++ 
 
+- [rakshasa/rtorrent](https://github.com/rakshasa/rtorrent) - rTorrent BitTorrent client
 - [ledger/ledger](https://github.com/ledger/ledger) - Double-entry accounting system with a command-line reporting interface
 - [nix-community/nixd](https://github.com/nix-community/nixd) - Nix language server, based on nix libraries [maintainer=@inclyc]
 - [porla/porla](https://github.com/porla/porla) - A high performance BitTorrent client for servers and seedboxes.
@@ -1399,7 +1400,7 @@
 - [foo-dogsquared/nixos-config](https://github.com/foo-dogsquared/nixos-config) - Aiming to be the most overkill NixOS config in the entire world.
 - [shyim/nixcfg](https://github.com/shyim/nixcfg) - My Nix config for my Macbook and Server
 - [ethnt/tilde](https://github.com/ethnt/tilde) - macOS configuration via Nix
-- [ethnt/e10](https://github.com/ethnt/e10) - My local network, built with Nix and Terraform
+- [ethnt/e10-v1](https://github.com/ethnt/e10-v1) - My local network, built with Nix and Terraform
 - [ethnt/barbossa](https://github.com/ethnt/barbossa) - Home server with HTPC, TIG stack, ELK stack, Nginx, and a Time Machine Capsule on NixOS.
 - [jammus/dotfiles](https://github.com/jammus/dotfiles) - 
 - [nix-community/haumea](https://github.com/nix-community/haumea) - Filesystem-based module system for Nix [maintainer=@figsoda]
@@ -2046,7 +2047,7 @@
 - [wp-graphql/wp-graphql-jwt-authentication](https://github.com/wp-graphql/wp-graphql-jwt-authentication) - Authentication for WPGraphQL using JWT (JSON Web Tokens)
 - [Log1x/poet](https://github.com/Log1x/poet) - Configuration-based post type, taxonomy, block category, and block registration for Sage 10.
 - [leoloso/PoP](https://github.com/leoloso/PoP) - Monorepo of the PoP project, including: a server-side component model in PHP, a GraphQL server, a GraphQL API plugin for WordPress, and a website builder
-- [WordPress/block-interactivity-experiments](https://github.com/WordPress/block-interactivity-experiments) - Pattern explorations for block frontend hydration
+- [WordPress/block-interactivity-experiments](https://github.com/WordPress/block-interactivity-experiments) - ⚠️ WARNING: This repository is no longer active. The development and discussions have been moved to the Gutenberg repository.
 - [drupol/php-conventions](https://github.com/drupol/php-conventions) - 
 - [alleyinteractive/wp-bulk-task](https://github.com/alleyinteractive/wp-bulk-task) - A library to assist with running performant bulk tasks against WordPress database objects.
 - [szepeviktor/wordpress-website-lifecycle](https://github.com/szepeviktor/wordpress-website-lifecycle) - How to work with WordPress 📅 for long years
