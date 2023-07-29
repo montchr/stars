@@ -2961,6 +2961,7 @@
 
 ## others 
 
+- [rakshasa/rtorrent](https://github.com/rakshasa/rtorrent) - rTorrent BitTorrent client
 - [Log1x/acf-builder-cheatsheet](https://github.com/Log1x/acf-builder-cheatsheet) - A cheatsheet for use with ACF Builder.
 - [rougier/URFIST-git-course](https://github.com/rougier/URFIST-git-course) - This is the material for the URFIST course on Git & GitHub.   Bordeaux, March 27 & 28, 2018.
 - [nortakales/vs-code-qalc](https://github.com/nortakales/vs-code-qalc) - Interactive scratchpad calculator for VS Code
@@ -3038,7 +3039,7 @@
 - [cbroglie/mustache](https://github.com/cbroglie/mustache) - The mustache template language in Go
 - [shyim/nixcfg](https://github.com/shyim/nixcfg) - My Nix config for my Macbook and Server
 - [ethnt/tilde](https://github.com/ethnt/tilde) - macOS configuration via Nix
-- [ethnt/e10](https://github.com/ethnt/e10) - My local network, built with Nix and Terraform
+- [ethnt/e10-v1](https://github.com/ethnt/e10-v1) - My local network, built with Nix and Terraform
 - [ethnt/barbossa](https://github.com/ethnt/barbossa) - Home server with HTPC, TIG stack, ELK stack, Nginx, and a Time Machine Capsule on NixOS.
 - [the-nix-way/nix-flake-dev-environments](https://github.com/the-nix-way/nix-flake-dev-environments) - Nix flake examples for real-world development environments [maintainer=@lucperkins]
 - [ronisbr/doom-nano-modeline](https://github.com/ronisbr/doom-nano-modeline) - A modeline for Doom Emacs based on N Λ N O Modeline
@@ -3107,7 +3108,7 @@
 - [DarthSim/overmind](https://github.com/DarthSim/overmind) - Process manager for Procfile-based applications and tmux
 - [HatsuneMiku3939/direnv-action](https://github.com/HatsuneMiku3939/direnv-action) - Provide environment variables via direnv.
 - [xt0rted/block-autosquash-commits-action](https://github.com/xt0rted/block-autosquash-commits-action) - A Github Action to prevent merging pull requests containing autosquash commit messages.
-- [WordPress/block-interactivity-experiments](https://github.com/WordPress/block-interactivity-experiments) - Pattern explorations for block frontend hydration
+- [WordPress/block-interactivity-experiments](https://github.com/WordPress/block-interactivity-experiments) - ⚠️ WARNING: This repository is no longer active. The development and discussions have been moved to the Gutenberg repository.
 - [meodai/poline](https://github.com/meodai/poline) - Esoteric Palette Generator Mico-Lib Interpolating HSL Color in cartesian space
 - [lunik1/nix-wallpaper](https://github.com/lunik1/nix-wallpaper) - A configurable wallpaper for nix systems
 - [seadome/firefox-addons](https://github.com/seadome/firefox-addons) - 
