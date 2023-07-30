@@ -2666,6 +2666,7 @@
 
 ## mongodb 
 
+- [borgmatic-collective/borgmatic](https://github.com/borgmatic-collective/borgmatic) - Simple, configuration-driven backup software for servers and workstations
 - [Qovery/Replibyte](https://github.com/Qovery/Replibyte) - Seed your development database with real data ⚡️
 - [prisma/prisma](https://github.com/prisma/prisma) - Next-generation ORM for Node.js & TypeScript | PostgreSQL, MySQL, MariaDB, SQL Server, SQLite, MongoDB and CockroachDB
 - [donnemartin/dev-setup](https://github.com/donnemartin/dev-setup) - macOS development environment setup:  Easy-to-understand instructions with automated setup scripts for developer tools like Vim, Sublime Text, Bash, iTerm, Python data analysis, Spark, Hadoop MapReduc
@@ -2713,6 +2714,7 @@
 
 ## mysql 
 
+- [borgmatic-collective/borgmatic](https://github.com/borgmatic-collective/borgmatic) - Simple, configuration-driven backup software for servers and workstations
 - [sqitchers/sqitch](https://github.com/sqitchers/sqitch) - Sensible database change management
 - [neilotoole/sq](https://github.com/neilotoole/sq) - sq data wrangler
 - [cube2222/octosql](https://github.com/cube2222/octosql) - OctoSQL is a query tool that allows you to join, analyse and transform data from multiple databases and file formats using SQL.
@@ -4480,6 +4482,7 @@
 
 ## postgresql 
 
+- [borgmatic-collective/borgmatic](https://github.com/borgmatic-collective/borgmatic) - Simple, configuration-driven backup software for servers and workstations
 - [jqnatividad/qsv](https://github.com/jqnatividad/qsv) - CSVs sliced, diced & analyzed.
 - [makeplane/plane](https://github.com/makeplane/plane) - 🔥 🔥 🔥 Open Source JIRA, Linear and Height Alternative. Plane helps you track your issues, epics, and product roadmaps in the simplest way possible.
 - [turbot/steampipe](https://github.com/turbot/steampipe) - Use SQL to instantly query your cloud services (AWS, Azure, GCP and more). Open source CLI. No DB required.
@@ -4540,6 +4543,7 @@
 
 ## python 
 
+- [borgmatic-collective/borgmatic](https://github.com/borgmatic-collective/borgmatic) - Simple, configuration-driven backup software for servers and workstations
 - [abo-abo/lispy](https://github.com/abo-abo/lispy) - Short and sweet LISP editing
 - [makeplane/plane](https://github.com/makeplane/plane) - 🔥 🔥 🔥 Open Source JIRA, Linear and Height Alternative. Plane helps you track your issues, epics, and product roadmaps in the simplest way possible.
 - [Stranger6667/css-inline](https://github.com/Stranger6667/css-inline) - High-performance library for inlining CSS into HTML 'style' attributes
@@ -4628,7 +4632,7 @@
 
 - [dvorka/mindforger](https://github.com/dvorka/mindforger) - Thinking notebook and Markdown editor.
 - [ksnip/ksnip](https://github.com/ksnip/ksnip) - ksnip the cross-platform screenshot and annotation tool
-- [simple64/simple64-gui](https://github.com/simple64/simple64-gui) - mupen64plus GUI written in Qt5
+- [simple64/simple64-gui](https://github.com/simple64/simple64-gui) - mupen64plus GUI written in Qt6
 
 ## rails 
 
