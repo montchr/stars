@@ -180,7 +180,6 @@
 - [dvorka/hstr](https://github.com/dvorka/hstr) - bash and zsh shell history suggest box - easily view, navigate, search and manage your command history.
 - [ish-app/ish](https://github.com/ish-app/ish) - Linux shell for iOS
 - [Foundry376/Mailspring](https://github.com/Foundry376/Mailspring) - :love_letter: A beautiful, fast and fully open source mail client for Mac, Windows and Linux.
-- [koekeishiya/limelight](https://github.com/koekeishiya/limelight) - Standalone port of the yabai v2.4.3 border implementation
 - [mntmn/interim](https://github.com/mntmn/interim) - The Interim Operating System
 - [mntmn/produce](https://github.com/mntmn/produce) - mnt produce, the hacker's digital audio workstation (linux)
 - [moretension/duti](https://github.com/moretension/duti) - A command-line tool to select default applications for document types and URL schemes on Mac OS X
@@ -661,6 +660,7 @@
 
 ## Go 
 
+- [matrix-org/dendrite](https://github.com/matrix-org/dendrite) - Dendrite is a second-generation Matrix homeserver written in Go!
 - [jetpack-io/tyson](https://github.com/jetpack-io/tyson) - 🥊  TypeScript as a Configuration Language. TySON stands for TypeScript Object Notation
 - [umlx5h/zsh-manpage-completion-generator](https://github.com/umlx5h/zsh-manpage-completion-generator) - Generate zsh completions from man page
 - [oauth2-proxy/oauth2-proxy](https://github.com/oauth2-proxy/oauth2-proxy) - A reverse proxy that provides authentication with Google, Azure, OpenID Connect and many more identity providers.
@@ -1383,6 +1383,8 @@
 
 ## Nix 
 
+- [SuperSandro2000/nixos-modules](https://github.com/SuperSandro2000/nixos-modules) - 
+- [Sooyka/RP4_NixOS_matrix](https://github.com/Sooyka/RP4_NixOS_matrix) - NixOS configuration for a matrix server running on Raspberry Pi 4
 - [DogLooksGood/home-config](https://github.com/DogLooksGood/home-config) - 
 - [cdepillabout/evil-nix](https://github.com/cdepillabout/evil-nix) - A Nix library to download files from the internet without requiring a hash
 - [astro/skyflake](https://github.com/astro/skyflake) - NixOS Hyperconverged Infrastructure on Nomad/NixOS
@@ -2353,7 +2355,7 @@
 - [magic-wormhole/magic-wormhole](https://github.com/magic-wormhole/magic-wormhole) - get things from one computer to another, safely
 - [miyuchina/mistletoe](https://github.com/miyuchina/mistletoe) - A fast, extensible and spec-compliant Markdown parser in pure Python.
 - [RunaCapital/awesome-oss-alternatives](https://github.com/RunaCapital/awesome-oss-alternatives) - Awesome list of open-source startup alternatives to well-known SaaS products 🚀
-- [httpie/httpie](https://github.com/httpie/httpie) - 🥧 HTTPie for Terminal — modern, user-friendly command-line HTTP client for the API era. JSON support, colors, sessions, downloads, plugins & more.
+- [httpie/cli](https://github.com/httpie/cli) - 🥧 HTTPie CLI  — modern, user-friendly command-line HTTP client for the API era. JSON support, colors, sessions, downloads, plugins & more.
 - [everdrone/nts](https://github.com/everdrone/nts) - NTS Radio downloader and metadata parser
 - [jarun/pdd](https://github.com/jarun/pdd) - :date: Tiny date, time diff calculator with piggybacked timers
 - [sherlock-project/sherlock](https://github.com/sherlock-project/sherlock) - 🔎 Hunt down social media accounts by username across social networks
@@ -2604,7 +2606,7 @@
 - [Schniz/fnm](https://github.com/Schniz/fnm) - 🚀 Fast and simple Node.js version manager, built in Rust
 - [kkharji/yctrl](https://github.com/kkharji/yctrl) - Thin wrapper around yabai that adds convenient and intuitive fixes
 - [waycrate/swhkd](https://github.com/waycrate/swhkd) - Sxhkd clone for Wayland (works on TTY and X11 too)
-- [ellie/atuin](https://github.com/ellie/atuin) - 🐢 Magical shell history
+- [atuinsh/atuin](https://github.com/atuinsh/atuin) - ✨ Magical shell history
 - [ClementTsang/bottom](https://github.com/ClementTsang/bottom) - Yet another cross-platform graphical process/system monitor.
 - [cantino/mcfly](https://github.com/cantino/mcfly) - Fly through your shell history. Great Scott!
 - [bootandy/dust](https://github.com/bootandy/dust) - A more intuitive version of du in rust
