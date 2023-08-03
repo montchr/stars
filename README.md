@@ -341,7 +341,6 @@
 
 - [deckerst/aves](https://github.com/deckerst/aves) - Aves is a gallery and metadata explorer app, built for Android with Flutter.
 - [jenspfahl/BDT](https://github.com/jenspfahl/BDT) - Break.Down.Timer
-- [immich-app/immich](https://github.com/immich-app/immich) - Self-hosted photo and video backup solution directly from your mobile phone.
 - [austinried/subtracks](https://github.com/austinried/subtracks) - A music streaming app for Subsonic-compatible servers
 
 ## Dhall 
@@ -666,6 +665,7 @@
 
 ## Go 
 
+- [mithrandie/csvq](https://github.com/mithrandie/csvq) - SQL-like query language for csv
 - [matrix-org/dendrite](https://github.com/matrix-org/dendrite) - Dendrite is a second-generation Matrix homeserver written in Go!
 - [jetpack-io/tyson](https://github.com/jetpack-io/tyson) - 🥊  TypeScript as a Configuration Language. TySON stands for TypeScript Object Notation
 - [umlx5h/zsh-manpage-completion-generator](https://github.com/umlx5h/zsh-manpage-completion-generator) - Generate zsh completions from man page
@@ -970,6 +970,8 @@
 
 ## JavaScript 
 
+- [mechatroner/vscode_rainbow_csv](https://github.com/mechatroner/vscode_rainbow_csv) - 🌈Rainbow CSV - VS Code extension: Highlight CSV and TSV spreadsheet files in different rainbow colors
+- [igorlogius/tbl2csv](https://github.com/igorlogius/tbl2csv) - Save HTML Tables, CSS Pseudo/DIV Tables or Lists (UL/OL) as a comma seperated values (CSV) file which can be opened with any spreadsheet processor (e.g. excel, libreoffice-calc,gnumeric) for further p
 - [nikolaeu/numi](https://github.com/nikolaeu/numi) - Beautiful calculator app for macOS
 - [ipfs/aegir](https://github.com/ipfs/aegir) - AEgir - Automated JavaScript project building
 - [wearerequired/coding-standards](https://github.com/wearerequired/coding-standards) - 💻 required coding standards for PHP, JavaScript and CSS.
@@ -1388,6 +1390,7 @@
 
 ## Nix 
 
+- [loophp/flake-lock-update-workflow](https://github.com/loophp/flake-lock-update-workflow) - Provide a 'ready-to-use' Github workflow to update 'flake.lock' file automatically.
 - [SuperSandro2000/nixos-modules](https://github.com/SuperSandro2000/nixos-modules) - 
 - [Sooyka/RP4_NixOS_matrix](https://github.com/Sooyka/RP4_NixOS_matrix) - NixOS configuration for a matrix server running on Raspberry Pi 4
 - [DogLooksGood/home-config](https://github.com/DogLooksGood/home-config) - 
@@ -1763,7 +1766,6 @@
 
 - [Log1x/acf-builder-cheatsheet](https://github.com/Log1x/acf-builder-cheatsheet) - A cheatsheet for use with ACF Builder.
 - [rougier/URFIST-git-course](https://github.com/rougier/URFIST-git-course) - This is the material for the URFIST course on Git & GitHub.   Bordeaux, March 27 & 28, 2018.
-- [priyadarshan/bind-key](https://github.com/priyadarshan/bind-key) - A module for easier management of personal keybindings in your .emacs
 - [alexeymezenin/laravel-best-practices](https://github.com/alexeymezenin/laravel-best-practices) - Laravel best practices
 - [termstandard/colors](https://github.com/termstandard/colors) - Color standards for terminal emulators
 - [laravel/docs](https://github.com/laravel/docs) - The Laravel documentation.
@@ -1963,6 +1965,9 @@
 
 ## PHP 
 
+- [munusphp/munus](https://github.com/munusphp/munus) - Power of object-oriented programming with the elegance of functional programming in PHP.
+- [loophp/collection](https://github.com/loophp/collection) - A (memory) friendly, easy, lazy and modular collection class.
+- [loophp/iterators](https://github.com/loophp/iterators) - The missing PHP iterators.
 - [spatie/laravel-settings](https://github.com/spatie/laravel-settings) - Store strongly typed application settings
 - [filamentphp/filament](https://github.com/filamentphp/filament) - A collection of beautiful full-stack components for Laravel. The perfect starting point for your next app. Using Livewire, Alpine.js and Tailwind CSS.
 - [Roave/Dont](https://github.com/Roave/Dont) - :no_entry_sign: Small set of defensive programming utilities/traits for PHP
@@ -3114,6 +3119,7 @@
 - [withastro/astro](https://github.com/withastro/astro) - The all-in-one web framework designed for speed. ⭐️ Star to support our work!
 - [toeverything/AFFiNE](https://github.com/toeverything/AFFiNE) - There can be more than Notion and Miro. AFFiNE is a next-gen knowledge base that brings planning, sorting and creating all together. Privacy first, open-source, customizable and ready to use.
 - [WorldBrain/Memex](https://github.com/WorldBrain/Memex) - Browser extension to curate, annotate, and discuss the most valuable content and ideas on the web. As individuals, teams and communities.
+- [immich-app/immich](https://github.com/immich-app/immich) - Self-hosted photo and video backup solution directly from your mobile phone.
 - [ItinerisLtd/composify](https://github.com/ItinerisLtd/composify) - Turn WordPress plugin zip files into git repositories, so that composer version constraints work properly.
 - [prisma/prisma](https://github.com/prisma/prisma) - Next-generation ORM for Node.js & TypeScript | PostgreSQL, MySQL, MariaDB, SQL Server, SQLite, MongoDB and CockroachDB
 - [multiprocessio/datastation](https://github.com/multiprocessio/datastation) - App to easily query, script, and visualize data from every database, file, and API.
