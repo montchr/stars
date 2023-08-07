@@ -1014,6 +1014,7 @@
 - [roots/acorn](https://github.com/roots/acorn) - Laravel components for WordPress plugins and themes
 - [prettier/eslint-config-prettier](https://github.com/prettier/eslint-config-prettier) - Turns off all rules that are unnecessary or might conflict with Prettier.
 - [SchemaStore/schemastore](https://github.com/SchemaStore/schemastore) - A collection of JSON schema files including full API
+- [vercel/next.js](https://github.com/vercel/next.js) - The React Framework
 - [be5invis/vscode-custom-css](https://github.com/be5invis/vscode-custom-css) - Custom CSS Plugin for Visual Studio Code. Based on vscode-icon
 - [ben-rogerson/agency-webpack-mix-config](https://github.com/ben-rogerson/agency-webpack-mix-config) - 👨‍💻 A capable website/webapp boilerplate ready for the web agency battlefield. Creates a static site with Twig templating by default. Supports Craft/Wordpress/Laravel after a few adjustments.
 - [MaggieAppleton/digital-gardeners](https://github.com/MaggieAppleton/digital-gardeners) - Resources, links, projects, and ideas for gardeners tending their digital notes on the public interwebs
@@ -1514,7 +1515,7 @@
 - [ZilchOS/core](https://github.com/ZilchOS/core) - ZilchOS Core, a decidedly tiny Nix-based distro to play with
 - [fricklerhandwerk/settings](https://github.com/fricklerhandwerk/settings) - Nix configuration for all my computers, published for educational purposes
 - [LunNova/nixos-configs](https://github.com/LunNova/nixos-configs) - Config flake for personal systems and home devices
-- [viperML/neoinfra](https://github.com/viperML/neoinfra) - Configuration of my servers
+- [viperML/neoinfra](https://github.com/viperML/neoinfra) - Infrastucture as code
 - [colemickens/nixos-flake-example](https://github.com/colemickens/nixos-flake-example) - This is a demo NixOS config, with optional flakes support. Along with notes on why flakes is useful and worth adopting.
 - [dramforever/config](https://github.com/dramforever/config) - Random config (v2, clean history)
 - [tars0x9752/home](https://github.com/tars0x9752/home) - My nix configs/dotfiles.
@@ -1844,7 +1845,7 @@
 - [wp-hooks/wordpress-core-hooks](https://github.com/wp-hooks/wordpress-core-hooks) - WordPress core actions and filters as JSON
 - [GEIGEIGEIST/KLOTZ](https://github.com/GEIGEIGEIST/KLOTZ) - KLOTZ is 34 keys column-staggered split keyboard. It uses an encoder and three status LEDs on each side.
 - [GEIGEIGEIST/KLOR](https://github.com/GEIGEIGEIST/KLOR) - KLOR is 36-42 keys column-staggered split keyboard. It supports a per key RGB matrix, encoders, OLED displays, haptic feedback, audio, a Pixart Paw3204 trackball and four different layouts, through br
-- [vpavlenko/study-music](https://github.com/vpavlenko/study-music) - An "awesome music theory" kinda wiki with books, resources and courses
+- [vpavlenko/study-music](https://github.com/vpavlenko/study-music) - An "awesome music theory" kinda wiki with books, resources and courses for studying everything about music and sound
 - [dkhamsing/open-source-ios-apps](https://github.com/dkhamsing/open-source-ios-apps) - :iphone: Collaborative List of Open-Source iOS Apps
 - [justSem/r-selfhosted-security](https://github.com/justSem/r-selfhosted-security) - Started from the beginners security guide on r/selfhosted - this repo aims to be a collection of guides
 - [kahun/awesome-sysadmin](https://github.com/kahun/awesome-sysadmin) - A curated list of amazingly awesome open source sysadmin resources inspired by Awesome PHP.
@@ -3095,7 +3096,6 @@
 - [ixartz/Next-js-Boilerplate](https://github.com/ixartz/Next-js-Boilerplate) - 🚀🎉📚 Boilerplate and Starter for Next.js 13+ with App Router and Page Router support, Tailwind CSS 3.3 and TypeScript ⚡️ Made with developer experience first: Next.js + TypeScript + ESLint + Prettier +
 - [paulintrognon/next-typescript](https://github.com/paulintrognon/next-typescript) - Starter template for a clean Next.js + TypeScript + ESLint project
 - [tailwindlabs/tailwindcss-intellisense](https://github.com/tailwindlabs/tailwindcss-intellisense) - Intelligent Tailwind CSS tooling for Visual Studio Code
-- [vercel/next.js](https://github.com/vercel/next.js) - The React Framework
 - [vscode-neovim/vscode-neovim](https://github.com/vscode-neovim/vscode-neovim) - Vim-mode for VS Code using embedded Neovim
 - [gqty-dev/gqty](https://github.com/gqty-dev/gqty) - The No-GraphQL Client for TypeScript
 - [wpengine/faustjs](https://github.com/wpengine/faustjs) - Faust.js™ - The Headless WordPress Framework
