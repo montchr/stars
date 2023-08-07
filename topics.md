@@ -2704,7 +2704,7 @@
 - [LinuxCafeFederation/awesome-android](https://github.com/LinuxCafeFederation/awesome-android) - A curated list of awesome open source Android applications, tutorials and resources.
 - [icidasset/diffuse](https://github.com/icidasset/diffuse) - A music player that connects to your cloud/distributed storage.
 - [ciderapp/Cider](https://github.com/ciderapp/Cider) - A new cross-platform Apple Music experience based on Electron and Vue.js written from scratch with performance in mind. 🚀
-- [vpavlenko/study-music](https://github.com/vpavlenko/study-music) - An "awesome music theory" kinda wiki with books, resources and courses
+- [vpavlenko/study-music](https://github.com/vpavlenko/study-music) - An "awesome music theory" kinda wiki with books, resources and courses for studying everything about music and sound
 - [chaosprint/glicol](https://github.com/chaosprint/glicol) - Graph-oriented live coding language and music/audio DSP library written in Rust
 - [everdrone/nts](https://github.com/everdrone/nts) - NTS Radio downloader and metadata parser
 - [supercollider/supercollider](https://github.com/supercollider/supercollider) - An audio server, programming language, and IDE for sound synthesis and algorithmic composition.
@@ -3337,7 +3337,7 @@
 - [fairyglade/ly](https://github.com/fairyglade/ly) - display manager with console UI
 - [ziishaned/learn-regex](https://github.com/ziishaned/learn-regex) - Learn regex the easy way
 - [LunNova/nixos-configs](https://github.com/LunNova/nixos-configs) - Config flake for personal systems and home devices
-- [viperML/neoinfra](https://github.com/viperML/neoinfra) - Configuration of my servers
+- [viperML/neoinfra](https://github.com/viperML/neoinfra) - Infrastucture as code
 - [colemickens/nixos-flake-example](https://github.com/colemickens/nixos-flake-example) - This is a demo NixOS config, with optional flakes support. Along with notes on why flakes is useful and worth adopting.
 - [dramforever/config](https://github.com/dramforever/config) - Random config (v2, clean history)
 - [dramforever/nix-json-progress](https://github.com/dramforever/nix-json-progress) - Progress bars from Nix internal-json log
