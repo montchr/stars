@@ -1170,7 +1170,6 @@
 - [satya164/minimal.widget](https://github.com/satya164/minimal.widget) - A minimal widget for Übersicht which displays a panel on top right and apps list on top left
 - [brainhubeu/react-carousel](https://github.com/brainhubeu/react-carousel) - A pure extendable React carousel, powered by Brainhub (craftsmen who ❤️ JS)
 - [200ok-ch/organice](https://github.com/200ok-ch/organice) - An implementation of Org mode without the dependency of Emacs - built for mobile and desktop browsers
-- [uidotdev/usehooks](https://github.com/uidotdev/usehooks) - A collection of modern, server-safe React hooks – from the ui.dev team
 - [reactjs/react-modal](https://github.com/reactjs/react-modal) - Accessible modal dialog component for React
 - [marshallbrekka/yabai-config](https://github.com/marshallbrekka/yabai-config) - Configurations for yabai and skhd for window management.
 - [kkga/nibar](https://github.com/kkga/nibar) - Simple Übersicht status bar with yabai support.
@@ -1362,6 +1361,7 @@
 
 - [openui/open-ui](https://github.com/openui/open-ui) - Maintain an open standard for UI and promote its adherence and adoption.
 - [yewstack/yew](https://github.com/yewstack/yew) - Rust / Wasm framework for building client web apps
+- [uidotdev/usehooks](https://github.com/uidotdev/usehooks) - A collection of modern, server-safe React hooks – from the ui.dev team
 
 ## Makefile 
 
@@ -1417,7 +1417,7 @@
 - [foo-dogsquared/nixos-config](https://github.com/foo-dogsquared/nixos-config) - Aiming to be the most overkill NixOS config in the entire world.
 - [shyim/nixcfg](https://github.com/shyim/nixcfg) - My Nix config for my Macbook and Server
 - [ethnt/tilde](https://github.com/ethnt/tilde) - macOS configuration via Nix
-- [ethnt/e10-v1](https://github.com/ethnt/e10-v1) - My local network, built with Nix and Terraform
+- [ethnt/e10-archive](https://github.com/ethnt/e10-archive) - My local network, built with Nix and Terraform
 - [ethnt/barbossa](https://github.com/ethnt/barbossa) - Home server with HTPC, TIG stack, ELK stack, Nginx, and a Time Machine Capsule on NixOS.
 - [jammus/dotfiles](https://github.com/jammus/dotfiles) - 
 - [nix-community/haumea](https://github.com/nix-community/haumea) - Filesystem-based module system for Nix [maintainer=@figsoda]
