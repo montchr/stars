@@ -2316,6 +2316,7 @@
 
 ## Python 
 
+- [Donnnno/Arcticons](https://github.com/Donnnno/Arcticons) - A monotone line-based icon pack for android
 - [borgmatic-collective/borgmatic](https://github.com/borgmatic-collective/borgmatic) - Simple, configuration-driven backup software for servers and workstations
 - [oar-team/nixos-compose](https://github.com/oar-team/nixos-compose) - Ease reproducible experiments of distributed systems
 - [smol-ai/developer](https://github.com/smol-ai/developer) - the first library to let you embed a developer agent in your own app!
