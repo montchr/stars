@@ -586,7 +586,7 @@
 - [ROCKTAKEY/rii](https://github.com/ROCKTAKEY/rii) - Reversible input interface for multiple input.
 - [sebastiencs/company-box](https://github.com/sebastiencs/company-box) - A company front-end with icons
 - [bbatsov/projectile](https://github.com/bbatsov/projectile) - Project Interaction Library for Emacs
-- [colonelpanic8/org-projectile](https://github.com/colonelpanic8/org-projectile) - Manage org-mode TODOs for your projectile projects
+- [colonelpanic8/org-project-capture](https://github.com/colonelpanic8/org-project-capture) - Manage org-mode TODOs for your projectile projects
 - [Fuco1/dired-hacks](https://github.com/Fuco1/dired-hacks) - Collection of useful dired additions
 - [aldrichtr/tangld](https://github.com/aldrichtr/tangld) - A literate dotfiles manager
 - [ogdenwebb/emacs-kaolin-themes](https://github.com/ogdenwebb/emacs-kaolin-themes) - Set of eye pleasing themes for GNU Emacs. Supports both GUI and terminal.
@@ -1300,6 +1300,7 @@
 
 ## Kotlin 
 
+- [caydey/ffshare](https://github.com/caydey/ffshare) - An android app to compress image, video and audio files through ffmpeg before sharing them
 - [JunkFood02/Seal](https://github.com/JunkFood02/Seal) - Video/Audio Downloader for Android, based on yt-dlp, designed with Material You
 - [streetcomplete/StreetComplete](https://github.com/streetcomplete/StreetComplete) - Easy to use OpenStreetMap editor for Android
 - [d4rken-org/capod](https://github.com/d4rken-org/capod) - A companion app for AirPods on Android.
@@ -1657,7 +1658,7 @@
 - [i077/system](https://github.com/i077/system) - Declarative system configuration for all my machines
 - [divnix/nix-book](https://github.com/divnix/nix-book) - The Nix Package Manager
 - [cornedor/nixpkgs](https://github.com/cornedor/nixpkgs) - Darwin nix configuration
-- [colemickens/nixcfg](https://github.com/colemickens/nixcfg) - NixOS and Home-Manager configs formy devices. dotfiles, but way better
+- [colemickens/nixcfg](https://github.com/colemickens/nixcfg) - NixOS and Home-Manager configs for my devices. dotfiles, but way better
 - [mbbx6spp/mbp-nixos](https://github.com/mbbx6spp/mbp-nixos) - Instructions and scripts related to getting NixOS running on a newer generation MBP
 - [NixOS/templates](https://github.com/NixOS/templates) - Flake templates
 - [jakeisnt/nixcfg](https://github.com/jakeisnt/nixcfg) - A modular, Wayland-enabled NixOS configuration.
