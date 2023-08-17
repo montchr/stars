@@ -223,7 +223,7 @@
 
 ## ai 
 
-- [StanGirard/quivr](https://github.com/StanGirard/quivr) - 🧠 Dump all your files and chat with it using your Generative AI Second Brain using LLMs ( GPT 3.5/4, Private, Anthropic, VertexAI ) & Embeddings 🧠
+- [StanGirard/quivr](https://github.com/StanGirard/quivr) - Your Second Brain powered by Generative AI 🧠 Dump all your files and chat with it  ( GPT 3.5/4, Private, Anthropic, VertexAI, LLMs...) & Embeddings
 - [willwulfken/MidJourney-Styles-and-Keywords-Reference](https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference) - A reference containing Styles and Keywords that you can use with MidJourney AI. There are also pages showing resolution comparison, image weights, and much more!
 - [upscayl/upscayl](https://github.com/upscayl/upscayl) - 🆙 Upscayl - Free and Open Source AI Image Upscaler for Linux, MacOS and Windows built with Linux-First philosophy.
 - [leon-ai/leon](https://github.com/leon-ai/leon) - 🧠 Leon is your open-source personal assistant.
@@ -294,7 +294,6 @@
 
 - [renatonascalves/wp-graphql-buddypress](https://github.com/renatonascalves/wp-graphql-buddypress) - Bringing the power of GraphQL to BuddyPress.
 - [sybrew/the-seo-framework](https://github.com/sybrew/the-seo-framework) - The SEO Framework WordPress plugin.
-- [leoloso/PoP](https://github.com/leoloso/PoP) - Monorepo of the PoP project, including: a server-side component model in PHP, a GraphQL server, a GraphQL API plugin for WordPress, and a website builder
 - [wp-graphql/wp-graphql](https://github.com/wp-graphql/wp-graphql) - :rocket: GraphQL API for WordPress
 - [pristas-peter/wp-graphql-gutenberg](https://github.com/pristas-peter/wp-graphql-gutenberg) - Query gutenberg blocks with wp-graphql
 - [artilleryio/artillery](https://github.com/artilleryio/artillery) - 🌩 Cloud-scale serverless load testing, as easy as 1-2-3. No DevOps needed. Never fail to scale!
@@ -504,6 +503,7 @@
 
 ## aws 
 
+- [rebuy-de/aws-nuke](https://github.com/rebuy-de/aws-nuke) - Nuke a whole AWS account and delete all its resources.
 - [terraform-aws-modules/terraform-aws-s3-bucket](https://github.com/terraform-aws-modules/terraform-aws-s3-bucket) - Terraform module which creates S3 bucket resources on AWS 🇺🇦
 - [turbot/steampipe](https://github.com/turbot/steampipe) - Use SQL to instantly query your cloud services (AWS, Azure, GCP and more). Open source CLI. No DB required.
 - [terraform-aws-modules/terraform-aws-iam](https://github.com/terraform-aws-modules/terraform-aws-iam) - Terraform module which creates IAM resources on AWS 🇺🇦
@@ -549,6 +549,7 @@
 
 - [sioodmy/dotfiles](https://github.com/sioodmy/dotfiles) - Mirror of https://git.sioodmy.dev/sioodmy/dotfiles
 - [junegunn/fzf-git.sh](https://github.com/junegunn/fzf-git.sh) - bash and zsh key bindings for Git objects, powered by fzf
+- [DeterminateSystems/nuenv](https://github.com/DeterminateSystems/nuenv) - A Nushell environment for Nix
 - [Hyde46/hoard](https://github.com/Hyde46/hoard) - cli command organizer written in rust
 - [starship/starship](https://github.com/starship/starship) - ☄🌌️  The minimal, blazing-fast, and infinitely customizable prompt for any shell!
 - [rgbatty/cauldron](https://github.com/rgbatty/cauldron) - Double, double toil and trouble; Fire burn and caldron bubble - A collection of declarative user and host configurations (eg. dotfiles) managed with Nix
@@ -668,7 +669,7 @@
 
 ## chatgpt 
 
-- [StanGirard/quivr](https://github.com/StanGirard/quivr) - 🧠 Dump all your files and chat with it using your Generative AI Second Brain using LLMs ( GPT 3.5/4, Private, Anthropic, VertexAI ) & Embeddings 🧠
+- [StanGirard/quivr](https://github.com/StanGirard/quivr) - Your Second Brain powered by Generative AI 🧠 Dump all your files and chat with it  ( GPT 3.5/4, Private, Anthropic, VertexAI, LLMs...) & Embeddings
 - [siyuan-note/siyuan](https://github.com/siyuan-note/siyuan) - A privacy-first, self-hosted, fully open source personal knowledge management software, written in typescript and golang.
 
 ## chrome 
@@ -705,6 +706,7 @@
 
 ## cli 
 
+- [rebuy-de/aws-nuke](https://github.com/rebuy-de/aws-nuke) - Nuke a whole AWS account and delete all its resources.
 - [nikolaeu/numi](https://github.com/nikolaeu/numi) - Beautiful calculator app for macOS
 - [jqnatividad/qsv](https://github.com/jqnatividad/qsv) - CSVs sliced, diced & analyzed.
 - [samwho/spacer](https://github.com/samwho/spacer) - CLI tool to insert spacers when command output stops
@@ -1694,6 +1696,7 @@
 
 ## golang 
 
+- [rebuy-de/aws-nuke](https://github.com/rebuy-de/aws-nuke) - Nuke a whole AWS account and delete all its resources.
 - [mithrandie/csvq](https://github.com/mithrandie/csvq) - SQL-like query language for csv
 - [matrix-org/dendrite](https://github.com/matrix-org/dendrite) - Dendrite is a second-generation Matrix homeserver written in Go!
 - [ritz078/transform](https://github.com/ritz078/transform) - A polyglot web converter.
@@ -1766,7 +1769,7 @@
 - [AxeWP/wp-graphql-headless-login](https://github.com/AxeWP/wp-graphql-headless-login) - A WordPress plugin that provides Headless login and authentication for WPGraphQL, supporting traditional passwords, OAuth2/OpenID Connect, JWT, and more.
 - [wpengine/wp-graphql-content-blocks](https://github.com/wpengine/wp-graphql-content-blocks) - Plugin that extends WPGraphQL to support querying (Gutenberg) Blocks as data
 - [wp-graphql/wp-graphql-jwt-authentication](https://github.com/wp-graphql/wp-graphql-jwt-authentication) - Authentication for WPGraphQL using JWT (JSON Web Tokens)
-- [leoloso/PoP](https://github.com/leoloso/PoP) - Monorepo of the PoP project, including: a server-side component model in PHP, a GraphQL server, a GraphQL API plugin for WordPress, and a website builder
+- [GatoGraphQL/GatoGraphQL](https://github.com/GatoGraphQL/GatoGraphQL) - Interact with all your data in WordPress using GraphQL
 - [NEU-DSG/dailp-encoding](https://github.com/NEU-DSG/dailp-encoding) - Digital Archive of American Indian Languages Preservation and Perseverance
 - [B2o5T/graphql-eslint](https://github.com/B2o5T/graphql-eslint) - ESLint parser, plugin and set rules for GraphQL (for schema and operations). Easily customizable with custom rules. Integrates with IDEs and modern GraphQL tools.
 - [wp-graphql/wp-graphql](https://github.com/wp-graphql/wp-graphql) - :rocket: GraphQL API for WordPress
@@ -3065,7 +3068,6 @@
 - [cbroglie/mustache](https://github.com/cbroglie/mustache) - The mustache template language in Go
 - [shyim/nixcfg](https://github.com/shyim/nixcfg) - My Nix config for my Macbook and Server
 - [ethnt/tilde](https://github.com/ethnt/tilde) - macOS configuration via Nix
-- [ethnt/e10-archive](https://github.com/ethnt/e10-archive) - My local network, built with Nix and Terraform
 - [ethnt/barbossa](https://github.com/ethnt/barbossa) - Home server with HTPC, TIG stack, ELK stack, Nginx, and a Time Machine Capsule on NixOS.
 - [the-nix-way/nix-flake-dev-environments](https://github.com/the-nix-way/nix-flake-dev-environments) - Nix flake examples for real-world development environments [maintainer=@lucperkins]
 - [ronisbr/doom-nano-modeline](https://github.com/ronisbr/doom-nano-modeline) - A modeline for Doom Emacs based on N Λ N O Modeline
@@ -3078,7 +3080,6 @@
 - [Lambda-Emacs/lambda-emacs](https://github.com/Lambda-Emacs/lambda-emacs) - Emacs distribution with sane defaults, pre-configured packages, and useful functions.
 - [gbprod/tree-sitter-twig](https://github.com/gbprod/tree-sitter-twig) - Twig grammar for Tree-sitter
 - [KaranAhlawat/tree-sitter-blade](https://github.com/KaranAhlawat/tree-sitter-blade) - [EXPERIMENTAL] A tree sitter grammar for the Blade templating language.
-- [DeterminateSystems/nuenv](https://github.com/DeterminateSystems/nuenv) - A Nushell environment for Nix
 - [area17/tailwind-plugins](https://github.com/area17/tailwind-plugins) - A series of Tailwind plugins to enable/encourage systematised web design/development and some other useful utility classes.
 - [humanmade/react-wp-ssr](https://github.com/humanmade/react-wp-ssr) - Server-side rendering for React-based WordPress plugins and themes.
 - [schmittjoh/php-option](https://github.com/schmittjoh/php-option) - Option Type for PHP
@@ -3629,8 +3630,8 @@
 - [lovesegfault/nix-config](https://github.com/lovesegfault/nix-config) - My personal NixOS config
 - [alleyinteractive/searchpress](https://github.com/alleyinteractive/searchpress) - Elasticsearch integration for WordPress.
 - [spiritedmedia/systems](https://github.com/spiritedmedia/systems) - Code and documentation for building, deploying, and serving code.
-- [zim0369/pretty-kitty](https://github.com/zim0369/pretty-kitty) - :octocat: :lollipop:  Beautiful light and dark theme eye candy :candy: with multiple fonts :doughnut: for the KITTY :fire: terminal
-- [zim0369/pictures](https://github.com/zim0369/pictures) - Wallpaper collection
+- [fkinsimple/pretty-kitty](https://github.com/fkinsimple/pretty-kitty) - :octocat: :lollipop:  Beautiful light and dark theme eye candy :candy: with multiple fonts :doughnut: for the KITTY :fire: terminal
+- [fkinsimple/pictures](https://github.com/fkinsimple/pictures) - Wallpaper collection
 - [rlch/dotfiles](https://github.com/rlch/dotfiles) - neovim + tmux + yabai + kitty + fish
 - [winterqt/kaidame](https://github.com/winterqt/kaidame) - 
 - [XXIIVV/clock](https://github.com/XXIIVV/clock) - Decimal Clock
@@ -4426,7 +4427,7 @@
 - [sybrew/the-seo-framework](https://github.com/sybrew/the-seo-framework) - The SEO Framework WordPress plugin.
 - [davidcole1340/ext-php-rs](https://github.com/davidcole1340/ext-php-rs) - Bindings for the Zend API to build PHP extensions natively in Rust.
 - [nunomaduro/phpinsights](https://github.com/nunomaduro/phpinsights) - 🔰 Instant PHP quality checks from your console
-- [leoloso/PoP](https://github.com/leoloso/PoP) - Monorepo of the PoP project, including: a server-side component model in PHP, a GraphQL server, a GraphQL API plugin for WordPress, and a website builder
+- [GatoGraphQL/GatoGraphQL](https://github.com/GatoGraphQL/GatoGraphQL) - Interact with all your data in WordPress using GraphQL
 - [dunglas/frankenphp](https://github.com/dunglas/frankenphp) - The modern PHP app server
 - [simplesamlphp/simplesamlphp](https://github.com/simplesamlphp/simplesamlphp) - SimpleSAMLphp is an application written in native PHP that deals with authentication.
 - [pristas-peter/wp-graphql-gutenberg](https://github.com/pristas-peter/wp-graphql-gutenberg) - Query gutenberg blocks with wp-graphql
@@ -4820,7 +4821,7 @@
 
 - [makeplane/plane](https://github.com/makeplane/plane) - 🔥 🔥 🔥 Open Source JIRA, Linear and Height Alternative. Plane helps you track your issues, epics, and product roadmaps in the simplest way possible.
 - [Pierre-Lannoy/wp-keys-master](https://github.com/Pierre-Lannoy/wp-keys-master) - Powerful application passwords manager for WordPress with role-based usage control and full analytics reporting capabilities.
-- [leoloso/PoP](https://github.com/leoloso/PoP) - Monorepo of the PoP project, including: a server-side component model in PHP, a GraphQL server, a GraphQL API plugin for WordPress, and a website builder
+- [GatoGraphQL/GatoGraphQL](https://github.com/GatoGraphQL/GatoGraphQL) - Interact with all your data in WordPress using GraphQL
 - [postlight/headless-wp-starter](https://github.com/postlight/headless-wp-starter) - 🔪 WordPress + React Starter Kit: Spin up a WordPress-powered React app in one step
 - [spacedmonkey/wp-rest-blocks](https://github.com/spacedmonkey/wp-rest-blocks) - Add gutenberg blocks data into post / page / widget REST API endpoints.
 - [lukecav/awesome-wp-developer-tools](https://github.com/lukecav/awesome-wp-developer-tools) - A collection of plugins, starter themes and tools to make WordPress development easier.
@@ -5767,7 +5768,7 @@
 - [Log1x/pagi](https://github.com/Log1x/pagi) - A better WordPress pagination.
 - [Log1x/sage-svg](https://github.com/Log1x/sage-svg) - A simple package for using inline SVGs with Sage 10.
 - [Log1x/poet](https://github.com/Log1x/poet) - Configuration-based post type, taxonomy, block category, and block registration for Sage 10.
-- [leoloso/PoP](https://github.com/leoloso/PoP) - Monorepo of the PoP project, including: a server-side component model in PHP, a GraphQL server, a GraphQL API plugin for WordPress, and a website builder
+- [GatoGraphQL/GatoGraphQL](https://github.com/GatoGraphQL/GatoGraphQL) - Interact with all your data in WordPress using GraphQL
 - [helsinki-systems/wp4nix](https://github.com/helsinki-systems/wp4nix) - Read-Only mirror of our GitLab repository
 - [sjinks/setup-wordpress-test-library](https://github.com/sjinks/setup-wordpress-test-library) - Set up WordPress and WordPress Test Library for unit tests
 - [szepeviktor/wordpress-website-lifecycle](https://github.com/szepeviktor/wordpress-website-lifecycle) - How to work with WordPress 📅 for long years
