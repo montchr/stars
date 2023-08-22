@@ -1199,6 +1199,7 @@
 
 ## emacs 
 
+- [namilus/denote-menu](https://github.com/namilus/denote-menu) - View and filter Denote files in a tabulated list
 - [seagle0128/doom-modeline](https://github.com/seagle0128/doom-modeline) - A fancy and fast mode-line inspired by minimalism design.
 - [emacs-dashboard/emacs-dashboard](https://github.com/emacs-dashboard/emacs-dashboard) - An extensible emacs dashboard
 - [alphapapa/ap.el](https://github.com/alphapapa/ap.el) - A simple, Emacs Lisp-focused Emacs config
@@ -2973,6 +2974,7 @@
 
 ## others 
 
+- [Gavinok/emacs.d](https://github.com/Gavinok/emacs.d) - nothing to see here 👀
 - [jdtsmith/kind-icon](https://github.com/jdtsmith/kind-icon) - Completion kind text/icon prefix labelling for emacs in-region completion
 - [nzbr/nixos](https://github.com/nzbr/nixos) - My NixOS System configurations
 - [purcell/emacs-reformatter](https://github.com/purcell/emacs-reformatter) - Define commands which run reformatters on the current Emacs buffer
