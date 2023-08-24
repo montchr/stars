@@ -371,6 +371,7 @@
 
 ## Emacs Lisp 
 
+- [remi-gelinas/nix-ts-mode](https://github.com/remi-gelinas/nix-ts-mode) - An Emacs major mode for editing Nix expressions, powered by tree-sitter.
 - [namilus/denote-menu](https://github.com/namilus/denote-menu) - View and filter Denote files in a tabulated list
 - [Gavinok/emacs.d](https://github.com/Gavinok/emacs.d) - nothing to see here 👀
 - [seagle0128/doom-modeline](https://github.com/seagle0128/doom-modeline) - A fancy and fast mode-line inspired by minimalism design.
@@ -977,7 +978,6 @@
 - [AnySoftKeyboard/AnySoftKeyboard](https://github.com/AnySoftKeyboard/AnySoftKeyboard) - Android (f/w 2.1+) on screen keyboard for multiple languages (chat https://gitter.im/AnySoftKeyboard)
 - [Neamar/KISS](https://github.com/Neamar/KISS) - Lightning fast, open-source, &lt; 200kb Android launcher
 - [liquibase/liquibase](https://github.com/liquibase/liquibase) - Main Liquibase Source
-- [flyway/flyway](https://github.com/flyway/flyway) - Flyway by Redgate • Database Migrations Made Easy.
 - [google/data-transfer-project](https://github.com/google/data-transfer-project) - The Data Transfer Project makes it easy for people to transfer their data between online service providers. We are establishing a common framework, including data models and protocols, to enable direc
 - [yacy/yacy_search_server](https://github.com/yacy/yacy_search_server) - Distributed Peer-to-Peer Web Search Engine and Intranet Search Appliance
 - [shayaantx/botdarr](https://github.com/shayaantx/botdarr) - Slack/Discord/Telegram/Matrix bot for accessing radarr, sonarr, and lidarr
@@ -1901,7 +1901,7 @@
 - [joelparkerhenderson/architecture-decision-record](https://github.com/joelparkerhenderson/architecture-decision-record) - Architecture decision record (ADR) examples for software planning, IT leadership, and template documentation
 - [chrisdone/elisp-guide](https://github.com/chrisdone/elisp-guide) - A quick guide to Emacs Lisp programming
 - [abo-abo/elisp-guide](https://github.com/abo-abo/elisp-guide) - A quick guide to Emacs Lisp programming
-- [fkinsimple/pictures](https://github.com/fkinsimple/pictures) - Wallpaper collection
+- [evccyr/pictures](https://github.com/evccyr/pictures) - Wallpaper collection
 - [alexpate/awesome-design-systems](https://github.com/alexpate/awesome-design-systems) - 💅🏻 ⚒ A collection of awesome design systems
 - [fosslife/awesome-ricing](https://github.com/fosslife/awesome-ricing) - A curated list of awesome tools and technology to help you out with ricing on linux
 - [shuaibiyy/awesome-terraform](https://github.com/shuaibiyy/awesome-terraform) - Curated list of resources on HashiCorp's Terraform
@@ -1918,6 +1918,7 @@
 - [graninas/The-Voids-Of-Haskell](https://github.com/graninas/The-Voids-Of-Haskell) - 
 - [TitansBane/Elysium](https://github.com/TitansBane/Elysium) - Elysium is a visually focused list that is fully featured with hundreds of new additions and optional Creation Club support—extending the base setup with Enai Siaion's full suite of gameplay overhauls
 - [p3r7/awesome-elisp](https://github.com/p3r7/awesome-elisp) - 🏵️ A curated list of Emacs Lisp development resources
+- [capr/multigit](https://github.com/capr/multigit) - :trident: Overlapped Git Repositories
 - [azet/community_bash_style_guide](https://github.com/azet/community_bash_style_guide) - Community Bash Style Guide: writing useful and modern bash scripts, seriously.
 - [leebyron/keyboard](https://github.com/leebyron/keyboard) - My keyboard config
 - [caisah/emacs.dz](https://github.com/caisah/emacs.dz) - Awesome emacs config files
@@ -2150,7 +2151,7 @@
 - [Automattic/vip-go-skeleton](https://github.com/Automattic/vip-go-skeleton) - The base repository structure for all VIP Go sites
 - [Automattic/vip-code-samples](https://github.com/Automattic/vip-code-samples) - Example code snippets for a secure and performant WordPress VIP site (wpvip.com). Keywords: Example VIP Code
 - [darrenjacoby/intervention](https://github.com/darrenjacoby/intervention) - WordPress plugin to configure wp-admin and application state using a single config file.
-- [vinkla/extended-acf](https://github.com/vinkla/extended-acf) - Register advanced custom fields with object oriented PHP
+- [vinkla/extended-acf](https://github.com/vinkla/extended-acf) - Register advanced custom fields with object-oriented PHP
 - [Kovah/LinkAce](https://github.com/Kovah/LinkAce) - LinkAce is a self-hosted archive to collect links of your favorite websites.
 - [vinkla/wordplate](https://github.com/vinkla/wordplate) - WordPlate is a boilerplate for WordPress, built with Composer and designed with sensible defaults.
 - [EasyEngine/easyengine](https://github.com/EasyEngine/easyengine) - Command-line control panel for Nginx Server to manage WordPress sites running on Nginx, PHP, MySQL, and Let's Encrypt
@@ -2558,6 +2559,7 @@
 
 ## Rust 
 
+- [lycheeverse/lychee](https://github.com/lycheeverse/lychee) - ⚡ Fast, async, stream-based link checker written in Rust. Finds broken URLs and mail addresses inside Markdown, HTML, reStructuredText, websites and more!
 - [lapce/lapce](https://github.com/lapce/lapce) - Lightning-fast and Powerful Code Editor written in Rust
 - [Uriopass/Egregoria](https://github.com/Uriopass/Egregoria) - 3D City Builder without a grid
 - [squidowl/halloy](https://github.com/squidowl/halloy) - IRC application written in Rust
@@ -2807,7 +2809,7 @@
 - [adi1090x/dynamic-wallpaper](https://github.com/adi1090x/dynamic-wallpaper) - A simple bash script to set wallpapers according to current time, using cron job scheduler.
 - [elitak/nixos-infect](https://github.com/elitak/nixos-infect) - [GPLv3+] install nixos over the existing OS in a DigitalOcean droplet (and others with minor modifications)
 - [spiritedmedia/systems](https://github.com/spiritedmedia/systems) - Code and documentation for building, deploying, and serving code.
-- [fkinsimple/pretty-kitty](https://github.com/fkinsimple/pretty-kitty) - :octocat: :lollipop:  Beautiful light and dark theme eye candy :candy: with multiple fonts :doughnut: for the KITTY :fire: terminal
+- [evccyr/pretty-kitty](https://github.com/evccyr/pretty-kitty) - :octocat: :lollipop:  Beautiful light and dark theme eye candy :candy: with multiple fonts :doughnut: for the KITTY :fire: terminal
 - [Bash-it/bash-it](https://github.com/Bash-it/bash-it) - A community Bash framework.
 - [adi1090x/kitty-cat](https://github.com/adi1090x/kitty-cat) - Simple script to change color-schemes and fonts for kitty terminal.
 - [pirate/bash-utils](https://github.com/pirate/bash-utils) - A collection of hand-crafted bash scripts for various common tasks.
@@ -2824,7 +2826,6 @@
 - [shellspec/shellspec](https://github.com/shellspec/shellspec) - A full-featured BDD unit testing framework for bash, ksh, zsh, dash and all POSIX shells
 - [vic/SPC](https://github.com/vic/SPC) - Send keyboard macros to Spacemacs or DOOM Emacs via emacsclient.
 - [ko1nksm/getoptions](https://github.com/ko1nksm/getoptions) - An elegant option/argument parser for shell scripts (full support for bash and all POSIX shells)
-- [capr/multigit](https://github.com/capr/multigit) - :trident: Overlapped Git Repositories
 - [FiloSottile/passage](https://github.com/FiloSottile/passage) - A fork of password-store (https://www.passwordstore.org) that uses age (https://age-encryption.org) as backend.
 - [sei40kr/zsh-lazy-nvm](https://github.com/sei40kr/zsh-lazy-nvm) - Lazy nvm loading with auto use support!
 - [asppsa/archlinux-nix](https://github.com/asppsa/archlinux-nix) - Bash script for managing the Nix package manager on Arch Linux
