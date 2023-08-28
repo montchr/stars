@@ -345,6 +345,7 @@
 - [localsend/localsend](https://github.com/localsend/localsend) - An open source cross-platform alternative to AirDrop
 - [deckerst/aves](https://github.com/deckerst/aves) - Aves is a gallery and metadata explorer app, built for Android with Flutter.
 - [jenspfahl/BDT](https://github.com/jenspfahl/BDT) - Break.Down.Timer
+- [immich-app/immich](https://github.com/immich-app/immich) - Self-hosted photo and video backup solution directly from your mobile phone.
 - [austinried/subtracks](https://github.com/austinried/subtracks) - A music streaming app for Subsonic-compatible servers
 
 ## Dhall 
@@ -369,6 +370,7 @@
 
 ## Emacs Lisp 
 
+- [Alexander-Miller/treemacs](https://github.com/Alexander-Miller/treemacs) - 
 - [remi-gelinas/nix-ts-mode](https://github.com/remi-gelinas/nix-ts-mode) - An Emacs major mode for editing Nix expressions, powered by tree-sitter.
 - [namilus/denote-menu](https://github.com/namilus/denote-menu) - View and filter Denote files in a tabulated list
 - [Gavinok/emacs.d](https://github.com/Gavinok/emacs.d) - nothing to see here 👀
@@ -884,7 +886,6 @@
 - [TandoorRecipes/recipes](https://github.com/TandoorRecipes/recipes) - Application for managing recipes, planning meals, building shopping lists and much much more!
 - [cleverca22/nixos-configs](https://github.com/cleverca22/nixos-configs) - 
 - [umpirsky/country-list](https://github.com/umpirsky/country-list) - :globe_with_meridians: List of all countries with names and ISO 3166-1 codes in all languages and data formats.
-- [pqrs-org/KE-complex_modifications](https://github.com/pqrs-org/KE-complex_modifications) - Karabiner-Elements complex_modifications rules
 - [arianvp/nixos-stuff](https://github.com/arianvp/nixos-stuff) - Nixos stuff
 - [krzemienski/awesome-video](https://github.com/krzemienski/awesome-video) - A curated list of awesome streaming video tools, frameworks, libraries, and learning resources.
 - [uswds/public-sans](https://github.com/uswds/public-sans) - A strong, neutral, principles-driven, open source typeface for text or display
@@ -1107,6 +1108,7 @@
 - [jeetiss/tabs](https://github.com/jeetiss/tabs) - React tabs with hooks
 - [openstyles/stylus](https://github.com/openstyles/stylus) - Stylus - Userstyles Manager
 - [mooz/org-js](https://github.com/mooz/org-js) - A parser and converter for org-mode notation, written in JavaScript
+- [pqrs-org/KE-complex_modifications](https://github.com/pqrs-org/KE-complex_modifications) - Karabiner-Elements complex_modifications rules
 - [gajus/eslint-plugin-jsdoc](https://github.com/gajus/eslint-plugin-jsdoc) - JSDoc specific linting rules for ESLint.
 - [jsdoc2md/jsdoc-to-markdown](https://github.com/jsdoc2md/jsdoc-to-markdown) - Generate markdown documentation from jsdoc-annotated javascript
 - [reactjs/react-tabs](https://github.com/reactjs/react-tabs) - An accessible and easy tab component for ReactJS.
@@ -3146,7 +3148,6 @@
 - [withastro/astro](https://github.com/withastro/astro) - The all-in-one web framework designed for speed. ⭐️ Star to support our work!
 - [toeverything/AFFiNE](https://github.com/toeverything/AFFiNE) - There can be more than Notion and Miro. AFFiNE is a next-gen knowledge base that brings planning, sorting and creating all together. Privacy first, open-source, customizable and ready to use.
 - [WorldBrain/Memex](https://github.com/WorldBrain/Memex) - Browser extension to curate, annotate, and discuss the most valuable content and ideas on the web. As individuals, teams and communities.
-- [immich-app/immich](https://github.com/immich-app/immich) - Self-hosted photo and video backup solution directly from your mobile phone.
 - [ItinerisLtd/composify](https://github.com/ItinerisLtd/composify) - Turn WordPress plugin zip files into git repositories, so that composer version constraints work properly.
 - [prisma/prisma](https://github.com/prisma/prisma) - Next-generation ORM for Node.js & TypeScript | PostgreSQL, MySQL, MariaDB, SQL Server, SQLite, MongoDB and CockroachDB
 - [multiprocessio/datastation](https://github.com/multiprocessio/datastation) - App to easily query, script, and visualize data from every database, file, and API.
