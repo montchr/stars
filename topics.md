@@ -1197,6 +1197,7 @@
 
 ## emacs 
 
+- [Alexander-Miller/treemacs](https://github.com/Alexander-Miller/treemacs) - 
 - [remi-gelinas/nix-ts-mode](https://github.com/remi-gelinas/nix-ts-mode) - An Emacs major mode for editing Nix expressions, powered by tree-sitter.
 - [namilus/denote-menu](https://github.com/namilus/denote-menu) - View and filter Denote files in a tabulated list
 - [seagle0128/doom-modeline](https://github.com/seagle0128/doom-modeline) - A fancy and fast mode-line inspired by minimalism design.
