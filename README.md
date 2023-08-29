@@ -370,6 +370,8 @@
 
 ## Emacs Lisp 
 
+- [Lambda-Emacs/lambda-themes](https://github.com/Lambda-Emacs/lambda-themes) - A set of four light and dark themes for Emacs.
+- [Lambda-Emacs/lambda-line](https://github.com/Lambda-Emacs/lambda-line) - A configurable status line for Emacs
 - [Alexander-Miller/treemacs](https://github.com/Alexander-Miller/treemacs) - 
 - [remi-gelinas/nix-ts-mode](https://github.com/remi-gelinas/nix-ts-mode) - An Emacs major mode for editing Nix expressions, powered by tree-sitter.
 - [namilus/denote-menu](https://github.com/namilus/denote-menu) - View and filter Denote files in a tabulated list
@@ -2619,7 +2621,7 @@
 - [Mic92/envfs](https://github.com/Mic92/envfs) - Fuse filesystem that returns symlinks to executables based on the PATH of the requesting process.
 - [vlinkz/nix-software-center](https://github.com/vlinkz/nix-software-center) - A simple gtk4/libadwaita software center to easily install and manage nix packages
 - [H-M-H/Weylus](https://github.com/H-M-H/Weylus) - Use your tablet as graphic tablet/touch screen on your computer.
-- [soywod/himalaya](https://github.com/soywod/himalaya) - CLI to manage your emails.
+- [soywod/himalaya](https://github.com/soywod/himalaya) - CLI to manage emails.
 - [DeterminateSystems/nix-netboot-serve](https://github.com/DeterminateSystems/nix-netboot-serve) - Make any NixOS system netbootable with 10s cycle times.
 - [viperML/nh](https://github.com/viperML/nh) - Yet another nix cli helper
 - [dramforever/nix-json-progress](https://github.com/dramforever/nix-json-progress) - Progress bars from Nix internal-json log
