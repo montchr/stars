@@ -612,7 +612,7 @@
 - [TheLocehiliosan/yadm](https://github.com/TheLocehiliosan/yadm) - Yet Another Dotfiles Manager
 - [carnager/clerk](https://github.com/carnager/clerk) - clerk - mpd client, based on rofi/fzf
 - [jasonheecs/ubuntu-server-setup](https://github.com/jasonheecs/ubuntu-server-setup) - A setup script for Ubuntu servers
-- [nojhan/liquidprompt](https://github.com/nojhan/liquidprompt) - A full-featured & carefully designed adaptive prompt for Bash & Zsh
+- [liquidprompt/liquidprompt](https://github.com/liquidprompt/liquidprompt) - A full-featured & carefully designed adaptive prompt for Bash & Zsh
 - [kellyjonbrazil/jc](https://github.com/kellyjonbrazil/jc) - CLI tool and python library that converts the output of popular command-line tools, file-types, and common strings to JSON, YAML, or Dictionaries. This allows piping of output to tools like jq and sim
 - [alebcay/awesome-shell](https://github.com/alebcay/awesome-shell) - A curated list of awesome command-line frameworks, toolkits, guides and gizmos. Inspired by awesome-php.
 - [junegunn/fzf](https://github.com/junegunn/fzf) - :cherry_blossom: A command-line fuzzy finder
@@ -2972,6 +2972,7 @@
 
 ## others 
 
+- [Malabarba/aggressive-indent-mode](https://github.com/Malabarba/aggressive-indent-mode) - Emacs minor mode that keeps your code always indented. More reliable than electric-indent-mode.
 - [Lambda-Emacs/lambda-themes](https://github.com/Lambda-Emacs/lambda-themes) - A set of four light and dark themes for Emacs.
 - [Lambda-Emacs/lambda-line](https://github.com/Lambda-Emacs/lambda-line) - A configurable status line for Emacs
 - [oddlama/kanidm-secret-manipulator](https://github.com/oddlama/kanidm-secret-manipulator) - A helper utility that modifies the kanidm database to allow provisioning declarative secrets
