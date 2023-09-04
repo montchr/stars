@@ -2990,7 +2990,6 @@
 - [mayflower/authentik-nix](https://github.com/mayflower/authentik-nix) - Nix flake with package, NixOS module and basic VM test for authentik. Trying to provide an alternative deployment mode to the officially supported docker-compose approach. Not affiliated with or offic
 - [mindplay-dk/readable](https://github.com/mindplay-dk/readable) - Format any kind of PHP value or type as human-readable
 - [joonspk-research/generative_agents](https://github.com/joonspk-research/generative_agents) - Generative Agents: Interactive Simulacra of Human Behavior
-- [lapce/lapce](https://github.com/lapce/lapce) - Lightning-fast and Powerful Code Editor written in Rust
 - [signalapp/Signal-Android](https://github.com/signalapp/Signal-Android) - A private messenger for Android.
 - [mollyim/mollyim-android](https://github.com/mollyim/mollyim-android) - A fork of Signal for Android with passphrase lock
 - [loophp/nix-php-composer-builder](https://github.com/loophp/nix-php-composer-builder) - A PHP builder for Composer based projects
@@ -4870,6 +4869,8 @@
 
 ## rust 
 
+- [helix-editor/nucleo](https://github.com/helix-editor/nucleo) - A fast and convenient fuzzy matcher library for rust
+- [lapce/lapce](https://github.com/lapce/lapce) - Lightning-fast and Powerful Code Editor written in Rust
 - [Uriopass/Egregoria](https://github.com/Uriopass/Egregoria) - 3D City Builder without a grid
 - [Uriopass/Musidex](https://github.com/Uriopass/Musidex) - Your AI powered musical pokedex, Plex for music
 - [squidowl/halloy](https://github.com/squidowl/halloy) - IRC application written in Rust
@@ -5547,6 +5548,7 @@
 
 ## vim 
 
+- [lapce/lapce](https://github.com/lapce/lapce) - Lightning-fast and Powerful Code Editor written in Rust
 - [b0o/surfingkeys-conf](https://github.com/b0o/surfingkeys-conf) - 🏄 A SurfingKeys config which adds 180+ key mappings & 50+ search engines
 - [jonascarpay/nix](https://github.com/jonascarpay/nix) - My system configurations, dotfiles, and other miscellanies
 - [figsoda/cfg](https://github.com/figsoda/cfg) - My NixOS configuration featuring awesome and neovim
