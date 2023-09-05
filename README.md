@@ -103,6 +103,7 @@
 
 ## Astro 
 
+- [bahlo/arne.me](https://github.com/bahlo/arne.me) - My personal website
 - [BenRoe/awesome-mechanical-keyboard](https://github.com/BenRoe/awesome-mechanical-keyboard) - ⌨️ A curated list of Open Source Mechanical Keyboard resources.
 
 ## Awk 
@@ -2757,6 +2758,7 @@
 
 ## Shell 
 
+- [kdave/btrfsmaintenance](https://github.com/kdave/btrfsmaintenance) - Scripts for btrfs maintenance tasks like periodic scrub, balance, trim or defrag on selected mountpoints or directories.
 - [noctuid/dotfiles](https://github.com/noctuid/dotfiles) - Mouseless Workflow (WIP)
 - [ramsey/composer-install](https://github.com/ramsey/composer-install) - :gift: A GitHub Action to streamline installation of PHP dependencies with Composer.
 - [typkrft/chezmoi](https://github.com/typkrft/chezmoi) - 
