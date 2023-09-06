@@ -682,6 +682,7 @@
 
 ## Go 
 
+- [opentffoundation/opentf](https://github.com/opentffoundation/opentf) - OpenTF lets you declaratively manage your cloud infrastructure.
 - [rebuy-de/aws-nuke](https://github.com/rebuy-de/aws-nuke) - Nuke a whole AWS account and delete all its resources.
 - [mithrandie/csvq](https://github.com/mithrandie/csvq) - SQL-like query language for csv
 - [matrix-org/dendrite](https://github.com/matrix-org/dendrite) - Dendrite is a second-generation Matrix homeserver written in Go!
@@ -1409,6 +1410,7 @@
 
 ## Nix 
 
+- [ironicbadger/nix-testing](https://github.com/ironicbadger/nix-testing) - 
 - [DeterminateSystems/flake-schemas](https://github.com/DeterminateSystems/flake-schemas) - Schemas for common flake output types
 - [nzbr/nixos](https://github.com/nzbr/nixos) - My NixOS System configurations
 - [mayflower/nixexprs](https://github.com/mayflower/nixexprs) - Public, Opinionated Mayflower NixOS Modules/Packages and other Expressions
@@ -2758,6 +2760,7 @@
 
 ## Shell 
 
+- [szepeviktor/safe-website-upgrade](https://github.com/szepeviktor/safe-website-upgrade) - Upgrade a website with comparing before and after state
 - [kdave/btrfsmaintenance](https://github.com/kdave/btrfsmaintenance) - Scripts for btrfs maintenance tasks like periodic scrub, balance, trim or defrag on selected mountpoints or directories.
 - [noctuid/dotfiles](https://github.com/noctuid/dotfiles) - Mouseless Workflow (WIP)
 - [ramsey/composer-install](https://github.com/ramsey/composer-install) - :gift: A GitHub Action to streamline installation of PHP dependencies with Composer.
