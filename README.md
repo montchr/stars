@@ -213,6 +213,7 @@
 
 ## C++ 
 
+- [trapexit/mergerfs](https://github.com/trapexit/mergerfs) - a featureful union filesystem
 - [sz3/libcimbar](https://github.com/sz3/libcimbar) - Optimized implementation for color-icon-matrix barcodes
 - [rakshasa/rtorrent](https://github.com/rakshasa/rtorrent) - rTorrent BitTorrent client
 - [ledger/ledger](https://github.com/ledger/ledger) - Double-entry accounting system with a command-line reporting interface
@@ -637,7 +638,7 @@
 - [waymondo/apropospriate-theme](https://github.com/waymondo/apropospriate-theme) - A colorful, low-contrast, light & dark theme set for Emacs with a fun name
 - [neeasade/ct.el](https://github.com/neeasade/ct.el) - color tools for emacs
 - [cyruseuros/ewal](https://github.com/cyruseuros/ewal) - 
-- [alphapapa/org-ql](https://github.com/alphapapa/org-ql) - An Org-mode query language, including search commands and saved views
+- [alphapapa/org-ql](https://github.com/alphapapa/org-ql) - A searching tool for Org-mode, including custom query languages, commands, saved searches and agenda-like views, etc.
 - [charlesroelli/org-board](https://github.com/charlesroelli/org-board) - Org mode's web archiver.
 - [ahungry/org-jira](https://github.com/ahungry/org-jira) - Bring Jira and OrgMode together
 - [jjuliano/practical.org.el](https://github.com/jjuliano/practical.org.el) - A simple, all-in-one workflow system for regular Emacs.  Includes a useful GTD system (Getting Things Done), time management system, habit management system, contact management system, Zettelkasten, a
@@ -1995,6 +1996,7 @@
 
 ## PHP 
 
+- [bueltge/wordpress-multisite-enhancements](https://github.com/bueltge/wordpress-multisite-enhancements) - Enhance WordPress Multisite for Network Admins with different topics
 - [mindplay-dk/readable](https://github.com/mindplay-dk/readable) - Format any kind of PHP value or type as human-readable
 - [thephpleague/uri](https://github.com/thephpleague/uri) - [READ-ONLY] URI manipulation Library
 - [munusphp/munus](https://github.com/munusphp/munus) - Power of object-oriented programming with the elegance of functional programming in PHP.
@@ -2576,7 +2578,7 @@
 - [kamiyaa/joshuto](https://github.com/kamiyaa/joshuto) - ranger-like terminal file manager written in Rust
 - [sorcerers-class/automancy](https://github.com/sorcerers-class/automancy) - A game about Automation, themed around Magic, based on Hexagons, and -- there's no Conveyor Belts.
 - [uutils/coreutils](https://github.com/uutils/coreutils) - Cross-platform Rust rewrite of the GNU coreutils
-- [AmrDeveloper/GQL](https://github.com/AmrDeveloper/GQL) - A SQL like query language called GQL (Git Query Language) to perform queries on your local .git files with functions, conditions and statements
+- [AmrDeveloper/GQL](https://github.com/AmrDeveloper/GQL) - Git Query language is a SQL like query language to perform queries on multi repositories on the fly :yum:
 - [samwho/spacer](https://github.com/samwho/spacer) - CLI tool to insert spacers when command output stops
 - [swsnr/mdcat](https://github.com/swsnr/mdcat) - cat for markdown
 - [Deaftone/Deaftone](https://github.com/Deaftone/Deaftone) - Lightweight music server. With a clean and simple API
