@@ -371,6 +371,7 @@
 
 ## Emacs Lisp 
 
+- [goatfiles/dotfiles](https://github.com/goatfiles/dotfiles) - My personal archlinux config files.
 - [mrkkrp/nushell-mode](https://github.com/mrkkrp/nushell-mode) - Emacs major mode for Nushell scripts
 - [Malabarba/aggressive-indent-mode](https://github.com/Malabarba/aggressive-indent-mode) - Emacs minor mode that keeps your code always indented. More reliable than electric-indent-mode.
 - [Lambda-Emacs/lambda-themes](https://github.com/Lambda-Emacs/lambda-themes) - A set of four light and dark themes for Emacs.
@@ -683,6 +684,7 @@
 
 ## Go 
 
+- [pdtpartners/nix-snapshotter](https://github.com/pdtpartners/nix-snapshotter) - Brings native understanding of Nix packages to containerd
 - [opentffoundation/opentf](https://github.com/opentffoundation/opentf) - OpenTF lets you declaratively manage your cloud infrastructure.
 - [rebuy-de/aws-nuke](https://github.com/rebuy-de/aws-nuke) - Nuke a whole AWS account and delete all its resources.
 - [mithrandie/csvq](https://github.com/mithrandie/csvq) - SQL-like query language for csv
@@ -1349,7 +1351,7 @@
 - [nvim-neorg/neorg](https://github.com/nvim-neorg/neorg) - Modernity meets insane extensibility. The future of organizing your life in Neovim.
 - [disrupted/dotfiles](https://github.com/disrupted/dotfiles) - 👨🏻‍💻 My dotfiles including Neovim Lua config, ZSH with zinit plugin manager & powerlevel10k prompt
 - [NTBBloodbath/cheovim](https://github.com/NTBBloodbath/cheovim) - Neovim configuration switcher written in Lua. Inspired by chemacs.
-- [crivotz/nv-ide](https://github.com/crivotz/nv-ide) - Neovim custom configuration, oriented for full stack developers (rails, ruby, php, html, css, SCSS, javascript)
+- [crivotz/nv-ide](https://github.com/crivotz/nv-ide) - Neovim custom configuration, oriented for full stack developers (Ruby on Rails, ruby, php, html, css, SCSS, javascript)
 - [LunarVim/LunarVim](https://github.com/LunarVim/LunarVim) - 🌙 LunarVim is an IDE layer for Neovim. Completely free and community driven.
 - [doom-neovim/doom-nvim](https://github.com/doom-neovim/doom-nvim) - A Neovim configuration for the advanced martian hacker
 - [pinpox/wallpaper-generator](https://github.com/pinpox/wallpaper-generator) - Generate wallpaper images from mathematical functions
@@ -1411,6 +1413,7 @@
 
 ## Nix 
 
+- [accelbread/flakelight](https://github.com/accelbread/flakelight) - Framework for simplifying flake setup
 - [ironicbadger/nix-testing](https://github.com/ironicbadger/nix-testing) - 
 - [DeterminateSystems/flake-schemas](https://github.com/DeterminateSystems/flake-schemas) - Schemas for common flake output types
 - [nzbr/nixos](https://github.com/nzbr/nixos) - My NixOS System configurations
@@ -1757,6 +1760,8 @@
 
 ## Nushell 
 
+- [nushell/nufmt](https://github.com/nushell/nufmt) - 
+- [goatfiles/wallpapers](https://github.com/goatfiles/wallpapers) - A gallery of wallpapers I use for my laptop config.
 - [DeterminateSystems/nuenv](https://github.com/DeterminateSystems/nuenv) - A Nushell environment for Nix
 - [nushell/nu_scripts](https://github.com/nushell/nu_scripts) - A place to share Nushell scripts with each other
 - [tony/.dot-config](https://github.com/tony/.dot-config) - :books: Example dot configs for tmux, tmuxp, vim, vcspull, i3 and awesome
@@ -2450,7 +2455,7 @@
 - [pre-commit/pre-commit](https://github.com/pre-commit/pre-commit) - A framework for managing and maintaining multi-language pre-commit hooks.
 - [borgbackup/borg](https://github.com/borgbackup/borg) - Deduplicating archiver with compression and authenticated encryption.
 - [archlinux/archinstall](https://github.com/archlinux/archinstall) - Arch Linux installer - guided, templates etc.
-- [NixOS/nix.dev](https://github.com/NixOS/nix.dev) - An opinionated guide for developers wanting to get things done with the Nix ecosystem.
+- [NixOS/nix.dev](https://github.com/NixOS/nix.dev) - Official documentation for getting things done with Nix.
 - [jarun/buku](https://github.com/jarun/buku) - :bookmark: Personal mini-web in text
 - [drduh/macOS-Security-and-Privacy-Guide](https://github.com/drduh/macOS-Security-and-Privacy-Guide) - Guide to securing and improving privacy on macOS
 - [oilshell/oil](https://github.com/oilshell/oil) - Oils is our upgrade path from bash to a better language and runtime.  It's also for Python and JavaScript users who avoid shell!
