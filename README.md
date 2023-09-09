@@ -1044,7 +1044,7 @@
 - [postlight/parser](https://github.com/postlight/parser) - 📜 Extract meaningful content from the chaos of a web page
 - [postlight/headless-wp-starter](https://github.com/postlight/headless-wp-starter) - 🔪 WordPress + React Starter Kit: Spin up a WordPress-powered React app in one step
 - [10up/wp-local-docker-v2](https://github.com/10up/wp-local-docker-v2) - A simple Docker based development environment for WordPress.
-- [artilleryio/artillery](https://github.com/artilleryio/artillery) - 🌩 Cloud-scale serverless load testing, as easy as 1-2-3. No DevOps needed. Never fail to scale!
+- [artilleryio/artillery](https://github.com/artilleryio/artillery) - Cloud-scale load testing, as easy as 1-2-3. Distributed & serverless. Never fail to scale!
 - [sveltejs/svelte](https://github.com/sveltejs/svelte) - Cybernetically enhanced web apps
 - [louislam/uptime-kuma](https://github.com/louislam/uptime-kuma) - A fancy self-hosted monitoring tool
 - [WordPress/wordpress-playground](https://github.com/WordPress/wordpress-playground) - Run WordPress in the browser via WebAssembly PHP
@@ -1464,7 +1464,7 @@
 - [aakropotkin/laika](https://github.com/aakropotkin/laika) - Nix fetcher abstractions.
 - [aakropotkin/rime](https://github.com/aakropotkin/rime) - Nix URI libs and utils
 - [numtide/nix-stdlib](https://github.com/numtide/nix-stdlib) - experimental nix prelude
-- [emacs-twist/twist.nix](https://github.com/emacs-twist/twist.nix) - A Nix library for building a set of locally-freezed elisp packages
+- [emacs-twist/twist.nix](https://github.com/emacs-twist/twist.nix) - A simple but sufficient Nix library for building a set of locally-freezed Emacs Lisp packages
 - [planetbeldar/mac-overlay](https://github.com/planetbeldar/mac-overlay) - nixpkgs mac overlay (mmm, dmgs)
 - [srid/flake-root](https://github.com/srid/flake-root) - A `flake-parts` module for finding your way to the project root directory
 - [numtide/srvos](https://github.com/numtide/srvos) - NixOS profiles for servers
@@ -2217,7 +2217,7 @@
 - [corcel/corcel](https://github.com/corcel/corcel) - Use WordPress backend with Laravel or any PHP application
 - [iamcal/oembed](https://github.com/iamcal/oembed) - The oEmbed Spec
 - [snicco/snicco](https://github.com/snicco/snicco) - Taking the pain out of enterprise WordPress development
-- [WordPress/hosting-handbook](https://github.com/WordPress/hosting-handbook) - Hosting Handbook
+- [WordPress/hosting-handbook](https://github.com/WordPress/hosting-handbook) - WordPress Hosting Team Handbook
 - [alleyinteractive/wp-find-one](https://github.com/alleyinteractive/wp-find-one) - Query for and return one WordPress post, term, or other object, bypassing intermediate arrays.
 - [johnbillion/query-monitor](https://github.com/johnbillion/query-monitor) - The Developer Tools Panel for WordPress
 - [pestphp/pest](https://github.com/pestphp/pest) - Pest is an elegant PHP testing Framework with a focus on simplicity, meticulously designed to bring back the joy of testing in PHP.
