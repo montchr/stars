@@ -120,6 +120,7 @@
 
 ## C 
 
+- [davidjo/snd_hda_macbookpro](https://github.com/davidjo/snd_hda_macbookpro) - Kernel audio driver for Macs with 8409 HDA chip + MAX98706/SSM3515 amps
 - [curl/trurl](https://github.com/curl/trurl) - trurl is a command line tool for URL parsing and manipulation.
 - [gbprod/tree-sitter-twig](https://github.com/gbprod/tree-sitter-twig) - Twig grammar for Tree-sitter
 - [KaranAhlawat/tree-sitter-blade](https://github.com/KaranAhlawat/tree-sitter-blade) - [EXPERIMENTAL] A tree sitter grammar for the Blade templating language.
@@ -1413,6 +1414,7 @@
 
 ## Nix 
 
+- [hsjobeki/nix-doc-comments](https://github.com/hsjobeki/nix-doc-comments) - RFC145 User Guide
 - [accelbread/flakelight](https://github.com/accelbread/flakelight) - Framework for simplifying flake setup
 - [ironicbadger/nix-testing](https://github.com/ironicbadger/nix-testing) - 
 - [DeterminateSystems/flake-schemas](https://github.com/DeterminateSystems/flake-schemas) - Schemas for common flake output types
@@ -1572,7 +1574,7 @@
 - [myme/dotfiles](https://github.com/myme/dotfiles) - My collection of dotfiles
 - [TLATER/nixos-hosts](https://github.com/TLATER/nixos-hosts) - NixOS host configuration
 - [ncfavier/config](https://github.com/ncfavier/config) - My NixOS configurations
-- [dustinlyons/nixos-config](https://github.com/dustinlyons/nixos-config) - My personal Nix configuration for MacOS and NixOS, includes starter templates and step-by-step guides ✨
+- [dustinlyons/nixos-config](https://github.com/dustinlyons/nixos-config) - My personal Nix configuration for MacOS and NixOS with starter templates + step-by-step guides ✨
 - [noib3/dotfiles](https://github.com/noib3/dotfiles) - :house: Procrastinating never felt this productive
 - [nixosbrasil/climod](https://github.com/nixosbrasil/climod) - Modular generated command line interfaces using the same technology as the NixOS module system.
 - [talyz/nixos-config](https://github.com/talyz/nixos-config) - My NixOS configuration
@@ -2583,7 +2585,7 @@
 - [kamiyaa/joshuto](https://github.com/kamiyaa/joshuto) - ranger-like terminal file manager written in Rust
 - [sorcerers-class/automancy](https://github.com/sorcerers-class/automancy) - A game about Automation, themed around Magic, based on Hexagons, and -- there's no Conveyor Belts.
 - [uutils/coreutils](https://github.com/uutils/coreutils) - Cross-platform Rust rewrite of the GNU coreutils
-- [AmrDeveloper/GQL](https://github.com/AmrDeveloper/GQL) - Git Query language is a SQL like query language to perform queries on multi repositories on the fly :yum:
+- [AmrDeveloper/GQL](https://github.com/AmrDeveloper/GQL) - Git Query language is a SQL like query language to perform queries on multi repositories on the fly
 - [samwho/spacer](https://github.com/samwho/spacer) - CLI tool to insert spacers when command output stops
 - [swsnr/mdcat](https://github.com/swsnr/mdcat) - cat for markdown
 - [Deaftone/Deaftone](https://github.com/Deaftone/Deaftone) - Lightweight music server. With a clean and simple API
