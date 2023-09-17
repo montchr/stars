@@ -1663,7 +1663,6 @@
 - [considerate/home](https://github.com/considerate/home) - 
 - [jordanisaacs/homeage](https://github.com/jordanisaacs/homeage) - runtime decrypted age secrets for nix home manager
 - [matthewbauer/nix-bundle](https://github.com/matthewbauer/nix-bundle) - Bundle Nix derivations to run anywhere!
-- [stellarhoof/furnisher](https://github.com/stellarhoof/furnisher) - Furnish a new $HOME
 - [shajra/shajra-provisioning](https://github.com/shajra/shajra-provisioning) - Personal provisioning machines with Nix
 - [cruel-intentions/devshell-files](https://github.com/cruel-intentions/devshell-files) - Using nix as JSON, TEXT, TOML and YAML generator
 - [Misterio77/nix-config](https://github.com/Misterio77/nix-config) - Personal nixos and home-manager configurations.
@@ -2602,7 +2601,7 @@
 - [replicadse/complate](https://github.com/replicadse/complate) - A powerful text templating tool.
 - [numtide/system-manager](https://github.com/numtide/system-manager) - Manage system config using nix on any distro
 - [typst/typst](https://github.com/typst/typst) - A new markup-based typesetting system that is powerful and easy to learn.
-- [ouch-org/ouch](https://github.com/ouch-org/ouch) - Painless compression and decompression for your terminal
+- [ouch-org/ouch](https://github.com/ouch-org/ouch) - Painless compression and decompression in the terminal
 - [nix-community/nix-init](https://github.com/nix-community/nix-init) - Generate Nix packages from URLs with hash prefetching, dependency inference, license detection, and more [maintainer=@figsoda]
 - [Hyde46/hoard](https://github.com/Hyde46/hoard) - cli command organizer written in rust
 - [davidcole1340/ext-php-rs](https://github.com/davidcole1340/ext-php-rs) - Bindings for the Zend API to build PHP extensions natively in Rust.
