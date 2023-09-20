@@ -247,6 +247,7 @@
 
 ## android 
 
+- [nix-community/nix-on-droid-app](https://github.com/nix-community/nix-on-droid-app) - Run Nix package manager on Android. Based off Termux the terminal emulator, but not Termux the distro. [maintainer=@t184256]
 - [caydey/ffshare](https://github.com/caydey/ffshare) - An android app to compress image, video and audio files through ffmpeg before sharing them
 - [termux/termux-app](https://github.com/termux/termux-app) - Termux - a terminal emulator application for Android OS extendible by variety of packages.
 - [Donnnno/Arcticons](https://github.com/Donnnno/Arcticons) - A monotone line-based icon pack for android
@@ -578,6 +579,7 @@
 - [ericdallo/dotfiles](https://github.com/ericdallo/dotfiles) - Dotfiles for my NixOS system based on Dracula theme
 - [trapd00r/LS_COLORS](https://github.com/trapd00r/LS_COLORS) - A collection of LS_COLORS definitions; needs your contribution!
 - [google/zx](https://github.com/google/zx) - A tool for writing better scripts
+- [abathur/resholve](https://github.com/abathur/resholve) - a shell resolver? :) (find and resolve shell script dependencies)
 - [wfxr/forgit](https://github.com/wfxr/forgit) - :zzz: A utility tool powered by fzf for using git interactively.
 - [alexanderepstein/Bash-Snippets](https://github.com/alexanderepstein/Bash-Snippets) - A collection of small bash scripts for heavy terminal users
 - [akinomyoga/ble.sh](https://github.com/akinomyoga/ble.sh) - Bash Line Editor―a full-featured line editor written in pure Bash! Syntax highlighting, auto suggestions, vim modes, etc. are available in Bash interactive sessions!
@@ -1017,7 +1019,7 @@
 
 ## deployment 
 
-- [numtide/nixos-anywhere](https://github.com/numtide/nixos-anywhere) - install nixos everywhere via ssh
+- [nix-community/nixos-anywhere](https://github.com/nix-community/nixos-anywhere) - install nixos everywhere via ssh
 - [rapenne-s/bento](https://github.com/rapenne-s/bento) - A KISS deployment tool to keep your NixOS fleet (servers & workstations) up to date.
 - [zhaofengli/colmena](https://github.com/zhaofengli/colmena) - A simple, stateless NixOS deployment tool
 - [Burnett01/rsync-deployments](https://github.com/Burnett01/rsync-deployments) - GitHub Action for deploying code via rsync over ssh
@@ -1901,7 +1903,6 @@
 - [maralorn/nix-output-monitor](https://github.com/maralorn/nix-output-monitor) - Pipe your nix-build output through the nix-output-monitor a.k.a nom to get additional information while building.
 - [extrawurst/gitui](https://github.com/extrawurst/gitui) - Blazing 💥 fast terminal-ui for git written in rust 🦀
 - [xmonad/xmonad](https://github.com/xmonad/xmonad) - The core of xmonad, a small but functional ICCCM-compliant tiling window manager
-- [zellij-org/zellij](https://github.com/zellij-org/zellij) - A terminal workspace with batteries included
 - [Maxwell-lt/machine-configuration](https://github.com/Maxwell-lt/machine-configuration) - Configuration files for my NixOS installs
 - [alexpate/awesome-design-systems](https://github.com/alexpate/awesome-design-systems) - 💅🏻 ⚒ A collection of awesome design systems
 - [mermaid-js/mermaid](https://github.com/mermaid-js/mermaid) - Generation of diagrams like flowcharts or sequence diagrams from text in a similar manner as markdown
@@ -2983,6 +2984,7 @@
 
 ## others 
 
+- [chayleaf/nixos-router](https://github.com/chayleaf/nixos-router) - A NixOS router framework
 - [a-schaefers/spartan-emacs](https://github.com/a-schaefers/spartan-emacs) - Finally, a simple base Emacs configuration framework
 - [mohkale/all-the-icons-nerd-fonts](https://github.com/mohkale/all-the-icons-nerd-fonts) - Nerd font integration for all-the-icons
 - [karthink/popper](https://github.com/karthink/popper) - Emacs minor-mode to summon and dismiss buffers easily.
@@ -3906,7 +3908,6 @@
 - [andyrichardson/nix-node](https://github.com/andyrichardson/nix-node) - The closest thing to nvm on Nix!
 - [blahgeek/emacs-devdocs-browser](https://github.com/blahgeek/emacs-devdocs-browser) - 
 - [emacsorphanage/anzu](https://github.com/emacsorphanage/anzu) - Emacs Port of anzu.vim
-- [abathur/resholve](https://github.com/abathur/resholve) - a shell resolver? :)
 - [xenodium/company-org-block](https://github.com/xenodium/company-org-block) - 
 - [google/tachometer](https://github.com/google/tachometer) - Statistically rigorous benchmark runner for the web
 - [pindexis/marker](https://github.com/pindexis/marker) - The terminal command palette
@@ -5175,6 +5176,7 @@
 - [marzocchi/zsh-notify](https://github.com/marzocchi/zsh-notify) - Desktop notifications for long-running commands in zsh.
 - [colonelpanic8/dotfiles](https://github.com/colonelpanic8/dotfiles) - Configuration files for XMonad, Emacs, NixOS, Taffybar and more.
 - [nushell/nushell](https://github.com/nushell/nushell) - A new type of shell
+- [abathur/resholve](https://github.com/abathur/resholve) - a shell resolver? :) (find and resolve shell script dependencies)
 - [jrnl-org/jrnl](https://github.com/jrnl-org/jrnl) - Collect your thoughts and notes without leaving the command line.
 - [Aloxaf/fzf-tab](https://github.com/Aloxaf/fzf-tab) - Replace zsh's default completion selection menu with fzf!
 - [rothgar/mastering-zsh](https://github.com/rothgar/mastering-zsh) - Advanced topics to take advantage of zsh 👩‍💻👨‍💻
