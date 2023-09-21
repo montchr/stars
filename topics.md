@@ -2993,7 +2993,7 @@
 - [accelbread/flakelight](https://github.com/accelbread/flakelight) - Framework for simplifying flake setup
 - [nushell/nufmt](https://github.com/nushell/nufmt) - 
 - [trapexit/mergerfs](https://github.com/trapexit/mergerfs) - a featureful union filesystem
-- [opentffoundation/opentf](https://github.com/opentffoundation/opentf) - OpenTF lets you declaratively manage your cloud infrastructure.
+- [opentofu/opentofu](https://github.com/opentofu/opentofu) - OpenTofu lets you declaratively manage your cloud infrastructure.
 - [ironicbadger/nix-testing](https://github.com/ironicbadger/nix-testing) - 
 - [kdave/btrfsmaintenance](https://github.com/kdave/btrfsmaintenance) - Scripts for btrfs maintenance tasks like periodic scrub, balance, trim or defrag on selected mountpoints or directories.
 - [nushell/awesome-nu](https://github.com/nushell/awesome-nu) - A curated list of awesome tools that work within the nu language ecosystem e.g. nushell, scripts, nana, etc.
@@ -3231,7 +3231,7 @@
 - [nix-community/noogle](https://github.com/nix-community/noogle) - https://noogle.dev - nix function exploring. [maintainer=@hsjobeki]
 - [GTrunSec/std-ext](https://github.com/GTrunSec/std-ext) - 
 - [aristanetworks/nix-serve-ng](https://github.com/aristanetworks/nix-serve-ng) - A drop-in replacement for nix-serve that is faster and more reliable
-- [nix-community/robotnix](https://github.com/nix-community/robotnix) - Build Android (AOSP) using Nix [maintainer=@danielfullmer]
+- [nix-community/robotnix](https://github.com/nix-community/robotnix) - Build Android (AOSP) using Nix [maintainer=@danielfullmer,@Atemu]
 - [Hoverbear-Consulting/flake](https://github.com/Hoverbear-Consulting/flake) - Company Nix expressions.
 - [paisano-nix/core](https://github.com/paisano-nix/core) - Standard's grow function family. Factorized.
 - [udayvir-singh/hibiscus.nvim](https://github.com/udayvir-singh/hibiscus.nvim) - :hibiscus: Flavored Fennel Macros for Neovim
@@ -4495,7 +4495,7 @@
 - [pestphp/pest](https://github.com/pestphp/pest) - Pest is an elegant PHP testing Framework with a focus on simplicity, meticulously designed to bring back the joy of testing in PHP.
 - [RefactoringGuru/design-patterns-php](https://github.com/RefactoringGuru/design-patterns-php) - Design Pattern Examples in PHP
 - [ziadoz/awesome-php](https://github.com/ziadoz/awesome-php) - A curated list of amazingly awesome PHP libraries, resources and shiny things.
-- [DesignPatternsPHP/DesignPatternsPHP](https://github.com/DesignPatternsPHP/DesignPatternsPHP) - sample code for several design patterns in PHP 8
+- [DesignPatternsPHP/DesignPatternsPHP](https://github.com/DesignPatternsPHP/DesignPatternsPHP) - Sample code for several design patterns in PHP 8.x
 - [fossar/nix-phps](https://github.com/fossar/nix-phps) - Repository of Nix expressions for old PHP versions
 - [bmewburn/vscode-intelephense](https://github.com/bmewburn/vscode-intelephense) - PHP intellisense for Visual Studio Code
 - [CuyZ/MagicConstant](https://github.com/CuyZ/MagicConstant) - PHP Magic Constants, even more powerful than an Enum
