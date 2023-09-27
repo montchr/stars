@@ -2985,6 +2985,8 @@
 
 ## others 
 
+- [cloak-labs/cloakwp-workspace](https://github.com/cloak-labs/cloakwp-workspace) - An ecosystem of the best headless WordPress tooling.
+- [cloak-labs/cloakwp-bedrock](https://github.com/cloak-labs/cloakwp-bedrock) - A WordPress starter for CloakWP headless projects that extends the popular Bedrock boilerplate.
 - [chayleaf/nixos-router](https://github.com/chayleaf/nixos-router) - A NixOS router framework
 - [a-schaefers/spartan-emacs](https://github.com/a-schaefers/spartan-emacs) - Finally, a simple base Emacs configuration framework
 - [mohkale/all-the-icons-nerd-fonts](https://github.com/mohkale/all-the-icons-nerd-fonts) - Nerd font integration for all-the-icons
