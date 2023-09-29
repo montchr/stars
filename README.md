@@ -121,6 +121,7 @@
 ## C 
 
 - [davidjo/snd_hda_macbookpro](https://github.com/davidjo/snd_hda_macbookpro) - Kernel audio driver for Macs with 8409 HDA chip + MAX98706/SSM3515 amps
+- [sz3/libcimbar](https://github.com/sz3/libcimbar) - Optimized implementation for color-icon-matrix barcodes
 - [curl/trurl](https://github.com/curl/trurl) - trurl is a command line tool for URL parsing and manipulation.
 - [gbprod/tree-sitter-twig](https://github.com/gbprod/tree-sitter-twig) - Twig grammar for Tree-sitter
 - [KaranAhlawat/tree-sitter-blade](https://github.com/KaranAhlawat/tree-sitter-blade) - [EXPERIMENTAL] A tree sitter grammar for the Blade templating language.
@@ -215,7 +216,6 @@
 ## C++ 
 
 - [trapexit/mergerfs](https://github.com/trapexit/mergerfs) - a featureful union filesystem
-- [sz3/libcimbar](https://github.com/sz3/libcimbar) - Optimized implementation for color-icon-matrix barcodes
 - [rakshasa/rtorrent](https://github.com/rakshasa/rtorrent) - rTorrent BitTorrent client
 - [ledger/ledger](https://github.com/ledger/ledger) - Double-entry accounting system with a command-line reporting interface
 - [nix-community/nixd](https://github.com/nix-community/nixd) - Nix language server, based on nix libraries [maintainer=@inclyc]
