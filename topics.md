@@ -23,6 +23,7 @@
 - [aws](#aws)
 - [azure](#azure)
 - [babel](#babel)
+- [backend](#backend)
 - [bash](#bash)
 - [blockchain](#blockchain)
 - [bootstrap](#bootstrap)
@@ -547,6 +548,11 @@
 - [roots/bud](https://github.com/roots/bud) - High-performance build system that supports SWC, esbuild, and Babel
 - [ben-rogerson/twin.macro](https://github.com/ben-rogerson/twin.macro) - 🦹‍♂️ Twin blends the magic of Tailwind with the flexibility of css-in-js (emotion, styled-components, solid-styled-components, stitches and goober) at build time.
 - [swc-project/swc](https://github.com/swc-project/swc) - Rust-based platform for the Web
+
+## backend 
+
+- [valeriansaliou/sonic](https://github.com/valeriansaliou/sonic) - 🦔 Fast, lightweight & schema-less search backend. An alternative to Elasticsearch that runs on a few MBs of RAM.
+- [WebDevStudios/nextjs-wordpress-starter](https://github.com/WebDevStudios/nextjs-wordpress-starter) - A headless starter for WordPress powered by Next.js.
 
 ## bash 
 
@@ -1807,6 +1813,7 @@
 
 ## hacktoberfest 
 
+- [eza-community/eza](https://github.com/eza-community/eza) - A modern, maintained replacement for ls
 - [termux/termux-app](https://github.com/termux/termux-app) - Termux - a terminal emulator application for Android OS extendible by variety of packages.
 - [munusphp/munus](https://github.com/munusphp/munus) - Power of object-oriented programming with the elegance of functional programming in PHP.
 - [matrix-org/dendrite](https://github.com/matrix-org/dendrite) - Dendrite is a second-generation Matrix homeserver written in Go!
@@ -2401,7 +2408,7 @@
 - [samhh/dotfiles](https://github.com/samhh/dotfiles) - Configuring the universe with Nix.
 - [ddev/ddev](https://github.com/ddev/ddev) - Docker-based local PHP+Node.js web development environments
 - [protesilaos/dotfiles](https://github.com/protesilaos/dotfiles) - [Mirror] Configuration files for Emacs and some other programs. Running on Arch Linux. Managed with GNU Stow.
-- [petrstepanov/gnome-macos-remap](https://github.com/petrstepanov/gnome-macos-remap) - Script remaps default GNOME keyboard shortcuts to macOS standards. This provides native desktop environment feel for Mac users that are utilizing GNOME-based Linux desktop environment. Read more infor
+- [petrstepanov/gnome-macos-remap](https://github.com/petrstepanov/gnome-macos-remap) - Script remaps default GNOME keyboard shortcuts to macOS standards. This provides native desktop environment feel for Mac users that are utilizing GNOME-based Linux desktop environment. Read more info 
 - [H-M-H/Weylus](https://github.com/H-M-H/Weylus) - Use your tablet as graphic tablet/touch screen on your computer.
 - [ventoy/Ventoy](https://github.com/ventoy/Ventoy) - A new bootable USB solution.
 - [b3nj5m1n/xdg-ninja](https://github.com/b3nj5m1n/xdg-ninja) - A shell script which checks your $HOME for unwanted files and directories.
@@ -2532,7 +2539,7 @@
 - [watchexec/watchexec](https://github.com/watchexec/watchexec) - Executes commands in response to file modifications
 - [hackworthltd/hacknix](https://github.com/hackworthltd/hacknix) - Hackworth Ltd's nix overlays and modules.
 - [ddev/ddev](https://github.com/ddev/ddev) - Docker-based local PHP+Node.js web development environments
-- [petrstepanov/gnome-macos-remap](https://github.com/petrstepanov/gnome-macos-remap) - Script remaps default GNOME keyboard shortcuts to macOS standards. This provides native desktop environment feel for Mac users that are utilizing GNOME-based Linux desktop environment. Read more infor
+- [petrstepanov/gnome-macos-remap](https://github.com/petrstepanov/gnome-macos-remap) - Script remaps default GNOME keyboard shortcuts to macOS standards. This provides native desktop environment feel for Mac users that are utilizing GNOME-based Linux desktop environment. Read more info 
 - [EasyEngine/easyengine](https://github.com/EasyEngine/easyengine) - Command-line control panel for Nginx Server to manage WordPress sites running on Nginx, PHP, MySQL, and Let's Encrypt
 - [kholia/OSX-KVM](https://github.com/kholia/OSX-KVM) - Run macOS on QEMU/KVM. With OpenCore + Big Sur + Monterey + Ventura support now! Only commercial (paid) support is available now to avoid spammy issues. No Mac system is required.
 - [bvaisvil/zenith](https://github.com/bvaisvil/zenith) - Zenith - sort of like top or htop but with zoom-able charts, CPU, GPU, network, and disk usage
