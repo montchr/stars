@@ -735,7 +735,7 @@
 - [asiermarques/adrgen](https://github.com/asiermarques/adrgen) - A command-line tool for generating and managing Architecture Decision Records
 - [BishopFox/cloudfox](https://github.com/BishopFox/cloudfox) - Automating situational awareness for cloud penetration tests.
 - [onedr0p/exportarr](https://github.com/onedr0p/exportarr) - AIO Prometheus Exporter for Prowlarr, Lidarr, Readarr, Radarr, and Sonarr
-- [coroot/coroot](https://github.com/coroot/coroot) - Coroot is an open-source eBPF-based observability tool that turns telemetry data into actionable insights, helping you identify and resolve application issues quickly
+- [coroot/coroot](https://github.com/coroot/coroot) - Open-source observability for microservices. Thanks to eBPF you can gain comprehensive insights into your system within minutes.
 - [wagoodman/dive](https://github.com/wagoodman/dive) - A tool for exploring each layer in a docker image
 - [noahgorstein/jqp](https://github.com/noahgorstein/jqp) - A TUI playground to experiment with jq
 - [influxdata/telegraf](https://github.com/influxdata/telegraf) - The plugin-driven server agent for collecting & reporting metrics.
@@ -3129,7 +3129,7 @@
 - [sjinks/setup-wordpress-test-library](https://github.com/sjinks/setup-wordpress-test-library) - Set up WordPress and WordPress Test Library for unit tests
 - [NEU-DSG/dailp-encoding](https://github.com/NEU-DSG/dailp-encoding) - Digital Archive of American Indian Languages Preservation and Perseverance
 - [nix-community/vscode-nix-ide](https://github.com/nix-community/vscode-nix-ide) - Nix language support for VSCode editor [maintainer: @jnoortheen]
-- [vidstack/vidstack](https://github.com/vidstack/vidstack) - Vidstack is a video/audio platform for frontend developers to build high-quality and accessible experiences on the web. Starting with React and Next.js.
+- [vidstack/vidstack](https://github.com/vidstack/vidstack) - Build and ship a production-ready player in minutes. Robust, customizable, and accessible. Modern alternative to JW Player and Video.js.
 - [nix-community/noogle](https://github.com/nix-community/noogle) - https://noogle.dev - nix function exploring. [maintainer=@hsjobeki]
 - [lindylearn/unclutter](https://github.com/lindylearn/unclutter) - A modern reader mode and article library for your browser.
 - [VSCodeVim/Vim](https://github.com/VSCodeVim/Vim) - :star: Vim for Visual Studio Code
