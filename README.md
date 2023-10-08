@@ -732,7 +732,6 @@
 - [Code-Hex/vz](https://github.com/Code-Hex/vz) - Create virtual machines and run Linux-based operating systems in Go using Apple Virtualization.framework.
 - [containers/skopeo](https://github.com/containers/skopeo) - Work with remote images registries - retrieving information, images, signing content
 - [kubesphere/kubesphere](https://github.com/kubesphere/kubesphere) - The container platform tailored for Kubernetes multi-cloud, datacenter, and edge management ⎈ 🖥 ☁️
-- [antonmedv/fx](https://github.com/antonmedv/fx) - Terminal JSON viewer & processor
 - [asiermarques/adrgen](https://github.com/asiermarques/adrgen) - A command-line tool for generating and managing Architecture Decision Records
 - [BishopFox/cloudfox](https://github.com/BishopFox/cloudfox) - Automating situational awareness for cloud penetration tests.
 - [onedr0p/exportarr](https://github.com/onedr0p/exportarr) - AIO Prometheus Exporter for Prowlarr, Lidarr, Readarr, Radarr, and Sonarr
@@ -2992,7 +2991,7 @@
 - [julian-heng/yabai-config](https://github.com/julian-heng/yabai-config) - My personal Yabai and Skhd configs and scripts.
 - [dylanaraps/neofetch](https://github.com/dylanaraps/neofetch) - 🖼️  A command-line system information tool written in bash 3.2+
 - [asdf-vm/asdf](https://github.com/asdf-vm/asdf) - Extendable version manager with support for Ruby, Node.js, Elixir, Erlang & more
-- [bevry/dorothy](https://github.com/bevry/dorothy) - 🧙🏻‍♀️ A better dotfile ecosystem with cross-platform automations. Supports Nushell, Fish, Zsh, Bash, Xonsh, macOS, Linux, and Windows. Zero to hero in minutes on new and existing machines.
+- [bevry/dorothy](https://github.com/bevry/dorothy) - 🧙🏻‍♀️ A better dotfile ecosystem with cross-platform automations. Supports Bash, Zsh, Fish, Nushell, Xonsh, Elvish, macOS, Linux, and Windows. Zero to hero in minutes on new and existing machines.
 - [sloria/dotfiles](https://github.com/sloria/dotfiles) - sloria's dotfiles as Ansible roles
 - [Addvilz/dots](https://github.com/Addvilz/dots) - Completely automated desktop setup, configuration and maintenance using Ansible
 - [ajkis/scripts](https://github.com/ajkis/scripts) - Ajki's scripts & guides
@@ -3001,7 +3000,7 @@
 - [modernish/modernish](https://github.com/modernish/modernish) - Modernish is a library for writing robust, portable, readable, and powerful programs for POSIX-based shells and utilities.
 - [unixorn/awesome-zsh-plugins](https://github.com/unixorn/awesome-zsh-plugins) - A collection of ZSH frameworks, plugins, themes and tutorials.
 - [xwmx/nb](https://github.com/xwmx/nb) - CLI and local web plain text note‑taking, bookmarking, and archiving with linking, tagging, filtering, search, Git versioning & syncing, Pandoc conversion, + more, in a single portable script.
-- [nikitavoloboev/config](https://github.com/nikitavoloboev/config) - Fish, Nix, Karabiner, VS Code
+- [nikitavoloboev/config](https://github.com/nikitavoloboev/config) - Fish, Karabiner, Cursor
 - [alrra/dotfiles](https://github.com/alrra/dotfiles) - 💻 macOS / Ubuntu dotfiles
 - [tony/tmux-config](https://github.com/tony/tmux-config) - :green_book: Example tmux configuration - screen + vim key-bindings, system stat, cpu load bar.
 - [tony/.dot-config](https://github.com/tony/.dot-config) - :books: Example dot configs for tmux, tmuxp, vim, vcspull, i3 and awesome
