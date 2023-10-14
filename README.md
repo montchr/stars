@@ -120,6 +120,7 @@
 
 ## C 
 
+- [FelixKratz/yabai](https://github.com/FelixKratz/yabai) - A tiling window manager for macOS based on binary space partitioning
 - [davidjo/snd_hda_macbookpro](https://github.com/davidjo/snd_hda_macbookpro) - Kernel audio driver for Macs with 8409 HDA chip + MAX98706/SSM3515 amps
 - [goatfiles/dotfiles](https://github.com/goatfiles/dotfiles) - My personal archlinux config files.
 - [sz3/libcimbar](https://github.com/sz3/libcimbar) - Optimized implementation for color-icon-matrix barcodes
@@ -769,7 +770,6 @@
 - [vito/bass](https://github.com/vito/bass) - a low fidelity scripting language for project infrastructure
 - [Mic92/ssh-to-age](https://github.com/Mic92/ssh-to-age) - Convert SSH Ed25519 keys to age keys. This is useful for usage in sops-nix and sops
 - [DNSCrypt/dnscrypt-proxy](https://github.com/DNSCrypt/dnscrypt-proxy) - dnscrypt-proxy 2 - A flexible DNS proxy, with support for encrypted DNS protocols.
-- [varbhat/exatorrent](https://github.com/varbhat/exatorrent) - Easy to Use Torrent Client. Can be hosted in Cloud. Files can be streamed in Browser/Media Player.
 - [sachaos/viddy](https://github.com/sachaos/viddy) - 👀 A modern watch command. Time machine and pager etc.
 - [barthr/redo](https://github.com/barthr/redo) - Redo is the ultimate tool to create reusable functions from your history in an interactive way
 - [khuedoan/homelab](https://github.com/khuedoan/homelab) - Modern self-hosting framework, fully automated from empty disk to operating services with a single command.
@@ -1327,7 +1327,7 @@
 - [streetcomplete/StreetComplete](https://github.com/streetcomplete/StreetComplete) - Easy to use OpenStreetMap editor for Android
 - [d4rken-org/capod](https://github.com/d4rken-org/capod) - A companion app for AirPods on Android.
 - [florisboard/florisboard](https://github.com/florisboard/florisboard) - An open-source keyboard for Android which respects your privacy. Currently in early-beta.
-- [iamrasel/lunar-launcher](https://github.com/iamrasel/lunar-launcher) - Feature rich android home with minimal look.
+- [iamrasel/lunar-launcher](https://github.com/iamrasel/lunar-launcher) - Feature rich android home with minimal look. 🇵🇸
 - [daniel-seiler/ImageTheming](https://github.com/daniel-seiler/ImageTheming) - Match a wallpaper to your color scheme
 - [TheBlob42/idea-which-key](https://github.com/TheBlob42/idea-which-key) - IdeaVim extension that displays available keybindings in a popup
 - [Ezwen/bandcamp-collection-downloader](https://github.com/Ezwen/bandcamp-collection-downloader) - A command-line tool to automatically download all releases purchased with a Bandcamp account. The official page of the project is https://framagit.org/Ezwen/bandcamp-collection-downloader, while here 
@@ -1422,6 +1422,7 @@
 
 ## Nix 
 
+- [TaserudConsulting/jsonresume-nix](https://github.com/TaserudConsulting/jsonresume-nix) - A repository to package jsonresume themes, validate they work and make it easy to build jsonresume documents with nix
 - [chayleaf/nixos-router](https://github.com/chayleaf/nixos-router) - A NixOS router framework
 - [hsjobeki/nix-doc-comments](https://github.com/hsjobeki/nix-doc-comments) - RFC145 User Guide
 - [accelbread/flakelight](https://github.com/accelbread/flakelight) - Framework for simplifying flake setup
@@ -1554,7 +1555,7 @@
 - [colemickens/nixos-flake-example](https://github.com/colemickens/nixos-flake-example) - This is a demo NixOS config, with optional flakes support. Along with notes on why flakes is useful and worth adopting.
 - [dramforever/config](https://github.com/dramforever/config) - Random config (v2, clean history)
 - [tars0x9752/home](https://github.com/tars0x9752/home) - My nix configs/dotfiles.
-- [guibou/nixGL](https://github.com/guibou/nixGL) - A wrapper tool for nix OpenGL application
+- [nix-community/nixGL](https://github.com/nix-community/nixGL) - A wrapper tool for nix OpenGL application [maintainer=@guibou]
 - [jluttine/nixos-configuration](https://github.com/jluttine/nixos-configuration) - Personal NixOS configuration
 - [Nekroze/vms.nix](https://github.com/Nekroze/vms.nix) - NixOS module for QEMU VM's using a similar interface to nixos-containers.
 - [tlm-solutions/nix-config](https://github.com/tlm-solutions/nix-config) - 
@@ -2008,6 +2009,7 @@
 
 ## PHP 
 
+- [MWDelaney/lithify](https://github.com/MWDelaney/lithify) - WordPress plugin that adds a WP-CLI command to convert a traditional WordPress site into a Bedrock-style WordPress installation.
 - [cloak-labs/cloakwp-bedrock](https://github.com/cloak-labs/cloakwp-bedrock) - A WordPress starter for CloakWP headless projects that extends the popular Bedrock boilerplate.
 - [bueltge/wordpress-multisite-enhancements](https://github.com/bueltge/wordpress-multisite-enhancements) - Enhance WordPress Multisite for Network Admins with different topics
 - [mindplay-dk/readable](https://github.com/mindplay-dk/readable) - Format any kind of PHP value or type as human-readable
@@ -2354,6 +2356,7 @@
 
 ## Python 
 
+- [Mic92/nix-fast-build](https://github.com/Mic92/nix-fast-build) - Combine the power of nix-eval-jobs with nix-output-monitor to speed-up your evaluation and building process.
 - [Donnnno/Arcticons](https://github.com/Donnnno/Arcticons) - A monotone line-based icon pack for android
 - [borgmatic-collective/borgmatic](https://github.com/borgmatic-collective/borgmatic) - Simple, configuration-driven backup software for servers and workstations
 - [oar-team/nixos-compose](https://github.com/oar-team/nixos-compose) - Ease reproducible experiments of distributed systems
@@ -3010,7 +3013,7 @@
 - [Cloudbox/Cloudbox](https://github.com/Cloudbox/Cloudbox) - Ansible-based solution for rapidly deploying a Docker containerized cloud media server.
 - [swizzin/swizzin](https://github.com/swizzin/swizzin) - A simple, modular seedbox solution
 - [arbelt/fish-plugin-scmpuff](https://github.com/arbelt/fish-plugin-scmpuff) - 
-- [edheltzel/dotfiles](https://github.com/edheltzel/dotfiles) - 🧰 My personal dot files and 🐠 Shell configuration + macOS config - which changes regularly.
+- [edheltzel/dotfiles](https://github.com/edheltzel/dotfiles) - 🧰 My personal dot files and 🐠 Fish shell configuration + macOS config - which changes regularly.
 - [ttscoff/fish_files](https://github.com/ttscoff/fish_files) - 
 - [rgcr/m-cli](https://github.com/rgcr/m-cli) -  Swiss Army Knife for macOS
 - [clvv/fasd](https://github.com/clvv/fasd) - Command-line productivity booster, offers quick access to files and directories, inspired by autojump, z and v.
@@ -3166,7 +3169,7 @@
 - [Automattic/vip-go-nextjs-skeleton](https://github.com/Automattic/vip-go-nextjs-skeleton) - A Next.js boilerplate for decoupled WordPress on VIP.
 - [frontity/frontity](https://github.com/frontity/frontity) - » Frontity - The React Framework for WordPress
 - [keystonejs/keystone](https://github.com/keystonejs/keystone) - The most powerful headless CMS for Node.js — built with GraphQL and React
-- [meienberger/runtipi](https://github.com/meienberger/runtipi) - Tipi is a homeserver for everyone! One command setup, one click installs for your favorites self-hosted apps. ✨
+- [runtipi/runtipi](https://github.com/runtipi/runtipi) - Tipi is a homeserver for everyone! One command setup, one click installs for your favorites self-hosted apps. ✨
 - [upscayl/upscayl](https://github.com/upscayl/upscayl) - 🆙 Upscayl - Free and Open Source AI Image Upscaler for Linux, MacOS and Windows built with Linux-First philosophy.
 - [lost-pixel/lost-pixel](https://github.com/lost-pixel/lost-pixel) - Holistic visual testing for your Frontend 🖼 First class integration with Storybook, Ladle, Playwright & other frontend libraries.
 - [PostHog/posthog](https://github.com/PostHog/posthog) - 🦔 PostHog provides open-source product analytics, session recording, feature flagging and A/B testing that you can self-host.
