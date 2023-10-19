@@ -43,6 +43,7 @@
 - [Jinja](#jinja)
 - [Jupyter Notebook](#jupyter-notebook)
 - [Just](#just)
+- [KakouneScript](#kakounescript)
 - [Kotlin](#kotlin)
 - [Lua](#lua)
 - [M4](#m4)
@@ -690,6 +691,7 @@
 
 ## Go 
 
+- [almonk/ogpk](https://github.com/almonk/ogpk) - a cli tool for observing og data
 - [bitmagnet-io/bitmagnet](https://github.com/bitmagnet-io/bitmagnet) - A self-hosted BitTorrent indexer, DHT crawler, content classifier and torrent search engine with web UI, GraphQL API and Servarr stack integration.
 - [pdtpartners/nix-snapshotter](https://github.com/pdtpartners/nix-snapshotter) - Brings native understanding of Nix packages to containerd
 - [opentofu/opentofu](https://github.com/opentofu/opentofu) - OpenTofu lets you declaratively manage your cloud infrastructure.
@@ -736,7 +738,7 @@
 - [antonmedv/fx](https://github.com/antonmedv/fx) - Terminal JSON viewer & processor
 - [asiermarques/adrgen](https://github.com/asiermarques/adrgen) - A command-line tool for generating and managing Architecture Decision Records
 - [BishopFox/cloudfox](https://github.com/BishopFox/cloudfox) - Automating situational awareness for cloud penetration tests.
-- [onedr0p/exportarr](https://github.com/onedr0p/exportarr) - AIO Prometheus Exporter for Prowlarr, Lidarr, Readarr, Radarr, and Sonarr
+- [onedr0p/exportarr](https://github.com/onedr0p/exportarr) - AIO Prometheus Exporter for Bazarr, Prowlarr, Lidarr, Readarr, Radarr, and Sonarr
 - [coroot/coroot](https://github.com/coroot/coroot) - Open-source observability for microservices. Thanks to eBPF you can gain comprehensive insights into your system within minutes.
 - [wagoodman/dive](https://github.com/wagoodman/dive) - A tool for exploring each layer in a docker image
 - [noahgorstein/jqp](https://github.com/noahgorstein/jqp) - A TUI playground to experiment with jq
@@ -1321,6 +1323,10 @@
 - [0atman/noboilerplate](https://github.com/0atman/noboilerplate) - Code for my talks on the No Boilerplate channel
 - [erebe/personal-server](https://github.com/erebe/personal-server) - Personal server configuration with k3s
 
+## KakouneScript 
+
+- [evanrelf/dotfiles](https://github.com/evanrelf/dotfiles) - My personal dotfiles
+
 ## Kotlin 
 
 - [caydey/ffshare](https://github.com/caydey/ffshare) - An android app to compress image, video and audio files through ffmpeg before sharing them
@@ -1423,7 +1429,7 @@
 
 ## Nix 
 
-- [TaserudConsulting/jsonresume-nix](https://github.com/TaserudConsulting/jsonresume-nix) - A repository to package jsonresume themes, validate they work and make it easy to build jsonresume documents with nix
+- [TaserudConsulting/jsonresume-nix](https://github.com/TaserudConsulting/jsonresume-nix) - Reproducible resumes using Nix ❄️ and jsonresume
 - [chayleaf/nixos-router](https://github.com/chayleaf/nixos-router) - A NixOS router framework
 - [hsjobeki/nix-doc-comments](https://github.com/hsjobeki/nix-doc-comments) - RFC145 User Guide
 - [accelbread/flakelight](https://github.com/accelbread/flakelight) - Framework for simplifying flake setup
@@ -1599,7 +1605,7 @@
 - [johnae/world](https://github.com/johnae/world) - NixOS configuration
 - [MatthiasBenaets/nixos-config](https://github.com/MatthiasBenaets/nixos-config) - My Personal Nix, NixOS and Nix-Darwin System Configuration Flake
 - [hercules-ci/flake-parts](https://github.com/hercules-ci/flake-parts) - ❄️ Simplify Nix Flakes with the module system
-- [tudurom/dotfiles](https://github.com/tudurom/dotfiles) - My small loan of configuration files and scripts - based on NixOS
+- [tudurom/dotfiles](https://github.com/tudurom/dotfiles) - My small loan of configuration files and scripts - based on NixOS. Mirror.
 - [gvolpe/dconf2nix](https://github.com/gvolpe/dconf2nix) - :feet: Convert Dconf files (e.g. Gnome Shell) to Nix, as expected by Home Manager
 - [MatthewCroughan/nixcfg](https://github.com/MatthewCroughan/nixcfg) - My nix configuration(s), using flakes. It's my laptop, it's my servers, it's my everything, in code.
 - [MatthewCroughan/nixinate](https://github.com/MatthewCroughan/nixinate) - Another NixOS Deployment Tool - Nixinate your systems 🕶️
@@ -1662,7 +1668,6 @@
 - [Shados/nix-config-shared](https://github.com/Shados/nix-config-shared) - My cross-machine shared configuration, defaults, modules, and packages not suitable for upstreaming or NUR
 - [aciceri/nixfleet](https://github.com/aciceri/nixfleet) - A complete, declarative and reproducible configuration of my entire Nix fleet.
 - [Ericson2314/nixos-configuration](https://github.com/Ericson2314/nixos-configuration) - Much better than a .dotfiles repo
-- [evanrelf/dotfiles](https://github.com/evanrelf/dotfiles) - My personal dotfiles
 - [NixOS/nixos-org-configurations](https://github.com/NixOS/nixos-org-configurations) - NixOS configurations for nixos.org and its servers
 - [sei40kr/dotfiles](https://github.com/sei40kr/dotfiles) - My dotfiles for NixOS & Darwin
 - [nix-community/fenix](https://github.com/nix-community/fenix) - Rust toolchains and rust-analyzer nightly for Nix [maintainer=@figsoda]
@@ -2584,6 +2589,8 @@
 
 ## Rust 
 
+- [MolotovCherry/Yet-Another-BG3-Native-Mod-Loader](https://github.com/MolotovCherry/Yet-Another-BG3-Native-Mod-Loader) - A mod loader for Baldur's Gate 3
+- [MolotovCherry/BG3-Plugin-Template-Rust](https://github.com/MolotovCherry/BG3-Plugin-Template-Rust) - 
 - [eza-community/eza](https://github.com/eza-community/eza) - A modern, maintained replacement for ls
 - [helix-editor/nucleo](https://github.com/helix-editor/nucleo) - A fast and convenient fuzzy matcher library for rust
 - [srid/nixci](https://github.com/srid/nixci) - Define and build CI for Nix projects anywhere
@@ -2595,7 +2602,7 @@
 - [jqnatividad/qsv](https://github.com/jqnatividad/qsv) - CSVs sliced, diced & analyzed.
 - [DeterminateSystems/magic-nix-cache](https://github.com/DeterminateSystems/magic-nix-cache) - Save 30-50%+ of CI time without any effort or cost. Use Magic Nix Cache, a totally free and zero-configuration binary cache for Nix on GitHub Actions.
 - [kamiyaa/joshuto](https://github.com/kamiyaa/joshuto) - ranger-like terminal file manager written in Rust
-- [sorcerers-class/automancy](https://github.com/sorcerers-class/automancy) - A game about Automation, themed around Magic, based on Hexagons, and -- there's no Conveyor Belts.
+- [sorcerers-class/automancy](https://github.com/sorcerers-class/automancy) - A game about automation, hexagons and magic; and there's no Conveyor Belts.
 - [uutils/coreutils](https://github.com/uutils/coreutils) - Cross-platform Rust rewrite of the GNU coreutils
 - [AmrDeveloper/GQL](https://github.com/AmrDeveloper/GQL) - Git Query language is a SQL like language to perform queries on .git files with supports of most of SQL features such as grouping, ordering and aggregations functions
 - [samwho/spacer](https://github.com/samwho/spacer) - CLI tool to insert spacers when command output stops
@@ -2999,7 +3006,6 @@
 - [sloria/dotfiles](https://github.com/sloria/dotfiles) - sloria's dotfiles as Ansible roles
 - [Addvilz/dots](https://github.com/Addvilz/dots) - Completely automated desktop setup, configuration and maintenance using Ansible
 - [ajkis/scripts](https://github.com/ajkis/scripts) - Ajki's scripts & guides
-- [animosity22/homescripts](https://github.com/animosity22/homescripts) - My Scripts for Plex / Emby with Dropbox and rclone
 - [benallan/bitbar-yabai-skhd](https://github.com/benallan/bitbar-yabai-skhd) - Bitbar plugin to display yabai space/desktop id and mode.
 - [modernish/modernish](https://github.com/modernish/modernish) - Modernish is a library for writing robust, portable, readable, and powerful programs for POSIX-based shells and utilities.
 - [unixorn/awesome-zsh-plugins](https://github.com/unixorn/awesome-zsh-plugins) - A collection of ZSH frameworks, plugins, themes and tutorials.
@@ -3133,7 +3139,7 @@
 - [sjinks/setup-wordpress-test-library](https://github.com/sjinks/setup-wordpress-test-library) - Set up WordPress and WordPress Test Library for unit tests
 - [NEU-DSG/dailp-encoding](https://github.com/NEU-DSG/dailp-encoding) - Digital Archive of American Indian Languages Preservation and Perseverance
 - [nix-community/vscode-nix-ide](https://github.com/nix-community/vscode-nix-ide) - Nix language support for VSCode editor [maintainer: @jnoortheen]
-- [vidstack/vidstack](https://github.com/vidstack/vidstack) - Build and ship a production-ready player in minutes. Robust, customizable, and accessible. Modern alternative to JW Player and Video.js.
+- [vidstack/player](https://github.com/vidstack/player) - Build and ship a production-ready player in minutes. Robust, customizable, accessible, and framework-agnostic. Modern alternative to JW Player and Video.js.
 - [nix-community/noogle](https://github.com/nix-community/noogle) - https://noogle.dev - nix function exploring. [maintainer=@hsjobeki]
 - [lindylearn/unclutter](https://github.com/lindylearn/unclutter) - A modern reader mode and article library for your browser.
 - [VSCodeVim/Vim](https://github.com/VSCodeVim/Vim) - :star: Vim for Visual Studio Code
