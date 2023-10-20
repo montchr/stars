@@ -328,7 +328,7 @@
 ## automation 
 
 - [porla/porla](https://github.com/porla/porla) - A high performance BitTorrent client for servers and seedboxes.
-- [GTrunSec/hive](https://github.com/GTrunSec/hive) - A declarative configuration framework based on the structural theory of std.
+- [GTrunSec/hivebus](https://github.com/GTrunSec/hivebus) - A declarative configuration framework based on the structural theory of std.
 - [gruntwork-io/git-xargs](https://github.com/gruntwork-io/git-xargs) - git-xargs is a command-line tool (CLI) for making updates across multiple Github repositories with a single command.
 - [artilleryio/artillery](https://github.com/artilleryio/artillery) - Load testing at cloud-scale, as easy as 1-2-3. Serverless & distributed out-of-the-box. Never fail to scale!
 - [autobrr/autobrr](https://github.com/autobrr/autobrr) - Modern, easy to use download automation for torrents and usenet.
@@ -634,7 +634,7 @@
 - [modernish/modernish](https://github.com/modernish/modernish) - Modernish is a library for writing robust, portable, readable, and powerful programs for POSIX-based shells and utilities.
 - [xwmx/nb](https://github.com/xwmx/nb) - CLI and local web plain text note‑taking, bookmarking, and archiving with linking, tagging, filtering, search, Git versioning & syncing, Pandoc conversion, + more, in a single portable script.
 - [alrra/dotfiles](https://github.com/alrra/dotfiles) - 💻 macOS / Ubuntu dotfiles
-- [edheltzel/dotfiles](https://github.com/edheltzel/dotfiles) - 🧰 My personal dot files and 🐠 Fish shell configuration + macOS config - which changes regularly.
+- [edheltzel/dotfiles](https://github.com/edheltzel/dotfiles) - 🧰 My Dotfiles and 🐠 Fish shell configuration + macOS config - which changes regularly.
 - [rgcr/m-cli](https://github.com/rgcr/m-cli) -  Swiss Army Knife for macOS
 - [mathiasbynens/dotfiles](https://github.com/mathiasbynens/dotfiles) - :wrench: .files, including ~/.macos — sensible hacker defaults for macOS
 
@@ -1851,6 +1851,7 @@
 - [wp-graphql/wp-graphql](https://github.com/wp-graphql/wp-graphql) - :rocket: GraphQL API for WordPress
 - [lucide-icons/lucide](https://github.com/lucide-icons/lucide) - Beautiful & consistent icon toolkit made by the community. Open-source project and a fork of Feather Icons.
 - [SchemaStore/schemastore](https://github.com/SchemaStore/schemastore) - A collection of JSON schema files including full API
+- [vercel/next.js](https://github.com/vercel/next.js) - The React Framework
 - [iamrasel/lunar-launcher](https://github.com/iamrasel/lunar-launcher) - Feature rich android home with minimal look. 🇵🇸
 - [nvim-treesitter/nvim-treesitter-textobjects](https://github.com/nvim-treesitter/nvim-treesitter-textobjects) - 
 - [vscode-neovim/vscode-neovim](https://github.com/vscode-neovim/vscode-neovim) - Vim-mode for VS Code using embedded Neovim
@@ -2645,7 +2646,7 @@
 - [matthewdias/applescripts](https://github.com/matthewdias/applescripts) - Some AppleScripts for OS X customization
 - [sindresorhus/do-not-disturb-cli](https://github.com/sindresorhus/do-not-disturb-cli) - Control the macOS `Do Not Disturb` feature from the command-line
 - [sindresorhus/alfy](https://github.com/sindresorhus/alfy) - Create Alfred workflows with ease
-- [edheltzel/dotfiles](https://github.com/edheltzel/dotfiles) - 🧰 My personal dot files and 🐠 Fish shell configuration + macOS config - which changes regularly.
+- [edheltzel/dotfiles](https://github.com/edheltzel/dotfiles) - 🧰 My Dotfiles and 🐠 Fish shell configuration + macOS config - which changes regularly.
 - [yuuiko/AquaTouch](https://github.com/yuuiko/AquaTouch) - Dynamic Custom Macros for your MacBook TouchBar! (Supports 40+ Apps and Websites)
 - [rgcr/m-cli](https://github.com/rgcr/m-cli) -  Swiss Army Knife for macOS
 - [johnste/finicky](https://github.com/johnste/finicky) - A macOS app for customizing which browser to start
@@ -3009,6 +3010,8 @@
 
 ## others 
 
+- [ShinyHobo/BG3-Modders-Multitool](https://github.com/ShinyHobo/BG3-Modders-Multitool) - Utility for quickly generating Baldur's Gate 3 mod packs from an unpacked workspace (among other things).
+- [TA1312/supernote-a5x](https://github.com/TA1312/supernote-a5x) - various security information on the supernote a5x
 - [almonk/ogpk](https://github.com/almonk/ogpk) - a cli tool for observing og data
 - [MolotovCherry/BG3-Plugin-Template-Rust](https://github.com/MolotovCherry/BG3-Plugin-Template-Rust) - 
 - [FelixKratz/yabai](https://github.com/FelixKratz/yabai) - A tiling window manager for macOS based on binary space partitioning
@@ -5268,7 +5271,7 @@
 - [tony/tmux-config](https://github.com/tony/tmux-config) - :green_book: Example tmux configuration - screen + vim key-bindings, system stat, cpu load bar.
 - [tony/.dot-config](https://github.com/tony/.dot-config) - :books: Example dot configs for tmux, tmuxp, vim, vcspull, i3 and awesome
 - [gpakosz/.tmux](https://github.com/gpakosz/.tmux) - 🇫🇷 Oh my tmux! My self-contained, pretty & versatile tmux configuration made with ❤️
-- [edheltzel/dotfiles](https://github.com/edheltzel/dotfiles) - 🧰 My personal dot files and 🐠 Fish shell configuration + macOS config - which changes regularly.
+- [edheltzel/dotfiles](https://github.com/edheltzel/dotfiles) - 🧰 My Dotfiles and 🐠 Fish shell configuration + macOS config - which changes regularly.
 - [zsh-users/zsh-autosuggestions](https://github.com/zsh-users/zsh-autosuggestions) - Fish-like autosuggestions for zsh
 - [ohmyzsh/ohmyzsh](https://github.com/ohmyzsh/ohmyzsh) - 🙃   A delightful community-driven (with 2,200+ contributors) framework for managing your zsh configuration. Includes 300+ optional plugins (rails, git, macOS, hub, docker, homebrew, node, php, python,
 - [holman/dotfiles](https://github.com/holman/dotfiles) - @holman does dotfiles
