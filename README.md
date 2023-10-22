@@ -1486,7 +1486,7 @@
 - [aakropotkin/laika](https://github.com/aakropotkin/laika) - Nix fetcher abstractions.
 - [aakropotkin/rime](https://github.com/aakropotkin/rime) - Nix URI libs and utils
 - [numtide/nix-stdlib](https://github.com/numtide/nix-stdlib) - experimental nix prelude
-- [emacs-twist/twist.nix](https://github.com/emacs-twist/twist.nix) - A simple but sufficient Nix library for building a set of locally-freezed Emacs Lisp packages
+- [emacs-twist/twist.nix](https://github.com/emacs-twist/twist.nix) - Build an entire Emacs configuration as a Nix package in a pure, reproducible way
 - [planetbeldar/mac-overlay](https://github.com/planetbeldar/mac-overlay) - nixpkgs mac overlay (mmm, dmgs)
 - [srid/flake-root](https://github.com/srid/flake-root) - A `flake-parts` module for finding your way to the project root directory
 - [numtide/srvos](https://github.com/numtide/srvos) - NixOS profiles for servers
