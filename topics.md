@@ -1230,7 +1230,7 @@
 - [jonascarpay/nix](https://github.com/jonascarpay/nix) - My system configurations, dotfiles, and other miscellanies
 - [overideal/perject](https://github.com/overideal/perject) - An Emacs package for working with projects
 - [positron-solutions/elisp-repo-kit](https://github.com/positron-solutions/elisp-repo-kit) - Emacs Lisp package for creating an Emacs Lisp Github repo with CI
-- [emacs-twist/twist.nix](https://github.com/emacs-twist/twist.nix) - A simple but sufficient Nix library for building a set of locally-freezed Emacs Lisp packages
+- [emacs-twist/twist.nix](https://github.com/emacs-twist/twist.nix) - Build an entire Emacs configuration as a Nix package in a pure, reproducible way
 - [angrybacon/dotemacs](https://github.com/angrybacon/dotemacs) - My Emacs configuration
 - [abougouffa/minemacs](https://github.com/abougouffa/minemacs) - MinEmacs: a minimal Emacs configuration framework for daily use
 - [wbthomason/dotfiles](https://github.com/wbthomason/dotfiles) - My dotfiles
@@ -1946,6 +1946,7 @@
 - [rexim/org-cliplink](https://github.com/rexim/org-cliplink) - Insert org-mode links from clipboard
 - [vic/vix](https://github.com/vic/vix) - Vic's *Nix config.
 - [unisonweb/unison](https://github.com/unisonweb/unison) - A friendly programming language from the future
+- [aciceri/nixfleet](https://github.com/aciceri/nixfleet) - A complete, declarative and reproducible configuration of my entire Nix fleet.
 - [BrianHicks/nix-script](https://github.com/BrianHicks/nix-script) - write scripts in compiled languages that run in the nix ecosystem, with no separate build step
 - [nvim-neorg/neorg](https://github.com/nvim-neorg/neorg) - Modernity meets insane extensibility. The future of organizing your life in Neovim.
 - [LunarVim/LunarVim](https://github.com/LunarVim/LunarVim) - 🌙 LunarVim is an IDE layer for Neovim. Completely free and community driven.
@@ -3776,7 +3777,6 @@
 - [sei40kr/zsh-lazy-nvm](https://github.com/sei40kr/zsh-lazy-nvm) - Lazy nvm loading with auto use support!
 - [leebyron/keyboard](https://github.com/leebyron/keyboard) - My keyboard config
 - [yowainwright/stickybits](https://github.com/yowainwright/stickybits) - Stickybits is a lightweight alternative to `position: sticky` polyfills 🍬
-- [aciceri/nixfleet](https://github.com/aciceri/nixfleet) - A complete, declarative and reproducible configuration of my entire Nix fleet.
 - [Ericson2314/nixos-configuration](https://github.com/Ericson2314/nixos-configuration) - Much better than a .dotfiles repo
 - [evanrelf/dotfiles](https://github.com/evanrelf/dotfiles) - My personal dotfiles
 - [sei40kr/idea-doom-emacs](https://github.com/sei40kr/idea-doom-emacs) - Doom Emacs key bindings in IdeaVim
