@@ -1940,7 +1940,6 @@
 - [mermaid-js/mermaid](https://github.com/mermaid-js/mermaid) - Generation of diagrams like flowcharts or sequence diagrams from text in a similar manner as markdown
 - [NobbZ/nixos-config](https://github.com/NobbZ/nixos-config) - 
 - [polybar/polybar](https://github.com/polybar/polybar) - A fast and easy-to-use status bar
-- [NvChad/NvChad](https://github.com/NvChad/NvChad) - Blazing fast Neovim config providing solid defaults and a beautiful UI, enhancing your neovim experience.
 - [remotion-dev/remotion](https://github.com/remotion-dev/remotion) - 🎥      Make videos programmatically with React
 - [sharkdp/fd](https://github.com/sharkdp/fd) - A simple, fast and user-friendly alternative to 'find'
 - [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) - A powerful little TUI framework 🏗
@@ -2277,7 +2276,7 @@
 
 ## json 
 
-- [TaserudConsulting/jsonresume-nix](https://github.com/TaserudConsulting/jsonresume-nix) - Reproducible resumes using Nix ❄️ and jsonresume
+- [TaserudConsulting/jsonresume-nix](https://github.com/TaserudConsulting/jsonresume-nix) - Reproducible résumé using Nix ❄️ and jsonresume
 - [jetpack-io/tyson](https://github.com/jetpack-io/tyson) - 🥊  TypeScript as a Configuration Language. TySON stands for TypeScript Object Notation
 - [azjezz/psl](https://github.com/azjezz/psl) - 📚 PHP Standard Library - a modern, consistent, centralized, well-typed, non-blocking set of APIs for PHP programmers
 - [dbohdan/structured-text-tools](https://github.com/dbohdan/structured-text-tools) - A list of command line tools for manipulating structured text data
@@ -2736,7 +2735,7 @@
 - [dastergon/awesome-sre](https://github.com/dastergon/awesome-sre) - A curated list of Site Reliability and Production Engineering resources.
 - [szepeviktor/debian-server-tools](https://github.com/szepeviktor/debian-server-tools) - Tools and living docs 🧬 for Debian-based servers and Web Applications
 - [louislam/uptime-kuma](https://github.com/louislam/uptime-kuma) - A fancy self-hosted monitoring tool
-- [dgtlmoon/changedetection.io](https://github.com/dgtlmoon/changedetection.io) - The best and simplest free open source website change detection, watcher,  restock monitor and notification service. Restock Monitor, change detection. Designed for simplicity - Simply monitor which w
+- [dgtlmoon/changedetection.io](https://github.com/dgtlmoon/changedetection.io) - The best and simplest free open source website change detection, website watcher,  restock monitor and notification service. Restock Monitor, change detection. Designed for simplicity - Simply monitor
 - [f100024/syncthing_exporter](https://github.com/f100024/syncthing_exporter) - Syncthing metrics exporter for prometheus
 - [mgramin/awesome-db-tools](https://github.com/mgramin/awesome-db-tools) - Everything that makes working with databases easier
 - [cortexproject/cortex](https://github.com/cortexproject/cortex) - A horizontally scalable, highly available, multi-tenant, long term Prometheus.
@@ -3022,6 +3021,9 @@
 
 ## others 
 
+- [vercel/geist-font](https://github.com/vercel/geist-font) - 
+- [Crandel/tempel-collection](https://github.com/Crandel/tempel-collection) - Collection tempel templates
+- [ParetoOptimalDev/org-inline-clocking-buttons](https://github.com/ParetoOptimalDev/org-inline-clocking-buttons) - Clock In/Clock Out buttons per org heading to simplify clocking in whether on a phone or a desktop.
 - [abo-abo/avy](https://github.com/abo-abo/avy) - Jump to things in Emacs tree-style
 - [vincanger/coverlettergpt](https://github.com/vincanger/coverlettergpt) - Generate Cover Letters based on Job Description and your Resumé. Manage jobs and applications. Get Hired. Have fun. Be cool. Go to School.
 - [LaughingLeader/BG3ModdingTools](https://github.com/LaughingLeader/BG3ModdingTools) - A collection is miscellaneous snippets and scripts to make life easier when modding Baldur's Gate 3.
@@ -3667,7 +3669,7 @@
 - [jhenahan/dots](https://github.com/jhenahan/dots) - New Nix world
 - [tgunnoe/darktop](https://github.com/tgunnoe/darktop) - Cross platform, fully isolated desktop using Nix+wayland
 - [tgunnoe/nixos](https://github.com/tgunnoe/nixos) - System and application configurations
-- [CaptainSpof/dafos](https://github.com/CaptainSpof/dafos) - WIP · Here lies my shipwrecks. I mean fleet of hosts.
+- [CaptainSpof/dafos-old](https://github.com/CaptainSpof/dafos-old) - WIP · Here lies my shipwrecks. I mean fleet of hosts.
 - [djdallmann/GamingPCSetup](https://github.com/djdallmann/GamingPCSetup) - A research and evidence based approach to optimizing your gaming PC, configuration and setup. Recommendations found in this guide are based on curated reputable technical references, and personal rese
 - [hluk/CopyQ](https://github.com/hluk/CopyQ) - Clipboard manager with advanced features
 - [leahneukirchen/nq](https://github.com/leahneukirchen/nq) - Unix command line queue utility
@@ -5137,7 +5139,7 @@
 - [immich-app/immich](https://github.com/immich-app/immich) - Self-hosted photo and video backup solution directly from your mobile phone.
 - [Kovah/LinkAce](https://github.com/Kovah/LinkAce) - LinkAce is a self-hosted archive to collect links of your favorite websites.
 - [Lissy93/awesome-privacy](https://github.com/Lissy93/awesome-privacy) - 🦄  A curated list of privacy & security-focused software and services
-- [dgtlmoon/changedetection.io](https://github.com/dgtlmoon/changedetection.io) - The best and simplest free open source website change detection, watcher,  restock monitor and notification service. Restock Monitor, change detection. Designed for simplicity - Simply monitor which w
+- [dgtlmoon/changedetection.io](https://github.com/dgtlmoon/changedetection.io) - The best and simplest free open source website change detection, website watcher,  restock monitor and notification service. Restock Monitor, change detection. Designed for simplicity - Simply monitor
 - [alainwolf/roll.urown.net](https://github.com/alainwolf/roll.urown.net) - How to roll your own private self-hosted internet services.
 - [varbhat/exatorrent](https://github.com/varbhat/exatorrent) - Easy to Use Torrent Client. Can be hosted in Cloud. Files can be streamed in Browser/Media Player.
 - [gravitl/netmaker](https://github.com/gravitl/netmaker) - Netmaker makes networks with WireGuard. Netmaker automates fast, secure, and distributed virtual networks.
