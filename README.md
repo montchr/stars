@@ -124,7 +124,7 @@
 
 - [FelixKratz/yabai](https://github.com/FelixKratz/yabai) - A tiling window manager for macOS based on binary space partitioning
 - [davidjo/snd_hda_macbookpro](https://github.com/davidjo/snd_hda_macbookpro) - Kernel audio driver for Macs with 8409 HDA chip + MAX98706/SSM3515 amps
-- [goatfiles/dotfiles](https://github.com/goatfiles/dotfiles) - My personal archlinux config files.
+- [amtoine/dotfiles](https://github.com/amtoine/dotfiles) - My personal archlinux config files.
 - [sz3/libcimbar](https://github.com/sz3/libcimbar) - Optimized implementation for color-icon-matrix barcodes
 - [curl/trurl](https://github.com/curl/trurl) - trurl is a command line tool for URL parsing and manipulation.
 - [gbprod/tree-sitter-twig](https://github.com/gbprod/tree-sitter-twig) - Twig grammar for Tree-sitter
@@ -1438,7 +1438,7 @@
 
 - [TaserudConsulting/jsonresume-nix](https://github.com/TaserudConsulting/jsonresume-nix) - Reproducible résumé using Nix ❄️ and jsonresume
 - [chayleaf/nixos-router](https://github.com/chayleaf/nixos-router) - A NixOS router framework
-- [hsjobeki/nix-doc-comments](https://github.com/hsjobeki/nix-doc-comments) - RFC145 User Guide
+- [nix-community/docnix](https://github.com/nix-community/docnix) - nix-community reference documentation (until officially released) [maintainer=@hsjobeki]
 - [accelbread/flakelight](https://github.com/accelbread/flakelight) - Framework for simplifying flake setup
 - [ironicbadger/nix-testing](https://github.com/ironicbadger/nix-testing) - 
 - [DeterminateSystems/flake-schemas](https://github.com/DeterminateSystems/flake-schemas) - Schemas for common flake output types
@@ -1598,7 +1598,7 @@
 - [myme/dotfiles](https://github.com/myme/dotfiles) - My collection of dotfiles
 - [TLATER/nixos-hosts](https://github.com/TLATER/nixos-hosts) - NixOS host configuration
 - [ncfavier/config](https://github.com/ncfavier/config) - My NixOS configurations
-- [dustinlyons/nixos-config](https://github.com/dustinlyons/nixos-config) - My personal Nix configuration for MacOS and NixOS w/ starter templates + step-by-step guides ✨
+- [dustinlyons/nixos-config](https://github.com/dustinlyons/nixos-config) - My personal Nix configuration "dotfiles" for MacOS and NixOS w/ starter templates + step-by-step guides ✨
 - [noib3/dotfiles](https://github.com/noib3/dotfiles) - :house: Procrastinating never felt this productive
 - [nixosbrasil/climod](https://github.com/nixosbrasil/climod) - Modular generated command line interfaces using the same technology as the NixOS module system.
 - [talyz/nixos-config](https://github.com/talyz/nixos-config) - My NixOS configuration
@@ -1784,7 +1784,7 @@
 ## Nushell 
 
 - [nushell/nufmt](https://github.com/nushell/nufmt) - 
-- [goatfiles/wallpapers](https://github.com/goatfiles/wallpapers) - A gallery of wallpapers I use for my laptop config.
+- [amtoine/wallpapers](https://github.com/amtoine/wallpapers) - A gallery of wallpapers I use for my laptop config.
 - [DeterminateSystems/nuenv](https://github.com/DeterminateSystems/nuenv) - A Nushell environment for Nix
 - [nushell/nu_scripts](https://github.com/nushell/nu_scripts) - A place to share Nushell scripts with each other
 
@@ -2039,7 +2039,7 @@
 - [WordPress/Requests](https://github.com/WordPress/Requests) - Requests for PHP is a humble HTTP request library. It simplifies how you interact with other sites and takes away all your worries.
 - [webmozarts/assert](https://github.com/webmozarts/assert) - Assertions to validate method input/output with nice error messages.
 - [alleyinteractive/pest-plugin-wordpress](https://github.com/alleyinteractive/pest-plugin-wordpress) - A Pest plugin for WordPress
-- [Crell/fp](https://github.com/Crell/fp) - Utilities for functional tasks in PHP. Expect the list to grow over time.
+- [Crell/fp](https://github.com/Crell/fp) - Utilities for functional tasks in PHP, especially pipelining
 - [Crell/Serde](https://github.com/Crell/Serde) - Robust Serde (serialization/deserialization) library for PHP 8.
 - [Crell/Tukio](https://github.com/Crell/Tukio) - A complete and robust implementation of the PSR-14 EventDispatcher specification.
 - [doctrine/coding-standard](https://github.com/doctrine/coding-standard) - The coding standard of the Doctrine project.
