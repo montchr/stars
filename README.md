@@ -104,7 +104,6 @@
 
 ## Astro 
 
-- [bahlo/arne.me](https://github.com/bahlo/arne.me) - My personal website
 - [BenRoe/awesome-mechanical-keyboard](https://github.com/BenRoe/awesome-mechanical-keyboard) - ⌨️ A curated list of Open Source Mechanical Keyboard resources.
 
 ## Awk 
@@ -376,6 +375,9 @@
 
 ## Emacs Lisp 
 
+- [emacs-elsa/flycheck-elsa](https://github.com/emacs-elsa/flycheck-elsa) - Flycheck integration for Elsa---Emacs lisp static analyzer
+- [emacs-elsa/Elsa](https://github.com/emacs-elsa/Elsa) - Emacs Lisp Static Analyzer and gradual type system.
+- [emacs-eask/cli](https://github.com/emacs-eask/cli) - CLI for building, runing, testing, and managing your Emacs Lisp dependencies
 - [emacsorphanage/ov](https://github.com/emacsorphanage/ov) - Overlay library for Emacs Lisp.
 - [Crandel/tempel-collection](https://github.com/Crandel/tempel-collection) - Collection tempel templates
 - [ParetoOptimalDev/org-inline-clocking-buttons](https://github.com/ParetoOptimalDev/org-inline-clocking-buttons) - Clock In/Clock Out buttons per org heading to simplify clocking in whether on a phone or a desktop.
@@ -1690,7 +1692,7 @@
 - [MCotocel/nixdots](https://github.com/MCotocel/nixdots) - I have no idea what the hell I'm doing
 - [gytis-ivaskevicius/high-quality-nix-content](https://github.com/gytis-ivaskevicius/high-quality-nix-content) - GitHub repository containing highest quality Nix/NixOS content
 - [DavHau/nix-portable](https://github.com/DavHau/nix-portable) - Nix - Static, Permissionless, Installation-free, Pre-configured
-- [nix-community/dream2nix](https://github.com/nix-community/dream2nix) - Automate reproducible packaging for various language ecosystems [maintainer=@DavHau]
+- [nix-community/dream2nix](https://github.com/nix-community/dream2nix) - Simplified nix packaging for various programming language ecosystems
 - [mitchellh/nixos-config](https://github.com/mitchellh/nixos-config) - My NixOS configurations.
 - [yurrriq/dotfiles](https://github.com/yurrriq/dotfiles) - My (semi-)literate dotfiles for Nix, Emacs, fish, etc, managed with home-manager and GNU Stow
 - [nix-community/linuxkit-nix](https://github.com/nix-community/linuxkit-nix) - An easy to use Linux builder for macOS [maintainer=@nicknovitski]
@@ -1790,7 +1792,7 @@
 
 ## OCaml 
 
-- [returntocorp/semgrep](https://github.com/returntocorp/semgrep) - Lightweight static analysis for many languages. Find bug variants with patterns that look like source code.
+- [semgrep/semgrep](https://github.com/semgrep/semgrep) - Lightweight static analysis for many languages. Find bug variants with patterns that look like source code.
 
 ## Objective-C 
 
@@ -2601,6 +2603,7 @@
 - [MolotovCherry/Yet-Another-BG3-Native-Mod-Loader](https://github.com/MolotovCherry/Yet-Another-BG3-Native-Mod-Loader) - A mod loader for Baldur's Gate 3
 - [MolotovCherry/BG3-Plugin-Template-Rust](https://github.com/MolotovCherry/BG3-Plugin-Template-Rust) - 
 - [eza-community/eza](https://github.com/eza-community/eza) - A modern, maintained replacement for ls
+- [bahlo/arne.me](https://github.com/bahlo/arne.me) - My personal website
 - [helix-editor/nucleo](https://github.com/helix-editor/nucleo) - A fast and convenient fuzzy matcher library for rust
 - [srid/nixci](https://github.com/srid/nixci) - Define and build CI for Nix projects anywhere
 - [oddlama/kanidm-secret-manipulator](https://github.com/oddlama/kanidm-secret-manipulator) - A helper utility that modifies the kanidm database to allow provisioning declarative secrets
@@ -3203,7 +3206,7 @@
 - [redwoodjs/redwood](https://github.com/redwoodjs/redwood) - The App Framework for Startups
 - [JustinBeckwith/linkinator](https://github.com/JustinBeckwith/linkinator) - 🐿 Scurry around your site and find all those broken links.
 - [johnbillion/wp-json-schemas](https://github.com/johnbillion/wp-json-schemas) - JSON schemas for WordPress PHP objects and REST  API responses
-- [refinedev/refine](https://github.com/refinedev/refine) - Build your React-based CRUD applications, without constraints. 🌟 Star to support our work!
+- [refinedev/refine](https://github.com/refinedev/refine) - A React Framework for building  internal tools, admin panels, dashboards & B2B apps with unmatched flexibilty. 🌟 Star to support our work!
 - [denoland/fresh](https://github.com/denoland/fresh) - The next-gen web framework.
 - [pawelmalak/flame](https://github.com/pawelmalak/flame) - Flame is self-hosted startpage for your server. Easily manage your apps and bookmarks with built-in editors.
 - [TanStack/virtual](https://github.com/TanStack/virtual) - 🤖 Headless UI for Virtualizing Large Element Lists in JS/TS, React, Solid, Vue and Svelte
