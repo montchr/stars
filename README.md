@@ -997,7 +997,7 @@
 - [nix-community/nix-on-droid-app](https://github.com/nix-community/nix-on-droid-app) - Run Nix package manager on Android. Based off Termux the terminal emulator, but not Termux the distro. [maintainer=@t184256]
 - [termux/termux-app](https://github.com/termux/termux-app) - Termux - a terminal emulator application for Android OS extendible by variety of packages.
 - [signalapp/Signal-Android](https://github.com/signalapp/Signal-Android) - A private messenger for Android.
-- [mollyim/mollyim-android](https://github.com/mollyim/mollyim-android) - A fork of Signal for Android with passphrase lock
+- [mollyim/mollyim-android](https://github.com/mollyim/mollyim-android) - Enhanced and security-focused fork of Signal.
 - [google/closure-compiler](https://github.com/google/closure-compiler) - A JavaScript checker and optimizer.
 - [airmessage/airmessage-android](https://github.com/airmessage/airmessage-android) - AirMessage for Android phones, tablets, and laptops
 - [sylirre/vmconsole](https://github.com/sylirre/vmconsole) - Run Linux virtual machine on Android OS. Powered by QEMU. No KVM or root required.
@@ -1052,7 +1052,6 @@
 - [iann0036/former2](https://github.com/iann0036/former2) - Generate CloudFormation / Terraform / Troposphere templates from your existing AWS resources.
 - [simple-icons/simple-icons](https://github.com/simple-icons/simple-icons) - SVG icons for popular brands
 - [lucide-icons/lucide](https://github.com/lucide-icons/lucide) - Beautiful & consistent icon toolkit made by the community. Open-source project and a fork of Feather Icons.
-- [roots/acorn](https://github.com/roots/acorn) - Laravel components for WordPress plugins and themes
 - [prettier/eslint-config-prettier](https://github.com/prettier/eslint-config-prettier) - Turns off all rules that are unnecessary or might conflict with Prettier.
 - [SchemaStore/schemastore](https://github.com/SchemaStore/schemastore) - A collection of JSON schema files including full API
 - [vercel/next.js](https://github.com/vercel/next.js) - The React Framework
@@ -1495,7 +1494,7 @@
 - [emacs-twist/twist.nix](https://github.com/emacs-twist/twist.nix) - Build an entire Emacs configuration as a Nix package in a pure, reproducible way
 - [planetbeldar/mac-overlay](https://github.com/planetbeldar/mac-overlay) - nixpkgs mac overlay (mmm, dmgs)
 - [srid/flake-root](https://github.com/srid/flake-root) - A `flake-parts` module for finding your way to the project root directory
-- [numtide/srvos](https://github.com/numtide/srvos) - NixOS profiles for servers
+- [nix-community/srvos](https://github.com/nix-community/srvos) - NixOS profiles for servers [maintainer=@zimbatm]
 - [numtide/nixpkgs-unfree](https://github.com/numtide/nixpkgs-unfree) - nixpkgs with the unfree bits enabled
 - [Platonic-Systems/mission-control](https://github.com/Platonic-Systems/mission-control) - A `flake-parts` module for your Nix devshell scripts
 - [rgbatty/cauldron](https://github.com/rgbatty/cauldron) - Double, double toil and trouble; Fire burn and caldron bubble - A collection of declarative user and host configurations (eg. dotfiles) managed with Nix
@@ -2134,6 +2133,7 @@
 - [wp-graphql/wp-graphql](https://github.com/wp-graphql/wp-graphql) - :rocket: GraphQL API for WordPress
 - [TukuToi/better-wp-plugin-boilerplate](https://github.com/TukuToi/better-wp-plugin-boilerplate) - (Hard) Fork of WordPress Plugin Boilerplate, actively taking PRs and actively maintained. Following WordPress Coding Standards. With more features than the original.
 - [campuspress/divi-accessibility](https://github.com/campuspress/divi-accessibility) - Improve Divi accessibility in accordance with WCAG 2.0 guidelines.
+- [roots/acorn](https://github.com/roots/acorn) - Laravel components for WordPress plugins and themes
 - [pixelfed/pixelfed](https://github.com/pixelfed/pixelfed) - Photo Sharing. For Everyone.
 - [wpengine/atlas-content-modeler](https://github.com/wpengine/atlas-content-modeler) - Content modeling plugin for WordPress
 - [alleyinteractive/multisite-cron-manager](https://github.com/alleyinteractive/multisite-cron-manager) - 
