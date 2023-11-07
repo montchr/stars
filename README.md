@@ -1602,7 +1602,7 @@
 - [myme/dotfiles](https://github.com/myme/dotfiles) - My collection of dotfiles
 - [TLATER/nixos-hosts](https://github.com/TLATER/nixos-hosts) - NixOS host configuration
 - [ncfavier/config](https://github.com/ncfavier/config) - My NixOS configurations
-- [dustinlyons/nixos-config](https://github.com/dustinlyons/nixos-config) - My personal Nix configuration "dotfiles" for MacOS and NixOS w/ starter templates + step-by-step guides ✨
+- [dustinlyons/nixos-config](https://github.com/dustinlyons/nixos-config) - Nix configuration for MacOS and NixOS w/ starter templates + step-by-step guides ✨
 - [noib3/dotfiles](https://github.com/noib3/dotfiles) - :house: Procrastinating never felt this productive
 - [nixosbrasil/climod](https://github.com/nixosbrasil/climod) - Modular generated command line interfaces using the same technology as the NixOS module system.
 - [talyz/nixos-config](https://github.com/talyz/nixos-config) - My NixOS configuration
@@ -2961,7 +2961,7 @@
 - [Anvil/bash-argsparse](https://github.com/Anvil/bash-argsparse) - An high level argument parsing library for bash
 - [3v1n0/zsh-bash-completions-fallback](https://github.com/3v1n0/zsh-bash-completions-fallback) - Simple zsh plugin to support bash completions for a command if no native one is available
 - [fsaintjacques/semver-tool](https://github.com/fsaintjacques/semver-tool) - semver bash implementation
-- [xero/dotfiles](https://github.com/xero/dotfiles) - rice 🍚 custom linux config files. as seen on r/unixporn #noricenolife neovim cultist. perpetual wip
+- [xero/dotfiles](https://github.com/xero/dotfiles) - rice 🍚 custom linux config files. as seen on r/unixporn #noricenolife neovim cultist. dotfiles are perpetual wip
 - [pratiktri/server_init_harden](https://github.com/pratiktri/server_init_harden) - Server hardening on 1st login as "root"
 - [webpro/dotfiles](https://github.com/webpro/dotfiles) - Dotfiles for macOS
 - [pch/welder](https://github.com/pch/welder) - 👨‍🏭Set up your Linux server with plain shell scripts
@@ -3123,7 +3123,7 @@
 - [Uriopass/Musidex](https://github.com/Uriopass/Musidex) - Your AI powered musical pokedex, Plex for music
 - [nortakales/vs-code-qalc](https://github.com/nortakales/vs-code-qalc) - Interactive scratchpad calculator for VS Code
 - [tailwindlabs/tailwindcss-container-queries](https://github.com/tailwindlabs/tailwindcss-container-queries) - A plugin for Tailwind CSS v3.2+ that provides utilities for container queries.
-- [StanGirard/quivr](https://github.com/StanGirard/quivr) - 🧠 Your Second Brain supercharged by Generative AI 🧠 Dump all your files and chat with your personal assistant on your files & more using GPT 3.5/4, Private, Anthropic, VertexAI, LLMs...
+- [StanGirard/quivr](https://github.com/StanGirard/quivr) - An Opensource alternative to OpenAI GPTs 🧠 Your Second Brain supercharged by Generative AI 🧠  Your personal assistant on your files & apps using GPT 3.5 / 4 turbo, Private, Anthropic, VertexAI, LLMs t
 - [DeterminateSystems/nix-installer-action](https://github.com/DeterminateSystems/nix-installer-action) - The Github Action for the Determinate Nix Installer
 - [DeterminateSystems/magic-nix-cache-action](https://github.com/DeterminateSystems/magic-nix-cache-action) - Save 30-50%+ of CI time without any effort or cost. Use Magic Nix Cache, a totally free and zero-configuration binary cache for Nix on GitHub Actions.
 - [material-shell/material-shell](https://github.com/material-shell/material-shell) - A modern desktop interface for Linux. Improve your user experience and get rid of the anarchy of traditional desktop workflows. Designed to simplify navigation and reduce the need to manipulate window
