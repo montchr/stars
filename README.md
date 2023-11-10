@@ -284,7 +284,7 @@
 - [gregrickaby/nextjs-github-pages](https://github.com/gregrickaby/nextjs-github-pages) - 🚀 Deploy a Next.js app to Github Pages via Github Actions.
 - [josephfusco/angled-edges](https://github.com/josephfusco/angled-edges) - :triangular_ruler: Quickly create angled section edges using only Sass
 - [sissbruecker/linkding-extension](https://github.com/sissbruecker/linkding-extension) - Companion extension for linkding
-- [QNetITQ/WaveFox](https://github.com/QNetITQ/WaveFox) - Firefox CSS Theme for manual customization
+- [QNetITQ/WaveFox](https://github.com/QNetITQ/WaveFox) - Firefox CSS Theme/Style for manual customization
 - [rockofox/firefox-minima](https://github.com/rockofox/firefox-minima) - Minimalist Firefox Theme inspired by qutebrowser
 - [hraban/tomono](https://github.com/hraban/tomono) - Multi- To Mono-repository merge
 - [elad2412/the-new-css-reset](https://github.com/elad2412/the-new-css-reset) - The New Simple and Lighter CSS Reset
@@ -314,7 +314,6 @@
 - [newsnerdery/newsnerdery](https://github.com/newsnerdery/newsnerdery) - An international meta organization to foster news nerd collaboration and knowledge sharing
 - [modularscale/modularscale-sass](https://github.com/modularscale/modularscale-sass) - Modular scale calculator built into your Sass
 - [samargulies/manuscript](https://github.com/samargulies/manuscript) - A monospaced theme for WordPress
-- [JohnAlbin/normalize-scss](https://github.com/JohnAlbin/normalize-scss) - This is the Sass version of Normalize.css, a collection of HTML element and attribute rulesets to normalize styles across all browsers.
 - [at-import/breakpoint](https://github.com/at-import/breakpoint) - Really simple media queries in Sass
 - [csswizardry/csswizardry-grids](https://github.com/csswizardry/csswizardry-grids) - Simple, fluid, nestable, flexible, Sass-based, responsive grid system.
 - [milohuang/reverie](https://github.com/milohuang/reverie) - Reverie is a versatile HTML5 responsive WordPress framework based on ZURB's Foundation.
@@ -2788,6 +2787,7 @@
 - [uswds/uswds](https://github.com/uswds/uswds) - The U.S. Web Design System helps the federal government build fast, accessible, mobile-friendly websites.
 - [KittyGiraudel/SassyCast](https://github.com/KittyGiraudel/SassyCast) - [UNMAINTAINED] Type conversion functions for Sass.
 - [sass-mq/sass-mq](https://github.com/sass-mq/sass-mq) - A Sass mixin that helps you compose media queries in an elegant way.
+- [JohnAlbin/normalize-scss](https://github.com/JohnAlbin/normalize-scss) - This is the Sass version of Normalize.css, a collection of HTML element and attribute rulesets to normalize styles across all browsers.
 - [RamseyInHouse/scut](https://github.com/RamseyInHouse/scut) - Sass utilities for the frontend laborer.
 - [oddbird/susy](https://github.com/oddbird/susy) - Pre-grid responsive layout toolkit for Sass, now deprecated
 - [twbs/bootstrap-sass](https://github.com/twbs/bootstrap-sass) - Official Sass port of Bootstrap 2 and 3.
@@ -3209,7 +3209,7 @@
 - [redwoodjs/redwood](https://github.com/redwoodjs/redwood) - The App Framework for Startups
 - [JustinBeckwith/linkinator](https://github.com/JustinBeckwith/linkinator) - 🐿 Scurry around your site and find all those broken links.
 - [johnbillion/wp-json-schemas](https://github.com/johnbillion/wp-json-schemas) - JSON schemas for WordPress PHP objects and REST  API responses
-- [refinedev/refine](https://github.com/refinedev/refine) - A React Framework for building  internal tools, admin panels, dashboards & B2B apps with unmatched flexibilty. 🌟 Star to support our work!
+- [refinedev/refine](https://github.com/refinedev/refine) - A React Framework for building  internal tools, admin panels, dashboards & B2B apps with unmatched flexibilty.
 - [denoland/fresh](https://github.com/denoland/fresh) - The next-gen web framework.
 - [pawelmalak/flame](https://github.com/pawelmalak/flame) - Flame is self-hosted startpage for your server. Easily manage your apps and bookmarks with built-in editors.
 - [TanStack/virtual](https://github.com/TanStack/virtual) - 🤖 Headless UI for Virtualizing Large Element Lists in JS/TS, React, Solid, Vue and Svelte
