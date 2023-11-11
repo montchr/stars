@@ -135,6 +135,7 @@
 - [monitoring](#monitoring)
 - [music](#music)
 - [mysql](#mysql)
+- [nativescript](#nativescript)
 - [neovim](#neovim)
 - [neural-network](#neural-network)
 - [nextjs](#nextjs)
@@ -884,6 +885,7 @@
 
 ## config 
 
+- [Fuco1/.emacs.d](https://github.com/Fuco1/.emacs.d) - My emacs config
 - [amtoine/wallpapers](https://github.com/amtoine/wallpapers) - A gallery of wallpapers I use for my laptop config.
 - [amtoine/dotfiles](https://github.com/amtoine/dotfiles) - My personal archlinux config files.
 - [jetpack-io/tyson](https://github.com/jetpack-io/tyson) - 🥊  TypeScript as a Configuration Language. TySON stands for TypeScript Object Notation
@@ -1104,7 +1106,7 @@
 - [F1bonacc1/process-compose](https://github.com/F1bonacc1/process-compose) - Process Compose is a simple and flexible scheduler and orchestrator to manage non-containerized applications.
 - [siderolabs/conform](https://github.com/siderolabs/conform) - Policy enforcement for your pipelines.
 - [gruntwork-io/terratest](https://github.com/gruntwork-io/terratest) - Terratest is a Go library that makes it easier to write automated tests for your infrastructure code.
-- [DeterminateSystems/nix-installer](https://github.com/DeterminateSystems/nix-installer) - Install Nix and flakes with the fast and reliable Determinate Nix Installer, with over 500,000 installs.
+- [DeterminateSystems/nix-installer](https://github.com/DeterminateSystems/nix-installer) - Install Nix and flakes with the fast and reliable Determinate Nix Installer, with over a million installs.
 - [GoogleContainerTools/skaffold](https://github.com/GoogleContainerTools/skaffold) - Easy and Repeatable Kubernetes Development
 - [nikitowsky/next-advanced-apollo-starter](https://github.com/nikitowsky/next-advanced-apollo-starter) - Advanced, but minimalistic Next.js and Apollo starter
 - [wodby/docker4wordpress](https://github.com/wodby/docker4wordpress) - Docker-based WordPress stack
@@ -1224,6 +1226,7 @@
 
 ## emacs 
 
+- [Fuco1/.emacs.d](https://github.com/Fuco1/.emacs.d) - My emacs config
 - [alphapapa/emacs-package-dev-handbook](https://github.com/alphapapa/emacs-package-dev-handbook) - An Emacs package development handbook. Built with Emacs, by Emacs package developers, for Emacs package developers.
 - [countvajhula/rigpa](https://github.com/countvajhula/rigpa) - A metacircular modal UI framework.
 - [emacs-elsa/flycheck-elsa](https://github.com/emacs-elsa/flycheck-elsa) - Flycheck integration for Elsa---Emacs lisp static analyzer
@@ -2426,7 +2429,7 @@
 - [sioodmy/dotfiles](https://github.com/sioodmy/dotfiles) - Beautiful catppuccin themed NixOS configuration, with built in impermanence, full disk encryption and many more!
 - [kittywitch/nixfiles](https://github.com/kittywitch/nixfiles) - kat's configuration flake
 - [beringresearch/macpine](https://github.com/beringresearch/macpine) - Lightweight Linux VMs on MacOS
-- [DeterminateSystems/nix-installer](https://github.com/DeterminateSystems/nix-installer) - Install Nix and flakes with the fast and reliable Determinate Nix Installer, with over 500,000 installs.
+- [DeterminateSystems/nix-installer](https://github.com/DeterminateSystems/nix-installer) - Install Nix and flakes with the fast and reliable Determinate Nix Installer, with over a million installs.
 - [ema/pets](https://github.com/ema/pets) - A configuration management system for Pets, not Cattle
 - [sylirre/neotty](https://github.com/sylirre/neotty) - Yet another terminal app for Android OS but different. Powered by QEMU. No root required.
 - [LinuxCafeFederation/awesome-android](https://github.com/LinuxCafeFederation/awesome-android) - A curated list of awesome open source Android applications, tutorials and resources.
@@ -2562,7 +2565,7 @@
 - [kittywitch/nixfiles](https://github.com/kittywitch/nixfiles) - kat's configuration flake
 - [pqrs-org/Tinkle](https://github.com/pqrs-org/Tinkle) - 
 - [beringresearch/macpine](https://github.com/beringresearch/macpine) - Lightweight Linux VMs on MacOS
-- [DeterminateSystems/nix-installer](https://github.com/DeterminateSystems/nix-installer) - Install Nix and flakes with the fast and reliable Determinate Nix Installer, with over 500,000 installs.
+- [DeterminateSystems/nix-installer](https://github.com/DeterminateSystems/nix-installer) - Install Nix and flakes with the fast and reliable Determinate Nix Installer, with over a million installs.
 - [rvaiya/warpd](https://github.com/rvaiya/warpd) - A modal keyboard-driven virtual pointer
 - [Code-Hex/vz](https://github.com/Code-Hex/vz) - Create virtual machines and run Linux-based operating systems in Go using Apple Virtualization.framework.
 - [watchexec/watchexec](https://github.com/watchexec/watchexec) - Executes commands in response to file modifications
@@ -2789,6 +2792,10 @@
 - [donnemartin/dev-setup](https://github.com/donnemartin/dev-setup) - macOS development environment setup:  Easy-to-understand instructions with automated setup scripts for developer tools like Vim, Sublime Text, Bash, iTerm, Python data analysis, Spark, Hadoop MapReduc
 - [nocodb/nocodb](https://github.com/nocodb/nocodb) - 🔥 🔥 🔥 Open Source Airtable Alternative
 - [herrbischoff/cheatsheets](https://github.com/herrbischoff/cheatsheets) - Quick and dirty (read: effective) administration, including some rather obscure pieces of information.
+
+## nativescript 
+
+- [learn-anything/learn-anything.xyz](https://github.com/learn-anything/learn-anything.xyz) - Organize world's knowledge, explore connections and curate learning paths
 
 ## neovim 
 
@@ -3954,7 +3961,7 @@
 - [puffnfresh/nix-files](https://github.com/puffnfresh/nix-files) - My NixOS configuration and custom Nix derivations.
 - [NixOS/nixos-hardware](https://github.com/NixOS/nixos-hardware) - A collection of NixOS modules covering hardware quirks.
 - [danderson/homelab](https://github.com/danderson/homelab) - 
-- [rvolosatovs/infrastructure](https://github.com/rvolosatovs/infrastructure) - Private NixOps network infrastructure
+- [rvolosatovs/nixelium](https://github.com/rvolosatovs/nixelium) - Private NixOps network infrastructure
 - [cleverca22/not-os](https://github.com/cleverca22/not-os) - An operating system generator, based on NixOS, that, given a config, outputs a small (47 MB), read-only squashfs for a runit-based operating system, with support for iPXE and signed boot.
 - [ryantm/agenix](https://github.com/ryantm/agenix) - age-encrypted secrets for NixOS and Home manager
 - [mbnuqw/sidebery](https://github.com/mbnuqw/sidebery) - Firefox extension for managing tabs and bookmarks in sidebar.
@@ -4948,6 +4955,7 @@
 
 ## rust 
 
+- [fornwall/rust-script](https://github.com/fornwall/rust-script) - Run Rust files and expressions as scripts without any setup or compilation step.
 - [MolotovCherry/Yet-Another-BG3-Native-Mod-Loader](https://github.com/MolotovCherry/Yet-Another-BG3-Native-Mod-Loader) - A mod loader for Baldur's Gate 3
 - [eza-community/eza](https://github.com/eza-community/eza) - A modern, maintained replacement for ls
 - [helix-editor/nucleo](https://github.com/helix-editor/nucleo) - A fast and convenient fuzzy matcher library for rust
