@@ -374,6 +374,8 @@
 
 ## Emacs Lisp 
 
+- [radian-software/blackout](https://github.com/radian-software/blackout) - 💡 The easy way to clean up your Emacs mode lighters.
+- [Fuco1/.emacs.d](https://github.com/Fuco1/.emacs.d) - My emacs config
 - [countvajhula/.emacs.d](https://github.com/countvajhula/.emacs.d) - Emacs config
 - [countvajhula/rigpa](https://github.com/countvajhula/rigpa) - A metacircular modal UI framework.
 - [emacs-elsa/flycheck-elsa](https://github.com/emacs-elsa/flycheck-elsa) - Flycheck integration for Elsa---Emacs lisp static analyzer
@@ -1747,7 +1749,7 @@
 - [infinisil/system](https://github.com/infinisil/system) - My system configuration
 - [puffnfresh/nix-files](https://github.com/puffnfresh/nix-files) - My NixOS configuration and custom Nix derivations.
 - [NixOS/nixos-hardware](https://github.com/NixOS/nixos-hardware) - A collection of NixOS modules covering hardware quirks.
-- [rvolosatovs/infrastructure](https://github.com/rvolosatovs/infrastructure) - Private NixOps network infrastructure
+- [rvolosatovs/nixelium](https://github.com/rvolosatovs/nixelium) - Private NixOps network infrastructure
 - [xtruder/kubenix](https://github.com/xtruder/kubenix) - Replaced by https://github.com/hall/kubenix
 - [cleverca22/not-os](https://github.com/cleverca22/not-os) - An operating system generator, based on NixOS, that, given a config, outputs a small (47 MB), read-only squashfs for a runit-based operating system, with support for iPXE and signed boot.
 - [ryantm/agenix](https://github.com/ryantm/agenix) - age-encrypted secrets for NixOS and Home manager
@@ -2602,6 +2604,7 @@
 
 ## Rust 
 
+- [fornwall/rust-script](https://github.com/fornwall/rust-script) - Run Rust files and expressions as scripts without any setup or compilation step.
 - [MolotovCherry/Yet-Another-BG3-Native-Mod-Loader](https://github.com/MolotovCherry/Yet-Another-BG3-Native-Mod-Loader) - A mod loader for Baldur's Gate 3
 - [MolotovCherry/BG3-Plugin-Template-Rust](https://github.com/MolotovCherry/BG3-Plugin-Template-Rust) - 
 - [eza-community/eza](https://github.com/eza-community/eza) - A modern, maintained replacement for ls
@@ -2655,7 +2658,7 @@
 - [cocogitto/cocogitto](https://github.com/cocogitto/cocogitto) - The Conventional Commits toolbox
 - [nix-community/patsh](https://github.com/nix-community/patsh) - A command-line tool for patching shell scripts inspired by resholve [maintainer=@figsoda]
 - [sharkdp/pastel](https://github.com/sharkdp/pastel) - A command-line tool to generate, analyze, convert and manipulate colors
-- [DeterminateSystems/nix-installer](https://github.com/DeterminateSystems/nix-installer) - Install Nix and flakes with the fast and reliable Determinate Nix Installer, with over 500,000 installs.
+- [DeterminateSystems/nix-installer](https://github.com/DeterminateSystems/nix-installer) - Install Nix and flakes with the fast and reliable Determinate Nix Installer, with over a million installs.
 - [shssoichiro/oxipng](https://github.com/shssoichiro/oxipng) - Multithreaded PNG optimizer written in Rust
 - [valeriansaliou/sonic](https://github.com/valeriansaliou/sonic) - 🦔 Fast, lightweight & schema-less search backend. An alternative to Elasticsearch that runs on a few MBs of RAM.
 - [casey/just](https://github.com/casey/just) - 🤖 Just a command runner
@@ -3124,7 +3127,7 @@
 - [Uriopass/Musidex](https://github.com/Uriopass/Musidex) - Your AI powered musical pokedex, Plex for music
 - [nortakales/vs-code-qalc](https://github.com/nortakales/vs-code-qalc) - Interactive scratchpad calculator for VS Code
 - [tailwindlabs/tailwindcss-container-queries](https://github.com/tailwindlabs/tailwindcss-container-queries) - A plugin for Tailwind CSS v3.2+ that provides utilities for container queries.
-- [StanGirard/quivr](https://github.com/StanGirard/quivr) - 🧠 Your Second Brain supercharged by Generative AI 🧠  Alternative to OpenAI GPTs & Your personal assistant to chat with your files (PDF, CSV)  & apps using GPT 3.5 / 4 turbo, Private, Anthropic, Vertex
+- [StanGirard/quivr](https://github.com/StanGirard/quivr) - 🧠 Your supercharged Second Brain 🧠 Your personal productivity assistant to chat with your files (PDF, CSV)  & apps using GPT 3.5 / 4 turbo, Private, Anthropic, VertexAI, LLMs that you can share with u
 - [DeterminateSystems/nix-installer-action](https://github.com/DeterminateSystems/nix-installer-action) - The Github Action for the Determinate Nix Installer
 - [DeterminateSystems/magic-nix-cache-action](https://github.com/DeterminateSystems/magic-nix-cache-action) - Save 30-50%+ of CI time without any effort or cost. Use Magic Nix Cache, a totally free and zero-configuration binary cache for Nix on GitHub Actions.
 - [material-shell/material-shell](https://github.com/material-shell/material-shell) - A modern desktop interface for Linux. Improve your user experience and get rid of the anarchy of traditional desktop workflows. Designed to simplify navigation and reduce the need to manipulate window
