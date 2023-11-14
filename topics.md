@@ -3726,7 +3726,7 @@
 - [spiritedmedia/systems](https://github.com/spiritedmedia/systems) - Code and documentation for building, deploying, and serving code.
 - [evccyr/pretty-kitty](https://github.com/evccyr/pretty-kitty) - :octocat: :lollipop:  Beautiful light and dark theme eye candy :candy: with multiple fonts :doughnut: for the KITTY :fire: terminal
 - [evccyr/pictures](https://github.com/evccyr/pictures) - Wallpaper collection
-- [rlch/dotfiles](https://github.com/rlch/dotfiles) - neovim + tmux + yabai + kitty + fish
+- [rlch/dotfiles](https://github.com/rlch/dotfiles) - neovim + yabai + wezterm + zellij - I don't like my mouse
 - [winterqt/kaidame](https://github.com/winterqt/kaidame) - 
 - [XXIIVV/clock](https://github.com/XXIIVV/clock) - Decimal Clock
 - [Alexays/Waybar](https://github.com/Alexays/Waybar) - Highly customizable Wayland bar for Sway and Wlroots based compositors. :v: :tada:
@@ -3962,7 +3962,7 @@
 - [puffnfresh/nix-files](https://github.com/puffnfresh/nix-files) - My NixOS configuration and custom Nix derivations.
 - [NixOS/nixos-hardware](https://github.com/NixOS/nixos-hardware) - A collection of NixOS modules covering hardware quirks.
 - [danderson/homelab](https://github.com/danderson/homelab) - 
-- [rvolosatovs/nixelium](https://github.com/rvolosatovs/nixelium) - Private NixOps network infrastructure
+- [rvolosatovs/nixelium](https://github.com/rvolosatovs/nixelium) - Nix-powered Linux and Darwin systems
 - [cleverca22/not-os](https://github.com/cleverca22/not-os) - An operating system generator, based on NixOS, that, given a config, outputs a small (47 MB), read-only squashfs for a runit-based operating system, with support for iPXE and signed boot.
 - [ryantm/agenix](https://github.com/ryantm/agenix) - age-encrypted secrets for NixOS and Home manager
 - [mbnuqw/sidebery](https://github.com/mbnuqw/sidebery) - Firefox extension for managing tabs and bookmarks in sidebar.
