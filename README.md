@@ -431,7 +431,6 @@
 - [loafofpiecrust/dotnix](https://github.com/loafofpiecrust/dotnix) - Repository for my flake-based NixOS config
 - [overideal/perject](https://github.com/overideal/perject) - An Emacs package for working with projects
 - [xenodium/org-block-capf](https://github.com/xenodium/org-block-capf) - 
-- [conao3/leaf.el](https://github.com/conao3/leaf.el) - Flexible, declarative, and modern init.el package configuration
 - [magnars/dash.el](https://github.com/magnars/dash.el) - A modern list library for Emacs
 - [positron-solutions/elisp-repo-kit](https://github.com/positron-solutions/elisp-repo-kit) - Emacs Lisp package for creating an Emacs Lisp Github repo with CI
 - [lccambiaghi/vanilla-emacs](https://github.com/lccambiaghi/vanilla-emacs) - 
@@ -1374,7 +1373,7 @@
 - [rtauziac/Hammerspoon-Yabai](https://github.com/rtauziac/Hammerspoon-Yabai) - My personal macOS window manager setup
 - [NvChad/NvChad](https://github.com/NvChad/NvChad) - Blazing fast Neovim config providing solid defaults and a beautiful UI, enhancing your neovim experience.
 - [EdenEast/nyx](https://github.com/EdenEast/nyx) - ⚙️Nix[OS] Configuration
-- [echasnovski/mini.nvim](https://github.com/echasnovski/mini.nvim) - Library of 30+ independent Lua modules improving overall Neovim (version 0.7 and higher) experience with minimal effort
+- [echasnovski/mini.nvim](https://github.com/echasnovski/mini.nvim) - Library of 35+ independent Lua modules improving overall Neovim (version 0.7 and higher) experience with minimal effort
 - [nvim-neorg/neorg](https://github.com/nvim-neorg/neorg) - Modernity meets insane extensibility. The future of organizing your life in Neovim.
 - [disrupted/dotfiles](https://github.com/disrupted/dotfiles) - 👨🏻‍💻 My dotfiles including Neovim Lua config, ZSH with zinit plugin manager & powerlevel10k prompt
 - [NTBBloodbath/cheovim](https://github.com/NTBBloodbath/cheovim) - Neovim configuration switcher written in Lua. Inspired by chemacs.
