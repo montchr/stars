@@ -1307,7 +1307,7 @@
 - [martinbaillie/dotfiles](https://github.com/martinbaillie/dotfiles) - 🏠
 - [shaunsingh/nyoom.emacs](https://github.com/shaunsingh/nyoom.emacs) - Configurable, Minimal, Fast emacs config based on Nano-emacs and Doom
 - [io12/org-fragtog](https://github.com/io12/org-fragtog) - Automatically toggle Org mode LaTeX fragment previews as the cursor enters and exits them
-- [jimeh/emacs-builds](https://github.com/jimeh/emacs-builds) - Self-contained Emacs.app builds for macOS, with native-compilation support in nightly builds.
+- [jimeh/emacs-builds](https://github.com/jimeh/emacs-builds) - Self-contained Emacs.app builds for macOS, with native-compilation support.
 - [skx/org-worklog](https://github.com/skx/org-worklog) - A template for maintaining a work-log, via org-mode.
 - [ianyepan/.macOS-emacs.d](https://github.com/ianyepan/.macOS-emacs.d) - 😈My personal Emacs configuration on macOS
 - [wakatime/wakatime-mode](https://github.com/wakatime/wakatime-mode) - Emacs plugin for automatic time tracking and metrics generated from your programming activity.
@@ -2592,7 +2592,7 @@
 - [donnemartin/dev-setup](https://github.com/donnemartin/dev-setup) - macOS development environment setup:  Easy-to-understand instructions with automated setup scripts for developer tools like Vim, Sublime Text, Bash, iTerm, Python data analysis, Spark, Hadoop MapReduc
 - [martinbaillie/dotfiles](https://github.com/martinbaillie/dotfiles) - 🏠
 - [seemoo-lab/openhaystack](https://github.com/seemoo-lab/openhaystack) - Build your own 'AirTags' 🏷 today! Framework for tracking personal Bluetooth devices via Apple's massive Find My network.
-- [jimeh/emacs-builds](https://github.com/jimeh/emacs-builds) - Self-contained Emacs.app builds for macOS, with native-compilation support in nightly builds.
+- [jimeh/emacs-builds](https://github.com/jimeh/emacs-builds) - Self-contained Emacs.app builds for macOS, with native-compilation support.
 - [zpm-zsh/zpm](https://github.com/zpm-zsh/zpm) - Zpm— Zsh Plugin Manager
 - [FelixKratz/SketchyBar](https://github.com/FelixKratz/SketchyBar) - A highly customizable macOS status bar replacement
 - [vic/vix](https://github.com/vic/vix) - Vic's *Nix config.
