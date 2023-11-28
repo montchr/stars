@@ -112,6 +112,7 @@
 
 ## Batchfile 
 
+- [Liareth/BG3Mods](https://github.com/Liareth/BG3Mods) - My BG3 mods
 - [TA1312/supernote-a5x](https://github.com/TA1312/supernote-a5x) - various security information on the supernote a5x
 - [AveYo/fox](https://github.com/AveYo/fox) - Firefox stuff
 
@@ -218,6 +219,7 @@
 
 ## C++ 
 
+- [Norbyte/bg3se](https://github.com/Norbyte/bg3se) - Baldur's Gate 3 Script Extender
 - [Martchus/syncthingtray](https://github.com/Martchus/syncthingtray) - Tray application and Dolphin/Plasma integration for Syncthing
 - [trapexit/mergerfs](https://github.com/trapexit/mergerfs) - a featureful union filesystem
 - [rakshasa/rtorrent](https://github.com/rakshasa/rtorrent) - rTorrent BitTorrent client
@@ -1821,6 +1823,7 @@
 
 ## Others 
 
+- [TheRealDjmr/BG3ImprovedUI](https://github.com/TheRealDjmr/BG3ImprovedUI) - 
 - [vercel/geist-font](https://github.com/vercel/geist-font) - 
 - [joonspk-research/generative_agents](https://github.com/joonspk-research/generative_agents) - Generative Agents: Interactive Simulacra of Human Behavior
 - [Log1x/acf-builder-cheatsheet](https://github.com/Log1x/acf-builder-cheatsheet) - A cheatsheet for use with ACF Builder.
