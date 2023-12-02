@@ -820,7 +820,7 @@
 - [Skyscanner/turbolift](https://github.com/Skyscanner/turbolift) - A simple tool to help apply changes across many GitHub repositories simultaneously
 - [rehacktive/caffeine](https://github.com/rehacktive/caffeine) - A basic REST service for JSON data - enough for prototyping and MVPs!
 - [plexdrive/plexdrive](https://github.com/plexdrive/plexdrive) - Plexdrive mounts your Google Drive FUSE filesystem (optimized for media playback)
-- [lima-vm/lima](https://github.com/lima-vm/lima) - Linux virtual machines
+- [lima-vm/lima](https://github.com/lima-vm/lima) - Linux virtual machines, with a focus on running containers
 - [bouk/babelfish](https://github.com/bouk/babelfish) - Translate bash scripts to fish
 - [numtide/terraform-provider-linuxbox](https://github.com/numtide/terraform-provider-linuxbox) - Configure Linux machines with Terraform
 - [VKCOM/noverify](https://github.com/VKCOM/noverify) - Pretty fast linter (code static analysis utility) for PHP
@@ -2750,7 +2750,6 @@
 - [Mic92/cntr](https://github.com/Mic92/cntr) - A container debugging tool based on FUSE
 - [Velfi/i-ching](https://github.com/Velfi/i-ching) - A library for i-ching apps written in Rust, and a companion CLI app for divination
 - [crossterm-rs/crossterm](https://github.com/crossterm-rs/crossterm) - Cross platform terminal library rust
-- [mTvare6/hello-world.rs](https://github.com/mTvare6/hello-world.rs) - 🚀Memory safe, blazing fast, configurable, minimal hello world written in rust(🚀) in a few lines of code with few(1092🚀) dependencies🚀
 - [dani-garcia/vaultwarden](https://github.com/dani-garcia/vaultwarden) - Unofficial Bitwarden compatible server written in Rust, formerly known as bitwarden_rs
 - [yaa110/nomino](https://github.com/yaa110/nomino) - Batch rename utility for developers
 - [tonarino/innernet](https://github.com/tonarino/innernet) - A private network system that uses WireGuard under the hood.
@@ -3125,6 +3124,7 @@
 
 ## TypeScript 
 
+- [mkinfrared/baldurs-gate3-mod-manager](https://github.com/mkinfrared/baldurs-gate3-mod-manager) - 
 - [vincanger/coverlettergpt](https://github.com/vincanger/coverlettergpt) - Generate Cover Letters based on Job Description and your Resumé. Manage jobs and applications. Get Hired. Have fun. Be cool. Go to School.
 - [jesec/flood](https://github.com/jesec/flood) - A modern web UI for various torrent clients with a Node.js backend and React frontend.
 - [Uriopass/Musidex](https://github.com/Uriopass/Musidex) - Your AI powered musical pokedex, Plex for music
