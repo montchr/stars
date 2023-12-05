@@ -878,16 +878,16 @@
 - [gruntwork-io/terragrunt-infrastructure-live-example](https://github.com/gruntwork-io/terragrunt-infrastructure-live-example) - A repo used to show examples file/folder structures you can use with Terragrunt and Terraform
 - [jonascarpay/iplz](https://github.com/jonascarpay/iplz) - Demo project for building, provisioning, and deploying a web service with a single command, using Terraform and Nix.
 - [azavea/kubernetes-deployment](https://github.com/azavea/kubernetes-deployment) - Deployment resources and shared knowledge base for deploying Kubernetes
-- [terraform-aws-modules/terraform-aws-s3-bucket](https://github.com/terraform-aws-modules/terraform-aws-s3-bucket) - Terraform module which creates S3 bucket resources on AWS 🇺🇦
+- [terraform-aws-modules/terraform-aws-s3-bucket](https://github.com/terraform-aws-modules/terraform-aws-s3-bucket) - Terraform module to create AWS S3 resources 🇺🇦
 - [numtide/terraform-nixos-install](https://github.com/numtide/terraform-nixos-install) - 
-- [terraform-aws-modules/terraform-aws-iam](https://github.com/terraform-aws-modules/terraform-aws-iam) - Terraform module which creates IAM resources on AWS 🇺🇦
+- [terraform-aws-modules/terraform-aws-iam](https://github.com/terraform-aws-modules/terraform-aws-iam) - Terraform module to create AWS IAM resources 🇺🇦
 - [brikis98/terraform-up-and-running-code](https://github.com/brikis98/terraform-up-and-running-code) - Code samples for the book "Terraform: Up & Running" by Yevgeniy Brikman
 - [cloudposse/terraform-aws-components](https://github.com/cloudposse/terraform-aws-components) - Opinionated, self-contained Terraform root modules that each solve one, specific problem
 - [aws-ia/terraform-aws-eks-blueprints](https://github.com/aws-ia/terraform-aws-eks-blueprints) - Configure and deploy complete EKS clusters.
 - [ozbillwang/terraform-best-practices](https://github.com/ozbillwang/terraform-best-practices) - Terraform Best Practices for AWS users
 - [nozaq/terraform-aws-secure-baseline](https://github.com/nozaq/terraform-aws-secure-baseline) - Terraform module to set up your AWS account with the secure baseline configuration based on CIS Amazon Web Services Foundations and AWS Foundational Security Best Practices.
-- [terraform-aws-modules/terraform-aws-ec2-instance](https://github.com/terraform-aws-modules/terraform-aws-ec2-instance) - Terraform module which creates EC2 instance(s) on AWS 🇺🇦
-- [terraform-aws-modules/terraform-aws-vpc](https://github.com/terraform-aws-modules/terraform-aws-vpc) - Terraform module which creates VPC resources on AWS 🇺🇦
+- [terraform-aws-modules/terraform-aws-ec2-instance](https://github.com/terraform-aws-modules/terraform-aws-ec2-instance) - Terraform module to create AWS EC2 instance(s) resources 🇺🇦
+- [terraform-aws-modules/terraform-aws-vpc](https://github.com/terraform-aws-modules/terraform-aws-vpc) - Terraform module to create AWS VPC resources 🇺🇦
 - [fpco/terraform-aws-foundation](https://github.com/fpco/terraform-aws-foundation) - Establish a solid Foundation on AWS with these modules for Terraform
 - [mcgirr/terraform-nixos-nginx-webserver](https://github.com/mcgirr/terraform-nixos-nginx-webserver) - An example of a basic Terraform project and modules that create the AWS infrastructure for a webserver on NixOS
 - [aleti-pavan/terraform-aws-wordpress](https://github.com/aleti-pavan/terraform-aws-wordpress) - This is Terraform configuration to install and configure wordpress on AWS. March, 2019
@@ -1936,7 +1936,7 @@
 - [warpdotdev/Warp](https://github.com/warpdotdev/Warp) - Warp is a modern, Rust-based terminal with AI built in so you and your team can build great software, faster.
 - [Lissy93/personal-security-checklist](https://github.com/Lissy93/personal-security-checklist) - 🔒 A compiled checklist of 300+ tips for protecting digital security and privacy in 2023
 - [h5bp/server-configs-nginx](https://github.com/h5bp/server-configs-nginx) - Nginx HTTP server boilerplate configs
-- [sirredbeard/Awesome-WSL](https://github.com/sirredbeard/Awesome-WSL) - Awesome list dedicated to Windows Subsystem for Linux
+- [sirredbeard/awesome-wsl](https://github.com/sirredbeard/awesome-wsl) - Awesome list dedicated to Windows Subsystem for Linux
 - [arachne-framework/architecture](https://github.com/arachne-framework/architecture) - Repository of Architecture Decision Records
 - [joelparkerhenderson/architecture-decision-record](https://github.com/joelparkerhenderson/architecture-decision-record) - Architecture decision record (ADR) examples for software planning, IT leadership, and template documentation
 - [chrisdone/elisp-guide](https://github.com/chrisdone/elisp-guide) - A quick guide to Emacs Lisp programming
@@ -2250,7 +2250,7 @@
 - [snicco/snicco](https://github.com/snicco/snicco) - Taking the pain out of enterprise WordPress development
 - [WordPress/hosting-handbook](https://github.com/WordPress/hosting-handbook) - WordPress Hosting Team Handbook
 - [alleyinteractive/wp-find-one](https://github.com/alleyinteractive/wp-find-one) - Query for and return one WordPress post, term, or other object, bypassing intermediate arrays.
-- [johnbillion/query-monitor](https://github.com/johnbillion/query-monitor) - The Developer Tools Panel for WordPress
+- [johnbillion/query-monitor](https://github.com/johnbillion/query-monitor) - The developer tools panel for WordPress
 - [pestphp/pest](https://github.com/pestphp/pest) - Pest is an elegant PHP testing Framework with a focus on simplicity, meticulously designed to bring back the joy of testing in PHP.
 - [alleyinteractive/traverse-reshape](https://github.com/alleyinteractive/traverse-reshape) - Safely break down arrays or objects, and put them back together in new shapes.
 - [RefactoringGuru/design-patterns-php](https://github.com/RefactoringGuru/design-patterns-php) - Design Pattern Examples in PHP
