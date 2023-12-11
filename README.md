@@ -1823,6 +1823,7 @@
 
 ## Others 
 
+- [montchr/c-games](https://github.com/montchr/c-games) - 
 - [TheRealDjmr/BG3ImprovedUI](https://github.com/TheRealDjmr/BG3ImprovedUI) - 
 - [vercel/geist-font](https://github.com/vercel/geist-font) - 
 - [joonspk-research/generative_agents](https://github.com/joonspk-research/generative_agents) - Generative Agents: Interactive Simulacra of Human Behavior
