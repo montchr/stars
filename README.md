@@ -501,7 +501,7 @@
 - [manateelazycat/lsp-bridge](https://github.com/manateelazycat/lsp-bridge) - A blazingly fast LSP client for Emacs
 - [ajgrf/on.el](https://github.com/ajgrf/on.el) - Hooks for faster Emacs startup – GitHub mirror
 - [jeremyf/dotemacs](https://github.com/jeremyf/dotemacs) - 
-- [lassik/emacs-memento-mori](https://github.com/lassik/emacs-memento-mori) - Reminder of mortality
+- [gvol/emacs-memento-mori](https://github.com/gvol/emacs-memento-mori) - Reminder of mortality
 - [joaotavora/eglot](https://github.com/joaotavora/eglot) - A client for Language Server Protocol servers
 - [motform/emacs.d](https://github.com/motform/emacs.d) - a configuration for evil, pseudo-portable ergonomics and doubtful profits
 - [binarydigitz01/org-project-manager](https://github.com/binarydigitz01/org-project-manager) - A plugin to manage projects with org-roam
@@ -1439,7 +1439,7 @@
 - [meowgorithm/dotfiles](https://github.com/meowgorithm/dotfiles) - The Meowgorithm Dotfiles, Collectors’ Edition
 - [TaserudConsulting/jsonresume-nix](https://github.com/TaserudConsulting/jsonresume-nix) - Reproducible résumé using Nix ❄️ and jsonresume
 - [chayleaf/nixos-router](https://github.com/chayleaf/nixos-router) - A NixOS router framework
-- [accelbread/flakelight](https://github.com/accelbread/flakelight) - Framework for simplifying flake setup
+- [nix-community/flakelight](https://github.com/nix-community/flakelight) - Framework for simplifying flake setup [maintainer=@accelbread]
 - [ironicbadger/nix-config](https://github.com/ironicbadger/nix-config) - 
 - [DeterminateSystems/flake-schemas](https://github.com/DeterminateSystems/flake-schemas) - Schemas for common flake output types
 - [nzbr/nixos](https://github.com/nzbr/nixos) - My NixOS System configurations
@@ -1600,14 +1600,13 @@
 - [myme/dotfiles](https://github.com/myme/dotfiles) - My collection of dotfiles
 - [TLATER/nixos-hosts](https://github.com/TLATER/nixos-hosts) - NixOS host configuration
 - [ncfavier/config](https://github.com/ncfavier/config) - My NixOS configurations
-- [dustinlyons/nixos-config](https://github.com/dustinlyons/nixos-config) - Nix environment for MacOS and NixOS + step-by-step guides ✨
+- [dustinlyons/nixos-config](https://github.com/dustinlyons/nixos-config) - Nix environment for MacOS / NixOS + starter configs + step-by-step guides ✨
 - [noib3/dotfiles](https://github.com/noib3/dotfiles) - :house: Procrastinating never felt this productive
 - [nixosbrasil/climod](https://github.com/nixosbrasil/climod) - Modular generated command line interfaces using the same technology as the NixOS module system.
 - [talyz/nixos-config](https://github.com/talyz/nixos-config) - My NixOS configuration
 - [terlar/nix-config](https://github.com/terlar/nix-config) - Configuration for NixOS and user home (dot files).
 - [barrucadu/nixfiles](https://github.com/barrucadu/nixfiles) - My NixOS configuration and assorted other crap.
 - [bhougland18/nixos_config](https://github.com/bhougland18/nixos_config) - Nixos configuration
-- [sgillespie/nixos-yubikey-luks](https://github.com/sgillespie/nixos-yubikey-luks) - Set up a LUKS-encrypted filesystem for Yubikey in NixOS
 - [cyntheticfox/terranix-linode-poc](https://github.com/cyntheticfox/terranix-linode-poc) - A Proof-of-Concept for deploying NixOS to Linode with Terranix
 - [terranix/terranix](https://github.com/terranix/terranix) - terranix is a terraform.json generator with a nix-like feeling
 - [lilyinstarlight/foosteros](https://github.com/lilyinstarlight/foosteros) - FoosterOS/2 Warp - NixOS-based system configuration for my computers
@@ -2853,6 +2852,7 @@
 - [MichaelCade/90DaysOfDevOps](https://github.com/MichaelCade/90DaysOfDevOps) - I am using this repository to document my journey learning about DevOps. I began this process on January 1, 2022, and plan to continue until March 31. I will be dedicating one hour each day, including
 - [dspinellis/git-issue](https://github.com/dspinellis/git-issue) - Git-based decentralized issue management
 - [ailrk/kirby](https://github.com/ailrk/kirby) - A nix home manager configuration
+- [sgillespie/nixos-yubikey-luks](https://github.com/sgillespie/nixos-yubikey-luks) - Set up a LUKS-encrypted filesystem for Yubikey in NixOS
 - [awesome-lists/awesome-bash](https://github.com/awesome-lists/awesome-bash) - A curated list of delightful Bash scripts and resources.
 - [DanielFGray/fzf-scripts](https://github.com/DanielFGray/fzf-scripts) - a collection of scripts that rely on https://github.com/junegunn/fzf
 - [rbenv/rbenv](https://github.com/rbenv/rbenv) - Manage your app's Ruby environment
@@ -3173,7 +3173,7 @@
 - [nikitowsky/next-advanced-apollo-starter](https://github.com/nikitowsky/next-advanced-apollo-starter) - Advanced, but minimalistic Next.js and Apollo starter
 - [allister-grange/startertab](https://github.com/allister-grange/startertab) - A custom new tab page, keeping all the best info handy (a work in progress, feedback is invaluable)
 - [uber/react-view](https://github.com/uber/react-view) - React View is an interactive playground, documentation and code generator for your components.
-- [ixartz/Next-js-Boilerplate](https://github.com/ixartz/Next-js-Boilerplate) - 🚀🎉📚 Boilerplate and Starter for Next.js 14+ with App Router and Page Router support, Tailwind CSS 3.3 and TypeScript ⚡️ Made with developer experience first: Next.js + TypeScript + ESLint + Prettier +
+- [ixartz/Next-js-Boilerplate](https://github.com/ixartz/Next-js-Boilerplate) - 🚀🎉📚 Boilerplate and Starter for Next.js 14+ with App Router and Page Router support, Tailwind CSS 3.4 and TypeScript ⚡️ Made with developer experience first: Next.js + TypeScript + ESLint + Prettier +
 - [paulintrognon/next-typescript](https://github.com/paulintrognon/next-typescript) - Starter template for a clean Next.js + TypeScript + ESLint project
 - [tailwindlabs/tailwindcss-intellisense](https://github.com/tailwindlabs/tailwindcss-intellisense) - Intelligent Tailwind CSS tooling for Visual Studio Code
 - [vscode-neovim/vscode-neovim](https://github.com/vscode-neovim/vscode-neovim) - Vim mode for VSCode, powered by Neovim
