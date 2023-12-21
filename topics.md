@@ -91,6 +91,7 @@
 - [go](#go)
 - [godot](#godot)
 - [golang](#golang)
+- [good-first-issue](#good-first-issue)
 - [google](#google)
 - [google-cloud](#google-cloud)
 - [graphql](#graphql)
@@ -1283,7 +1284,7 @@
 - [artempyanykh/marksman](https://github.com/artempyanykh/marksman) - Write Markdown with code assist and intelligence in the comfort of your favourite editor.
 - [tecosaur/org-glossary](https://github.com/tecosaur/org-glossary) - Mirror of https://git.tecosaur.net/tec/org-glossary
 - [tecosaur/engrave-faces](https://github.com/tecosaur/engrave-faces) - Mirror of https://git.tecosaur.net/tec/engrave-faces
-- [dustinlyons/nixos-config](https://github.com/dustinlyons/nixos-config) - Nix environment for MacOS and NixOS + step-by-step guides ✨
+- [dustinlyons/nixos-config](https://github.com/dustinlyons/nixos-config) - Nix environment for MacOS / NixOS + starter configs + step-by-step guides ✨
 - [mihaiolteanu/mugur](https://github.com/mihaiolteanu/mugur) - Configurator for QMK compatible keyboards
 - [hraban/tomono](https://github.com/hraban/tomono) - Multi- To Mono-repository merge
 - [rnkn/olivetti](https://github.com/rnkn/olivetti) - Emacs minor mode to automatically balance window margins
@@ -1791,6 +1792,10 @@
 - [kovidgoyal/kitty](https://github.com/kovidgoyal/kitty) - Cross-platform, fast, feature-rich, GPU based terminal
 - [moby/moby](https://github.com/moby/moby) - The Moby Project - a collaborative project for the container ecosystem to assemble container-based systems
 
+## good-first-issue 
+
+- [refinedev/refine](https://github.com/refinedev/refine) - A React Framework for building  internal tools, admin panels, dashboards & B2B apps with unmatched flexibility.
+
 ## google 
 
 - [spatie/schema-org](https://github.com/spatie/schema-org) - A fluent builder Schema.org types and ld+json generator
@@ -2180,7 +2185,7 @@
 - [mrVanDalo/landingpage](https://github.com/mrVanDalo/landingpage) - a simple html file using json to render a bookmark page to be shared across teams.
 - [nix-community/napalm](https://github.com/nix-community/napalm) - Support for building npm packages in Nix and lightweight npm registry [maintainer @jtojnar]
 - [tajo/ladle](https://github.com/tajo/ladle) - 🥄 Develop, test and document your React story components faster.
-- [ixartz/Next-js-Boilerplate](https://github.com/ixartz/Next-js-Boilerplate) - 🚀🎉📚 Boilerplate and Starter for Next.js 14+ with App Router and Page Router support, Tailwind CSS 3.3 and TypeScript ⚡️ Made with developer experience first: Next.js + TypeScript + ESLint + Prettier +
+- [ixartz/Next-js-Boilerplate](https://github.com/ixartz/Next-js-Boilerplate) - 🚀🎉📚 Boilerplate and Starter for Next.js 14+ with App Router and Page Router support, Tailwind CSS 3.4 and TypeScript ⚡️ Made with developer experience first: Next.js + TypeScript + ESLint + Prettier +
 - [gqty-dev/gqty](https://github.com/gqty-dev/gqty) - The No-GraphQL Client for TypeScript
 - [wpengine/faustjs](https://github.com/wpengine/faustjs) - Faust.js™ - The Headless WordPress Framework
 - [code-hike/codehike](https://github.com/code-hike/codehike) - Marvellous code walkthroughs
@@ -2463,7 +2468,7 @@
 - [warpdotdev/Warp](https://github.com/warpdotdev/Warp) - Warp is a modern, Rust-based terminal with AI built in so you and your team can build great software, faster.
 - [sherlock-project/sherlock](https://github.com/sherlock-project/sherlock) - 🔎 Hunt down social media accounts by username across social networks
 - [adi1090x/dynamic-wallpaper](https://github.com/adi1090x/dynamic-wallpaper) - A simple bash script to set wallpapers according to current time, using cron job scheduler.
-- [vlinkz/nix-editor](https://github.com/vlinkz/nix-editor) - A simple rust program to edit NixOS configuration files with just a command
+- [snowfallorg/nix-editor](https://github.com/snowfallorg/nix-editor) - A simple rust program to edit NixOS configuration files with just a command
 - [donnemartin/haxor-news](https://github.com/donnemartin/haxor-news) - Browse Hacker News like a haxor: A Hacker News command line interface (CLI).
 - [donnemartin/dev-setup](https://github.com/donnemartin/dev-setup) - macOS development environment setup:  Easy-to-understand instructions with automated setup scripts for developer tools like Vim, Sublime Text, Bash, iTerm, Python data analysis, Spark, Hadoop MapReduc
 - [polybar/polybar](https://github.com/polybar/polybar) - A fast and easy-to-use status bar
@@ -2579,7 +2584,7 @@
 - [bvaisvil/zenith](https://github.com/bvaisvil/zenith) - Zenith - sort of like top or htop but with zoom-able charts, CPU, GPU, network, and disk usage
 - [ciderapp/Cider](https://github.com/ciderapp/Cider) - A new cross-platform Apple Music experience based on Electron and Vue.js written from scratch with performance in mind. 🚀
 - [abiosoft/colima](https://github.com/abiosoft/colima) - Container runtimes on macOS (and Linux) with minimal setup
-- [dustinlyons/nixos-config](https://github.com/dustinlyons/nixos-config) - Nix environment for MacOS and NixOS + step-by-step guides ✨
+- [dustinlyons/nixos-config](https://github.com/dustinlyons/nixos-config) - Nix environment for MacOS / NixOS + starter configs + step-by-step guides ✨
 - [Nheko-Reborn/nheko](https://github.com/Nheko-Reborn/nheko) - Desktop client for Matrix using Qt and C++20.
 - [kkharji/yctrl](https://github.com/kkharji/yctrl) - Thin wrapper around yabai that adds convenient and intuitive fixes
 - [ssbanerje/dotfiles](https://github.com/ssbanerje/dotfiles) - My configuration files
@@ -2876,7 +2881,7 @@
 - [gregrickaby/nextjs-github-pages](https://github.com/gregrickaby/nextjs-github-pages) - 🚀 Deploy a Next.js app to Github Pages via Github Actions.
 - [nikitowsky/next-advanced-apollo-starter](https://github.com/nikitowsky/next-advanced-apollo-starter) - Advanced, but minimalistic Next.js and Apollo starter
 - [allister-grange/startertab](https://github.com/allister-grange/startertab) - A custom new tab page, keeping all the best info handy (a work in progress, feedback is invaluable)
-- [ixartz/Next-js-Boilerplate](https://github.com/ixartz/Next-js-Boilerplate) - 🚀🎉📚 Boilerplate and Starter for Next.js 14+ with App Router and Page Router support, Tailwind CSS 3.3 and TypeScript ⚡️ Made with developer experience first: Next.js + TypeScript + ESLint + Prettier +
+- [ixartz/Next-js-Boilerplate](https://github.com/ixartz/Next-js-Boilerplate) - 🚀🎉📚 Boilerplate and Starter for Next.js 14+ with App Router and Page Router support, Tailwind CSS 3.4 and TypeScript ⚡️ Made with developer experience first: Next.js + TypeScript + ESLint + Prettier +
 - [vercel/next.js](https://github.com/vercel/next.js) - The React Framework
 - [gqty-dev/gqty](https://github.com/gqty-dev/gqty) - The No-GraphQL Client for TypeScript
 - [wpengine/faustjs](https://github.com/wpengine/faustjs) - Faust.js™ - The Headless WordPress Framework
@@ -3067,7 +3072,7 @@
 - [mohkale/all-the-icons-nerd-fonts](https://github.com/mohkale/all-the-icons-nerd-fonts) - Nerd font integration for all-the-icons
 - [karthink/popper](https://github.com/karthink/popper) - Emacs minor-mode to summon and dismiss buffers easily.
 - [davidjo/snd_hda_macbookpro](https://github.com/davidjo/snd_hda_macbookpro) - Kernel audio driver for Macs with 8409 HDA chip + MAX98706/SSM3515 amps
-- [accelbread/flakelight](https://github.com/accelbread/flakelight) - Framework for simplifying flake setup
+- [nix-community/flakelight](https://github.com/nix-community/flakelight) - Framework for simplifying flake setup [maintainer=@accelbread]
 - [nushell/nufmt](https://github.com/nushell/nufmt) - 
 - [trapexit/mergerfs](https://github.com/trapexit/mergerfs) - a featureful union filesystem
 - [opentofu/opentofu](https://github.com/opentofu/opentofu) - OpenTofu lets you declaratively manage your cloud infrastructure.
@@ -3411,7 +3416,7 @@
 - [snowfallorg/templates](https://github.com/snowfallorg/templates) - Templates for use with @snowfallorg/lib
 - [snowfallorg/lib](https://github.com/snowfallorg/lib) - Unified configuration for systems, packages, modules, shells, templates, and more with Nix Flakes.
 - [nix-community/nixpkgs.lib](https://github.com/nix-community/nixpkgs.lib) - nixpkgs lib for cheap instantiation [maintainer=@github-action] (with initial help from @blaggacao)
-- [vlinkz/nix-software-center](https://github.com/vlinkz/nix-software-center) - A simple gtk4/libadwaita software center to easily install and manage nix packages
+- [snowfallorg/nix-software-center](https://github.com/snowfallorg/nix-software-center) - A simple gtk4/libadwaita software center to easily install and manage nix packages
 - [samhh/dotfiles](https://github.com/samhh/dotfiles) - Configuring the universe with Nix.
 - [jmgilman/std-example](https://github.com/jmgilman/std-example) - An example repository showcasing the Nix std framework
 - [SaschaWillems/VulkanInfiniteProceduralTerrain](https://github.com/SaschaWillems/VulkanInfiniteProceduralTerrain) - Playground for doing procedurally infinite terrain rendering experiments with Vulkan
@@ -3593,7 +3598,7 @@
 - [mptre/yank](https://github.com/mptre/yank) - Yank terminal output to clipboard
 - [nix-community/nix-eval-jobs](https://github.com/nix-community/nix-eval-jobs) - Parallel nix evaluator with a streamable json output [maintainers @Mic92, @adisbladis]
 - [iamcal/oembed](https://github.com/iamcal/oembed) - The oEmbed Spec
-- [shajra/shajra-keyboards](https://github.com/shajra/shajra-keyboards) - Nix build/flash tool for a Keyboardio Model 01 or ZSA Technology Labs Ergodox EZ or Moonlander keyboard
+- [shajra/shajra-keyboards](https://github.com/shajra/shajra-keyboards) - Nix build/flash tool for a Keyboardio Model 100/01 or ZSA Technology Labs Ergodox EZ or Moonlander keyboard
 - [manna-harbour/miryoku_qmk](https://github.com/manna-harbour/miryoku_qmk) - Miryoku is an ergonomic, minimal, orthogonal, and universal keyboard layout.  Miryoku QMK is the Miryoku implementation for QMK.
 - [coseyfannitutti/discipline](https://github.com/coseyfannitutti/discipline) - 65% keyboard assembled with only through hole components, including usb type-c
 - [penske-media-corp/pmc-larva](https://github.com/penske-media-corp/pmc-larva) - PMC's design system.
@@ -3654,7 +3659,7 @@
 - [Mic92/nixos-shell](https://github.com/Mic92/nixos-shell) - Spawns lightweight nixos vms in a shell
 - [cole-h/nixos-config](https://github.com/cole-h/nixos-config) - My flakes-powered NixOS configuration
 - [johnae/nix-misc](https://github.com/johnae/nix-misc) - Assorted Nix utility functions and derivations.
-- [lassik/emacs-memento-mori](https://github.com/lassik/emacs-memento-mori) - Reminder of mortality
+- [gvol/emacs-memento-mori](https://github.com/gvol/emacs-memento-mori) - Reminder of mortality
 - [joaotavora/eglot](https://github.com/joaotavora/eglot) - A client for Language Server Protocol servers
 - [fabrizioschiavi/pragmatapro-semiotics](https://github.com/fabrizioschiavi/pragmatapro-semiotics) - Semiotics of all the symbols and signs of Pragmata Pro typeface
 - [stayallive/wp-sentry](https://github.com/stayallive/wp-sentry) - A (unofficial) WordPress plugin reporting PHP and JavaScript errors to Sentry.
@@ -4276,7 +4281,6 @@
 - [clvv/fasd](https://github.com/clvv/fasd) - Command-line productivity booster, offers quick access to files and directories, inspired by autojump, z and v.
 - [benpbolton/slack-autostatus](https://github.com/benpbolton/slack-autostatus) - Automatically update Slack status (emoji) with your Mac's current application/url
 - [howlCode/tarot_api](https://github.com/howlCode/tarot_api) - rails API for rider-waite tarot and spreads
-- [ekelen/tarot-api](https://github.com/ekelen/tarot-api) - Simple REST API for the tarot cards of the Rider-Waite-Smith deck
 - [10up/eslint-config](https://github.com/10up/eslint-config) - A shareable ESLint config.
 - [10up/Engineering-Best-Practices](https://github.com/10up/Engineering-Best-Practices) - 10up Engineering Best Practices
 - [alleyinteractive/huron](https://github.com/alleyinteractive/huron) - A front-end tool to generate prototypes and style guides.
@@ -4817,7 +4821,7 @@
 - [nikitowsky/next-advanced-apollo-starter](https://github.com/nikitowsky/next-advanced-apollo-starter) - Advanced, but minimalistic Next.js and Apollo starter
 - [allister-grange/startertab](https://github.com/allister-grange/startertab) - A custom new tab page, keeping all the best info handy (a work in progress, feedback is invaluable)
 - [uber/react-view](https://github.com/uber/react-view) - React View is an interactive playground, documentation and code generator for your components.
-- [ixartz/Next-js-Boilerplate](https://github.com/ixartz/Next-js-Boilerplate) - 🚀🎉📚 Boilerplate and Starter for Next.js 14+ with App Router and Page Router support, Tailwind CSS 3.3 and TypeScript ⚡️ Made with developer experience first: Next.js + TypeScript + ESLint + Prettier +
+- [ixartz/Next-js-Boilerplate](https://github.com/ixartz/Next-js-Boilerplate) - 🚀🎉📚 Boilerplate and Starter for Next.js 14+ with App Router and Page Router support, Tailwind CSS 3.4 and TypeScript ⚡️ Made with developer experience first: Next.js + TypeScript + ESLint + Prettier +
 - [prettier/eslint-config-prettier](https://github.com/prettier/eslint-config-prettier) - Turns off all rules that are unnecessary or might conflict with Prettier.
 - [vercel/next.js](https://github.com/vercel/next.js) - The React Framework
 - [gqty-dev/gqty](https://github.com/gqty-dev/gqty) - The No-GraphQL Client for TypeScript
@@ -4921,7 +4925,7 @@
 
 - [imranhsayed/nextjs-headless-wordpress](https://github.com/imranhsayed/nextjs-headless-wordpress) - 🔥 Nextjs Headless WordPress
 - [component-driven/awesome-list](https://github.com/component-driven/awesome-list) - Curated list of links on component-driven development and design systems
-- [ixartz/Next-js-Boilerplate](https://github.com/ixartz/Next-js-Boilerplate) - 🚀🎉📚 Boilerplate and Starter for Next.js 14+ with App Router and Page Router support, Tailwind CSS 3.3 and TypeScript ⚡️ Made with developer experience first: Next.js + TypeScript + ESLint + Prettier +
+- [ixartz/Next-js-Boilerplate](https://github.com/ixartz/Next-js-Boilerplate) - 🚀🎉📚 Boilerplate and Starter for Next.js 14+ with App Router and Page Router support, Tailwind CSS 3.4 and TypeScript ⚡️ Made with developer experience first: Next.js + TypeScript + ESLint + Prettier +
 - [ecosse3/nvim](https://github.com/ecosse3/nvim) - A non-minimal Neovim config built to work most efficiently with Frontend Development
 - [ben-rogerson/twin.macro](https://github.com/ben-rogerson/twin.macro) - 🦹‍♂️ Twin blends the magic of Tailwind with the flexibility of css-in-js (emotion, styled-components, solid-styled-components, stitches and goober) at build time.
 - [bbc/simorgh](https://github.com/bbc/simorgh) - The BBC's Open Source Web Application. Contributions welcome! Used on some of our biggest websites, e.g.
@@ -4964,6 +4968,7 @@
 - [rehacktive/caffeine](https://github.com/rehacktive/caffeine) - A basic REST service for JSON data - enough for prototyping and MVPs!
 - [nocodb/nocodb](https://github.com/nocodb/nocodb) - 🔥 🔥 🔥 Open Source Airtable Alternative
 - [virtadpt/exocortex-halo](https://github.com/virtadpt/exocortex-halo) - Various and sundry additional pieces of software I've written to incorporate into my exocortex.
+- [ekelen/tarot-api](https://github.com/ekelen/tarot-api) - Simple REST API for the tarot cards of the Rider-Waite-Smith deck
 
 ## reverse-engineering 
 
@@ -5606,7 +5611,7 @@
 - [KevinBatdorf/gutenberg-rust-starter](https://github.com/KevinBatdorf/gutenberg-rust-starter) - Gutenberg + Rust + TypeScript
 - [tajo/ladle](https://github.com/tajo/ladle) - 🥄 Develop, test and document your React story components faster.
 - [nikitowsky/next-advanced-apollo-starter](https://github.com/nikitowsky/next-advanced-apollo-starter) - Advanced, but minimalistic Next.js and Apollo starter
-- [ixartz/Next-js-Boilerplate](https://github.com/ixartz/Next-js-Boilerplate) - 🚀🎉📚 Boilerplate and Starter for Next.js 14+ with App Router and Page Router support, Tailwind CSS 3.3 and TypeScript ⚡️ Made with developer experience first: Next.js + TypeScript + ESLint + Prettier +
+- [ixartz/Next-js-Boilerplate](https://github.com/ixartz/Next-js-Boilerplate) - 🚀🎉📚 Boilerplate and Starter for Next.js 14+ with App Router and Page Router support, Tailwind CSS 3.4 and TypeScript ⚡️ Made with developer experience first: Next.js + TypeScript + ESLint + Prettier +
 - [gqty-dev/gqty](https://github.com/gqty-dev/gqty) - The No-GraphQL Client for TypeScript
 - [belgattitude/nextjs-monorepo-example](https://github.com/belgattitude/nextjs-monorepo-example) - Collection of monorepo tips & tricks
 - [tremorlabs/tremor](https://github.com/tremorlabs/tremor) - The React library to build dashboards fast.
