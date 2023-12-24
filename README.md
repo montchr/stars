@@ -375,6 +375,7 @@
 
 ## Emacs Lisp 
 
+- [rougier/book-mode](https://github.com/rougier/book-mode) - A clean interface for org files (Emacs)
 - [armindarvish/consult-gh](https://github.com/armindarvish/consult-gh) - An Interactive interface for "GitHub CLI" client inside GNU Emacs using Consult
 - [radian-software/blackout](https://github.com/radian-software/blackout) - 💡 The easy way to clean up your Emacs mode lighters.
 - [Fuco1/.emacs.d](https://github.com/Fuco1/.emacs.d) - My emacs config
@@ -740,7 +741,7 @@
 - [x-motemen/ghq](https://github.com/x-motemen/ghq) - Remote repository management made easy
 - [evilmartians/lefthook](https://github.com/evilmartians/lefthook) - Fast and powerful Git hooks manager for any type of projects.
 - [rsteube/carapace](https://github.com/rsteube/carapace) - command argument completion generator for spf13/cobra
-- [dunglas/frankenphp](https://github.com/dunglas/frankenphp) - The modern PHP app server
+- [dunglas/frankenphp](https://github.com/dunglas/frankenphp) - The modern PHP app server 🧟‍♀️
 - [eksctl-io/eksctl](https://github.com/eksctl-io/eksctl) - The official CLI for Amazon EKS
 - [kubernetes/minikube](https://github.com/kubernetes/minikube) - Run Kubernetes locally
 - [k3d-io/k3d](https://github.com/k3d-io/k3d) - Little helper to run CNCF's k3s in Docker
