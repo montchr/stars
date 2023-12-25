@@ -741,7 +741,7 @@
 - [x-motemen/ghq](https://github.com/x-motemen/ghq) - Remote repository management made easy
 - [evilmartians/lefthook](https://github.com/evilmartians/lefthook) - Fast and powerful Git hooks manager for any type of projects.
 - [rsteube/carapace](https://github.com/rsteube/carapace) - command argument completion generator for spf13/cobra
-- [dunglas/frankenphp](https://github.com/dunglas/frankenphp) - The modern PHP app server 🧟‍♀️
+- [dunglas/frankenphp](https://github.com/dunglas/frankenphp) - The modern PHP app server 🧟
 - [eksctl-io/eksctl](https://github.com/eksctl-io/eksctl) - The official CLI for Amazon EKS
 - [kubernetes/minikube](https://github.com/kubernetes/minikube) - Run Kubernetes locally
 - [k3d-io/k3d](https://github.com/k3d-io/k3d) - Little helper to run CNCF's k3s in Docker
@@ -900,6 +900,7 @@
 
 - [VK3FNG/dnd5e-orgmode-charsheet](https://github.com/VK3FNG/dnd5e-orgmode-charsheet) - This is an Emacs org-mode character sheet with automatically calculated derived attributes. Pretty HTML stolen from https://github.com/fniessen/org-html-themes
 - [markmead/hyperjs](https://github.com/markmead/hyperjs) - HyperJS is a component library for Alpine JS allowing developers to quickly copy and paste functionality into their projects 🛵
+- [0atman/noboilerplate](https://github.com/0atman/noboilerplate) - Code for my talks on the No Boilerplate channel
 - [alpinejs/alpine](https://github.com/alpinejs/alpine) - A rugged, minimal framework for composing JavaScript behavior in your markup.
 - [zimfw/zimfw](https://github.com/zimfw/zimfw) - Zim: Modular, customizable, and blazing fast Zsh framework
 - [johannesloetzsch/swlkup](https://github.com/johannesloetzsch/swlkup) - An application to manage a database of supervisors and provide anonymous access for authorized users
@@ -1333,7 +1334,6 @@
 
 ## Just 
 
-- [0atman/noboilerplate](https://github.com/0atman/noboilerplate) - Code for my talks on the No Boilerplate channel
 - [erebe/personal-server](https://github.com/erebe/personal-server) - Personal server configuration with k3s
 
 ## Kotlin 
@@ -1884,7 +1884,7 @@
 - [neilpanchal/quantum-lorem-ipsum](https://github.com/neilpanchal/quantum-lorem-ipsum) - Lorem Ipsum, now with 100% more physics.
 - [Lissy93/awesome-privacy](https://github.com/Lissy93/awesome-privacy) - 🦄  A curated list of privacy & security-focused software and services
 - [hundredrabbits/awesome-uxn](https://github.com/hundredrabbits/awesome-uxn) - Awesome things from the community
-- [joxji/cookbook.fish](https://github.com/joxji/cookbook.fish) - From Shell to Plate: Savor the Zest of Fish 🦞
+- [jorgebucaran/cookbook.fish](https://github.com/jorgebucaran/cookbook.fish) - From Shell to Plate: Savor the Zest of Fish 🦞
 - [shlomi-noach/awesome-mysql](https://github.com/shlomi-noach/awesome-mysql) - A curated list of awesome MySQL software, libraries, tools and resources
 - [yrgo/awesome-educational-games](https://github.com/yrgo/awesome-educational-games) - A curated list of awesome educational games to learn editors, languages, programming, etc
 - [brootware/awesome-cyber-security-university](https://github.com/brootware/awesome-cyber-security-university) - 🎓 Because Education should be free. Contributions welcome! 🕵️
@@ -1978,7 +1978,7 @@
 - [ossu/computer-science](https://github.com/ossu/computer-science) - :mortar_board: Path to a free self-taught education in Computer Science!
 - [rehooks/awesome-react-hooks](https://github.com/rehooks/awesome-react-hooks) - Awesome React Hooks
 - [nikitavoloboev/my-mac](https://github.com/nikitavoloboev/my-mac) - Apps/tools I use on macOS
-- [joxji/awsm.fish](https://github.com/joxji/awsm.fish) - A curation of prompts, plugins & other Fish treasures 🐚💎
+- [jorgebucaran/awsm.fish](https://github.com/jorgebucaran/awsm.fish) - A curation of prompts, plugins & other Fish treasures 🐚💎
 - [brillout/awesome-react-components](https://github.com/brillout/awesome-react-components) - Curated List of React Components & Libraries.
 - [ibraheemdev/modern-unix](https://github.com/ibraheemdev/modern-unix) - A collection of modern/faster/saner alternatives to common unix commands.
 - [brunopulis/awesome-a11y](https://github.com/brunopulis/awesome-a11y) - A curate list about A11Y
@@ -2860,7 +2860,7 @@
 - [rbenv/rbenv](https://github.com/rbenv/rbenv) - Manage your app's Ruby environment
 - [oh-my-fish/plugin-foreign-env](https://github.com/oh-my-fish/plugin-foreign-env) - Run foreign bash scripts and capture exported environment variables
 - [laughedelic/pisces](https://github.com/laughedelic/pisces) - ♓️ Fish shell plugin that helps you to work with paired symbols in the command line
-- [joxji/hydro](https://github.com/joxji/hydro) - Ultra-pure, lag-free prompt with async Git status—just for Fish
+- [jorgebucaran/hydro](https://github.com/jorgebucaran/hydro) - Ultra-pure, lag-free prompt with async Git status—just for Fish
 - [reegnz/jq-zsh-plugin](https://github.com/reegnz/jq-zsh-plugin) - jq zsh plugin
 - [strikerlulu/nixfzf](https://github.com/strikerlulu/nixfzf) - Search nixpkgs quickly from cli
 - [meseck/random-samples](https://github.com/meseck/random-samples) - A small Bash script to download random audio files from the BBC Sound Effects library.
