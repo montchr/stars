@@ -345,7 +345,7 @@
 
 ## DIGITAL Command Language 
 
-- [Emiller88/dotfiles](https://github.com/Emiller88/dotfiles) - For keeping all my Dotfiles update to date
+- [edmundmiller/dotfiles](https://github.com/edmundmiller/dotfiles) - For keeping all my Dotfiles update to date
 
 ## Dart 
 
@@ -1608,7 +1608,7 @@
 - [myme/dotfiles](https://github.com/myme/dotfiles) - My collection of dotfiles
 - [TLATER/nixos-hosts](https://github.com/TLATER/nixos-hosts) - NixOS host configuration
 - [ncfavier/config](https://github.com/ncfavier/config) - My NixOS configurations
-- [dustinlyons/nixos-config](https://github.com/dustinlyons/nixos-config) - My Nix config for MacOS / NixOS + Nix starter configs + Nix step-by-step guides ✨
+- [dustinlyons/nixos-config](https://github.com/dustinlyons/nixos-config) - Generate a personal Nix environment you can use yourself (for MacOS + NixOS) ✨
 - [shajra/shajra-keyboards](https://github.com/shajra/shajra-keyboards) - Nix build/flash tool for a Keyboardio Model 100/01 or ZSA Technology Labs Ergodox EZ or Moonlander keyboard
 - [noib3/dotfiles](https://github.com/noib3/dotfiles) - :house: Procrastinating never felt this productive
 - [nixosbrasil/climod](https://github.com/nixosbrasil/climod) - Modular generated command line interfaces using the same technology as the NixOS module system.
@@ -3285,7 +3285,7 @@
 - [pmndrs/jotai](https://github.com/pmndrs/jotai) - 👻 Primitive and flexible state management for React
 - [alan2207/bulletproof-react](https://github.com/alan2207/bulletproof-react) - 🛡️ ⚛️ A simple, scalable, and powerful architecture for building production ready React applications.
 - [sct/overseerr](https://github.com/sct/overseerr) - Request management and media discovery tool for the Plex ecosystem
-- [statelyai/xstate](https://github.com/statelyai/xstate) - State machines and statecharts for the modern web.
+- [statelyai/xstate](https://github.com/statelyai/xstate) - Actor-based state management & orchestration for complex app logic.
 - [JedWatson/react-select](https://github.com/JedWatson/react-select) - The Select Component for React.js
 - [oclif/oclif](https://github.com/oclif/oclif) - CLI for generating, building, and releasing oclif CLIs. Built by Salesforce.
 - [wulkano/Kap](https://github.com/wulkano/Kap) - An open-source screen recorder built with web technology
