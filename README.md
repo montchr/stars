@@ -43,7 +43,6 @@
 - [Jinja](#jinja)
 - [Jupyter Notebook](#jupyter-notebook)
 - [Just](#just)
-- [KakouneScript](#kakounescript)
 - [Kotlin](#kotlin)
 - [Lua](#lua)
 - [M4](#m4)
@@ -188,6 +187,7 @@
 - [ascii-boxes/boxes](https://github.com/ascii-boxes/boxes) - Command line ASCII boxes unlimited!
 - [dylanaraps/paleta](https://github.com/dylanaraps/paleta) - Change terminal colors on-the-fly independent of terminal emulator.
 - [syohex/emacs-libyaml](https://github.com/syohex/emacs-libyaml) - libyaml binding of Emacs Lisp
+- [laurynas-biveinis/dotfiles](https://github.com/laurynas-biveinis/dotfiles) - My dotfiles and scripts
 - [noahfrederick/qmk-keymaps](https://github.com/noahfrederick/qmk-keymaps) - Personal keyboard keymap files for QMK firmware
 - [dvorka/hstr](https://github.com/dvorka/hstr) - bash and zsh shell history suggest box - easily view, navigate, search and manage your command history.
 - [ish-app/ish](https://github.com/ish-app/ish) - Linux shell for iOS
@@ -349,6 +349,7 @@
 
 ## Dart 
 
+- [amake/orgro](https://github.com/amake/orgro) - An Org Mode file viewer for iOS and Android
 - [ImranR98/Obtainium](https://github.com/ImranR98/Obtainium) - Get Android App Updates Directly From the Source.
 - [localsend/localsend](https://github.com/localsend/localsend) - An open-source cross-platform alternative to AirDrop
 - [deckerst/aves](https://github.com/deckerst/aves) - Aves is a gallery and metadata explorer app, built for Android with Flutter.
@@ -623,7 +624,6 @@
 - [colonelpanic8/org-project-capture](https://github.com/colonelpanic8/org-project-capture) - Manage org-mode TODOs for your projectile projects
 - [Fuco1/dired-hacks](https://github.com/Fuco1/dired-hacks) - Collection of useful dired additions
 - [aldrichtr/tangld](https://github.com/aldrichtr/tangld) - A literate dotfiles manager
-- [laurynas-biveinis/dotfiles](https://github.com/laurynas-biveinis/dotfiles) - My dotfiles and scripts
 - [ogdenwebb/emacs-kaolin-themes](https://github.com/ogdenwebb/emacs-kaolin-themes) - Set of eye pleasing themes for GNU Emacs. Supports both GUI and terminal.
 - [justinbarclay/parinfer-rust-mode](https://github.com/justinbarclay/parinfer-rust-mode) - Simplifying how you write Lisp
 - [awth13/org-appear](https://github.com/awth13/org-appear) - Toggle visibility of hidden Org mode element parts upon entering and leaving an element
@@ -1339,10 +1339,6 @@
 
 - [erebe/personal-server](https://github.com/erebe/personal-server) - Personal server configuration with k3s
 
-## KakouneScript 
-
-- [evanrelf/dotfiles](https://github.com/evanrelf/dotfiles) - My personal dotfiles
-
 ## Kotlin 
 
 - [orgzly-revived/orgzly-android-revived](https://github.com/orgzly-revived/orgzly-android-revived) - Outliner for taking notes and managing to-do lists
@@ -1608,7 +1604,7 @@
 - [myme/dotfiles](https://github.com/myme/dotfiles) - My collection of dotfiles
 - [TLATER/nixos-hosts](https://github.com/TLATER/nixos-hosts) - NixOS host configuration
 - [ncfavier/config](https://github.com/ncfavier/config) - My NixOS configurations
-- [dustinlyons/nixos-config](https://github.com/dustinlyons/nixos-config) - Generate your own personal Nix environment (for MacOS + NixOS) ✨
+- [dustinlyons/nixos-config](https://github.com/dustinlyons/nixos-config) - Generate your own personal Nix environment for MacOS + NixOS ✨
 - [shajra/shajra-keyboards](https://github.com/shajra/shajra-keyboards) - Nix build/flash tool for a Keyboardio Model 100/01 or ZSA Technology Labs Ergodox EZ or Moonlander keyboard
 - [noib3/dotfiles](https://github.com/noib3/dotfiles) - :house: Procrastinating never felt this productive
 - [nixosbrasil/climod](https://github.com/nixosbrasil/climod) - Modular generated command line interfaces using the same technology as the NixOS module system.
@@ -1685,6 +1681,7 @@
 - [Shados/nix-config-shared](https://github.com/Shados/nix-config-shared) - My cross-machine shared configuration, defaults, modules, and packages not suitable for upstreaming or NUR
 - [aciceri/nixfleet](https://github.com/aciceri/nixfleet) - A complete, declarative and reproducible configuration of my entire Nix fleet.
 - [Ericson2314/nixos-configuration](https://github.com/Ericson2314/nixos-configuration) - Much better than a .dotfiles repo
+- [evanrelf/dotfiles](https://github.com/evanrelf/dotfiles) - My personal dotfiles
 - [NixOS/nixos-org-configurations](https://github.com/NixOS/nixos-org-configurations) - NixOS configurations for nixos.org and its servers
 - [sei40kr/dotfiles](https://github.com/sei40kr/dotfiles) - My dotfiles for NixOS & Darwin
 - [nix-community/fenix](https://github.com/nix-community/fenix) - Rust toolchains and rust-analyzer nightly for Nix [maintainer=@figsoda]
