@@ -43,6 +43,7 @@
 - [Jinja](#jinja)
 - [Jupyter Notebook](#jupyter-notebook)
 - [Just](#just)
+- [KakouneScript](#kakounescript)
 - [Kotlin](#kotlin)
 - [Lua](#lua)
 - [M4](#m4)
@@ -1338,6 +1339,10 @@
 
 - [erebe/personal-server](https://github.com/erebe/personal-server) - Personal server configuration with k3s
 
+## KakouneScript 
+
+- [evanrelf/dotfiles](https://github.com/evanrelf/dotfiles) - My personal dotfiles
+
 ## Kotlin 
 
 - [orgzly-revived/orgzly-android-revived](https://github.com/orgzly-revived/orgzly-android-revived) - Outliner for taking notes and managing to-do lists
@@ -1680,7 +1685,6 @@
 - [Shados/nix-config-shared](https://github.com/Shados/nix-config-shared) - My cross-machine shared configuration, defaults, modules, and packages not suitable for upstreaming or NUR
 - [aciceri/nixfleet](https://github.com/aciceri/nixfleet) - A complete, declarative and reproducible configuration of my entire Nix fleet.
 - [Ericson2314/nixos-configuration](https://github.com/Ericson2314/nixos-configuration) - Much better than a .dotfiles repo
-- [evanrelf/dotfiles](https://github.com/evanrelf/dotfiles) - My personal dotfiles
 - [NixOS/nixos-org-configurations](https://github.com/NixOS/nixos-org-configurations) - NixOS configurations for nixos.org and its servers
 - [sei40kr/dotfiles](https://github.com/sei40kr/dotfiles) - My dotfiles for NixOS & Darwin
 - [nix-community/fenix](https://github.com/nix-community/fenix) - Rust toolchains and rust-analyzer nightly for Nix [maintainer=@figsoda]
@@ -1837,7 +1841,7 @@
 - [laravel/docs](https://github.com/laravel/docs) - The Laravel documentation.
 - [Automattic/phpcs-neutron-ruleset](https://github.com/Automattic/phpcs-neutron-ruleset) - A phpcs meta-ruleset for WordPress development
 - [koekeishiya/meraki](https://github.com/koekeishiya/meraki) - Global shortcuts for macOS (coming soon™)
-- [zakirullin/cognitive-load](https://github.com/zakirullin/cognitive-load) - 🧠 Cognitive Load Developer's Handbook
+- [zakirullin/cognitive-load](https://github.com/zakirullin/cognitive-load) - 🧠 Cognitive Load In Software Development
 - [BillyDM/awesome-audio-dsp](https://github.com/BillyDM/awesome-audio-dsp) - My curated list of audio DSP and plugin development resources
 - [lg/yabai-and-skhd-highlighting](https://github.com/lg/yabai-and-skhd-highlighting) - yabai and skhd syntax highlighting for vscode
 - [smknstd/modern-php-cheatsheet](https://github.com/smknstd/modern-php-cheatsheet) - Cheatsheet for some PHP knowledge you will frequently encounter in modern projects.
