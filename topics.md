@@ -130,6 +130,7 @@
 - [markdown](#markdown)
 - [mastodon](#mastodon)
 - [material-design](#material-design)
+- [microsoft](#microsoft)
 - [minecraft](#minecraft)
 - [mobile](#mobile)
 - [mongodb](#mongodb)
@@ -2735,6 +2736,11 @@
 - [JunkFood02/Seal](https://github.com/JunkFood02/Seal) - 🦭 Video/Audio Downloader for Android, based on yt-dlp, designed with Material You
 - [LukasMasuch/best-of-react](https://github.com/LukasMasuch/best-of-react) - 🏆 A ranked list of awesome React open-source libraries and tools. Updated weekly.
 
+## microsoft 
+
+- [sirredbeard/awesome-wsl](https://github.com/sirredbeard/awesome-wsl) - Awesome list dedicated to Windows Subsystem for Linux
+- [ether/etherpad-lite](https://github.com/ether/etherpad-lite) - Etherpad: A modern really-real-time collaborative document editor.
+
 ## minecraft 
 
 - [Xe/x](https://github.com/Xe/x) - Various tools, trinkets and experiments
@@ -4443,7 +4449,6 @@
 - [post-forking/post-forking](https://github.com/post-forking/post-forking) - WordPress Post Forking allows users to "fork" or create an alternate version of content to foster a more collaborative approach to WordPress content curation.
 - [ten1seven/jRespond](https://github.com/ten1seven/jRespond) - ⛔️ DEPRECATED: jRespond is a simple way to globally manage javascript on responsive websites.
 - [NUKnightLab/TimelineJS](https://github.com/NUKnightLab/TimelineJS) - TimelineJS: A Storytelling Timeline built in JavaScript.
-- [ether/etherpad-lite](https://github.com/ether/etherpad-lite) - Etherpad: A modern really-real-time collaborative document editor.
 - [bigspotteddog/ScrollToFixed](https://github.com/bigspotteddog/ScrollToFixed) - This plugin is used to fix elements on the page (top, bottom, anywhere); however, it still allows the element to continue to move left or right with the horizontal scroll.
 - [interconnectit/Search-Replace-DB](https://github.com/interconnectit/Search-Replace-DB) - This script was made to aid the process of migrating PHP and MySQL based websites. Works with most common CMSes.
 - [nytimes/ice](https://github.com/nytimes/ice) - track changes with javascript
@@ -5716,7 +5721,7 @@
 - [ChristianLempa/boilerplates](https://github.com/ChristianLempa/boilerplates) - This is my personal template collection. Here you'll find templates, and configurations for various tools, and technologies.
 - [roots/trellis](https://github.com/roots/trellis) - WordPress LEMP stack with PHP 8.1, Composer, WP-CLI and more
 - [Chassis/Chassis](https://github.com/Chassis/Chassis) - 📦  Chassis is a virtual server for your WordPress site, built using Vagrant.
-- [nix-community/nixbox](https://github.com/nix-community/nixbox) - NixOS Vagrant boxes [maintainer=@zimbatm]
+- [nix-community/nixbox](https://github.com/nix-community/nixbox) - NixOS Vagrant boxes [maintainer=@ifurther]
 - [bacongravy/macinbox](https://github.com/bacongravy/macinbox) - Puts macOS in a Vagrant box
 
 ## vim 
