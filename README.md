@@ -1553,7 +1553,7 @@
 - [devmattrick/nixfiles-archive](https://github.com/devmattrick/nixfiles-archive) - NixOS system configs
 - [Gabriella439/macos-builder](https://github.com/Gabriella439/macos-builder) - Bootstrap a Linux build VM on macOS
 - [nix-community/nixos-images](https://github.com/nix-community/nixos-images) - Automatically build (netboot) images for NixOS [maintainer=@Mic92]
-- [nix-community/infra](https://github.com/nix-community/infra) - nix-community infrastructure [maintainer=@Mic92]
+- [nix-community/infra](https://github.com/nix-community/infra) - nix-community infrastructure [maintainer=@zowoq]
 - [colemickens/stable-diffusion-flake](https://github.com/colemickens/stable-diffusion-flake) - 
 - [serokell/serokell.nix](https://github.com/serokell/serokell.nix) - Serokell Nix infrastructure library
 - [nix-community/nixago-extensions](https://github.com/nix-community/nixago-extensions) - Extensions for generating configurations with Nixago [maintainer=@jmgilman]
@@ -2503,7 +2503,7 @@
 - [oilshell/oil](https://github.com/oilshell/oil) - Oils is our upgrade path from bash to a better language and runtime.  It's also for Python and JavaScript users who avoid shell!
 - [0k/shyaml](https://github.com/0k/shyaml) - YAML for command line
 - [charlax/professional-programming](https://github.com/charlax/professional-programming) - A collection of learning resources for curious software engineers
-- [linode/linode-cli](https://github.com/linode/linode-cli) - The Linode CLI
+- [linode/linode-cli](https://github.com/linode/linode-cli) - The official Linode command line interface.
 - [dflook/terraform-github-actions](https://github.com/dflook/terraform-github-actions) - GitHub actions for terraform
 - [amperser/proselint](https://github.com/amperser/proselint) - A linter for prose.
 - [harelba/q](https://github.com/harelba/q) - q - Run SQL directly on delimited files and multi-file sqlite databases
