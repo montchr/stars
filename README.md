@@ -380,6 +380,7 @@
 
 ## Emacs Lisp 
 
+- [karthink/.emacs.d](https://github.com/karthink/.emacs.d) - My personal emacs settings
 - [lilactown/kitten](https://github.com/lilactown/kitten) - My custom Emacs configuration, based around meow
 - [rougier/book-mode](https://github.com/rougier/book-mode) - A clean interface for org files (Emacs)
 - [armindarvish/consult-gh](https://github.com/armindarvish/consult-gh) - An Interactive interface for "GitHub CLI" client inside GNU Emacs using Consult
