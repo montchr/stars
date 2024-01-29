@@ -380,6 +380,7 @@
 
 ## Emacs Lisp 
 
+- [dgutov/diff-hl](https://github.com/dgutov/diff-hl) - Emacs package for highlighting uncommitted changes
 - [karthink/.emacs.d](https://github.com/karthink/.emacs.d) - My personal emacs settings
 - [lilactown/kitten](https://github.com/lilactown/kitten) - My custom Emacs configuration, based around meow
 - [rougier/book-mode](https://github.com/rougier/book-mode) - A clean interface for org files (Emacs)
@@ -2333,7 +2334,7 @@
 - [discourse/wp-discourse](https://github.com/discourse/wp-discourse) - WordPress plugin that lets you use Discourse as the community engine for a WordPress blog
 - [flarum/framework](https://github.com/flarum/framework) - Simple forum software for building great communities.
 - [alleyinteractive/wordpress-fieldmanager](https://github.com/alleyinteractive/wordpress-fieldmanager) - Custom field types for WordPress
-- [gharlan/alfred-github-workflow](https://github.com/gharlan/alfred-github-workflow) - GitHub Workflow for Alfred 4
+- [gharlan/alfred-github-workflow](https://github.com/gharlan/alfred-github-workflow) - GitHub Workflow for Alfred
 - [wp-cli/wp-cli](https://github.com/wp-cli/wp-cli) - ⚙️ WP-CLI framework
 - [MWDelaney/bootstrap-3-shortcodes](https://github.com/MWDelaney/bootstrap-3-shortcodes) - WordPress shortcodes for easier use of Bootstrap elements in your content.
 - [roots/soil](https://github.com/roots/soil) - WordPress plugin which contains a collection of modules to apply theme-agnostic front-end modifications
