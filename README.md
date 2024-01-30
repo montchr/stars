@@ -380,6 +380,7 @@
 
 ## Emacs Lisp 
 
+- [karthink/repeat-help](https://github.com/karthink/repeat-help) - 
 - [dgutov/diff-hl](https://github.com/dgutov/diff-hl) - Emacs package for highlighting uncommitted changes
 - [karthink/.emacs.d](https://github.com/karthink/.emacs.d) - My personal emacs settings
 - [lilactown/kitten](https://github.com/lilactown/kitten) - My custom Emacs configuration, based around meow
@@ -1869,7 +1870,6 @@
 - [huytd/vscode-github-light-monochrome](https://github.com/huytd/vscode-github-light-monochrome) - 
 - [component-driven/awesome-list](https://github.com/component-driven/awesome-list) - Curated list of links on component-driven development and design systems
 - [bromite/bromite](https://github.com/bromite/bromite) - Bromite is a Chromium fork with ad blocking and privacy enhancements; take back your browser!
-- [LinuxCafeFederation/awesome-android](https://github.com/LinuxCafeFederation/awesome-android) - A curated list of awesome open source Android applications, tutorials and resources.
 - [nanotee/nvim-lua-guide](https://github.com/nanotee/nvim-lua-guide) - A guide to using Lua in Neovim
 - [tomhuang12/awesome-k8s-resources](https://github.com/tomhuang12/awesome-k8s-resources) - A curated list of awesome Kubernetes tools and resources.
 - [roots/wordpress](https://github.com/roots/wordpress) - Automatically updated WordPress composer package
