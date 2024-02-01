@@ -1014,7 +1014,6 @@
 - [mollyim/mollyim-android](https://github.com/mollyim/mollyim-android) - Enhanced and security-focused fork of Signal.
 - [google/closure-compiler](https://github.com/google/closure-compiler) - A JavaScript checker and optimizer.
 - [airmessage/airmessage-android](https://github.com/airmessage/airmessage-android) - AirMessage for Android phones, tablets, and laptops
-- [sylirre/neotty](https://github.com/sylirre/neotty) - Yet another terminal app for Android OS but different. Powered by QEMU. No root required.
 - [openboard-team/openboard](https://github.com/openboard-team/openboard) - 
 - [AnySoftKeyboard/AnySoftKeyboard](https://github.com/AnySoftKeyboard/AnySoftKeyboard) - Android (f/w 2.1+) on screen keyboard for multiple languages (chat https://gitter.im/AnySoftKeyboard)
 - [Neamar/KISS](https://github.com/Neamar/KISS) - Lightning fast, open-source, &lt; 250kb Android launcher
@@ -2952,7 +2951,7 @@
 - [cblp/yaml-sucks](https://github.com/cblp/yaml-sucks) - YAML sucks.
 - [musq/dotfiles-system](https://github.com/musq/dotfiles-system) - 🌻 Bash scripts to set up root environment as a system administrator
 - [akinomyoga/mshex](https://github.com/akinomyoga/mshex) - Personal shell settings (aliases, functions, commands, shell options)
-- [akinomyoga/ble.sh](https://github.com/akinomyoga/ble.sh) - Bash Line Editor―a full-featured line editor written in pure Bash! Syntax highlighting, auto suggestions, vim modes, etc. are available in Bash interactive sessions!
+- [akinomyoga/ble.sh](https://github.com/akinomyoga/ble.sh) - Bash Line Editor―a line editor written in pure Bash with syntax highlighting, auto suggestions, vim modes, etc. for Bash interactive sessions.
 - [drduh/YubiKey-Guide](https://github.com/drduh/YubiKey-Guide) - Guide to using YubiKey for GPG and SSH
 - [NNBnh/superb-bootstrap](https://github.com/NNBnh/superb-bootstrap) - 🅱️ OS dotfiles-manager framework that SuperB
 - [NNBnh/bfetch](https://github.com/NNBnh/bfetch) - 📠 Dynamic fetch displayer that SuperB
@@ -3202,7 +3201,7 @@
 - [concrete-utopia/utopia](https://github.com/concrete-utopia/utopia) - Design ❤️ Code
 - [code-hike/codehike](https://github.com/code-hike/codehike) - Marvellous code walkthroughs
 - [backstage/backstage](https://github.com/backstage/backstage) - Backstage is an open platform for building developer portals
-- [gregrickaby/nextjs-wordpress](https://github.com/gregrickaby/nextjs-wordpress) - 💀 It's headless WordPress!
+- [gregrickaby/nextjs-wordpress](https://github.com/gregrickaby/nextjs-wordpress) - It's headless WordPress! 💀
 - [coralproject/talk](https://github.com/coralproject/talk) - A better commenting experience from Vox Media
 - [Automattic/vip-go-nextjs-skeleton](https://github.com/Automattic/vip-go-nextjs-skeleton) - A Next.js boilerplate for decoupled WordPress on VIP.
 - [frontity/frontity](https://github.com/frontity/frontity) - » Frontity - The React Framework for WordPress
