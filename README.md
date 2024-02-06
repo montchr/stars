@@ -1252,6 +1252,7 @@
 - [pie6k/jquery.initialize](https://github.com/pie6k/jquery.initialize) - jQuery plugin for dynamically created elements initialization
 - [Flood-UI/flood](https://github.com/Flood-UI/flood) - A web UI for rTorrent, qBittorrent and Transmission with a Node.js backend and React frontend. Migrate to v4: https://github.com/jesec/flood/wiki/Migrate-from-older-versions-of-Flood.
 - [spiritedmedia/tachyon-edge](https://github.com/spiritedmedia/tachyon-edge) - A reworked version of Tachyon that works with Lambda@Edge
+- [defunkt/jquery-pjax](https://github.com/defunkt/jquery-pjax) - pushState + ajax = pjax
 - [kylestetz/AudioKeys](https://github.com/kylestetz/AudioKeys) - :musical_keyboard: a QWERTY keyboard for web audio projects
 - [kylestetz/Sentencer](https://github.com/kylestetz/Sentencer) - :pencil2: madlibs-style sentence templating in Javascript
 - [jaysalvat/buzz](https://github.com/jaysalvat/buzz) - Buzz is a small but powerful Javascript library that allows you to easily take advantage of the new HTML5 audio element. It tries to degrade silently on non-modern browsers.
