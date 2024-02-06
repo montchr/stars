@@ -4322,6 +4322,7 @@
 - [pajoma/vscode-journal](https://github.com/pajoma/vscode-journal) - Lightweight journal and simple notes support for Visual Studio Code
 - [aptoma/twig-markdown](https://github.com/aptoma/twig-markdown) - Twig extension to work with Markdown content
 - [mhite/swinsian2itlxml](https://github.com/mhite/swinsian2itlxml) - Generate iTunes library XML from Swinsian database
+- [defunkt/jquery-pjax](https://github.com/defunkt/jquery-pjax) - pushState + ajax = pjax
 - [philipwalton/solved-by-flexbox](https://github.com/philipwalton/solved-by-flexbox) - A showcase of problems once hard or impossible to solve with CSS alone, now made trivially easy with Flexbox.
 - [Chaffel/Chaffel.github.io](https://github.com/Chaffel/Chaffel.github.io) - 
 - [stuttter/wp-relationships](https://github.com/stuttter/wp-relationships) - Under occasional development. Probably broken. Use at your own risk. PRs encouraged. 🐉
