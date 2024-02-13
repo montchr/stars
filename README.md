@@ -838,7 +838,6 @@
 - [evanw/esbuild](https://github.com/evanw/esbuild) - An extremely fast bundler for the web
 - [getsops/sops](https://github.com/getsops/sops) - Simple and flexible tool for managing secrets
 - [nix-community/trustix](https://github.com/nix-community/trustix) - Trustix: Distributed trust and reproducibility tracking for binary caches [maintainer=@adisbladis]
-- [Mic92/sops-nix](https://github.com/Mic92/sops-nix) - Atomic secret provisioning for NixOS based on sops
 - [jollheef/appvm](https://github.com/jollheef/appvm) - Nix-based app VMs
 - [tazjin/nixery](https://github.com/tazjin/nixery) - Container registry which transparently builds images using the Nix package manager. Canonical repository is https://cs.tvl.fyi/depot/-/tree/tools/nixery
 - [go-jira/jira](https://github.com/go-jira/jira) - simple jira command line client in Go
@@ -1691,7 +1690,7 @@
 - [Shados/nix-config-shared](https://github.com/Shados/nix-config-shared) - My cross-machine shared configuration, defaults, modules, and packages not suitable for upstreaming or NUR
 - [aciceri/nixfleet](https://github.com/aciceri/nixfleet) - A complete, declarative and reproducible configuration of my entire Nix fleet.
 - [Ericson2314/nixos-configuration](https://github.com/Ericson2314/nixos-configuration) - Much better than a .dotfiles repo
-- [NixOS/nixos-org-configurations](https://github.com/NixOS/nixos-org-configurations) - NixOS configurations for nixos.org and its servers
+- [NixOS/infra](https://github.com/NixOS/infra) - NixOS configurations for nixos.org and its servers
 - [sei40kr/dotfiles](https://github.com/sei40kr/dotfiles) - My dotfiles for NixOS & Darwin
 - [nix-community/fenix](https://github.com/nix-community/fenix) - Rust toolchains and rust-analyzer nightly for Nix [maintainer=@figsoda]
 - [blaggacao/devos](https://github.com/blaggacao/devos) - highly structured NixOS configuration database
@@ -1741,6 +1740,7 @@
 - [etu/nixconfig](https://github.com/etu/nixconfig) - My NixOS config
 - [svanderburg/composer2nix](https://github.com/svanderburg/composer2nix) - Generate Nix expressions to build PHP composer packages
 - [cipharius/dotfiles](https://github.com/cipharius/dotfiles) - My complete NixOS system configuration with application specific dotfiles.
+- [Mic92/sops-nix](https://github.com/Mic92/sops-nix) - Atomic secret provisioning for NixOS based on sops
 - [GTrunSec/nixos-flk](https://github.com/GTrunSec/nixos-flk) - highly structured NixOS configuration based on devos
 - [QuentinI/dotnix](https://github.com/QuentinI/dotnix) - 
 - [gytis-ivaskevicius/nixfiles](https://github.com/gytis-ivaskevicius/nixfiles) - My kick-ass NixOS systems configurations!!
