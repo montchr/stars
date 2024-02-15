@@ -3727,7 +3727,7 @@
 - [leahneukirchen/mblaze](https://github.com/leahneukirchen/mblaze) - Unix utilities to deal with Maildir
 - [astro/microvm.nix](https://github.com/astro/microvm.nix) - NixOS MicroVMs
 - [jtojnar/nixfiles](https://github.com/jtojnar/nixfiles) - Nix configuration for the machines I manage.
-- [numtide/nix-filter](https://github.com/numtide/nix-filter) - a small self-container source filtering lib
+- [numtide/nix-filter](https://github.com/numtide/nix-filter) - a small self-contained source filtering lib
 - [radian-software/apheleia](https://github.com/radian-software/apheleia) - 🌷 Run code formatter on buffer contents without moving point, using RCS patches and dynamic programming.
 - [nix-community/impermanence](https://github.com/nix-community/impermanence) - Modules to help you handle persistent state on systems with ephemeral root storage [maintainer=@talyz]
 - [DieracDelta/flakes](https://github.com/DieracDelta/flakes) - 
