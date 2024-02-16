@@ -56,6 +56,7 @@
 - [Nushell](#nushell)
 - [OCaml](#ocaml)
 - [Objective-C](#objective-c)
+- [OpenSCAD](#openscad)
 - [Org](#org)
 - [Others](#others)
 - [PHP](#php)
@@ -1533,7 +1534,6 @@
 - [divnix/hive](https://github.com/divnix/hive) - The secretly open NixOS-Society
 - [MatthewCroughan/filestash-nix](https://github.com/MatthewCroughan/filestash-nix) - A flake for testing, building and using Filestash by Mickael Kerjean
 - [nix-community/nix-on-droid](https://github.com/nix-community/nix-on-droid) - Nix-enabled environment for your Android device. [maintainers=@t184256,@Gerschtli]
-- [NixOS/nixos-artwork](https://github.com/NixOS/nixos-artwork) - Nix related artwork
 - [zachcoyle/neovitality](https://github.com/zachcoyle/neovitality) - 
 - [syberant/nix-neovim](https://github.com/syberant/nix-neovim) - Declaratively configure neovim with the magic of nix! Personal toy project.
 - [gytis-ivaskevicius/nix2vim](https://github.com/gytis-ivaskevicius/nix2vim) - [WIP] Nix to Lua parser meant to be used for configuring neovim
@@ -1829,6 +1829,10 @@
 - [felixhageloh/uebersicht](https://github.com/felixhageloh/uebersicht) - ˈyːbɐˌzɪçt
 - [sveinbjornt/Platypus](https://github.com/sveinbjornt/Platypus) - Create native Mac applications from command line scripts.
 - [prasmussen/chrome-cli](https://github.com/prasmussen/chrome-cli) - Control Google Chrome from the command line
+
+## OpenSCAD 
+
+- [NixOS/nixos-artwork](https://github.com/NixOS/nixos-artwork) - Nix related artwork
 
 ## Org 
 
