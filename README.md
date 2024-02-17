@@ -223,7 +223,7 @@
 
 ## C++ 
 
-- [Genivia/ugrep](https://github.com/Genivia/ugrep) - Ugrep 4.5: an ultra fast, user-friendly, compatible grep. Ugrep combines the best features of other grep, adds new features, and searches fast. Includes a TUI and adds Google-like search, fuzzy search
+- [Genivia/ugrep](https://github.com/Genivia/ugrep) - NEW ugrep 5.0: an ultra fast, user-friendly, compatible grep. Ugrep combines the best features of other grep, adds new features, and searches fast. Includes a TUI and adds Google-like search, fuzzy se
 - [Norbyte/bg3se](https://github.com/Norbyte/bg3se) - Baldur's Gate 3 Script Extender
 - [Martchus/syncthingtray](https://github.com/Martchus/syncthingtray) - Tray application and Dolphin/Plasma integration for Syncthing
 - [trapexit/mergerfs](https://github.com/trapexit/mergerfs) - a featureful union filesystem
@@ -255,7 +255,7 @@
 - [zzag/plasma5-wallpapers-dynamic](https://github.com/zzag/plasma5-wallpapers-dynamic) - Dynamic wallpaper plugin for KDE Plasma
 - [LibreVR/Revive](https://github.com/LibreVR/Revive) - Play Oculus-exclusive games on the HTC Vive or Valve Index, scroll down for downloads and installation instructions.
 - [adishavit/argh](https://github.com/adishavit/argh) - Argh! A minimalist argument handler.
-- [dvorka/mindforger](https://github.com/dvorka/mindforger) - Thinking notebook and Markdown editor.
+- [dvorka/mindforger](https://github.com/dvorka/mindforger) - Thinking notebook and Markdown editor with LLM wingman.
 - [djcb/mu](https://github.com/djcb/mu) - maildir indexer/searcher + emacs mail client + guile bindings
 - [emcrisostomo/fswatch](https://github.com/emcrisostomo/fswatch) - A cross-platform file change monitor with multiple backends: Apple OS X File System Events, *BSD kqueue, Solaris/Illumos File Events Notification, Linux inotify, Microsoft Windows and a stat()-based b
 - [dwhinham/mt32-pi](https://github.com/dwhinham/mt32-pi) - 🎹🎶 A baremetal kernel that turns your Raspberry Pi 3 or later into a Roland MT-32 emulator and SoundFont synthesizer based on Circle, Munt, and FluidSynth.
@@ -915,6 +915,7 @@
 - [miziomon/awesome-wordpress](https://github.com/miziomon/awesome-wordpress) - A curated list of amazingly awesome WordPress resources, themes, plugins and shiny things. Inspired by awesome-php.
 - [mark-when/markwhen](https://github.com/mark-when/markwhen) - Make a cascading timeline from markdown-like text. Supports simple American/European date styles, ISO8601, images, links, locations, and more.
 - [fabrizioschiavi/arrow-finder](https://github.com/fabrizioschiavi/arrow-finder) - These docs help you to find and use arrows you need more quickly
+- [omnivore-app/omnivore](https://github.com/omnivore-app/omnivore) - Omnivore is a complete, open source read-it-later solution for people who like reading.
 - [tombetthauser/watercolor-basics](https://github.com/tombetthauser/watercolor-basics) - Some personal stuff that I observed help frustrated and talented art students over 10+ years making, learning and teaching art professionally for no reason.
 - [penske-media-corp/pmc-larva](https://github.com/penske-media-corp/pmc-larva) - PMC's design system.
 - [OctoLinker/OctoLinker](https://github.com/OctoLinker/OctoLinker) - OctoLinker — Links together, what belongs together
@@ -2834,7 +2835,6 @@
 - [ramitsurana/awesome-kubernetes](https://github.com/ramitsurana/awesome-kubernetes) - A curated list for awesome kubernetes sources :ship::tada:
 - [chriszarate/docker-wordpress-vip](https://github.com/chriszarate/docker-wordpress-vip) - A Docker-based development environment for WordPress VIP development
 - [chriszarate/docker-compose-wordpress](https://github.com/chriszarate/docker-compose-wordpress) - An example Docker Compose setup for WordPress plugin or theme development.
-- [nrdxp/nrdos](https://github.com/nrdxp/nrdos) - My NixOS configuration for work and play
 - [shawnhooper/delete-orphaned-multisite-tables](https://github.com/shawnhooper/delete-orphaned-multisite-tables) - Finds and delete orphaned tables in a WordPress Multisite network.
 - [rapenne-s/bento](https://github.com/rapenne-s/bento) - A KISS deployment tool to keep your NixOS fleet (servers & workstations) up to date.
 - [neeasade/dotfiles](https://github.com/neeasade/dotfiles) - garden
@@ -3226,7 +3226,6 @@
 - [cursorless-dev/cursorless](https://github.com/cursorless-dev/cursorless) - Don't let the cursor slow you down
 - [GoogleChromeLabs/container-query-polyfill](https://github.com/GoogleChromeLabs/container-query-polyfill) - A polyfill for CSS Container Queries
 - [redwoodjs/redwood](https://github.com/redwoodjs/redwood) - The App Framework for Startups
-- [omnivore-app/omnivore](https://github.com/omnivore-app/omnivore) - Omnivore is a complete, open source read-it-later solution for people who like reading.
 - [JustinBeckwith/linkinator](https://github.com/JustinBeckwith/linkinator) - 🐿 Scurry around your site and find all those broken links.
 - [johnbillion/wp-json-schemas](https://github.com/johnbillion/wp-json-schemas) - JSON schemas for WordPress PHP objects and REST  API responses
 - [refinedev/refine](https://github.com/refinedev/refine) - A React Framework for building  internal tools, admin panels, dashboards & B2B apps with unmatched flexibility.
