@@ -1646,7 +1646,6 @@
 - [nix-community/nix-snippets](https://github.com/nix-community/nix-snippets) - Nix Snippets: Curated, simple, fun examples of the Nix Expression Language [maintainer=]
 - [input-output-hk/bitte](https://github.com/input-output-hk/bitte) - Nix Ops for Terraform, Consul, Vault, Nomad
 - [input-output-hk/bitte-cells](https://github.com/input-output-hk/bitte-cells) - Shared infrastructure components commonly used across clusters
-- [pimeys/nixos](https://github.com/pimeys/nixos) - NixOS Configuration
 - [jhenahan/dots](https://github.com/jhenahan/dots) - New Nix world
 - [tgunnoe/nixos](https://github.com/tgunnoe/nixos) - System and application configurations
 - [CaptainSpof/dafos-old](https://github.com/CaptainSpof/dafos-old) - WIP · Here lies my shipwrecks. I mean fleet of hosts.
@@ -2622,7 +2621,7 @@
 
 - [fornwall/rust-script](https://github.com/fornwall/rust-script) - Run Rust files and expressions as scripts without any setup or compilation step.
 - [MolotovCherry/Yet-Another-BG3-Native-Mod-Loader](https://github.com/MolotovCherry/Yet-Another-BG3-Native-Mod-Loader) - A mod loader for Baldur's Gate 3
-- [MolotovCherry/BG3-Plugin-Template-Rust](https://github.com/MolotovCherry/BG3-Plugin-Template-Rust) - 
+- [MolotovCherry/Native-Plugin-Template-Rust](https://github.com/MolotovCherry/Native-Plugin-Template-Rust) - A rust template for creating native dll plugins that edit game memory
 - [nix-community/docnix](https://github.com/nix-community/docnix) - nix-community reference documentation (until officially released) [maintainer=@hsjobeki]
 - [eza-community/eza](https://github.com/eza-community/eza) - A modern, maintained replacement for ls
 - [bahlo/arne.me](https://github.com/bahlo/arne.me) - My personal website
