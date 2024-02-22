@@ -2202,7 +2202,7 @@
 - [nette/tracy](https://github.com/nette/tracy) - 😎 Tracy: the addictive tool to ease debugging PHP code for cool developers. Friendly design, logging, profiler, advanced features like debugging AJAX calls or CLI support. You will love it.
 - [wp-cli/entity-command](https://github.com/wp-cli/entity-command) - Manage WordPress comments, menus, options, posts, sites, terms, and users.
 - [moehrenzahn/wp-toolkit](https://github.com/moehrenzahn/wp-toolkit) - Work with common WordPress Plugin and Theme APIs in a modern, object-oriented way.
-- [TypistTech/imposter-plugin](https://github.com/TypistTech/imposter-plugin) - Composer plugin that wraps all composer vendor packages inside your own namespace. Intended for WordPress plugins.
+- [typisttech/imposter-plugin](https://github.com/typisttech/imposter-plugin) - Composer plugin that wraps all composer vendor packages inside your own namespace. Intended for WordPress plugins.
 - [Chassis/Chassis](https://github.com/Chassis/Chassis) - 📦  Chassis is a virtual server for your WordPress site, built using Vagrant.
 - [Automattic/vip-go-skeleton](https://github.com/Automattic/vip-go-skeleton) - The base repository structure for all VIP Go sites
 - [Automattic/vip-code-samples](https://github.com/Automattic/vip-code-samples) - Example code snippets for a secure and performant WordPress VIP site (wpvip.com). Keywords: Example VIP Code
