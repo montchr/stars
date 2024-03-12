@@ -752,7 +752,7 @@
 - [GoogleContainerTools/skaffold](https://github.com/GoogleContainerTools/skaffold) - Easy and Repeatable Kubernetes Development
 - [x-motemen/ghq](https://github.com/x-motemen/ghq) - Remote repository management made easy
 - [evilmartians/lefthook](https://github.com/evilmartians/lefthook) - Fast and powerful Git hooks manager for any type of projects.
-- [rsteube/carapace](https://github.com/rsteube/carapace) - command argument completion generator for spf13/cobra
+- [carapace-sh/carapace](https://github.com/carapace-sh/carapace) - command argument completion generator for spf13/cobra
 - [dunglas/frankenphp](https://github.com/dunglas/frankenphp) - 🧟 The modern PHP app server
 - [eksctl-io/eksctl](https://github.com/eksctl-io/eksctl) - The official CLI for Amazon EKS
 - [kubernetes/minikube](https://github.com/kubernetes/minikube) - Run Kubernetes locally
@@ -3140,7 +3140,7 @@
 - [Uriopass/Musidex](https://github.com/Uriopass/Musidex) - Your AI powered musical pokedex, Plex for music
 - [nortakales/vs-code-qalc](https://github.com/nortakales/vs-code-qalc) - Interactive scratchpad calculator for VS Code
 - [tailwindlabs/tailwindcss-container-queries](https://github.com/tailwindlabs/tailwindcss-container-queries) - A plugin for Tailwind CSS v3.2+ that provides utilities for container queries.
-- [QuivrHQ/quivr](https://github.com/QuivrHQ/quivr) - Your GenAI Second Brain 🧠  A personal productivity assistant (RAG) ⚡️🤖 Chat with your docs (PDF, CSV, ...)  & apps using Langchain, GPT 3.5 / 4 turbo, Private, Anthropic, VertexAI, Ollama, LLMs, that 
+- [QuivrHQ/quivr](https://github.com/QuivrHQ/quivr) - Your GenAI Second Brain 🧠  A personal productivity assistant (RAG) ⚡️🤖 Chat with your docs (PDF, CSV, ...)  & apps using Langchain, GPT 3.5 / 4 turbo, Private, Anthropic, VertexAI, Ollama, LLMs, Groq 
 - [DeterminateSystems/nix-installer-action](https://github.com/DeterminateSystems/nix-installer-action) - The Github Action for the Determinate Nix Installer
 - [DeterminateSystems/magic-nix-cache-action](https://github.com/DeterminateSystems/magic-nix-cache-action) - Save 30-50%+ of CI time without any effort or cost. Use Magic Nix Cache, a totally free and zero-configuration binary cache for Nix on GitHub Actions.
 - [material-shell/material-shell](https://github.com/material-shell/material-shell) - A modern desktop interface for Linux. Improve your user experience and get rid of the anarchy of traditional desktop workflows. Designed to simplify navigation and reduce the need to manipulate window
