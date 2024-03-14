@@ -2092,7 +2092,7 @@
 - [unisonweb/unison](https://github.com/unisonweb/unison) - A friendly programming language from the future
 - [obsidiansystems/obelisk](https://github.com/obsidiansystems/obelisk) - Functional reactive web and mobile applications, with batteries included.
 - [purescript/purescript](https://github.com/purescript/purescript) - A strongly-typed language that compiles to JavaScript
-- [serokell/nixfmt](https://github.com/serokell/nixfmt) - A formatter for Nix code
+- [NixOS/nixfmt](https://github.com/NixOS/nixfmt) - The official formatter for Nix code
 - [colonelpanic8/dotfiles](https://github.com/colonelpanic8/dotfiles) - Configuration files for XMonad, Emacs, NixOS, Taffybar and more.
 - [digitallyinduced/ihp](https://github.com/digitallyinduced/ihp) - 🔥 The fastest way to build type safe web apps. IHP is a new batteries-included web framework optimized for longterm productivity and programmer happiness
 - [fabrizioschiavi/pragmatapro](https://github.com/fabrizioschiavi/pragmatapro) - PragmataPro font is designed to help pros to work better
@@ -3074,6 +3074,7 @@
 
 ## others 
 
+- [novoid/nixos-config](https://github.com/novoid/nixos-config) - NixOS + flakes + home-manager with xfce, zsh, tmux, ...
 - [protesilaos/substitute](https://github.com/protesilaos/substitute) - Efficiently replace targets in the Emacs buffer or context
 - [progfolio/auto-tangle-mode.el](https://github.com/progfolio/auto-tangle-mode.el) - Minor mode for tangling literate files on save
 - [karthink/repeat-help](https://github.com/karthink/repeat-help) - 
