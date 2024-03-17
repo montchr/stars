@@ -3099,7 +3099,7 @@
 - [abo-abo/avy](https://github.com/abo-abo/avy) - Jump to things in Emacs tree-style
 - [vincanger/coverlettergpt](https://github.com/vincanger/coverlettergpt) - Generate Cover Letters based on Job Description and your Resumé. Manage jobs and applications. Get Hired. Have fun. Be cool. Go to School.
 - [LaughingLeader/BG3ModdingTools](https://github.com/LaughingLeader/BG3ModdingTools) - A collection is miscellaneous snippets and scripts to make life easier when modding Baldur's Gate 3.
-- [ShinyHobo/BG3-Modders-Multitool](https://github.com/ShinyHobo/BG3-Modders-Multitool) - Utility for quickly generating Baldur's Gate 3 mod packs from an unpacked workspace (among other things).
+- [ShinyHobo/BG3-Modders-Multitool](https://github.com/ShinyHobo/BG3-Modders-Multitool) - Utility for quickly generating Baldur's Gate 3 mod packs from an unpacked workspace (among other things). This project is not open source; read the license.
 - [TA1312/supernote-a5x](https://github.com/TA1312/supernote-a5x) - various security information on the supernote a5x
 - [almonk/ogpk](https://github.com/almonk/ogpk) - a cli tool for observing og data
 - [MolotovCherry/Native-Plugin-Template-Rust](https://github.com/MolotovCherry/Native-Plugin-Template-Rust) - A rust template for creating native dll plugins that edit game memory
