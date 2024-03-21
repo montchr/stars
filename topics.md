@@ -1251,6 +1251,7 @@
 
 ## emacs 
 
+- [dmille56/treesit-jump](https://github.com/dmille56/treesit-jump) - Jump around your source code in emacs using treesit and avy
 - [dgutov/diff-hl](https://github.com/dgutov/diff-hl) - Emacs package for highlighting uncommitted changes
 - [lilactown/kitten](https://github.com/lilactown/kitten) - My custom Emacs configuration, based around meow
 - [amake/orgro](https://github.com/amake/orgro) - An Org Mode file viewer for iOS and Android
