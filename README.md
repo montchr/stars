@@ -2814,6 +2814,7 @@
 
 ## Scheme 
 
+- [dmille56/treesit-jump](https://github.com/dmille56/treesit-jump) - Jump around your source code in emacs using treesit and avy
 - [nvim-treesitter/nvim-treesitter-textobjects](https://github.com/nvim-treesitter/nvim-treesitter-textobjects) - 
 
 ## Shell 
