@@ -1023,7 +1023,7 @@
 - [google/closure-compiler](https://github.com/google/closure-compiler) - A JavaScript checker and optimizer.
 - [airmessage/airmessage-android](https://github.com/airmessage/airmessage-android) - AirMessage for Android phones, tablets, and laptops
 - [openboard-team/openboard](https://github.com/openboard-team/openboard) - 
-- [AnySoftKeyboard/AnySoftKeyboard](https://github.com/AnySoftKeyboard/AnySoftKeyboard) - Android (f/w 2.1+) on screen keyboard for multiple languages (chat https://gitter.im/AnySoftKeyboard)
+- [AnySoftKeyboard/AnySoftKeyboard](https://github.com/AnySoftKeyboard/AnySoftKeyboard) - Android (f/w 2.1+) on screen keyboard for multiple languages.
 - [Neamar/KISS](https://github.com/Neamar/KISS) - Lightning fast, open-source, &lt; 250kb Android launcher
 - [liquibase/liquibase](https://github.com/liquibase/liquibase) - Main Liquibase Source
 - [google/data-transfer-project](https://github.com/google/data-transfer-project) - The Data Transfer Project makes it easy for people to transfer their data between online service providers. We are establishing a common framework, including data models and protocols, to enable direc
@@ -2616,6 +2616,7 @@
 
 ## Rust 
 
+- [YaLTeR/niri](https://github.com/YaLTeR/niri) - A scrollable-tiling Wayland compositor.
 - [antifuchs/sonarr-plex-cleaner](https://github.com/antifuchs/sonarr-plex-cleaner) - Garbage-collect your "broadcatching" TV library by deleting seasons that Sonarr has fully downloaded and that are completely watched in Plex.
 - [fornwall/rust-script](https://github.com/fornwall/rust-script) - Run Rust files and expressions as scripts without any setup or compilation step.
 - [MolotovCherry/Yet-Another-BG3-Native-Mod-Loader](https://github.com/MolotovCherry/Yet-Another-BG3-Native-Mod-Loader) - A mod loader for Baldur's Gate 3
