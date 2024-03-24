@@ -381,6 +381,7 @@
 
 ## Emacs Lisp 
 
+- [meedstrom/eva](https://github.com/meedstrom/eva) - Emacs-based Virtual Assistant
 - [james-stoup/org-mode-better-defaults](https://github.com/james-stoup/org-mode-better-defaults) - An entry into the world of Org Mode for non Emacs users
 - [protesilaos/substitute](https://github.com/protesilaos/substitute) - Efficiently replace targets in the Emacs buffer or context
 - [progfolio/auto-tangle-mode.el](https://github.com/progfolio/auto-tangle-mode.el) - Minor mode for tangling literate files on save
@@ -1449,6 +1450,8 @@
 
 ## Nix 
 
+- [chadac/nix-config-modules](https://github.com/chadac/nix-config-modules) - Flake modules for multi-host joint NixOS + home-manager configs
+- [chadac/dotfiles](https://github.com/chadac/dotfiles) - 
 - [novoid/nixos-config](https://github.com/novoid/nixos-config) - NixOS + flakes + home-manager with xfce, zsh, tmux, ...
 - [meowgorithm/dotfiles](https://github.com/meowgorithm/dotfiles) - The Meowgorithm Dotfiles, Collectors’ Edition
 - [TaserudConsulting/jsonresume-nix](https://github.com/TaserudConsulting/jsonresume-nix) - Reproducible résumé using Nix ❄️ and jsonresume
@@ -1612,7 +1615,7 @@
 - [myme/dotfiles](https://github.com/myme/dotfiles) - My collection of dotfiles
 - [TLATER/nixos-hosts](https://github.com/TLATER/nixos-hosts) - NixOS host configuration
 - [ncfavier/config](https://github.com/ncfavier/config) - My NixOS configurations
-- [dustinlyons/nixos-config](https://github.com/dustinlyons/nixos-config) - Nix configuration for macOS / NixOS with starter templates and step-by-step commands ✨
+- [dustinlyons/nixos-config](https://github.com/dustinlyons/nixos-config) - Nix configuration for macOS / NixOS with starter templates ✨
 - [noib3/dotfiles](https://github.com/noib3/dotfiles) - :house: Procrastinating never felt this productive
 - [nixosbrasil/climod](https://github.com/nixosbrasil/climod) - Modular generated command line interfaces using the same technology as the NixOS module system.
 - [talyz/nixos-config](https://github.com/talyz/nixos-config) - My NixOS configuration
@@ -2641,7 +2644,6 @@
 - [swsnr/mdcat](https://github.com/swsnr/mdcat) - cat for markdown
 - [Deaftone/Deaftone](https://github.com/Deaftone/Deaftone) - Lightweight music server. With a clean and simple API
 - [Canop/rhit](https://github.com/Canop/rhit) - A nginx log explorer
-- [urbas/rix](https://github.com/urbas/rix) - A reimplementation of nix in Rust.
 - [ast-grep/ast-grep](https://github.com/ast-grep/ast-grep) - ⚡A CLI tool for code structural search, lint and rewriting. Written in Rust
 - [Stranger6667/css-inline](https://github.com/Stranger6667/css-inline) - High-performance library for inlining CSS into HTML 'style' attributes
 - [parcel-bundler/lightningcss](https://github.com/parcel-bundler/lightningcss) - An extremely fast CSS parser, transformer, bundler, and minifier written in Rust.
@@ -3151,6 +3153,7 @@
 - [material-shell/material-shell](https://github.com/material-shell/material-shell) - A modern desktop interface for Linux. Improve your user experience and get rid of the anarchy of traditional desktop workflows. Designed to simplify navigation and reduce the need to manipulate window
 - [10up/headstartwp](https://github.com/10up/headstartwp) - Build a headless website fast with WordPress, the world’s most popular CMS, and Next.js, the most popular React framework. A free and open source solution by the experts at 10up.
 - [makeplane/plane](https://github.com/makeplane/plane) - 🔥 🔥 🔥 Open Source JIRA, Linear and Asana Alternative. Plane helps you track your issues, epics, and product roadmaps in the simplest way possible.
+- [urbas/rix](https://github.com/urbas/rix) - Nix language interpreter.
 - [unocss/unocss](https://github.com/unocss/unocss) - The instant on-demand atomic CSS engine.
 - [antfu/vscode-theme-vitesse](https://github.com/antfu/vscode-theme-vitesse) - 🏕 Vitesse theme for VS Code
 - [nix-community/nixt](https://github.com/nix-community/nixt) - Simple unit-testing for Nix [maintainer=@Lord-Valen]
