@@ -3078,6 +3078,7 @@
 
 ## others 
 
+- [tumashu/el2org](https://github.com/tumashu/el2org) - Convert an emacs-lisp file to org file
 - [chadac/nix-config-modules](https://github.com/chadac/nix-config-modules) - Flake modules for multi-host joint NixOS + home-manager configs
 - [chadac/dotfiles](https://github.com/chadac/dotfiles) - 
 - [james-stoup/org-mode-better-defaults](https://github.com/james-stoup/org-mode-better-defaults) - An entry into the world of Org Mode for non Emacs users
@@ -4608,7 +4609,7 @@
 - [phpro/grumphp](https://github.com/phpro/grumphp) - A PHP code-quality tool
 - [htmlburger/wpemerge](https://github.com/htmlburger/wpemerge) - A modern, MVC-powered WordPress as a CMS workflow. 🚀
 - [johnbillion/user-switching](https://github.com/johnbillion/user-switching) - WordPress plugin that provides instant switching between user accounts.
-- [johnbillion/wp-crontrol](https://github.com/johnbillion/wp-crontrol) - WP Crontrol lets you view and control what's happening in the WP-Cron system.
+- [johnbillion/wp-crontrol](https://github.com/johnbillion/wp-crontrol) - Take control of the cron events on your WordPress website
 - [WPBP/WordPress-Plugin-Boilerplate-Powered](https://github.com/WPBP/WordPress-Plugin-Boilerplate-Powered) - Wordpress Plugin Boilerplate but Powered with examples and a generator!
 - [LDAPAccountManager/lam](https://github.com/LDAPAccountManager/lam) - LDAP Account Manager
 - [laravel/pint](https://github.com/laravel/pint) - Laravel Pint is an opinionated PHP code style fixer for minimalists.
@@ -6059,7 +6060,7 @@
 - [lukecav/awesome-wp-developer-tools](https://github.com/lukecav/awesome-wp-developer-tools) - A collection of plugins, starter themes and tools to make WordPress development easier.
 - [johnbillion/extended-cpts](https://github.com/johnbillion/extended-cpts) - A library which provides extended functionality to WordPress custom post types and taxonomies.
 - [johnbillion/user-switching](https://github.com/johnbillion/user-switching) - WordPress plugin that provides instant switching between user accounts.
-- [johnbillion/wp-crontrol](https://github.com/johnbillion/wp-crontrol) - WP Crontrol lets you view and control what's happening in the WP-Cron system.
+- [johnbillion/wp-crontrol](https://github.com/johnbillion/wp-crontrol) - Take control of the cron events on your WordPress website
 - [micropackage/dochooks](https://github.com/micropackage/dochooks) - WordPress hooks in method comments. Annotated hooks.
 - [WPBP/WordPress-Plugin-Boilerplate-Powered](https://github.com/WPBP/WordPress-Plugin-Boilerplate-Powered) - Wordpress Plugin Boilerplate but Powered with examples and a generator!
 - [wp-hooks/wordpress-core-hooks](https://github.com/wp-hooks/wordpress-core-hooks) - WordPress core actions and filters as JSON
