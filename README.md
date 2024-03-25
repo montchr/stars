@@ -381,6 +381,7 @@
 
 ## Emacs Lisp 
 
+- [tumashu/el2org](https://github.com/tumashu/el2org) - Convert an emacs-lisp file to org file
 - [meedstrom/eva](https://github.com/meedstrom/eva) - Emacs-based Virtual Assistant
 - [james-stoup/org-mode-better-defaults](https://github.com/james-stoup/org-mode-better-defaults) - An entry into the world of Org Mode for non Emacs users
 - [protesilaos/substitute](https://github.com/protesilaos/substitute) - Efficiently replace targets in the Emacs buffer or context
@@ -2236,7 +2237,7 @@
 - [WordPress/WordPress-Coding-Standards](https://github.com/WordPress/WordPress-Coding-Standards) - PHP_CodeSniffer rules (sniffs) to enforce WordPress coding conventions
 - [johnbillion/extended-cpts](https://github.com/johnbillion/extended-cpts) - A library which provides extended functionality to WordPress custom post types and taxonomies.
 - [johnbillion/user-switching](https://github.com/johnbillion/user-switching) - WordPress plugin that provides instant switching between user accounts.
-- [johnbillion/wp-crontrol](https://github.com/johnbillion/wp-crontrol) - WP Crontrol lets you view and control what's happening in the WP-Cron system.
+- [johnbillion/wp-crontrol](https://github.com/johnbillion/wp-crontrol) - Take control of the cron events on your WordPress website
 - [reaktivstudios/locomotive](https://github.com/reaktivstudios/locomotive) - Allow developers to easily register batch processes through code, and run them through the admin UI
 - [micropackage/dochooks](https://github.com/micropackage/dochooks) - WordPress hooks in method comments. Annotated hooks.
 - [WPBP/WordPress-Plugin-Boilerplate-Powered](https://github.com/WPBP/WordPress-Plugin-Boilerplate-Powered) - Wordpress Plugin Boilerplate but Powered with examples and a generator!
