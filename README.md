@@ -766,7 +766,7 @@
 - [asiermarques/adrgen](https://github.com/asiermarques/adrgen) - A command-line tool for generating and managing Architecture Decision Records
 - [BishopFox/cloudfox](https://github.com/BishopFox/cloudfox) - Automating situational awareness for cloud penetration tests.
 - [onedr0p/exportarr](https://github.com/onedr0p/exportarr) - AIO Prometheus Exporter for Sabnzbd, Bazarr, Prowlarr, Lidarr, Readarr, Radarr, and Sonarr
-- [coroot/coroot](https://github.com/coroot/coroot) - Open-source observability for microservices. Thanks to eBPF you can gain comprehensive insights into your system within minutes.
+- [coroot/coroot](https://github.com/coroot/coroot) - Coroot is an open-source APM & Observability tool, a DataDog and NewRelic alternative 📊, 🖥️, 👉. Powered by eBPF for rapid insights into system performance. Monitor, analyze, and optimize your infrastr
 - [wagoodman/dive](https://github.com/wagoodman/dive) - A tool for exploring each layer in a docker image
 - [noahgorstein/jqp](https://github.com/noahgorstein/jqp) - A TUI playground to experiment with jq
 - [influxdata/telegraf](https://github.com/influxdata/telegraf) - The plugin-driven server agent for collecting & reporting metrics.
@@ -1555,7 +1555,6 @@
 - [numtide/treefmt-nix](https://github.com/numtide/treefmt-nix) - treefmt nix configuration
 - [the-nix-way/nome](https://github.com/the-nix-way/nome) - My Nix home
 - [the-nix-way/real-world-devops-with-nix](https://github.com/the-nix-way/real-world-devops-with-nix) - An example project for building containers with Nix and deploying them to Kubernetes
-- [TUM-DSE/doctor-cluster-config](https://github.com/TUM-DSE/doctor-cluster-config) - NixOS configuration for TUM cluster
 - [JayRovacsek/nix-config](https://github.com/JayRovacsek/nix-config) - My nix configs
 - [devmattrick/nixfiles-archive](https://github.com/devmattrick/nixfiles-archive) - NixOS system configs
 - [Gabriella439/macos-builder](https://github.com/Gabriella439/macos-builder) - Bootstrap a Linux build VM on macOS
@@ -1743,7 +1742,7 @@
 - [cipharius/dotfiles](https://github.com/cipharius/dotfiles) - My complete NixOS system configuration with application specific dotfiles.
 - [Mic92/sops-nix](https://github.com/Mic92/sops-nix) - Atomic secret provisioning for NixOS based on sops
 - [GTrunSec/nixos-flk](https://github.com/GTrunSec/nixos-flk) - highly structured NixOS configuration based on devos
-- [NixOS/nixfmt](https://github.com/NixOS/nixfmt) - The official formatter for Nix code
+- [NixOS/nixfmt](https://github.com/NixOS/nixfmt) - The soon-to-be official formatter for Nix code
 - [QuentinI/dotnix](https://github.com/QuentinI/dotnix) - 
 - [gytis-ivaskevicius/nixfiles](https://github.com/gytis-ivaskevicius/nixfiles) - My kick-ass NixOS systems configurations!!
 - [nix-community/nur-combined](https://github.com/nix-community/nur-combined) - A repository of NUR that combines all repositories [maintainer=@Mic92]
@@ -2379,6 +2378,7 @@
 
 ## PowerShell 
 
+- [lando/lando](https://github.com/lando/lando) - A development tool for all your projects that is fast, easy, powerful and liberating
 - [djdallmann/GamingPCSetup](https://github.com/djdallmann/GamingPCSetup) - A research and evidence based approach to optimizing your gaming PC, configuration and setup. Recommendations found in this guide are based on curated reputable technical references, and personal rese
 
 ## Processing 
@@ -2847,7 +2847,6 @@
 - [simonthum/git-sync](https://github.com/simonthum/git-sync) - Safe and simple one-script git synchronization
 - [nezhar/wordpress-docker-compose](https://github.com/nezhar/wordpress-docker-compose) - Easy Wordpress development with Docker and Docker Compose
 - [qw3rtman/git-fire](https://github.com/qw3rtman/git-fire) - :fire: Save Your Code in an Emergency
-- [lando/lando](https://github.com/lando/lando) - A development tool for all your projects that is fast, easy, powerful and liberating
 - [nixcloud/nixcloud-container](https://github.com/nixcloud/nixcloud-container) - nixcloud-container is a Nix based wrapper around LXC, mainly to manage unprivileged LXC containers within NixOS
 - [elken/.nixpkgs](https://github.com/elken/.nixpkgs) - Nix dotfiles
 - [tecosaur/golgi](https://github.com/tecosaur/golgi) - My personal server. Mirror of https://git.tecosaur.net/tec/golgi.
