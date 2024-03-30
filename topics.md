@@ -1312,7 +1312,7 @@
 - [artempyanykh/marksman](https://github.com/artempyanykh/marksman) - Write Markdown with code assist and intelligence in the comfort of your favourite editor.
 - [tecosaur/org-glossary](https://github.com/tecosaur/org-glossary) - Mirror of https://git.tecosaur.net/tec/org-glossary
 - [tecosaur/engrave-faces](https://github.com/tecosaur/engrave-faces) - Mirror of https://git.tecosaur.net/tec/engrave-faces
-- [dustinlyons/nixos-config](https://github.com/dustinlyons/nixos-config) - Nix configuration for macOS / NixOS with starter templates ✨
+- [dustinlyons/nixos-config](https://github.com/dustinlyons/nixos-config) - Nix configuration for macOS / NixOS with starter templates, step-by-step guides, and more ✨
 - [mihaiolteanu/mugur](https://github.com/mihaiolteanu/mugur) - Configurator for QMK compatible keyboards
 - [hraban/tomono](https://github.com/hraban/tomono) - Multi- To Mono-repository merge
 - [rnkn/olivetti](https://github.com/rnkn/olivetti) - Emacs minor mode to automatically balance window margins
@@ -2619,7 +2619,7 @@
 - [bvaisvil/zenith](https://github.com/bvaisvil/zenith) - Zenith - sort of like top or htop but with zoom-able charts, CPU, GPU, network, and disk usage
 - [ciderapp/Cider](https://github.com/ciderapp/Cider) - A new cross-platform Apple Music experience based on Electron and Vue.js written from scratch with performance in mind. 🚀
 - [abiosoft/colima](https://github.com/abiosoft/colima) - Container runtimes on macOS (and Linux) with minimal setup
-- [dustinlyons/nixos-config](https://github.com/dustinlyons/nixos-config) - Nix configuration for macOS / NixOS with starter templates ✨
+- [dustinlyons/nixos-config](https://github.com/dustinlyons/nixos-config) - Nix configuration for macOS / NixOS with starter templates, step-by-step guides, and more ✨
 - [Nheko-Reborn/nheko](https://github.com/Nheko-Reborn/nheko) - Desktop client for Matrix using Qt and C++20.
 - [kkharji/yctrl](https://github.com/kkharji/yctrl) - Thin wrapper around yabai that adds convenient and intuitive fixes
 - [ssbanerje/dotfiles](https://github.com/ssbanerje/dotfiles) - My configuration files
@@ -3077,6 +3077,7 @@
 
 ## others 
 
+- [replit/rippkgs](https://github.com/replit/rippkgs) - A CLI for indexing and searching packages in Nix expressions
 - [tumashu/el2org](https://github.com/tumashu/el2org) - Convert an emacs-lisp file to org file
 - [chadac/nix-config-modules](https://github.com/chadac/nix-config-modules) - Flake modules for multi-host joint NixOS + home-manager configs
 - [chadac/dotfiles](https://github.com/chadac/dotfiles) - 
