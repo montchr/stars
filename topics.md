@@ -1366,7 +1366,6 @@
 - [ianyepan/yay-evil-emacs](https://github.com/ianyepan/yay-evil-emacs) - 😈 A lightweight literate Emacs config with even better "better defaults". Shipped with a custom theme!
 - [caisah/emacs.dz](https://github.com/caisah/emacs.dz) - Awesome emacs config files
 - [karlicoss/cloudmacs](https://github.com/karlicoss/cloudmacs) - Selfhost your Emacs and access it in browser
-- [MCotocel/nixdots](https://github.com/MCotocel/nixdots) - It somehow works!
 - [yurrriq/dotfiles](https://github.com/yurrriq/dotfiles) - My (semi-)literate dotfiles for Nix, Emacs, fish, etc, managed with home-manager and GNU Stow
 - [edmundmiller/dotfiles](https://github.com/edmundmiller/dotfiles) - For keeping all my Dotfiles update to date
 - [jakeisnt/nixcfg](https://github.com/jakeisnt/nixcfg) - A modular, Wayland-enabled NixOS configuration.
