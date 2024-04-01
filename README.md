@@ -1629,7 +1629,7 @@
 - [johnae/world](https://github.com/johnae/world) - NixOS configuration
 - [MatthiasBenaets/nixos-config](https://github.com/MatthiasBenaets/nixos-config) - My Personal Nix, NixOS and Nix-Darwin System Configuration Flake
 - [hercules-ci/flake-parts](https://github.com/hercules-ci/flake-parts) - ❄️ Simplify Nix Flakes with the module system
-- [tudurom/dotfiles](https://github.com/tudurom/dotfiles) - My computing environment, in code form. Nix & Ansible for my personal computer and my server. Mirror.
+- [tudurom/dotfiles](https://github.com/tudurom/dotfiles) - My computing environment, in code form. Nix for my personal computer and my server. Mirror.
 - [gvolpe/dconf2nix](https://github.com/gvolpe/dconf2nix) - :feet: Convert Dconf files (e.g. Gnome Shell) to Nix, as expected by Home Manager
 - [MatthewCroughan/nixcfg](https://github.com/MatthewCroughan/nixcfg) - My nix configuration(s), using flakes. It's my laptop, it's my servers, it's my everything, in code.
 - [MatthewCroughan/nixinate](https://github.com/MatthewCroughan/nixinate) - Another NixOS Deployment Tool - Nixinate your systems 🕶️
