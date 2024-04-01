@@ -296,7 +296,6 @@
 - [roots/trellis](https://github.com/roots/trellis) - WordPress LEMP stack with PHP 8.1, Composer, WP-CLI and more
 - [khuedoan/homelab](https://github.com/khuedoan/homelab) - Modern self-hosting framework, fully automated from empty disk to operating services with a single command.
 - [MichaelCade/90DaysOfDevOps](https://github.com/MichaelCade/90DaysOfDevOps) - This repository started out as a learning in public project for myself and has now become a structured learning map for many in the community. We have 3 years under our belt covering all things DevOps
-- [tudurom/dotfiles](https://github.com/tudurom/dotfiles) - My computing environment, in code form. Nix & Ansible for my personal computer and my server. Mirror.
 - [saltyorg/Saltbox](https://github.com/saltyorg/Saltbox) - Ansible-based solution for rapidly deploying a Docker containerized cloud media server.
 - [bregman-arie/devops-exercises](https://github.com/bregman-arie/devops-exercises) - Linux, Jenkins, AWS, SRE, Prometheus, Docker, Python, Ansible, Git, Kubernetes, Terraform, OpenStack, SQL, NoSQL, Azure, GCP, DNS, Elastic, Network, Virtualization. DevOps Interview Questions
 - [eoli3n/dotfiles](https://github.com/eoli3n/dotfiles) - Sway acid dark
@@ -3682,6 +3681,7 @@
 - [MatthiasBenaets/nixos-config](https://github.com/MatthiasBenaets/nixos-config) - My Personal Nix, NixOS and Nix-Darwin System Configuration Flake
 - [hercules-ci/flake-parts](https://github.com/hercules-ci/flake-parts) - ❄️ Simplify Nix Flakes with the module system
 - [natpen/awesome-wayland](https://github.com/natpen/awesome-wayland) - A curated list of Wayland code and resources.
+- [tudurom/dotfiles](https://github.com/tudurom/dotfiles) - My computing environment, in code form. Nix for my personal computer and my server. Mirror.
 - [typescript-cheatsheets/utilities](https://github.com/typescript-cheatsheets/utilities) - a list of typescript helper libraries
 - [ProtonMail/proton-bridge](https://github.com/ProtonMail/proton-bridge) - Proton Mail Bridge application
 - [emersion/hydroxide](https://github.com/emersion/hydroxide) - A third-party, open-source ProtonMail CardDAV, IMAP and SMTP bridge
