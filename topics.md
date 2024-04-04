@@ -3393,7 +3393,7 @@
 - [zachcoyle/neovitality](https://github.com/zachcoyle/neovitality) - 
 - [gytis-ivaskevicius/nix2vim](https://github.com/gytis-ivaskevicius/nix2vim) - [WIP] Nix to Lua parser meant to be used for configuring neovim
 - [NeogitOrg/neogit](https://github.com/NeogitOrg/neogit) - An interactive and powerful Git interface for Neovim, inspired by Magit
-- [m15a/nixpkgs-vim-extra-plugins](https://github.com/m15a/nixpkgs-vim-extra-plugins) - Nix flake of miscellaneous Vim/Neovim plugins.
+- [m15a/flake-vim-extra-plugins](https://github.com/m15a/flake-vim-extra-plugins) - Nix flake of miscellaneous Vim/Neovim plugins.
 - [projectM-visualizer/projectm](https://github.com/projectM-visualizer/projectm) - projectM - Cross-platform Music Visualization Library. Open-source and Milkdrop-compatible.
 - [wpengine/atlas-content-modeler](https://github.com/wpengine/atlas-content-modeler) - Content modeling plugin for WordPress
 - [be5invis/vscode-custom-css](https://github.com/be5invis/vscode-custom-css) - Custom CSS Plugin for Visual Studio Code. Based on vscode-icon
@@ -3778,7 +3778,6 @@
 - [elitak/nixos-infect](https://github.com/elitak/nixos-infect) - [GPLv3+] install nixos over the existing OS in a DigitalOcean droplet (and others with minor modifications)
 - [myrjola/diminish.el](https://github.com/myrjola/diminish.el) - Diminished modes are minor modes with no modeline display
 - [lovesegfault/nix-config](https://github.com/lovesegfault/nix-config) - My personal NixOS config
-- [alleyinteractive/searchpress](https://github.com/alleyinteractive/searchpress) - Elasticsearch integration for WordPress.
 - [spiritedmedia/systems](https://github.com/spiritedmedia/systems) - Code and documentation for building, deploying, and serving code.
 - [txtyash/pretty-kitty](https://github.com/txtyash/pretty-kitty) - :octocat: :lollipop:  Beautiful light and dark theme eye candy :candy: with multiple fonts :doughnut: for the KITTY :fire: terminal
 - [txtyash/pictures](https://github.com/txtyash/pictures) - Wallpaper collection
@@ -6079,6 +6078,7 @@
 - [johnbillion/query-monitor](https://github.com/johnbillion/query-monitor) - The developer tools panel for WordPress
 - [digitalocean/nginxconfig.io](https://github.com/digitalocean/nginxconfig.io) - ⚙️ NGINX config generator on steroids 💉
 - [xwp/vip-site-template](https://github.com/xwp/vip-site-template) - Project template for WordPress VIP hosted websites with local development environment
+- [alleyinteractive/searchpress](https://github.com/alleyinteractive/searchpress) - Elasticsearch integration for WordPress.
 - [BrianHenryIE/bh-wp-logger](https://github.com/BrianHenryIE/bh-wp-logger) - Zero-config log UI for WordPress plugins
 - [grafted-in/wordpress-nginx-nix](https://github.com/grafted-in/wordpress-nginx-nix) - One-stop shop for defining, testing, and deploying a WordPress CMS site using Nginx with Nix, NixOps, and NixOS
 - [alleyinteractive/clone-replace](https://github.com/alleyinteractive/clone-replace) - Clone & Replace WordPress Plugin. Gives you the ability to clone posts, and replace posts. Together, you have a very powerful tool for a fork/merge editing model.
