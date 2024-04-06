@@ -98,6 +98,7 @@
 - [google-cloud](#google-cloud)
 - [graphql](#graphql)
 - [hacking](#hacking)
+- [hacking-tool](#hacking-tool)
 - [hacktoberfest](#hacktoberfest)
 - [haskell](#haskell)
 - [homebrew](#homebrew)
@@ -1871,6 +1872,10 @@
 - [brootware/awesome-cyber-security-university](https://github.com/brootware/awesome-cyber-security-university) - 🎓 Because Education should be free. Contributions welcome! 🕵️
 - [trimstray/the-book-of-secret-knowledge](https://github.com/trimstray/the-book-of-secret-knowledge) - A collection of inspiring lists, manuals, cheatsheets, blogs, hacks, one-liners, cli/web tools and more.
 
+## hacking-tool 
+
+- [wpscanteam/wpscan](https://github.com/wpscanteam/wpscan) - WPScan WordPress security scanner. Written for security professionals and blog maintainers to test the security of their WordPress websites. Contact us via contact@wpscan.com
+
 ## hacktoberfest 
 
 - [Martchus/syncthingtray](https://github.com/Martchus/syncthingtray) - Tray application and Dolphin/Plasma integration for Syncthing
@@ -3075,6 +3080,7 @@
 
 ## others 
 
+- [oddlama/nix-topology](https://github.com/oddlama/nix-topology) - 🍁 Generate infrastructure and network diagrams directly from your NixOS configurations
 - [replit/rippkgs](https://github.com/replit/rippkgs) - A CLI for indexing and searching packages in Nix expressions
 - [tumashu/el2org](https://github.com/tumashu/el2org) - Convert an emacs-lisp file to org file
 - [chadac/nix-config-modules](https://github.com/chadac/nix-config-modules) - Flake modules for multi-host joint NixOS + home-manager configs
