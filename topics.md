@@ -3399,7 +3399,7 @@
 - [zachcoyle/neovitality](https://github.com/zachcoyle/neovitality) - 
 - [gytis-ivaskevicius/nix2vim](https://github.com/gytis-ivaskevicius/nix2vim) - [WIP] Nix to Lua parser meant to be used for configuring neovim
 - [NeogitOrg/neogit](https://github.com/NeogitOrg/neogit) - An interactive and powerful Git interface for Neovim, inspired by Magit
-- [m15a/flake-vim-extra-plugins](https://github.com/m15a/flake-vim-extra-plugins) - Nix flake of miscellaneous Vim/Neovim plugins.
+- [m15a/flake-vim-extra-plugins](https://github.com/m15a/flake-vim-extra-plugins) - Nix flake of miscellaneous Vim/Neovim plugins
 - [projectM-visualizer/projectm](https://github.com/projectM-visualizer/projectm) - projectM - Cross-platform Music Visualization Library. Open-source and Milkdrop-compatible.
 - [wpengine/atlas-content-modeler](https://github.com/wpengine/atlas-content-modeler) - Content modeling plugin for WordPress
 - [be5invis/vscode-custom-css](https://github.com/be5invis/vscode-custom-css) - Custom CSS Plugin for Visual Studio Code. Based on vscode-icon
