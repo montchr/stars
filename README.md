@@ -1034,6 +1034,7 @@
 
 ## JavaScript 
 
+- [wei/pull](https://github.com/wei/pull) - 🤖 Keep your forks up-to-date via automated PRs
 - [alphapapa/emacs-package-dev-handbook](https://github.com/alphapapa/emacs-package-dev-handbook) - An Emacs package development handbook. Built with Emacs, by Emacs package developers, for Emacs package developers.
 - [cloak-labs/cloakwp-workspace](https://github.com/cloak-labs/cloakwp-workspace) - An ecosystem of the best headless WordPress tooling.
 - [mechatroner/vscode_rainbow_csv](https://github.com/mechatroner/vscode_rainbow_csv) - 🌈Rainbow CSV - VS Code extension: Highlight CSV and TSV files in different rainbow colors to make them more readable
@@ -1353,6 +1354,7 @@
 
 ## Kotlin 
 
+- [woheller69/whoBIRD](https://github.com/woheller69/whoBIRD) - Android version of BirdNET-lite. Bird sound recognition for more than 6,000 species worldwide.
 - [orgzly-revived/orgzly-android-revived](https://github.com/orgzly-revived/orgzly-android-revived) - Outliner for taking notes and managing to-do lists
 - [caydey/ffshare](https://github.com/caydey/ffshare) - An android app to compress image, video and audio files through ffmpeg before sharing them
 - [JunkFood02/Seal](https://github.com/JunkFood02/Seal) - 🦭 Video/Audio Downloader for Android, based on yt-dlp, designed with Material You
@@ -1744,7 +1746,7 @@
 - [cipharius/dotfiles](https://github.com/cipharius/dotfiles) - My complete NixOS system configuration with application specific dotfiles.
 - [Mic92/sops-nix](https://github.com/Mic92/sops-nix) - Atomic secret provisioning for NixOS based on sops
 - [GTrunSec/nixos-flk](https://github.com/GTrunSec/nixos-flk) - highly structured NixOS configuration based on devos
-- [NixOS/nixfmt](https://github.com/NixOS/nixfmt) - The soon-to-be official formatter for Nix code
+- [NixOS/nixfmt](https://github.com/NixOS/nixfmt) - The official (but not yet stable) formatter for Nix code
 - [QuentinI/dotnix](https://github.com/QuentinI/dotnix) - 
 - [gytis-ivaskevicius/nixfiles](https://github.com/gytis-ivaskevicius/nixfiles) - My kick-ass NixOS systems configurations!!
 - [nix-community/nur-combined](https://github.com/nix-community/nur-combined) - A repository of NUR that combines all repositories [maintainer=@Mic92]
