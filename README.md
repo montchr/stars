@@ -726,7 +726,7 @@
 - [rebuy-de/aws-nuke](https://github.com/rebuy-de/aws-nuke) - Nuke a whole AWS account and delete all its resources.
 - [mithrandie/csvq](https://github.com/mithrandie/csvq) - SQL-like query language for csv
 - [matrix-org/dendrite](https://github.com/matrix-org/dendrite) - Dendrite is a second-generation Matrix homeserver written in Go!
-- [jetpack-io/tyson](https://github.com/jetpack-io/tyson) - 🥊  TypeScript as a Configuration Language. TySON stands for TypeScript Object Notation
+- [jetify-com/tyson](https://github.com/jetify-com/tyson) - 🥊  TypeScript as a Configuration Language. TySON stands for TypeScript Object Notation
 - [umlx5h/zsh-manpage-completion-generator](https://github.com/umlx5h/zsh-manpage-completion-generator) - Generate zsh completions from man page
 - [oauth2-proxy/oauth2-proxy](https://github.com/oauth2-proxy/oauth2-proxy) - A reverse proxy that provides authentication with Google, Azure, OpenID Connect and many more identity providers.
 - [majewsky/portunus](https://github.com/majewsky/portunus) - Self-contained user/group management and authentication service
@@ -779,7 +779,7 @@
 - [mbrt/gmailctl](https://github.com/mbrt/gmailctl) - Declarative configuration for Gmail filters
 - [aquasecurity/trivy](https://github.com/aquasecurity/trivy) - Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes, code repositories, clouds and more
 - [benchkram/bob](https://github.com/benchkram/bob) - Bob is a high-level build tool for multi-language projects.
-- [jetpack-io/devbox](https://github.com/jetpack-io/devbox) - Instant, easy, and predictable development environments
+- [jetify-com/devbox](https://github.com/jetify-com/devbox) - Instant, easy, and predictable development environments
 - [autobrr/autobrr](https://github.com/autobrr/autobrr) - Modern, easy to use download automation for torrents and usenet.
 - [schollz/croc](https://github.com/schollz/croc) - Easily and securely send things from one computer to another :crocodile: :package:
 - [neilotoole/sq](https://github.com/neilotoole/sq) - sq data wrangler
@@ -2047,6 +2047,7 @@
 
 ## PHP 
 
+- [PHPCSStandards/PHP_CodeSniffer](https://github.com/PHPCSStandards/PHP_CodeSniffer) - PHP_CodeSniffer tokenizes PHP files and detects violations of a defined set of coding standards.
 - [MWDelaney/lithify](https://github.com/MWDelaney/lithify) - WordPress plugin that adds a WP-CLI command to convert a traditional WordPress site into a Bedrock-style WordPress installation.
 - [cloak-labs/cloakwp-bedrock](https://github.com/cloak-labs/cloakwp-bedrock) - A WordPress starter for CloakWP headless projects that extends the popular Bedrock boilerplate.
 - [bueltge/wordpress-multisite-enhancements](https://github.com/bueltge/wordpress-multisite-enhancements) - Enhance WordPress Multisite for Network Admins with different topics
