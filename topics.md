@@ -3091,6 +3091,7 @@
 
 ## others 
 
+- [bluskript/nix-inspect](https://github.com/bluskript/nix-inspect) - Interactive tui for inspecting nix configs
 - [woheller69/whoBIRD](https://github.com/woheller69/whoBIRD) - Android version of BirdNET-lite. Bird sound recognition for more than 6,000 species worldwide.
 - [catppuccin/nix](https://github.com/catppuccin/nix) - ❄️ Soothing pastel theme for Nix
 - [oddlama/nix-topology](https://github.com/oddlama/nix-topology) - 🍁 Generate infrastructure and network diagrams directly from your NixOS configurations
