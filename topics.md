@@ -197,6 +197,7 @@
 - [sql](#sql)
 - [sql-server](#sql-server)
 - [sqlite](#sqlite)
+- [stable-diffusion](#stable-diffusion)
 - [storybook](#storybook)
 - [sublime-text](#sublime-text)
 - [svelte](#svelte)
@@ -3484,7 +3485,6 @@
 - [samhh/dotfiles](https://github.com/samhh/dotfiles) - Configuring the universe with Nix.
 - [jmgilman/std-example](https://github.com/jmgilman/std-example) - An example repository showcasing the Nix std framework
 - [SaschaWillems/VulkanInfiniteProceduralTerrain](https://github.com/SaschaWillems/VulkanInfiniteProceduralTerrain) - Playground for doing procedurally infinite terrain rendering experiments with Vulkan
-- [Maks-s/sd-akashic](https://github.com/Maks-s/sd-akashic) - A compendium of informations regarding Stable Diffusion (SD)
 - [toonn/Nix-macOS-Monthly](https://github.com/toonn/Nix-macOS-Monthly) - Nix 🖤 macOS Monthly Discourse update posts
 - [srid/monorepo-nix-template](https://github.com/srid/monorepo-nix-template) - Make monorepos with Nix flakes
 - [DontShaveTheYak/cf2tf](https://github.com/DontShaveTheYak/cf2tf) - Convert Cloudformation templates to Terraform.
@@ -5460,6 +5460,10 @@
 - [saulpw/visidata](https://github.com/saulpw/visidata) - A terminal spreadsheet multitool for discovering and arranging data
 - [nocodb/nocodb](https://github.com/nocodb/nocodb) - 🔥 🔥 🔥 Open Source Airtable Alternative
 - [harelba/q](https://github.com/harelba/q) - q - Run SQL directly on delimited files and multi-file sqlite databases
+
+## stable-diffusion 
+
+- [Maks-s/sd-akashic](https://github.com/Maks-s/sd-akashic) - A compendium of informations regarding Stable Diffusion (SD)
 
 ## storybook 
 
