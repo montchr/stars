@@ -126,6 +126,7 @@
 
 ## C 
 
+- [getreuer/qmk-keymap](https://github.com/getreuer/qmk-keymap) - My keymap & reusable QMK gems
 - [WillPower3309/swayfx](https://github.com/WillPower3309/swayfx) - SwayFX: Sway, but with eye candy!
 - [FelixKratz/yabai](https://github.com/FelixKratz/yabai) - A tiling window manager for macOS based on binary space partitioning
 - [davidjo/snd_hda_macbookpro](https://github.com/davidjo/snd_hda_macbookpro) - Kernel audio driver for Macs with 8409 HDA chip + MAX98706/SSM3515 amps
@@ -1482,7 +1483,7 @@
 - [bertof/nix-rice](https://github.com/bertof/nix-rice) - A library to functionally define your configuration and theme (rice) with Nix
 - [RaubJo/hive](https://github.com/RaubJo/hive) - 
 - [figsoda/rand-nix](https://github.com/figsoda/rand-nix) - 🔥 Eval-time random number generator for Nix without IFD 🚀
-- [xddxdd/nixos-config](https://github.com/xddxdd/nixos-config) - 
+- [xddxdd/nixos-config](https://github.com/xddxdd/nixos-config) - Lan Tian's NixOS Configuration
 - [sioodmy/dotfiles](https://github.com/sioodmy/dotfiles) - Beautiful catppuccin themed NixOS configuration, with built in impermanence, full disk encryption and many more!
 - [flakelib/fl](https://github.com/flakelib/fl) - callPackage for Nix flakes
 - [musnix/musnix](https://github.com/musnix/musnix) - Real-time audio in NixOS
