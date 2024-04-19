@@ -3093,6 +3093,7 @@
 
 ## others 
 
+- [drashna/qmk_userspace](https://github.com/drashna/qmk_userspace) - Userspace for the open-source QMK keyboard firmware.
 - [getreuer/qmk-keymap](https://github.com/getreuer/qmk-keymap) - My keymap & reusable QMK gems
 - [bluskript/nix-inspect](https://github.com/bluskript/nix-inspect) - Interactive tui for inspecting nix configs
 - [woheller69/whoBIRD](https://github.com/woheller69/whoBIRD) - Android version of BirdNET-lite. Bird sound recognition for more than 6,000 species worldwide.
