@@ -239,7 +239,7 @@
 
 - [QuivrHQ/quivr](https://github.com/QuivrHQ/quivr) - Your GenAI Second Brain 🧠  A personal productivity assistant (RAG) ⚡️🤖 Chat with your docs (PDF, CSV, ...)  & apps using Langchain, GPT 3.5 / 4 turbo, Private, Anthropic, VertexAI, Ollama, LLMs, Groq 
 - [willwulfken/MidJourney-Styles-and-Keywords-Reference](https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference) - A reference containing Styles and Keywords that you can use with MidJourney AI. There are also pages showing resolution comparison, image weights, and much more!
-- [upscayl/upscayl](https://github.com/upscayl/upscayl) - 🆙 Upscayl - Free and Open Source AI Image Upscaler for Linux, MacOS and Windows built with Linux-First philosophy.
+- [upscayl/upscayl](https://github.com/upscayl/upscayl) - 🆙 Upscayl - #1 Free and Open Source AI Image Upscaler for Linux, MacOS and Windows.
 - [leon-ai/leon](https://github.com/leon-ai/leon) - 🧠 Leon is your open-source personal assistant.
 - [photoprism/photoprism](https://github.com/photoprism/photoprism) - AI-Powered Photos App for the Decentralized Web 🌈💎✨
 
@@ -1233,7 +1233,7 @@
 ## electron 
 
 - [IsmaelMartinez/teams-for-linux](https://github.com/IsmaelMartinez/teams-for-linux) - Unofficial Microsoft Teams for Linux client
-- [upscayl/upscayl](https://github.com/upscayl/upscayl) - 🆙 Upscayl - Free and Open Source AI Image Upscaler for Linux, MacOS and Windows built with Linux-First philosophy.
+- [upscayl/upscayl](https://github.com/upscayl/upscayl) - 🆙 Upscayl - #1 Free and Open Source AI Image Upscaler for Linux, MacOS and Windows.
 - [toeverything/AFFiNE](https://github.com/toeverything/AFFiNE) - There can be more than Notion and Miro. AFFiNE(pronounced [ə‘fain]) is a next-gen knowledge base that brings planning, sorting and creating all together. Privacy first, open-source, customizable and r
 - [ciderapp/Cider](https://github.com/ciderapp/Cider) - A new cross-platform Apple Music experience based on Electron and Vue.js written from scratch with performance in mind. 🚀
 - [zadam/trilium](https://github.com/zadam/trilium) - Build your personal knowledge base with Trilium Notes
@@ -1388,7 +1388,7 @@
 - [paulotome/emacstool](https://github.com/paulotome/emacstool) - Using Emacs Ediff as Git Merge/Difftool
 - [dcreemer/1pass](https://github.com/dcreemer/1pass) - A caching wrapper for the 1Password CLI
 - [ericdallo/dotfiles](https://github.com/ericdallo/dotfiles) - Dotfiles for my NixOS system based on Dracula theme
-- [universal-ctags/citre](https://github.com/universal-ctags/citre) - Ctags IDE on the True Editor
+- [universal-ctags/citre](https://github.com/universal-ctags/citre) - A superior code reading & auto-completion tool with pluggable backends.
 - [denisse-dev/dotfiles](https://github.com/denisse-dev/dotfiles) - :dragon_face: My Arch Linux config [i3-gaps + i3blocks + Zsh + Spacemacs + Rofi + Alacritty + Neofetch]
 - [org-roam/org-roam-ui](https://github.com/org-roam/org-roam-ui) - A graphical frontend for exploring your org-roam Zettelkasten
 - [mrkkrp/char-menu](https://github.com/mrkkrp/char-menu) - Create a menu for fast insertion of arbitrary symbols
@@ -3109,7 +3109,7 @@
 - [progfolio/auto-tangle-mode.el](https://github.com/progfolio/auto-tangle-mode.el) - Minor mode for tangling literate files on save
 - [karthink/repeat-help](https://github.com/karthink/repeat-help) - 
 - [karthink/.emacs.d](https://github.com/karthink/.emacs.d) - My personal emacs settings
-- [Genivia/ugrep](https://github.com/Genivia/ugrep) - NEW ugrep 5.1: an ultra fast, user-friendly, compatible grep. Ugrep combines the best features of other grep, adds new features, and searches fast. Includes a TUI and adds Google-like search, fuzzy se
+- [Genivia/ugrep](https://github.com/Genivia/ugrep) - ugrep 5.1: A more powerful, ultra fast, user-friendly, compatible grep. Includes a TUI, Google-like search, fuzzy search, hexdumps, searches (nested) archives (zip, 7z, tar, pax, cpio), compressed fil
 - [rougier/book-mode](https://github.com/rougier/book-mode) - A clean interface for org files (Emacs)
 - [orgzly-revived/orgzly-android-revived](https://github.com/orgzly-revived/orgzly-android-revived) - Outliner for taking notes and managing to-do lists
 - [VK3FNG/dnd5e-orgmode-charsheet](https://github.com/VK3FNG/dnd5e-orgmode-charsheet) - This is an Emacs org-mode character sheet with automatically calculated derived attributes. Pretty HTML stolen from https://github.com/fniessen/org-html-themes
@@ -3834,7 +3834,7 @@
 - [jxom/awesome-react-headless-components](https://github.com/jxom/awesome-react-headless-components) - Awesome list of React headless components!
 - [amanda-mitchell/suppress-eslint-errors](https://github.com/amanda-mitchell/suppress-eslint-errors) - Suppress existing violations of new eslint rules and get back to building stuff.
 - [emacsorphanage/applescript-mode](https://github.com/emacsorphanage/applescript-mode) - Emacs mode for editing AppleScript
-- [meisnate12/Plex-Meta-Manager](https://github.com/meisnate12/Plex-Meta-Manager) - Python script to update metadata information for items in plex as well as automatically build collections and playlists. The Wiki Documentation is linked below.
+- [Kometa-Team/Kometa](https://github.com/Kometa-Team/Kometa) - Python script to update metadata information for items in plex as well as automatically build collections and playlists. The Wiki Documentation is linked below.
 - [divnix/devos-ext-lib](https://github.com/divnix/devos-ext-lib) - A kick ass library to dominate your Extensions (with DevOS).
 - [kevinywlui/zlong_alert.zsh](https://github.com/kevinywlui/zlong_alert.zsh) - A plugin to alert you when a long-running command has finished
 - [reckenrode/nixos-configs](https://github.com/reckenrode/nixos-configs) - My NixOS and nix-darwin configs
