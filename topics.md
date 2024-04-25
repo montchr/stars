@@ -297,7 +297,7 @@
 
 - [trailofbits/algo](https://github.com/trailofbits/algo) - Set up a personal VPN in the cloud
 - [ChristianLempa/boilerplates](https://github.com/ChristianLempa/boilerplates) - This is my personal template collection. Here you'll find templates, and configurations for various tools, and technologies.
-- [roots/trellis](https://github.com/roots/trellis) - WordPress LEMP stack with PHP 8.1, Composer, WP-CLI and more
+- [roots/trellis](https://github.com/roots/trellis) - WordPress LEMP stack with PHP 8.2, Composer, WP-CLI and more
 - [khuedoan/homelab](https://github.com/khuedoan/homelab) - Modern self-hosting framework, fully automated from empty disk to operating services with a single command.
 - [MichaelCade/90DaysOfDevOps](https://github.com/MichaelCade/90DaysOfDevOps) - This repository started out as a learning in public project for myself and has now become a structured learning map for many in the community. We have 3 years under our belt covering all things DevOps
 - [saltyorg/Saltbox](https://github.com/saltyorg/Saltbox) - Ansible-based solution for rapidly deploying a Docker containerized cloud media server.
@@ -5777,7 +5777,7 @@
 ## vagrant 
 
 - [ChristianLempa/boilerplates](https://github.com/ChristianLempa/boilerplates) - This is my personal template collection. Here you'll find templates, and configurations for various tools, and technologies.
-- [roots/trellis](https://github.com/roots/trellis) - WordPress LEMP stack with PHP 8.1, Composer, WP-CLI and more
+- [roots/trellis](https://github.com/roots/trellis) - WordPress LEMP stack with PHP 8.2, Composer, WP-CLI and more
 - [Chassis/Chassis](https://github.com/Chassis/Chassis) - 📦  Chassis is a virtual server for your WordPress site, built using Vagrant.
 - [nix-community/nixbox](https://github.com/nix-community/nixbox) - NixOS Vagrant boxes [maintainer=@ifurther]
 - [bacongravy/macinbox](https://github.com/bacongravy/macinbox) - Puts macOS in a Vagrant box
@@ -6068,7 +6068,7 @@
 - [colbyfayock/next-wordpress-starter](https://github.com/colbyfayock/next-wordpress-starter) - 📝 Bring WordPress to the static world with Next.js
 - [lando/lando](https://github.com/lando/lando) - A development tool for all your projects that is fast, easy, powerful and liberating
 - [WebDevStudios/nextjs-wordpress-starter](https://github.com/WebDevStudios/nextjs-wordpress-starter) - A headless starter for WordPress powered by Next.js.
-- [roots/trellis](https://github.com/roots/trellis) - WordPress LEMP stack with PHP 8.1, Composer, WP-CLI and more
+- [roots/trellis](https://github.com/roots/trellis) - WordPress LEMP stack with PHP 8.2, Composer, WP-CLI and more
 - [wp-cli/entity-command](https://github.com/wp-cli/entity-command) - Manage WordPress comments, menus, options, posts, sites, terms, and users.
 - [typisttech/imposter-plugin](https://github.com/typisttech/imposter-plugin) - Composer plugin that wraps all composer vendor packages inside your own namespace. Intended for WordPress plugins.
 - [johnbillion/wp_mail](https://github.com/johnbillion/wp_mail) - Documentation for all the situations where WordPress core sends an email, how and when they happen, and how to filter or disable each one.
