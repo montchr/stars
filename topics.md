@@ -3101,6 +3101,8 @@
 
 ## others 
 
+- [OneDeadKey/kalamine](https://github.com/OneDeadKey/kalamine) - Keyboard Layout Maker
+- [OneDeadKey/arsenik](https://github.com/OneDeadKey/arsenik) - A 33-key layout that works with all keyboards.
 - [drashna/qmk_userspace](https://github.com/drashna/qmk_userspace) - Userspace for the open-source QMK keyboard firmware.
 - [getreuer/qmk-keymap](https://github.com/getreuer/qmk-keymap) - My keymap & reusable QMK gems
 - [bluskript/nix-inspect](https://github.com/bluskript/nix-inspect) - Interactive tui for inspecting nix configs
@@ -3116,7 +3118,7 @@
 - [progfolio/auto-tangle-mode.el](https://github.com/progfolio/auto-tangle-mode.el) - Minor mode for tangling literate files on save
 - [karthink/repeat-help](https://github.com/karthink/repeat-help) - 
 - [karthink/.emacs.d](https://github.com/karthink/.emacs.d) - My personal emacs settings
-- [Genivia/ugrep](https://github.com/Genivia/ugrep) - ugrep 5.1: A more powerful, ultra fast, user-friendly, compatible grep. Includes a TUI, Google-like search, fuzzy search, hexdumps, searches (nested) archives (zip, 7z, tar, pax, cpio), compressed fil
+- [Genivia/ugrep](https://github.com/Genivia/ugrep) - ugrep 5.1: A more powerful, ultra fast, user-friendly, compatible grep. Includes a TUI, Google-like Boolean search with AND/OR/NOT, fuzzy search, hexdumps, searches (nested) archives (zip, 7z, tar, pa
 - [rougier/book-mode](https://github.com/rougier/book-mode) - A clean interface for org files (Emacs)
 - [orgzly-revived/orgzly-android-revived](https://github.com/orgzly-revived/orgzly-android-revived) - Outliner for taking notes and managing to-do lists
 - [VK3FNG/dnd5e-orgmode-charsheet](https://github.com/VK3FNG/dnd5e-orgmode-charsheet) - This is an Emacs org-mode character sheet with automatically calculated derived attributes. Pretty HTML stolen from https://github.com/fniessen/org-html-themes
@@ -4046,7 +4048,6 @@
 - [infinisil/system](https://github.com/infinisil/system) - My system configuration
 - [puffnfresh/nix-files](https://github.com/puffnfresh/nix-files) - My NixOS configuration and custom Nix derivations.
 - [NixOS/nixos-hardware](https://github.com/NixOS/nixos-hardware) - A collection of NixOS modules covering hardware quirks.
-- [danderson/homelab](https://github.com/danderson/homelab) - 
 - [rvolosatovs/nixelium](https://github.com/rvolosatovs/nixelium) - Nix-powered Linux and Darwin systems
 - [cleverca22/not-os](https://github.com/cleverca22/not-os) - An operating system generator, based on NixOS, that, given a config, outputs a small (47 MB), read-only squashfs for a runit-based operating system, with support for iPXE and signed boot.
 - [ryantm/agenix](https://github.com/ryantm/agenix) - age-encrypted secrets for NixOS and Home manager
@@ -5052,6 +5053,7 @@
 
 ## robotics 
 
+- [abougouffa/minemacs](https://github.com/abougouffa/minemacs) - MinEmacs: a minimal Emacs configuration framework for daily use
 - [p-org/P](https://github.com/p-org/P) - The P programming language.
 
 ## ruby 
