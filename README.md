@@ -2656,6 +2656,7 @@
 - [swsnr/mdcat](https://github.com/swsnr/mdcat) - cat for markdown
 - [Deaftone/Deaftone](https://github.com/Deaftone/Deaftone) - Lightweight music server. With a clean and simple API
 - [Canop/rhit](https://github.com/Canop/rhit) - A nginx log explorer
+- [urbas/rix](https://github.com/urbas/rix) - Nix language interpreter.
 - [ast-grep/ast-grep](https://github.com/ast-grep/ast-grep) - ⚡A CLI tool for code structural search, lint and rewriting. Written in Rust
 - [Stranger6667/css-inline](https://github.com/Stranger6667/css-inline) - High-performance library for inlining CSS into HTML 'style' attributes
 - [parcel-bundler/lightningcss](https://github.com/parcel-bundler/lightningcss) - An extremely fast CSS parser, transformer, bundler, and minifier written in Rust.
@@ -3165,7 +3166,6 @@
 - [material-shell/material-shell](https://github.com/material-shell/material-shell) - A modern desktop interface for Linux. Improve your user experience and get rid of the anarchy of traditional desktop workflows. Designed to simplify navigation and reduce the need to manipulate window
 - [10up/headstartwp](https://github.com/10up/headstartwp) - Build a headless website fast with WordPress, the world’s most popular CMS, and Next.js, the most popular React framework. A free and open source solution by the experts at 10up.
 - [makeplane/plane](https://github.com/makeplane/plane) - 🔥 🔥 🔥 Open Source JIRA, Linear and Asana Alternative. Plane helps you track your issues, epics, and product roadmaps in the simplest way possible.
-- [urbas/rix](https://github.com/urbas/rix) - Nix language interpreter.
 - [unocss/unocss](https://github.com/unocss/unocss) - The instant on-demand atomic CSS engine.
 - [antfu/vscode-theme-vitesse](https://github.com/antfu/vscode-theme-vitesse) - 🏕 Vitesse theme for VS Code
 - [nix-community/nixt](https://github.com/nix-community/nixt) - Simple unit-testing for Nix [maintainer=@Lord-Valen]
