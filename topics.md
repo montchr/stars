@@ -3766,7 +3766,6 @@
 - [SystemCrafters/crafted-emacs](https://github.com/SystemCrafters/crafted-emacs) - A sensible base Emacs configuration.
 - [railwaycat/homebrew-emacsmacport](https://github.com/railwaycat/homebrew-emacsmacport) - Emacs mac port formulae for the Homebrew package manager
 - [jhenahan/dots](https://github.com/jhenahan/dots) - New Nix world
-- [tgunnoe/darktop](https://github.com/tgunnoe/darktop) - Cross platform, fully isolated desktop using Nix+wayland
 - [tgunnoe/nixos](https://github.com/tgunnoe/nixos) - System and application configurations
 - [CaptainSpof/dafos-old](https://github.com/CaptainSpof/dafos-old) - WIP · Here lies my shipwrecks. I mean fleet of hosts.
 - [djdallmann/GamingPCSetup](https://github.com/djdallmann/GamingPCSetup) - A research and evidence based approach to optimizing your gaming PC, configuration and setup. Recommendations found in this guide are based on curated reputable technical references, and personal rese
