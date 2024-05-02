@@ -1832,7 +1832,7 @@
 - [bouncetechnologies/Font-Smoothing-Adjuster](https://github.com/bouncetechnologies/Font-Smoothing-Adjuster) - Font Smoothing Adjuster is a tiny, native macOS app that lets you adjust your font smoothing preferences in a graphical user interface.
 - [MobileOrg/mobileorg](https://github.com/MobileOrg/mobileorg) - MobileOrg iPhone App
 - [toothbrush/debounce-mac](https://github.com/toothbrush/debounce-mac) - Frustrated that OS X doesn't have a simple software keyboard debouncer.  Here's my hack.
-- [dado3212/spaces-renamer](https://github.com/dado3212/spaces-renamer) - 💻 Ability to rename desktop spaces on macOS 10.10+ (NOT CURRENTLY WORKING ON 14.4)
+- [dado3212/spaces-renamer](https://github.com/dado3212/spaces-renamer) - 💻 Ability to rename desktop spaces on macOS 10.10+
 - [Hammerspoon/hammerspoon](https://github.com/Hammerspoon/hammerspoon) - Staggeringly powerful macOS desktop automation with Lua
 - [felixhageloh/uebersicht](https://github.com/felixhageloh/uebersicht) - ˈyːbɐˌzɪçt
 - [sveinbjornt/Platypus](https://github.com/sveinbjornt/Platypus) - Create native Mac applications from command line scripts.
