@@ -5970,6 +5970,7 @@
 
 ## wordpress 
 
+- [humanmade/S3-Uploads](https://github.com/humanmade/S3-Uploads) - The WordPress Plugin to Store Uploads on Amazon S3
 - [MWDelaney/lithify](https://github.com/MWDelaney/lithify) - WordPress plugin that adds a WP-CLI command to convert a traditional WordPress site into a Bedrock-style WordPress installation.
 - [bueltge/wordpress-multisite-enhancements](https://github.com/bueltge/wordpress-multisite-enhancements) - Enhance WordPress Multisite for Network Admins with different topics
 - [szepeviktor/safe-website-upgrade](https://github.com/szepeviktor/safe-website-upgrade) - Upgrade a website with comparing before and after state
