@@ -226,7 +226,7 @@
 
 ## C++ 
 
-- [Genivia/ugrep](https://github.com/Genivia/ugrep) - ugrep 5.1: A more powerful, ultra fast, user-friendly, compatible grep. Includes a TUI, Google-like Boolean search with AND/OR/NOT, fuzzy search, hexdumps, searches (nested) archives (zip, 7z, tar, pa
+- [Genivia/ugrep](https://github.com/Genivia/ugrep) - NEW ugrep 6.0: A more powerful, ultra fast, user-friendly, compatible grep. Includes a TUI, Google-like Boolean search with AND/OR/NOT, fuzzy search, hexdumps, searches (nested) archives (zip, 7z, tar
 - [Norbyte/bg3se](https://github.com/Norbyte/bg3se) - Baldur's Gate 3 Script Extender
 - [Martchus/syncthingtray](https://github.com/Martchus/syncthingtray) - Tray application and Dolphin/Plasma integration for Syncthing
 - [trapexit/mergerfs](https://github.com/trapexit/mergerfs) - a featureful union filesystem
@@ -1140,7 +1140,7 @@
 - [Xe/Xeact](https://github.com/Xe/Xeact) - A high performance, developer-efficient and overall ballin' femtoframework for productive development in Javascript
 - [bigskysoftware/_hyperscript](https://github.com/bigskysoftware/_hyperscript) - a small scripting language for the web
 - [yowainwright/stickybits](https://github.com/yowainwright/stickybits) - Stickybits is a lightweight alternative to `position: sticky` polyfills 🍬
-- [futil-js/futil-js](https://github.com/futil-js/futil-js) - F(unctional) util(ities). Resistance is futile.
+- [smartprocure/futil-js](https://github.com/smartprocure/futil-js) - F(unctional) util(ities). Resistance is futile.
 - [mantoni/eslint_d.js](https://github.com/mantoni/eslint_d.js) - Makes eslint the fastest linter on the planet
 - [amark/gun](https://github.com/amark/gun) - An open source cybersecurity protocol for syncing decentralized graph data.
 - [john-doherty/swiped-events](https://github.com/john-doherty/swiped-events) - Adds `swiped` events to the DOM in 1k of pure JavaScript
@@ -1526,7 +1526,6 @@
 - [cid-chan/urknall](https://github.com/cid-chan/urknall) - Nix Module System for Infrastructure Provisioning
 - [nix-community/noogle](https://github.com/nix-community/noogle) - https://noogle.dev - nix function exploring. [maintainer=@hsjobeki]
 - [nix-community/nixpkgs-terraform-providers-bin](https://github.com/nix-community/nixpkgs-terraform-providers-bin) - auto-updating terraform providers for nix [maintainer=@zimbatm]
-- [GTrunSec/std-ext](https://github.com/GTrunSec/std-ext) - 
 - [nix-community/robotnix](https://github.com/nix-community/robotnix) - Build Android (AOSP) using Nix [maintainer=@danielfullmer,@Atemu]
 - [Hoverbear-Consulting/flake](https://github.com/Hoverbear-Consulting/flake) - Company Nix expressions.
 - [paisano-nix/core](https://github.com/paisano-nix/core) - Standard's grow function family. Factorized.
@@ -1849,6 +1848,7 @@
 
 ## Others 
 
+- [WordPress/Advanced-administration-handbook](https://github.com/WordPress/Advanced-administration-handbook) - WordPress Advanced Administration Handbook. This handbook will have the most technical, general, documentation about WordPress.
 - [exakat/php-static-analysis-tools](https://github.com/exakat/php-static-analysis-tools) - A reviewed list of useful PHP static analysis tools
 - [montchr/c-games](https://github.com/montchr/c-games) - 
 - [TheRealDjmr/BG3ImprovedUI](https://github.com/TheRealDjmr/BG3ImprovedUI) - 
