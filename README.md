@@ -1861,7 +1861,7 @@
 - [laravel/docs](https://github.com/laravel/docs) - The Laravel documentation.
 - [Automattic/phpcs-neutron-ruleset](https://github.com/Automattic/phpcs-neutron-ruleset) - A phpcs meta-ruleset for WordPress development
 - [koekeishiya/meraki](https://github.com/koekeishiya/meraki) - Global shortcuts for macOS (coming soon™)
-- [zakirullin/cognitive-load](https://github.com/zakirullin/cognitive-load) - 🧠 Cognitive Load In Software Development
+- [zakirullin/cognitive-load](https://github.com/zakirullin/cognitive-load) - 🧠 Cognitive Load is what matters
 - [BillyDM/awesome-audio-dsp](https://github.com/BillyDM/awesome-audio-dsp) - My curated list of audio DSP and plugin development resources
 - [lg/yabai-and-skhd-highlighting](https://github.com/lg/yabai-and-skhd-highlighting) - yabai and skhd syntax highlighting for vscode
 - [smknstd/modern-php-cheatsheet](https://github.com/smknstd/modern-php-cheatsheet) - Cheatsheet for some PHP knowledge you will frequently encounter in modern projects.
@@ -2051,6 +2051,7 @@
 
 ## PHP 
 
+- [alleyinteractive/wp-type-extensions](https://github.com/alleyinteractive/wp-type-extensions) - 
 - [humanmade/S3-Uploads](https://github.com/humanmade/S3-Uploads) - The WordPress Plugin to Store Uploads on Amazon S3
 - [PHPCSStandards/PHP_CodeSniffer](https://github.com/PHPCSStandards/PHP_CodeSniffer) - PHP_CodeSniffer tokenizes PHP files and detects violations of a defined set of coding standards.
 - [MWDelaney/lithify](https://github.com/MWDelaney/lithify) - WordPress plugin that adds a WP-CLI command to convert a traditional WordPress site into a Bedrock-style WordPress installation.
