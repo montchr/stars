@@ -2066,7 +2066,6 @@
 - [evilmartians/lefthook](https://github.com/evilmartians/lefthook) - Fast and powerful Git hooks manager for any type of projects.
 - [Roave/BetterReflection](https://github.com/Roave/BetterReflection) - :crystal_ball: Better Reflection is a reflection API that aims to improve and provide more features than PHP's built-in reflection API.
 - [kubesphere/kubesphere](https://github.com/kubesphere/kubesphere) - The container platform tailored for Kubernetes multi-cloud, datacenter, and edge management ⎈ 🖥 ☁️
-- [backstage/backstage](https://github.com/backstage/backstage) - Backstage is an open platform for building developer portals
 - [AxeWP/wp-graphql-gravity-forms](https://github.com/AxeWP/wp-graphql-gravity-forms) - GraphQL API for interacting with Gravity Forms.
 - [adr/madr](https://github.com/adr/madr) - Markdown Architectural Decision Records
 - [searxng/searxng](https://github.com/searxng/searxng) - SearXNG is a free internet metasearch engine which aggregates results from various search services and databases. Users are neither tracked nor profiled.
@@ -3242,6 +3241,8 @@
 
 ## others 
 
+- [10up/MU-Migration](https://github.com/10up/MU-Migration) - This WP-CLI plugin makes the process of moving sites from single WordPress sites to a Multisite instance (or vice-versa) much easier. It exports everything into a zip package which can be used to auto
+- [drupol/ipc2023](https://github.com/drupol/ipc2023) - Sources of 'Leveraging Nix in the PHP ecosystem' presentation
 - [json-emacs/json-mode](https://github.com/json-emacs/json-mode) - Major mode for editing JSON files with emacs
 - [noctuid/annalist.el](https://github.com/noctuid/annalist.el) - Record and display information such as keybindings
 - [danijelcamdzic/dotemacs](https://github.com/danijelcamdzic/dotemacs) - Contains my Emacs configuration file (init.el)
@@ -3599,6 +3600,7 @@
 - [cloud-hypervisor/cloud-hypervisor](https://github.com/cloud-hypervisor/cloud-hypervisor) - A Virtual Machine Monitor for modern Cloud workloads. Features include CPU, memory and device hotplug, support for running Windows and Linux guests, device offload with vhost-user and a minimal compac
 - [SAML-Toolkits/php-saml](https://github.com/SAML-Toolkits/php-saml) - Simple SAML toolkit for PHP
 - [rust-lang/mdBook](https://github.com/rust-lang/mdBook) - Create book from markdown files. Like Gitbook but implemented in Rust
+- [backstage/backstage](https://github.com/backstage/backstage) - Backstage is an open framework for building developer portals
 - [onedr0p/exportarr](https://github.com/onedr0p/exportarr) - AIO Prometheus Exporter for Sabnzbd, Bazarr, Prowlarr, Lidarr, Readarr, Radarr, and Sonarr
 - [DavHau/pkgs-modules](https://github.com/DavHau/pkgs-modules) - The Ideal interface for configuring packages
 - [numtide/treefmt-nix](https://github.com/numtide/treefmt-nix) - treefmt nix configuration
