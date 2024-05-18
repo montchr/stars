@@ -1391,6 +1391,7 @@
 
 ## emacs 
 
+- [alphapapa/activities.el](https://github.com/alphapapa/activities.el) - Activities for Emacs (suspend and resume activities, i.e. frames/tabs and their windows, buffers)
 - [meedstrom/eva](https://github.com/meedstrom/eva) - Emacs-based Virtual Assistant
 - [dmille56/treesit-jump](https://github.com/dmille56/treesit-jump) - Jump around your source code in emacs using treesit and avy
 - [dgutov/diff-hl](https://github.com/dgutov/diff-hl) - Emacs package for highlighting uncommitted changes
@@ -3239,6 +3240,9 @@
 
 ## others 
 
+- [ericchiang/pup](https://github.com/ericchiang/pup) - Parsing HTML at the command line
+- [Icy-Thought/emacs.d](https://github.com/Icy-Thought/emacs.d) - A repository which contains emacs configurations I have used throughout the years.
+- [nicknovitski/nix-develop](https://github.com/nicknovitski/nix-develop) - 
 - [10up/MU-Migration](https://github.com/10up/MU-Migration) - This WP-CLI plugin makes the process of moving sites from single WordPress sites to a Multisite instance (or vice-versa) much easier. It exports everything into a zip package which can be used to auto
 - [drupol/ipc2023](https://github.com/drupol/ipc2023) - Sources of 'Leveraging Nix in the PHP ecosystem' presentation
 - [json-emacs/json-mode](https://github.com/json-emacs/json-mode) - Major mode for editing JSON files with emacs
