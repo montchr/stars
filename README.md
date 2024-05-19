@@ -383,6 +383,7 @@
 
 ## Emacs Lisp 
 
+- [Silex/elmacro](https://github.com/Silex/elmacro) - Package to display keyboard macros or latest interactive commands as emacs lisp.
 - [alphapapa/activities.el](https://github.com/alphapapa/activities.el) - Activities for Emacs (suspend and resume activities, i.e. frames/tabs and their windows, buffers)
 - [Icy-Thought/emacs.d](https://github.com/Icy-Thought/emacs.d) - A repository which contains emacs configurations I have used throughout the years.
 - [json-emacs/json-mode](https://github.com/json-emacs/json-mode) - Major mode for editing JSON files with emacs
@@ -916,6 +917,7 @@
 
 ## HTML 
 
+- [edwardtufte/et-book](https://github.com/edwardtufte/et-book) - A webfont of the typeface used in Edward Tufte’s books.
 - [ericchiang/pup](https://github.com/ericchiang/pup) - Parsing HTML at the command line
 - [VK3FNG/dnd5e-orgmode-charsheet](https://github.com/VK3FNG/dnd5e-orgmode-charsheet) - This is an Emacs org-mode character sheet with automatically calculated derived attributes. Pretty HTML stolen from https://github.com/fniessen/org-html-themes
 - [markmead/hyperjs](https://github.com/markmead/hyperjs) - HyperJS is a component library for Alpine JS allowing developers to quickly copy and paste functionality into their projects 🛵
