@@ -1391,6 +1391,7 @@
 
 ## emacs 
 
+- [Silex/elmacro](https://github.com/Silex/elmacro) - Package to display keyboard macros or latest interactive commands as emacs lisp.
 - [alphapapa/activities.el](https://github.com/alphapapa/activities.el) - Activities for Emacs (suspend and resume activities, i.e. frames/tabs and their windows, buffers)
 - [meedstrom/eva](https://github.com/meedstrom/eva) - Emacs-based Virtual Assistant
 - [dmille56/treesit-jump](https://github.com/dmille56/treesit-jump) - Jump around your source code in emacs using treesit and avy
@@ -3240,6 +3241,7 @@
 
 ## others 
 
+- [edwardtufte/et-book](https://github.com/edwardtufte/et-book) - A webfont of the typeface used in Edward Tufte’s books.
 - [ericchiang/pup](https://github.com/ericchiang/pup) - Parsing HTML at the command line
 - [Icy-Thought/emacs.d](https://github.com/Icy-Thought/emacs.d) - A repository which contains emacs configurations I have used throughout the years.
 - [nicknovitski/nix-develop](https://github.com/nicknovitski/nix-develop) - 
