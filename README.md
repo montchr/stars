@@ -287,6 +287,7 @@
 
 ## CSS 
 
+- [kognise/water.css](https://github.com/kognise/water.css) - A drop-in collection of CSS styles to make simple websites just a little nicer
 - [youknowriad/blockbook](https://github.com/youknowriad/blockbook) - Build and Share WordPress Blocks in Isolation.
 - [darrenjacoby/tailwindcss-fl](https://github.com/darrenjacoby/tailwindcss-fl) - TailwindCSS plugin to generate fluid utility classes using existing config
 - [Etesam913/rounded-fox](https://github.com/Etesam913/rounded-fox) - A userchrome css configuration for firefox that is ultra-minimalistic
@@ -383,6 +384,7 @@
 
 ## Emacs Lisp 
 
+- [minad/jinx](https://github.com/minad/jinx) - 🪄 Enchanted Spell Checker
 - [Silex/elmacro](https://github.com/Silex/elmacro) - Package to display keyboard macros or latest interactive commands as emacs lisp.
 - [alphapapa/activities.el](https://github.com/alphapapa/activities.el) - Activities for Emacs (suspend and resume activities, i.e. frames/tabs and their windows, buffers)
 - [Icy-Thought/emacs.d](https://github.com/Icy-Thought/emacs.d) - A repository which contains emacs configurations I have used throughout the years.
@@ -2060,6 +2062,7 @@
 
 ## PHP 
 
+- [syntatis/wp-hook](https://github.com/syntatis/wp-hook) - 🪝 WordPress hook with OOP flavor
 - [10up/MU-Migration](https://github.com/10up/MU-Migration) - This WP-CLI plugin makes the process of moving sites from single WordPress sites to a Multisite instance (or vice-versa) much easier. It exports everything into a zip package which can be used to auto
 - [alleyinteractive/wp-type-extensions](https://github.com/alleyinteractive/wp-type-extensions) - 
 - [humanmade/S3-Uploads](https://github.com/humanmade/S3-Uploads) - The WordPress Plugin to Store Uploads on Amazon S3
@@ -2641,6 +2644,7 @@
 
 ## Rust 
 
+- [StractOrg/stract](https://github.com/StractOrg/stract) - web search done right
 - [getzola/zola](https://github.com/getzola/zola) - A fast static site generator in a single binary with everything built-in. https://www.getzola.org
 - [hakoerber/git-repo-manager](https://github.com/hakoerber/git-repo-manager) - A git tool to manage worktrees and integrate with GitHub and GitLab
 - [bluskript/nix-inspect](https://github.com/bluskript/nix-inspect) - Interactive tui for inspecting nix configs
