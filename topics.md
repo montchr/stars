@@ -960,6 +960,7 @@
 
 ## css 
 
+- [kognise/water.css](https://github.com/kognise/water.css) - A drop-in collection of CSS styles to make simple websites just a little nicer
 - [yuschick/stylelint-plugin-defensive-css](https://github.com/yuschick/stylelint-plugin-defensive-css) - A Stylelint plugin for enforcing defensive CSS best practices.
 - [Stranger6667/css-inline](https://github.com/Stranger6667/css-inline) - High-performance library for inlining CSS into HTML 'style' attributes
 - [parcel-bundler/lightningcss](https://github.com/parcel-bundler/lightningcss) - An extremely fast CSS parser, transformer, bundler, and minifier written in Rust.
@@ -2023,6 +2024,7 @@
 
 ## hacktoberfest 
 
+- [kognise/water.css](https://github.com/kognise/water.css) - A drop-in collection of CSS styles to make simple websites just a little nicer
 - [LawnchairLauncher/lawnchair](https://github.com/LawnchairLauncher/lawnchair) - No clever tagline needed.
 - [wei/pull](https://github.com/wei/pull) - 🤖 Keep your forks up-to-date via automated PRs
 - [Martchus/syncthingtray](https://github.com/Martchus/syncthingtray) - Tray application and Dolphin/Plasma integration for Syncthing
@@ -3241,6 +3243,7 @@
 
 ## others 
 
+- [minad/jinx](https://github.com/minad/jinx) - 🪄 Enchanted Spell Checker
 - [edwardtufte/et-book](https://github.com/edwardtufte/et-book) - A webfont of the typeface used in Edward Tufte’s books.
 - [ericchiang/pup](https://github.com/ericchiang/pup) - Parsing HTML at the command line
 - [Icy-Thought/emacs.d](https://github.com/Icy-Thought/emacs.d) - A repository which contains emacs configurations I have used throughout the years.
@@ -5188,6 +5191,7 @@
 
 ## rust 
 
+- [StractOrg/stract](https://github.com/StractOrg/stract) - web search done right
 - [getzola/zola](https://github.com/getzola/zola) - A fast static site generator in a single binary with everything built-in. https://www.getzola.org
 - [hakoerber/git-repo-manager](https://github.com/hakoerber/git-repo-manager) - A git tool to manage worktrees and integrate with GitHub and GitLab
 - [YaLTeR/niri](https://github.com/YaLTeR/niri) - A scrollable-tiling Wayland compositor.
@@ -5997,6 +6001,7 @@
 
 ## web 
 
+- [StractOrg/stract](https://github.com/StractOrg/stract) - web search done right
 - [szepeviktor/running-laravel](https://github.com/szepeviktor/running-laravel) - Running Laraval framework-based web applications for long years 🪘
 - [szepeviktor/infrastructure-for-hosting-web-applications](https://github.com/szepeviktor/infrastructure-for-hosting-web-applications) - My policies on hosting anything web-related 💾
 - [nginx-shib/nginx-http-shibboleth](https://github.com/nginx-shib/nginx-http-shibboleth) - Shibboleth auth request module for nginx
@@ -6085,6 +6090,7 @@
 
 ## wordpress 
 
+- [syntatis/wp-hook](https://github.com/syntatis/wp-hook) - 🪝 WordPress hook with OOP flavor
 - [WordPress/Advanced-administration-handbook](https://github.com/WordPress/Advanced-administration-handbook) - WordPress Advanced Administration Handbook. This handbook will have the most technical, general, documentation about WordPress.
 - [humanmade/S3-Uploads](https://github.com/humanmade/S3-Uploads) - The WordPress Plugin to Store Uploads on Amazon S3
 - [MWDelaney/lithify](https://github.com/MWDelaney/lithify) - WordPress plugin that adds a WP-CLI command to convert a traditional WordPress site into a Bedrock-style WordPress installation.
