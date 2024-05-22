@@ -1392,6 +1392,8 @@
 
 ## emacs 
 
+- [howardabrams/hamacs](https://github.com/howardabrams/hamacs) - My personal VIM-like configuration of Emacs inspired by Doom and Spacemacs.
+- [mrvdb/emacs-config](https://github.com/mrvdb/emacs-config) - My Emacs configuration in org-babel format
 - [Silex/elmacro](https://github.com/Silex/elmacro) - Package to display keyboard macros or latest interactive commands as emacs lisp.
 - [alphapapa/activities.el](https://github.com/alphapapa/activities.el) - Activities for Emacs (suspend and resume activities, i.e. frames/tabs and their windows, buffers)
 - [meedstrom/eva](https://github.com/meedstrom/eva) - Emacs-based Virtual Assistant
@@ -3206,6 +3208,7 @@
 
 ## open-source 
 
+- [infinum/eightshift-boilerplate](https://github.com/infinum/eightshift-boilerplate) - This repository contains all the tools you need to start building a modern WordPress theme, using all the latest front end development tools.
 - [offa/android-foss](https://github.com/offa/android-foss) - A list of Free and Open Source Software (FOSS) for Android – saving Freedom and Privacy.
 - [F1bonacc1/process-compose](https://github.com/F1bonacc1/process-compose) - Process Compose is a simple and flexible scheduler and orchestrator to manage non-containerized applications.
 - [ciderapp/Cider](https://github.com/ciderapp/Cider) - A new cross-platform Apple Music experience based on Electron and Vue.js written from scratch with performance in mind. 🚀
@@ -3243,6 +3246,7 @@
 
 ## others 
 
+- [montchr/ceamx](https://github.com/montchr/ceamx) - 
 - [minad/jinx](https://github.com/minad/jinx) - 🪄 Enchanted Spell Checker
 - [edwardtufte/et-book](https://github.com/edwardtufte/et-book) - A webfont of the typeface used in Edward Tufte’s books.
 - [ericchiang/pup](https://github.com/ericchiang/pup) - Parsing HTML at the command line
@@ -3304,7 +3308,7 @@
 - [cloak-labs/cloakwp-workspace](https://github.com/cloak-labs/cloakwp-workspace) - An ecosystem of the best headless WordPress tooling.
 - [cloak-labs/cloakwp-bedrock](https://github.com/cloak-labs/cloakwp-bedrock) - A WordPress starter for CloakWP headless projects that extends the popular Bedrock boilerplate.
 - [chayleaf/nixos-router](https://github.com/chayleaf/nixos-router) - A NixOS router framework
-- [a-schaefers/spartan-emacs](https://github.com/a-schaefers/spartan-emacs) - Moved to Codeberg, https://codeberg.org/aesdef/spartan-emacs
+- [a-schaefers/spartan-emacs](https://github.com/a-schaefers/spartan-emacs) - Finally, a simple Emacs framework
 - [mohkale/all-the-icons-nerd-fonts](https://github.com/mohkale/all-the-icons-nerd-fonts) - Nerd font integration for all-the-icons
 - [karthink/popper](https://github.com/karthink/popper) - Emacs minor-mode to summon and dismiss buffers easily.
 - [davidjo/snd_hda_macbookpro](https://github.com/davidjo/snd_hda_macbookpro) - Kernel audio driver for Macs with 8409 HDA chip + MAX98706/SSM3515 amps
@@ -6090,6 +6094,7 @@
 
 ## wordpress 
 
+- [infinum/eightshift-boilerplate](https://github.com/infinum/eightshift-boilerplate) - This repository contains all the tools you need to start building a modern WordPress theme, using all the latest front end development tools.
 - [syntatis/wp-hook](https://github.com/syntatis/wp-hook) - 🪝 WordPress hook with OOP flavor
 - [WordPress/Advanced-administration-handbook](https://github.com/WordPress/Advanced-administration-handbook) - WordPress Advanced Administration Handbook. This handbook will have the most technical, general, documentation about WordPress.
 - [humanmade/S3-Uploads](https://github.com/humanmade/S3-Uploads) - The WordPress Plugin to Store Uploads on Amazon S3
