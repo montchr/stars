@@ -870,6 +870,7 @@
 
 ## clojure 
 
+- [phel-lang/phel-lang](https://github.com/phel-lang/phel-lang) - Phel is a functional programming language that transpiles to PHP. A Lisp dialect inspired by Clojure and Janet.
 - [abo-abo/lispy](https://github.com/abo-abo/lispy) - Short and sweet LISP editing
 - [logseq/logseq](https://github.com/logseq/logseq) - A privacy-first, open-source platform for knowledge management and collaboration. Download link:  http://github.com/logseq/logseq/releases. roadmap: http://trello.com/b/8txSM12G/roadmap
 
@@ -2544,6 +2545,7 @@
 
 ## language 
 
+- [phel-lang/phel-lang](https://github.com/phel-lang/phel-lang) - Phel is a functional programming language that transpiles to PHP. A Lisp dialect inspired by Clojure and Janet.
 - [AnySoftKeyboard/AnySoftKeyboard](https://github.com/AnySoftKeyboard/AnySoftKeyboard) - Android (f/w 2.1+) on screen keyboard for multiple languages.
 - [rant-lang/rant](https://github.com/rant-lang/rant) - Rant - The templating language for procedural generation.
 - [vito/bass](https://github.com/vito/bass) - a low fidelity scripting language for project infrastructure
@@ -2728,7 +2730,7 @@
 - [nyoom-engineering/nyoom.nvim](https://github.com/nyoom-engineering/nyoom.nvim) - A Neovim framework and doom emacs alternative for the stubborn martian hacker. Powered by fennel and the oxocarbon theme
 - [neovim/neovim](https://github.com/neovim/neovim) - Vim-fork focused on extensibility and usability
 - [NvChad/NvChad](https://github.com/NvChad/NvChad) - Blazing fast Neovim config providing solid defaults and a beautiful UI, enhancing your neovim experience.
-- [echasnovski/mini.nvim](https://github.com/echasnovski/mini.nvim) - Library of 35+ independent Lua modules improving overall Neovim (version 0.7 and higher) experience with minimal effort
+- [echasnovski/mini.nvim](https://github.com/echasnovski/mini.nvim) - Library of 40+ independent Lua modules improving overall Neovim (version 0.8 and higher) experience with minimal effort
 - [nvim-neorg/neorg](https://github.com/nvim-neorg/neorg) - Modernity meets insane extensibility. The future of organizing your life in Neovim.
 - [NTBBloodbath/cheovim](https://github.com/NTBBloodbath/cheovim) - Neovim configuration switcher written in Lua. Inspired by chemacs.
 - [crivotz/nv-ide](https://github.com/crivotz/nv-ide) - Neovim custom configuration, oriented for full stack developers (Ruby on Rails, ruby, php, html, css, SCSS, javascript)
@@ -3037,7 +3039,7 @@
 - [eepykate/polka](https://github.com/eepykate/polka) - 🐢 dotless files  (sponsored by https://git.io/kiwmi)
 - [EdenEast/nyx](https://github.com/EdenEast/nyx) - ⚙️Nix[OS] Configuration
 - [rockerBOO/awesome-neovim](https://github.com/rockerBOO/awesome-neovim) - Collections of awesome neovim plugins.
-- [echasnovski/mini.nvim](https://github.com/echasnovski/mini.nvim) - Library of 35+ independent Lua modules improving overall Neovim (version 0.7 and higher) experience with minimal effort
+- [echasnovski/mini.nvim](https://github.com/echasnovski/mini.nvim) - Library of 40+ independent Lua modules improving overall Neovim (version 0.8 and higher) experience with minimal effort
 - [gvolpe/nix-config](https://github.com/gvolpe/nix-config) - :space_invader: NixOS configuration
 - [nvim-neorg/neorg](https://github.com/nvim-neorg/neorg) - Modernity meets insane extensibility. The future of organizing your life in Neovim.
 - [disrupted/dotfiles](https://github.com/disrupted/dotfiles) - 👨🏻‍💻 My dotfiles including Neovim Lua config, ZSH with zinit plugin manager & powerlevel10k prompt
@@ -4690,6 +4692,7 @@
 
 ## php 
 
+- [phel-lang/phel-lang](https://github.com/phel-lang/phel-lang) - Phel is a functional programming language that transpiles to PHP. A Lisp dialect inspired by Clojure and Janet.
 - [exakat/php-static-analysis-tools](https://github.com/exakat/php-static-analysis-tools) - A reviewed list of useful PHP static analysis tools
 - [PHPCSStandards/PHP_CodeSniffer](https://github.com/PHPCSStandards/PHP_CodeSniffer) - PHP_CodeSniffer tokenizes PHP files and detects violations of a defined set of coding standards.
 - [loophp/nix-php-composer-builder](https://github.com/loophp/nix-php-composer-builder) - A PHP builder for Composer based projects
