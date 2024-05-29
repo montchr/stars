@@ -384,6 +384,8 @@
 
 ## Emacs Lisp 
 
+- [kickingvegas/casual-dired](https://github.com/kickingvegas/casual-dired) - Casual Dired - An opinionated porcelain for Emacs file manager Dired.
+- [kickingvegas/casual-avy](https://github.com/kickingvegas/casual-avy) - Casual Avy - An opinionated Transient menu for Avy.
 - [ichernyshovvv/enlight](https://github.com/ichernyshovvv/enlight) - Highly customizable startup screen for Emacs.
 - [ichernyshovvv/grid.el](https://github.com/ichernyshovvv/grid.el) - 
 - [montchr/ceamx](https://github.com/montchr/ceamx) - 
