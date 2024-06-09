@@ -2064,6 +2064,7 @@
 
 ## PHP 
 
+- [rcrowe/TwigBridge](https://github.com/rcrowe/TwigBridge) - Give the power of Twig to Laravel
 - [WordPress/wp-movies-demo](https://github.com/WordPress/wp-movies-demo) - Demo of the Interactivity API
 - [WordPress/wp-plugin-dependencies](https://github.com/WordPress/wp-plugin-dependencies) - WordPress Feature Project: Plugin Dependencies
 - [inpsyde/wp-app-container](https://github.com/inpsyde/wp-app-container) - DI Container and related tools to be used at website level.
@@ -2653,6 +2654,7 @@
 
 ## Rust 
 
+- [biomejs/biome](https://github.com/biomejs/biome) - A toolchain for web projects, aimed to provide functionalities to maintain them. Biome offers formatter and linter, usable via CLI and LSP.
 - [StractOrg/stract](https://github.com/StractOrg/stract) - web search done right
 - [getzola/zola](https://github.com/getzola/zola) - A fast static site generator in a single binary with everything built-in. https://www.getzola.org
 - [hakoerber/git-repo-manager](https://github.com/hakoerber/git-repo-manager) - A git tool to manage worktrees and integrate with GitHub and GitLab
