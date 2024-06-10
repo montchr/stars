@@ -1547,7 +1547,6 @@
 - [peel/dotfiles](https://github.com/peel/dotfiles) - well-tailored NixOS & nix-darwin dotfiles
 - [cmacrae/config](https://github.com/cmacrae/config) - A collection of machine configurations, expressed in Nix
 - [AndreaCrotti/yasnippet-snippets](https://github.com/AndreaCrotti/yasnippet-snippets) - a collection of yasnippet snippets for many languages
-- [isamert/jsdoc.el](https://github.com/isamert/jsdoc.el) - Insert JSDoc comments easily with Emacs
 - [MenkeTechnologies/zpwr](https://github.com/MenkeTechnologies/zpwr) - ZPWR =&gt; World's Most Advanced UNIX Terminal Environment
 - [sebastiencs/company-box](https://github.com/sebastiencs/company-box) - A company front-end with icons
 - [bbatsov/projectile](https://github.com/bbatsov/projectile) - Project Interaction Library for Emacs
@@ -2423,7 +2422,6 @@
 - [cryptpad/cryptpad](https://github.com/cryptpad/cryptpad) - Collaborative office suite, end-to-end encrypted and open-source.
 - [denoland/deno](https://github.com/denoland/deno) - A modern runtime for JavaScript and TypeScript.
 - [emacs-ng/emacs-ng](https://github.com/emacs-ng/emacs-ng) - A new approach to Emacs - Including TypeScript, Threading, Async I/O, and WebRender.
-- [isamert/jsdoc.el](https://github.com/isamert/jsdoc.el) - Insert JSDoc comments easily with Emacs
 - [pnpm/pnpm](https://github.com/pnpm/pnpm) - Fast, disk space efficient package manager
 - [niieani/hashids.js](https://github.com/niieani/hashids.js) - A small JavaScript library to generate YouTube-like ids from numbers.
 - [statico/dotfiles](https://github.com/statico/dotfiles) - :floppy_disk:  Ian's dotfiles, utils, and Zsh/Vim/tmux configs
