@@ -3243,6 +3243,7 @@
 
 ## others 
 
+- [yantar92/emacs-config](https://github.com/yantar92/emacs-config) - My personal Emacs configuration
 - [rcrowe/TwigBridge](https://github.com/rcrowe/TwigBridge) - Give the power of Twig to Laravel
 - [tubearchivist/tubearchivist](https://github.com/tubearchivist/tubearchivist) - Your self hosted YouTube media server
 - [yveszoundi/eglot-yaml](https://github.com/yveszoundi/eglot-yaml) - Yaml extension for the eglot LSP client
