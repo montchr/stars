@@ -1860,6 +1860,7 @@
 
 ## Others 
 
+- [yantar92/emacs-config](https://github.com/yantar92/emacs-config) - My personal Emacs configuration
 - [WordPress/Advanced-administration-handbook](https://github.com/WordPress/Advanced-administration-handbook) - WordPress Advanced Administration Handbook. This handbook will have the most technical, general, documentation about WordPress.
 - [exakat/php-static-analysis-tools](https://github.com/exakat/php-static-analysis-tools) - A reviewed list of useful PHP static analysis tools
 - [montchr/c-games](https://github.com/montchr/c-games) - 
