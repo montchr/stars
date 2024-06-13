@@ -924,6 +924,7 @@
 
 ## HTML 
 
+- [argyleink/open-props](https://github.com/argyleink/open-props) - CSS custom properties to help accelerate adaptive and consistent design.
 - [edwardtufte/et-book](https://github.com/edwardtufte/et-book) - A webfont of the typeface used in Edward Tufte’s books.
 - [ericchiang/pup](https://github.com/ericchiang/pup) - Parsing HTML at the command line
 - [VK3FNG/dnd5e-orgmode-charsheet](https://github.com/VK3FNG/dnd5e-orgmode-charsheet) - This is an Emacs org-mode character sheet with automatically calculated derived attributes. Pretty HTML stolen from https://github.com/fniessen/org-html-themes
@@ -1001,7 +1002,6 @@
 - [purenix-org/purenix](https://github.com/purenix-org/purenix) - Nix backend for PureScript.  Transpile PureScript code to Nix.
 - [balsoft/lambda-launcher](https://github.com/balsoft/lambda-launcher) - Application launcher in haskell. Mostly Just For Fun.
 - [maralorn/nix-output-monitor](https://github.com/maralorn/nix-output-monitor) - Pipe your nix-build output through the nix-output-monitor a.k.a nom to get additional information while building.
-- [fosskers/aura](https://github.com/fosskers/aura) - A secure, multilingual package manager for Arch Linux and the AUR.
 - [srid/emanote](https://github.com/srid/emanote) - Emanate a structured view of your plain-text notes
 - [xmonad/xmonad](https://github.com/xmonad/xmonad) - The core of xmonad, a small but functional ICCCM-compliant tiling window manager
 - [SimulaVR/Simula](https://github.com/SimulaVR/Simula) - Linux VR Desktop
@@ -2065,6 +2065,8 @@
 
 ## PHP 
 
+- [felixarntz/wp-oop-plugin-lib](https://github.com/felixarntz/wp-oop-plugin-lib) - A library providing classes around WordPress APIs, to be used for example in object oriented WordPress plugins.
+- [felixarntz/attachment-taxonomies](https://github.com/felixarntz/attachment-taxonomies) - This plugin adds categories and tags to the WordPress media library - lightweight and developer-friendly.
 - [rcrowe/TwigBridge](https://github.com/rcrowe/TwigBridge) - Give the power of Twig to Laravel
 - [WordPress/wp-movies-demo](https://github.com/WordPress/wp-movies-demo) - Demo of the Interactivity API
 - [WordPress/wp-plugin-dependencies](https://github.com/WordPress/wp-plugin-dependencies) - WordPress Feature Project: Plugin Dependencies
