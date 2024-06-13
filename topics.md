@@ -960,6 +960,7 @@
 
 ## css 
 
+- [argyleink/open-props](https://github.com/argyleink/open-props) - CSS custom properties to help accelerate adaptive and consistent design.
 - [biomejs/biome](https://github.com/biomejs/biome) - A toolchain for web projects, aimed to provide functionalities to maintain them. Biome offers formatter and linter, usable via CLI and LSP.
 - [kognise/water.css](https://github.com/kognise/water.css) - A drop-in collection of CSS styles to make simple websites just a little nicer
 - [yuschick/stylelint-plugin-defensive-css](https://github.com/yuschick/stylelint-plugin-defensive-css) - A Stylelint plugin for enforcing defensive CSS best practices.
@@ -1212,6 +1213,7 @@
 - [docsifyjs/docsify](https://github.com/docsifyjs/docsify) - 🃏 A magical documentation site generator.
 - [facebook/docusaurus](https://github.com/facebook/docusaurus) - Easy to maintain open source documentation websites.
 - [jenniferlynparsons/awesome-writing](https://github.com/jenniferlynparsons/awesome-writing) - An awesome list of information to help developers write better, kinder, more helpful documentation and learning materials
+- [joelparkerhenderson/architecture-decision-record](https://github.com/joelparkerhenderson/architecture-decision-record) - Architecture decision record (ADR) examples for software planning, IT leadership, and template documentation
 - [mermaid-js/mermaid](https://github.com/mermaid-js/mermaid) - Generation of diagrams like flowcharts or sequence diagrams from text in a similar manner as markdown
 - [nix-community/nixdoc](https://github.com/nix-community/nixdoc) - Tool to generate documentation for Nix library functions [maintainer=@infinisil]
 - [jsdoc2md/jsdoc-to-markdown](https://github.com/jsdoc2md/jsdoc-to-markdown) - Generate markdown documentation from jsdoc-annotated javascript
@@ -2236,7 +2238,6 @@
 - [purenix-org/purenix](https://github.com/purenix-org/purenix) - Nix backend for PureScript.  Transpile PureScript code to Nix.
 - [balsoft/lambda-launcher](https://github.com/balsoft/lambda-launcher) - Application launcher in haskell. Mostly Just For Fun.
 - [maralorn/nix-output-monitor](https://github.com/maralorn/nix-output-monitor) - Pipe your nix-build output through the nix-output-monitor a.k.a nom to get additional information while building.
-- [fosskers/aura](https://github.com/fosskers/aura) - A secure, multilingual package manager for Arch Linux and the AUR.
 - [srid/emanote](https://github.com/srid/emanote) - Emanate a structured view of your plain-text notes
 - [xmonad/xmonad](https://github.com/xmonad/xmonad) - The core of xmonad, a small but functional ICCCM-compliant tiling window manager
 - [cachix/cachix](https://github.com/cachix/cachix) - Command line client for Nix binary cache hosting:
@@ -3243,6 +3244,8 @@
 
 ## others 
 
+- [felixarntz/wp-oop-plugin-lib](https://github.com/felixarntz/wp-oop-plugin-lib) - A library providing classes around WordPress APIs, to be used for example in object oriented WordPress plugins.
+- [felixarntz/attachment-taxonomies](https://github.com/felixarntz/attachment-taxonomies) - This plugin adds categories and tags to the WordPress media library - lightweight and developer-friendly.
 - [yantar92/emacs-config](https://github.com/yantar92/emacs-config) - My personal Emacs configuration
 - [rcrowe/TwigBridge](https://github.com/rcrowe/TwigBridge) - Give the power of Twig to Laravel
 - [tubearchivist/tubearchivist](https://github.com/tubearchivist/tubearchivist) - Your self hosted YouTube media server
@@ -3938,7 +3941,6 @@
 - [Baughn/machine-config](https://github.com/Baughn/machine-config) - NixOS configuration for all my machines
 - [balsoft/nixos-config](https://github.com/balsoft/nixos-config) - Mirror of https://code.balsoft.ru/balsoft/nixos-config
 - [arachne-framework/architecture](https://github.com/arachne-framework/architecture) - Repository of Architecture Decision Records
-- [joelparkerhenderson/architecture-decision-record](https://github.com/joelparkerhenderson/architecture-decision-record) - Architecture decision record (ADR) examples for software planning, IT leadership, and template documentation
 - [yipengsun/nix-config](https://github.com/yipengsun/nix-config) - My NixOS/nix-darwin/home-manager config based on devos
 - [arnarg/pushnix](https://github.com/arnarg/pushnix) - Simple cli utility that pushes NixOS configuration and triggers a rebuild using ssh.
 - [jakoblind/webpack-autoconf](https://github.com/jakoblind/webpack-autoconf) - A tool to create frontend apps using webpack, Parcel or Snowpack
@@ -4665,7 +4667,6 @@
 - [flox/flox](https://github.com/flox/flox) - Developer environments you can take with you
 - [wbthomason/packer.nvim](https://github.com/wbthomason/packer.nvim) - A use-package inspired plugin manager for Neovim. Uses native packages, supports Luarocks dependencies, written in Lua, allows for expressive config
 - [volta-cli/volta](https://github.com/volta-cli/volta) - Volta: JS Toolchains as Code. ⚡
-- [fosskers/aura](https://github.com/fosskers/aura) - A secure, multilingual package manager for Arch Linux and the AUR.
 - [radian-software/straight.el](https://github.com/radian-software/straight.el) - 🍀 Next-generation, purely functional package manager for the Emacs hacker.
 - [zdharma-continuum/zinit](https://github.com/zdharma-continuum/zinit) - 🌻 Flexible and fast ZSH plugin manager
 - [agkozak/zcomet](https://github.com/agkozak/zcomet) - zcomet - Fast, Simple Zsh Plugin Manager
@@ -4880,6 +4881,7 @@
 
 - [makeplane/plane](https://github.com/makeplane/plane) - 🔥 🔥 🔥 Open Source JIRA, Linear and Asana Alternative. Plane helps you track your issues, epics, and product roadmaps in the simplest way possible.
 - [mark-when/markwhen](https://github.com/mark-when/markwhen) - Make a cascading timeline from markdown-like text. Supports simple American/European date styles, ISO8601, images, links, locations, and more.
+- [joelparkerhenderson/architecture-decision-record](https://github.com/joelparkerhenderson/architecture-decision-record) - Architecture decision record (ADR) examples for software planning, IT leadership, and template documentation
 - [bbatsov/projectile](https://github.com/bbatsov/projectile) - Project Interaction Library for Emacs
 - [200ok-ch/organice](https://github.com/200ok-ch/organice) - An implementation of Org mode without the dependency of Emacs - built for mobile and desktop browsers
 
