@@ -2064,6 +2064,7 @@
 
 ## PHP 
 
+- [kucrut/vite-for-wp](https://github.com/kucrut/vite-for-wp) - Vite integration for WordPress plugins and themes development.
 - [felixarntz/wp-oop-plugin-lib](https://github.com/felixarntz/wp-oop-plugin-lib) - A library providing classes around WordPress APIs, to be used for example in object oriented WordPress plugins.
 - [felixarntz/attachment-taxonomies](https://github.com/felixarntz/attachment-taxonomies) - This plugin adds categories and tags to the WordPress media library - lightweight and developer-friendly.
 - [rcrowe/TwigBridge](https://github.com/rcrowe/TwigBridge) - Give the power of Twig to Laravel
@@ -2429,7 +2430,7 @@
 - [Mic92/nix-fast-build](https://github.com/Mic92/nix-fast-build) - Combine the power of nix-eval-jobs with nix-output-monitor to speed-up your evaluation and building process.
 - [Arcticons-Team/Arcticons](https://github.com/Arcticons-Team/Arcticons) - A monotone line-based icon pack for android
 - [borgmatic-collective/borgmatic](https://github.com/borgmatic-collective/borgmatic) - Simple, configuration-driven backup software for servers and workstations
-- [QuivrHQ/quivr](https://github.com/QuivrHQ/quivr) - Your GenAI Second Brain 🧠  A personal productivity assistant (RAG) ⚡️🤖 Chat with your docs (PDF, CSV, ...)  & apps using Langchain, GPT 3.5 / 4 turbo, Private, Anthropic, VertexAI, Ollama, LLMs, Groq 
+- [QuivrHQ/quivr](https://github.com/QuivrHQ/quivr) - Open-source RAG Framework for building GenAI Second Brains 🧠  Build productivity assistant (RAG) ⚡️🤖 Chat with your docs (PDF, CSV, ...)  & apps using Langchain, GPT 3.5 / 4 turbo, Private, Anthropic,
 - [oar-team/nixos-compose](https://github.com/oar-team/nixos-compose) - Ease reproducible experiments of distributed systems
 - [smol-ai/developer](https://github.com/smol-ai/developer) - the first library to let you embed a developer agent in your own app!
 - [hwchase17/langchain-hub](https://github.com/hwchase17/langchain-hub) - 
