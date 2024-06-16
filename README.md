@@ -136,7 +136,6 @@
 - [amtoine/dotfiles](https://github.com/amtoine/dotfiles) - My personal archlinux config files.
 - [sz3/libcimbar](https://github.com/sz3/libcimbar) - Optimized implementation for color-icon-matrix barcodes
 - [curl/trurl](https://github.com/curl/trurl) - trurl is a command line tool for URL parsing and manipulation.
-- [gbprod/tree-sitter-twig](https://github.com/gbprod/tree-sitter-twig) - Twig grammar for Tree-sitter
 - [KaranAhlawat/tree-sitter-blade](https://github.com/KaranAhlawat/tree-sitter-blade) - [EXPERIMENTAL] A tree sitter grammar for the Blade templating language.
 - [koute/bytehound](https://github.com/koute/bytehound) - A memory profiler for Linux.
 - [leandromoreira/ffmpeg-libav-tutorial](https://github.com/leandromoreira/ffmpeg-libav-tutorial) - FFmpeg libav tutorial - learn how media works from basic to transmuxing, transcoding and more. Translations: 🇺🇸 🇨🇳 🇰🇷 🇪🇸 🇻🇳 🇧🇷
@@ -1066,6 +1065,7 @@
 - [KevinBatdorf/wavy-divider](https://github.com/KevinBatdorf/wavy-divider) - A WordPress block to add colorful creative wavy svg divider shapes
 - [nextcloud/integration_dropbox](https://github.com/nextcloud/integration_dropbox) - 🧊 Dropbox integration into Nextcloud
 - [10up/gutenberg-best-practices](https://github.com/10up/gutenberg-best-practices) - Welcome to the 10up Gutenberg Best Practices!
+- [gbprod/tree-sitter-twig](https://github.com/gbprod/tree-sitter-twig) - Twig grammar for Tree-sitter
 - [area17/tailwind-plugins](https://github.com/area17/tailwind-plugins) - A series of Tailwind plugins to enable/encourage systematised web design/development and some other useful utility classes.
 - [Automattic/block-experiments](https://github.com/Automattic/block-experiments) - A monorepo of Block Experiments
 - [gregsullivan/_tw-themejson](https://github.com/gregsullivan/_tw-themejson) - A Tailwind CSS plugin that automatically pulls colors and widths from a WordPress theme’s theme.json file
