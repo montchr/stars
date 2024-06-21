@@ -217,7 +217,7 @@
 - [rottytooth/rot8000](https://github.com/rottytooth/rot8000) - rot13 for the Unicode generation
 - [Prowlarr/Prowlarr](https://github.com/Prowlarr/Prowlarr) - 
 - [Sonarr/Sonarr](https://github.com/Sonarr/Sonarr) - Smart PVR for newsgroup and bittorrent users.
-- [bitwarden/server](https://github.com/bitwarden/server) - The core infrastructure backend (API, database, Docker, etc).
+- [bitwarden/server](https://github.com/bitwarden/server) - Bitwarden infrastructure/backend (API, database, Docker, etc).
 - [philipmat/discogs-xml2db](https://github.com/philipmat/discogs-xml2db) - Imports the discogs.com monthly XML dumps into databases
 - [Lidarr/Lidarr](https://github.com/Lidarr/Lidarr) - Looks and smells like Sonarr but made for music.
 - [Ombi-app/Ombi](https://github.com/Ombi-app/Ombi) - Want a Movie or TV Show on Plex/Emby/Jellyfin? Use Ombi!
@@ -1358,6 +1358,7 @@
 
 ## Just 
 
+- [kleinweb/php-coding-standards](https://github.com/kleinweb/php-coding-standards) - PHP coding standards rulesets used by the Klein College of Media and Communication at Temple University
 - [erebe/personal-server](https://github.com/erebe/personal-server) - Personal server configuration with k3s
 
 ## KakouneScript 
@@ -1512,7 +1513,6 @@
 - [nix-community/haumea](https://github.com/nix-community/haumea) - Filesystem-based module system for Nix [maintainer=@figsoda]
 - [divnix/std-data-collection](https://github.com/divnix/std-data-collection) - A collection of nixago configurations that you can use if you like them.
 - [schuelermine/xhmm](https://github.com/schuelermine/xhmm) - Extra home manager modules
-- [kleinweb/php-coding-standards](https://github.com/kleinweb/php-coding-standards) - PHP coding standards rulesets used by the Klein College of Media and Communication at Temple University
 - [dxmh/system-config](https://github.com/dxmh/system-config) - My macOS setup with nix and Homebrew, managed by nix-darwin
 - [Platonic-Systems/process-compose-flake](https://github.com/Platonic-Systems/process-compose-flake) - A `flake-parts` module to spin up processes for development by leveraging `process-compose`
 - [arcnmx/ci](https://github.com/arcnmx/ci) - CI helpers
@@ -1860,6 +1860,7 @@
 
 ## Others 
 
+- [dot-config/dot-config.github.io](https://github.com/dot-config/dot-config.github.io) - dot-config promotes use of .config folders for project level settings
 - [yantar92/emacs-config](https://github.com/yantar92/emacs-config) - My personal Emacs configuration
 - [WordPress/Advanced-administration-handbook](https://github.com/WordPress/Advanced-administration-handbook) - WordPress Advanced Administration Handbook. This handbook will have the most technical, general, documentation about WordPress.
 - [exakat/php-static-analysis-tools](https://github.com/exakat/php-static-analysis-tools) - A reviewed list of useful PHP static analysis tools
@@ -2064,6 +2065,9 @@
 
 ## PHP 
 
+- [Automattic/vip-block-data-api](https://github.com/Automattic/vip-block-data-api) - WordPress plugin that provides an API to retrieve Gutenberg content as structured JSON.
+- [ergebnis/composer-normalize](https://github.com/ergebnis/composer-normalize) - 🎵 Provides a composer plugin for normalizing composer.json.
+- [Automattic/VIP-Coding-Standards](https://github.com/Automattic/VIP-Coding-Standards) - PHP_CodeSniffer ruleset to enforce WordPress VIP coding standards.
 - [PHP-CS-Fixer/PHP-CS-Fixer](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer) - A tool to automatically fix PHP Coding Standards issues
 - [kucrut/vite-for-wp](https://github.com/kucrut/vite-for-wp) - Vite integration for WordPress plugins and themes development.
 - [felixarntz/wp-oop-plugin-lib](https://github.com/felixarntz/wp-oop-plugin-lib) - A library providing classes around WordPress APIs, to be used for example in object oriented WordPress plugins.
@@ -3288,7 +3292,7 @@
 - [ProtonMail/WebClients](https://github.com/ProtonMail/WebClients) - Monorepo hosting the proton web clients
 - [microsoft/tsdoc](https://github.com/microsoft/tsdoc) - A doc comment standard for TypeScript
 - [woutervh-/typescript-is](https://github.com/woutervh-/typescript-is) - 
-- [drwpow/openapi-typescript](https://github.com/drwpow/openapi-typescript) - Generate TypeScript types from OpenAPI 3 specs
+- [openapi-ts/openapi-typescript](https://github.com/openapi-ts/openapi-typescript) - Generate TypeScript types from OpenAPI 3 specs
 - [markdoc/markdoc](https://github.com/markdoc/markdoc) - A powerful, flexible, Markdown-based authoring framework.
 - [kamranahmedse/developer-roadmap](https://github.com/kamranahmedse/developer-roadmap) - Interactive roadmaps, guides and other educational content to help developers grow in their careers.
 - [facebook/docusaurus](https://github.com/facebook/docusaurus) - Easy to maintain open source documentation websites.
@@ -3333,7 +3337,6 @@
 - [react-hookz/web](https://github.com/react-hookz/web) - React hooks done right, for browser and SSR.
 - [cachix/cachix-action](https://github.com/cachix/cachix-action) - Build software only once and put it in a global cache
 - [rancher-sandbox/rancher-desktop](https://github.com/rancher-sandbox/rancher-desktop) - Container Management and Kubernetes on the Desktop
-- [transloadit/uppy](https://github.com/transloadit/uppy) - The next open source file uploader for web browsers :dog:
 - [alexnault/react-headings](https://github.com/alexnault/react-headings) - ⚛ Auto-increment your HTML headings (h1, h2, etc.) for improved accessibility and SEO.
 - [ariakit/ariakit](https://github.com/ariakit/ariakit) - Toolkit for building accessible web apps with React
 - [typescript-language-server/typescript-language-server](https://github.com/typescript-language-server/typescript-language-server) - TypeScript & JavaScript Language Server
