@@ -382,6 +382,7 @@
 
 ## Emacs Lisp 
 
+- [kickingvegas/casual-suite](https://github.com/kickingvegas/casual-suite) - Casual Suite - An umbrella package to support a single install point for all Casual porcelains.
 - [yveszoundi/eglot-yaml](https://github.com/yveszoundi/eglot-yaml) - Yaml extension for the eglot LSP client
 - [kickingvegas/casual-dired](https://github.com/kickingvegas/casual-dired) - Casual Dired - An opinionated Transient porcelain for Emacs file manager Dired.
 - [kickingvegas/casual-avy](https://github.com/kickingvegas/casual-avy) - Casual Avy - An opinionated Transient menu for Avy.
@@ -580,7 +581,6 @@
 - [tarsius/minions](https://github.com/tarsius/minions) - A minor-mode menu for the mode line
 - [pkazmier/doom-nebula-theme](https://github.com/pkazmier/doom-nebula-theme) - Doom Emacs theme based on the doom-vibrant theme with influence from the Modus themes.
 - [utrack/dotfiles](https://github.com/utrack/dotfiles) - My collection of dotfiles
-- [alexluigit/dirvish](https://github.com/alexluigit/dirvish) - A polished Dired with batteries included.
 - [seagle0128/.emacs.d](https://github.com/seagle0128/.emacs.d) - Centaur Emacs - A Fancy and Fast Emacs Configuration
 - [rougier/nano-modeline](https://github.com/rougier/nano-modeline) - GNU Emacs / N Λ N O Modeline
 - [rougier/notebook-mode](https://github.com/rougier/notebook-mode) - GNU Emacs notebook mode
@@ -2065,6 +2065,13 @@
 
 ## PHP 
 
+- [drupol/phpcsfixer-configs-php](https://github.com/drupol/phpcsfixer-configs-php) - Base PHP CS Fixer configurations.
+- [php-parallel-lint/PHP-Parallel-Lint](https://github.com/php-parallel-lint/PHP-Parallel-Lint) - This tool check syntax of PHP files faster than serial check with fancier output.
+- [marcosh/lamphpda](https://github.com/marcosh/lamphpda) - A collection of type-safe functional data structures
+- [alleyinteractive/create-wordpress-plugin](https://github.com/alleyinteractive/create-wordpress-plugin) - A skeleton repository for Alley's WordPress Plugins
+- [alleyinteractive/wp-curate](https://github.com/alleyinteractive/wp-curate) - WordPress Curation Plugin
+- [alleyinteractive/create-wordpress-project](https://github.com/alleyinteractive/create-wordpress-project) - A starter structure for the wp-content directory on a new WordPress project.
+- [alleyinteractive/wp-to-psr-4](https://github.com/alleyinteractive/wp-to-psr-4) - Migrate a WordPress Codebase to PSR-4
 - [Automattic/vip-block-data-api](https://github.com/Automattic/vip-block-data-api) - WordPress plugin that provides an API to retrieve Gutenberg content as structured JSON.
 - [ergebnis/composer-normalize](https://github.com/ergebnis/composer-normalize) - 🎵 Provides a composer plugin for normalizing composer.json.
 - [Automattic/VIP-Coding-Standards](https://github.com/Automattic/VIP-Coding-Standards) - PHP_CodeSniffer ruleset to enforce WordPress VIP coding standards.
@@ -2871,6 +2878,7 @@
 
 ## Shell 
 
+- [alleyinteractive/action-deploy-to-remote-repository](https://github.com/alleyinteractive/action-deploy-to-remote-repository) - Sync to remote repository via GitHub actions
 - [nicknovitski/nix-develop](https://github.com/nicknovitski/nix-develop) - 
 - [offa/android-foss](https://github.com/offa/android-foss) - A list of Free and Open Source Software (FOSS) for Android – saving Freedom and Privacy.
 - [MarioKnight/cPanel-wp-management](https://github.com/MarioKnight/cPanel-wp-management) - WordPress Management for cPanel Servers contains a series of scripts designed to easily manage WordPress sites server-wise as opposed to an individual basis.
