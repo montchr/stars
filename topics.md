@@ -745,6 +745,7 @@
 
 ## cli 
 
+- [chmln/sd](https://github.com/chmln/sd) - Intuitive find & replace CLI (sed alternative)
 - [PHPCSStandards/PHP_CodeSniffer](https://github.com/PHPCSStandards/PHP_CodeSniffer) - PHP_CodeSniffer tokenizes PHP files and detects violations of a defined set of coding standards.
 - [antifuchs/sonarr-plex-cleaner](https://github.com/antifuchs/sonarr-plex-cleaner) - Garbage-collect your "broadcatching" TV library by deleting seasons that Sonarr has fully downloaded and that are completely watched in Plex.
 - [emacs-eask/cli](https://github.com/emacs-eask/cli) - CLI for building, running, testing, and managing your Emacs Lisp dependencies
@@ -2595,6 +2596,7 @@
 
 ## learning 
 
+- [loophp/church-encoding](https://github.com/loophp/church-encoding) - Church encoding in PHP
 - [mdn/content](https://github.com/mdn/content) - The content behind MDN Web Docs
 - [gamontal/awesome-katas](https://github.com/gamontal/awesome-katas) - A curated list of code katas
 - [learn-anything/command-line-tools](https://github.com/learn-anything/command-line-tools) - Awesome Command Line Utilities
@@ -3253,6 +3255,7 @@
 
 ## others 
 
+- [temple-acm/site](https://github.com/temple-acm/site) - The Temple University ACM website.
 - [php-parallel-lint/PHP-Parallel-Lint](https://github.com/php-parallel-lint/PHP-Parallel-Lint) - This tool check syntax of PHP files faster than serial check with fancier output.
 - [alleyinteractive/create-wordpress-project](https://github.com/alleyinteractive/create-wordpress-project) - A starter structure for the wp-content directory on a new WordPress project.
 - [kickingvegas/casual-suite](https://github.com/kickingvegas/casual-suite) - Casual Suite - An umbrella package to support a single install point for all Casual porcelains.
@@ -5215,6 +5218,7 @@
 
 ## rust 
 
+- [chmln/sd](https://github.com/chmln/sd) - Intuitive find & replace CLI (sed alternative)
 - [StractOrg/stract](https://github.com/StractOrg/stract) - web search done right
 - [getzola/zola](https://github.com/getzola/zola) - A fast static site generator in a single binary with everything built-in. https://www.getzola.org
 - [hakoerber/git-repo-manager](https://github.com/hakoerber/git-repo-manager) - A git tool to manage worktrees and integrate with GitHub and GitLab
@@ -5683,6 +5687,7 @@
 
 ## terminal 
 
+- [chmln/sd](https://github.com/chmln/sd) - Intuitive find & replace CLI (sed alternative)
 - [eza-community/eza](https://github.com/eza-community/eza) - A modern, maintained replacement for ls
 - [termux/termux-app](https://github.com/termux/termux-app) - Termux - a terminal emulator application for Android OS extendible by variety of packages.
 - [swsnr/mdcat](https://github.com/swsnr/mdcat) - cat for markdown
