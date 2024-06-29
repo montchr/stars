@@ -127,6 +127,7 @@
 
 ## C 
 
+- [htop-dev/htop](https://github.com/htop-dev/htop) - htop - an interactive process viewer
 - [OneDeadKey/arsenik](https://github.com/OneDeadKey/arsenik) - A 33-key layout that works with all keyboards.
 - [drashna/qmk_userspace](https://github.com/drashna/qmk_userspace) - Userspace for the open-source QMK keyboard firmware.
 - [getreuer/qmk-keymap](https://github.com/getreuer/qmk-keymap) - My keymap & reusable QMK gems
@@ -1471,6 +1472,7 @@
 
 ## Nix 
 
+- [NixOS/nixos-wiki-infra](https://github.com/NixOS/nixos-wiki-infra) - This project contains the setup of https://wiki.nixos.org
 - [nix-community/nix-github-actions](https://github.com/nix-community/nix-github-actions) - A library to turn Nix Flake attribute sets into Github Actions matrices [maintainer=@adisbladis]
 - [numtide/nix-vm-test](https://github.com/numtide/nix-vm-test) - Re-use the NixOS VM test infrastructure to test Ubuntu, Debian, and Fedora machines.
 - [rasmus-kirk/nixarr](https://github.com/rasmus-kirk/nixarr) - The Media Server Nixos Module
@@ -2797,7 +2799,7 @@
 - [nix-community/nixpkgs-lint](https://github.com/nix-community/nixpkgs-lint) - A fast semantic linter for Nix using tree-sitter 🌳 + ❄️. [maintainers=@Artturin,@siraben]
 - [extrawurst/gitui](https://github.com/extrawurst/gitui) - Blazing 💥 fast terminal-ui for git written in rust 🦀
 - [DieracDelta/flake_generator](https://github.com/DieracDelta/flake_generator) - Generate Nix Flakes imperatively.
-- [nerdypepper/statix](https://github.com/nerdypepper/statix) - lints and suggestions for the nix programming language
+- [oppiliappan/statix](https://github.com/oppiliappan/statix) - lints and suggestions for the nix programming language
 - [snowfallorg/nix-editor](https://github.com/snowfallorg/nix-editor) - A simple rust program to edit NixOS configuration files with just a command
 - [zellij-org/zellij](https://github.com/zellij-org/zellij) - A terminal workspace with batteries included
 - [zhaofengli/colmena](https://github.com/zhaofengli/colmena) - A simple, stateless NixOS deployment tool
@@ -3433,7 +3435,7 @@
 
 - [ELLIOTTCABLE/System](https://github.com/ELLIOTTCABLE/System) - dotfiles, handy scripts, and new-system configuration stuff
 - [tpope/vim-sensible](https://github.com/tpope/vim-sensible) - sensible.vim: Defaults everyone can agree on
-- [nerdypepper/scientifica](https://github.com/nerdypepper/scientifica) - tall, condensed, bitmap font for geeks
+- [oppiliappan/scientifica](https://github.com/oppiliappan/scientifica) - tall, condensed, bitmap font for geeks
 - [neovim/neovim](https://github.com/neovim/neovim) - Vim-fork focused on extensibility and usability
 - [sei40kr/idea-doom-emacs](https://github.com/sei40kr/idea-doom-emacs) - Doom Emacs key bindings in IdeaVim
 - [Netherdrake/Dotfiles](https://github.com/Netherdrake/Dotfiles) - My [NeoVim + Tmux + Fish Shell] Setup /w install scripts
