@@ -1472,6 +1472,7 @@
 
 ## Nix 
 
+- [jim3692/server.nix](https://github.com/jim3692/server.nix) - A flake providing a framework for steamlined declarative management of NixOS containers and VMs
 - [NixOS/nixos-wiki-infra](https://github.com/NixOS/nixos-wiki-infra) - This project contains the setup of https://wiki.nixos.org
 - [nix-community/nix-github-actions](https://github.com/nix-community/nix-github-actions) - A library to turn Nix Flake attribute sets into Github Actions matrices [maintainer=@adisbladis]
 - [numtide/nix-vm-test](https://github.com/numtide/nix-vm-test) - Re-use the NixOS VM test infrastructure to test Ubuntu, Debian, and Fedora machines.
