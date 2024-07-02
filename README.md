@@ -383,6 +383,7 @@
 
 ## Emacs Lisp 
 
+- [kickingvegas/casual-calc](https://github.com/kickingvegas/casual-calc) - Casual Calc - An opinionated Transient porcelain for Emacs Calc.
 - [alphapapa/org-super-agenda](https://github.com/alphapapa/org-super-agenda) - Supercharge your Org daily/weekly agenda by grouping items
 - [kickingvegas/casual-suite](https://github.com/kickingvegas/casual-suite) - Casual Suite - An umbrella package to support a single install point for all Casual porcelains.
 - [yveszoundi/eglot-yaml](https://github.com/yveszoundi/eglot-yaml) - Yaml extension for the eglot LSP client
@@ -1472,6 +1473,7 @@
 
 ## Nix 
 
+- [numtide/blueprint](https://github.com/numtide/blueprint) - Nix without the glue code
 - [jim3692/server.nix](https://github.com/jim3692/server.nix) - A flake providing a framework for steamlined declarative management of NixOS containers and VMs
 - [NixOS/nixos-wiki-infra](https://github.com/NixOS/nixos-wiki-infra) - This project contains the setup of https://wiki.nixos.org
 - [nix-community/nix-github-actions](https://github.com/nix-community/nix-github-actions) - A library to turn Nix Flake attribute sets into Github Actions matrices [maintainer=@adisbladis]
@@ -2361,7 +2363,6 @@
 - [alleyinteractive/wp-irving](https://github.com/alleyinteractive/wp-irving) - WordPress companion plugin to develop on Irving.
 - [godbout/alfred-time](https://github.com/godbout/alfred-time) - Start and stop tracking time with Toggl, Harvest, Everhour or Clockify through Alfred 4. ⏰️
 - [spiritedmedia/redis-full-page-cache-purger](https://github.com/spiritedmedia/redis-full-page-cache-purger) - A WordPress plugin to purge keys from Redis when certain events happen. Pairs well with EasyEngine.
-- [StoutLogic/acf-builder](https://github.com/StoutLogic/acf-builder) - An Advanced Custom Field Configuration Builder
 - [htmlburger/carbon-fields](https://github.com/htmlburger/carbon-fields) - WordPress Custom Fields Library ✨
 - [CMB2/CMB2](https://github.com/CMB2/CMB2) - CMB2 is a developer's toolkit for building metaboxes, custom fields, and forms for WordPress that will blow your mind.
 - [sebastianbergmann/diff](https://github.com/sebastianbergmann/diff) - Diff implementation
@@ -2579,7 +2580,7 @@
 - [dschep/ntfy](https://github.com/dschep/ntfy) - 🖥️📱🔔 A utility for sending notifications, on demand and when commands finish.
 - [OfflineIMAP/imapfw](https://github.com/OfflineIMAP/imapfw) - imapfw (IMAP/mail framework)
 - [afewmail/afew](https://github.com/afewmail/afew) - an initial tagging script for notmuch mail
-- [gauteh/lieer](https://github.com/gauteh/lieer) - Fast email-fetching and sending and two-way tag synchronization between notmuch and GMail
+- [gauteh/lieer](https://github.com/gauteh/lieer) - Fast email-fetching, sending, and two-way tag synchronization between notmuch and GMail
 - [trailofbits/graphtage](https://github.com/trailofbits/graphtage) - A semantic diff utility and library for tree-like files such as JSON, JSON5, XML, HTML, YAML, and CSV.
 - [slavfox/Cozette](https://github.com/slavfox/Cozette) - A bitmap programming font optimized for coziness 💜
 - [searx/searx](https://github.com/searx/searx) - Privacy-respecting metasearch engine
@@ -2651,7 +2652,7 @@
 - [hack-different/apple-knowledge](https://github.com/hack-different/apple-knowledge) - A collection of reverse engineered Apple things, as well as a machine-readable database of Apple hardware
 - [railwaycat/homebrew-emacsmacport](https://github.com/railwaycat/homebrew-emacsmacport) - Emacs mac port formulae for the Homebrew package manager
 - [nix-community/vagrant-nixos-plugin](https://github.com/nix-community/vagrant-nixos-plugin) - Vagrant plugin to add nixos guest capabilities and nix provisioning [maintainer=@zimbatm]
-- [nix-community/nix-unstable-installer](https://github.com/nix-community/nix-unstable-installer) - A place to host Nix unstable releases [maintainer=@lilyinstarlight]
+- [nix-community/nix-unstable-installer](https://github.com/nix-community/nix-unstable-installer) - A place to host Nix unstable releases [unmaintained]
 - [bacongravy/macinbox](https://github.com/bacongravy/macinbox) - Puts macOS in a Vagrant box
 - [keepcosmos/terjira](https://github.com/keepcosmos/terjira) - Terjira is a very interactive and easy to use CLI tool for Jira.
 - [huginn/huginn](https://github.com/huginn/huginn) - Create agents that monitor and act on your behalf.  Your agents are standing by!
