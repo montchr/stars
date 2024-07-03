@@ -3260,6 +3260,9 @@
 
 ## others 
 
+- [alphapapa/org-web-tools](https://github.com/alphapapa/org-web-tools) - View, capture, and archive Web pages in Org-mode
+- [NixOS/nix-constitutional-assembly](https://github.com/NixOS/nix-constitutional-assembly) - Home of the Nix Constitutional Assembly, there to establish a community-based governance
+- [akirak/emacs-config](https://github.com/akirak/emacs-config) - A reproducible Emacs configuration for Linux, built with Nix
 - [numtide/blueprint](https://github.com/numtide/blueprint) - Nix without the glue code
 - [vinkla/extended-api](https://github.com/vinkla/extended-api) - Enhancing the WordPress REST API with advanced request and response objects. Work in progress.
 - [NixOS/nixos-wiki-infra](https://github.com/NixOS/nixos-wiki-infra) - This project contains the setup of https://wiki.nixos.org
@@ -3964,7 +3967,7 @@
 - [nix-community/nixos-install-scripts](https://github.com/nix-community/nixos-install-scripts) - collection of one-shot scripts to install NixOS on various server hosters and other hardware. [maintainer=@happysalada]
 - [benpye/launchd_shim](https://github.com/benpye/launchd_shim) - 
 - [nix-community/nix-straight.el](https://github.com/nix-community/nix-straight.el) - Low-level Nix integration to straight.el [maintainer=@ckiee]
-- [nix-community/nix-doom-emacs](https://github.com/nix-community/nix-doom-emacs) - doom-emacs packaged for Nix [maintainers=@ckiee,@thiagokokada]
+- [nix-community/nix-doom-emacs](https://github.com/nix-community/nix-doom-emacs) - doom-emacs packaged for Nix [maintainers=@thiagokokada]
 - [konrad1977/emacs](https://github.com/konrad1977/emacs) - My emacs configuration
 - [Baughn/machine-config](https://github.com/Baughn/machine-config) - NixOS configuration for all my machines
 - [balsoft/nixos-config](https://github.com/balsoft/nixos-config) - Mirror of https://code.balsoft.ru/balsoft/nixos-config
@@ -4282,7 +4285,6 @@
 - [nix-community/nix-unstable-installer](https://github.com/nix-community/nix-unstable-installer) - A place to host Nix unstable releases [unmaintained]
 - [nix-community/rnix-lsp](https://github.com/nix-community/rnix-lsp) - WIP Language Server for Nix! [maintainer=@aaronjanse]
 - [jwiegley/nix-config](https://github.com/jwiegley/nix-config) - My local Nix configuration
-- [Xe/nixos-configs](https://github.com/Xe/nixos-configs) - My NixOS configs
 - [jacobbednarz/j](https://github.com/jacobbednarz/j) - dotfiles; delivered via nix, nix-darwin and home-manager
 - [akinomyoga/mshex](https://github.com/akinomyoga/mshex) - Personal shell settings (aliases, functions, commands, shell options)
 - [akinomyoga/cxxmatrix](https://github.com/akinomyoga/cxxmatrix) - C++ Matrix: The Matrix Reloaded in Terminals (Number falls, Banners, Matrix rains, Conway's Game of Life and Mandelbrot set)
@@ -6132,6 +6134,7 @@
 
 ## wordpress 
 
+- [StoutLogic/acf-builder](https://github.com/StoutLogic/acf-builder) - An Advanced Custom Field Configuration Builder
 - [alleyinteractive/wp-plugin-loader](https://github.com/alleyinteractive/wp-plugin-loader) - Code-enabled WordPress plugin loading.
 - [alleyinteractive/create-wordpress-plugin](https://github.com/alleyinteractive/create-wordpress-plugin) - A skeleton repository for Alley's WordPress Plugins
 - [alleyinteractive/wp-curate](https://github.com/alleyinteractive/wp-curate) - WordPress Curation Plugin
