@@ -150,6 +150,7 @@
 - [Mic92/nix-ld](https://github.com/Mic92/nix-ld) - Run unpatched dynamic binaries on NixOS
 - [bvisness/SQLJam](https://github.com/bvisness/SQLJam) - A jam project exploring new ways of querying databases.
 - [ventoy/Ventoy](https://github.com/ventoy/Ventoy) - A new bootable USB solution.
+- [fairyglade/ly](https://github.com/fairyglade/ly) - display manager with console UI
 - [hpjansson/chafa](https://github.com/hpjansson/chafa) - 📺🗿 Terminal graphics for the 21st century.
 - [elFarto/nvidia-vaapi-driver](https://github.com/elFarto/nvidia-vaapi-driver) - A VA-API implemention using NVIDIA's NVDEC
 - [okbob/pspg](https://github.com/okbob/pspg) - Unix pager (with very rich functionality) designed for work with tables. Designed for PostgreSQL, but MySQL is supported too. Works well with pgcli too. Can be used as CSV or TSV viewer too. It suppor
@@ -383,6 +384,8 @@
 
 ## Emacs Lisp 
 
+- [alphapapa/org-web-tools](https://github.com/alphapapa/org-web-tools) - View, capture, and archive Web pages in Org-mode
+- [akirak/emacs-config](https://github.com/akirak/emacs-config) - A reproducible Emacs configuration for Linux, built with Nix
 - [kickingvegas/casual-calc](https://github.com/kickingvegas/casual-calc) - Casual Calc - An opinionated Transient porcelain for Emacs Calc.
 - [alphapapa/org-super-agenda](https://github.com/alphapapa/org-super-agenda) - Supercharge your Org daily/weekly agenda by grouping items
 - [kickingvegas/casual-suite](https://github.com/kickingvegas/casual-suite) - Casual Suite - An umbrella package to support a single install point for all Casual porcelains.
@@ -1688,7 +1691,7 @@
 - [DieracDelta/flakes](https://github.com/DieracDelta/flakes) - 
 - [hercules-ci/gitignore.nix](https://github.com/hercules-ci/gitignore.nix) - Nix functions for filtering local git sources
 - [nix-community/nix-straight.el](https://github.com/nix-community/nix-straight.el) - Low-level Nix integration to straight.el [maintainer=@ckiee]
-- [nix-community/nix-doom-emacs](https://github.com/nix-community/nix-doom-emacs) - doom-emacs packaged for Nix [maintainers=@ckiee,@thiagokokada]
+- [nix-community/nix-doom-emacs](https://github.com/nix-community/nix-doom-emacs) - doom-emacs packaged for Nix [maintainers=@thiagokokada]
 - [purcell/nix-emacs-ci](https://github.com/purcell/nix-emacs-ci) - Emacs builds for continuous integration
 - [yuanw/nix-home](https://github.com/yuanw/nix-home) - My Nix dotfiles on MacOS/NixOS
 - [ngi-nix/OSX-KVM](https://github.com/ngi-nix/OSX-KVM) - 
@@ -1815,7 +1818,6 @@
 - [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs) - Nix Packages collection & NixOS
 - [numtide/devshell](https://github.com/numtide/devshell) - Per project developer environments
 - [malob/nixpkgs](https://github.com/malob/nixpkgs) - My Nix system configs!
-- [Xe/nixos-configs](https://github.com/Xe/nixos-configs) - My NixOS configs
 - [jkachmar/dotnix](https://github.com/jkachmar/dotnix) - Shackled within an elaborate prison of my own design.
 - [jacobbednarz/j](https://github.com/jacobbednarz/j) - dotfiles; delivered via nix, nix-darwin and home-manager
 - [peel/dotfiles](https://github.com/peel/dotfiles) - well-tailored NixOS & nix-darwin dotfiles
@@ -1869,6 +1871,7 @@
 
 ## Others 
 
+- [NixOS/nix-constitutional-assembly](https://github.com/NixOS/nix-constitutional-assembly) - Home of the Nix Constitutional Assembly, there to establish a community-based governance
 - [dot-config/dot-config.github.io](https://github.com/dot-config/dot-config.github.io) - dot-config promotes use of .config folders for project level settings
 - [yantar92/emacs-config](https://github.com/yantar92/emacs-config) - My personal Emacs configuration
 - [WordPress/Advanced-administration-handbook](https://github.com/WordPress/Advanced-administration-handbook) - WordPress Advanced Administration Handbook. This handbook will have the most technical, general, documentation about WordPress.
@@ -2074,6 +2077,7 @@
 
 ## PHP 
 
+- [StoutLogic/acf-builder](https://github.com/StoutLogic/acf-builder) - An Advanced Custom Field Configuration Builder
 - [vinkla/extended-api](https://github.com/vinkla/extended-api) - Enhancing the WordPress REST API with advanced request and response objects. Work in progress.
 - [alleyinteractive/wp-plugin-loader](https://github.com/alleyinteractive/wp-plugin-loader) - Code-enabled WordPress plugin loading.
 - [loophp/church-encoding](https://github.com/loophp/church-encoding) - Church encoding in PHP
@@ -3481,7 +3485,6 @@
 ## Zig 
 
 - [water-sucks/nixos](https://github.com/water-sucks/nixos) - A unified NixOS tooling replacement for nixos-* utilities
-- [fairyglade/ly](https://github.com/fairyglade/ly) - display manager with console UI
 
 
 ## License
