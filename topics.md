@@ -3261,6 +3261,10 @@
 
 ## others 
 
+- [recyclarr/recyclarr](https://github.com/recyclarr/recyclarr) - Automatically sync TRaSH Guides to your Sonarr and Radarr instances
+- [WordPress/book](https://github.com/WordPress/book) - Our book about WordPress. Version 1
+- [cheusov/dictd](https://github.com/cheusov/dictd) - Client/server software, human language dictionary databases, and tools supporting the DICT protocol (RFC 2229)
+- [SUPERCILEX/gnome-clipboard-history](https://github.com/SUPERCILEX/gnome-clipboard-history) - Gnome Clipboard History is a clipboard manager Gnome extension that saves what you've copied into an easily accessible, searchable history panel.
 - [alphapapa/org-web-tools](https://github.com/alphapapa/org-web-tools) - View, capture, and archive Web pages in Org-mode
 - [NixOS/nix-constitutional-assembly](https://github.com/NixOS/nix-constitutional-assembly) - Home of the Nix Constitutional Assembly, there to establish a community-based governance
 - [akirak/emacs-config](https://github.com/akirak/emacs-config) - A reproducible Emacs configuration for Linux, built with Nix
@@ -3562,7 +3566,7 @@
 - [keyboardio/Kaleidoscope](https://github.com/keyboardio/Kaleidoscope) - Firmware for Keyboardio keyboards and other keyboards with AVR or ARM MCUs.
 - [hsjobeki/nix-types](https://github.com/hsjobeki/nix-types) - nix-types | type hints for nix
 - [progfolio/.emacs.d](https://github.com/progfolio/.emacs.d) - Emacs literate config
-- [terlar/emacs-config](https://github.com/terlar/emacs-config) - Emacs configuration
+- [terlar/emacs-config](https://github.com/terlar/emacs-config) - GNU Emacs configuration
 - [nix-community/vscode-nix-ide](https://github.com/nix-community/vscode-nix-ide) - Nix language support for VSCode editor [maintainer: @jnoortheen]
 - [leandromoreira/ffmpeg-libav-tutorial](https://github.com/leandromoreira/ffmpeg-libav-tutorial) - FFmpeg libav tutorial - learn how media works from basic to transmuxing, transcoding and more. Translations: 🇺🇸 🇨🇳 🇰🇷 🇪🇸 🇻🇳 🇧🇷
 - [vimeo/player.js](https://github.com/vimeo/player.js) - Interact with and control an embedded Vimeo Player.
@@ -4515,7 +4519,6 @@
 - [andersfischernielsen/Traktor-Transition-Finder](https://github.com/andersfischernielsen/Traktor-Transition-Finder) - A tool for automatically finding the next song(s) to play when DJing using Traktor Pro.
 - [jcs/twitframe](https://github.com/jcs/twitframe) - Website data for twitframe.com
 - [spiritedmedia/redis-full-page-cache-purger](https://github.com/spiritedmedia/redis-full-page-cache-purger) - A WordPress plugin to purge keys from Redis when certain events happen. Pairs well with EasyEngine.
-- [htmlburger/carbon-fields](https://github.com/htmlburger/carbon-fields) - WordPress Custom Fields Library ✨
 - [sebastianbergmann/diff](https://github.com/sebastianbergmann/diff) - Diff implementation
 - [rollup/rollup](https://github.com/rollup/rollup) - Next-generation ES module bundler
 - [deanishe/alfred-gifs](https://github.com/deanishe/alfred-gifs) - Say it with GIFs (and Alfred)
