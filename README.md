@@ -386,6 +386,7 @@
 
 ## Emacs Lisp 
 
+- [kanru/uuidgen-el](https://github.com/kanru/uuidgen-el) - UUID generation implemented in elisp.
 - [minad/marginalia](https://github.com/minad/marginalia) - :scroll: marginalia.el - Marginalia in the minibuffer
 - [protesilaos/modus-themes](https://github.com/protesilaos/modus-themes) - Highly accessible themes for GNU Emacs, conforming with the highest standard for colour contrast between background and foreground values (WCAG AAA).
 - [realgud/realgud-xdebug](https://github.com/realgud/realgud-xdebug) - PHP xdebug debugger support in emacs realgud
