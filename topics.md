@@ -3268,6 +3268,7 @@
 
 ## others 
 
+- [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) - Wimpy's NixOS  & Home Manager Configurations ❄️
 - [kanru/uuidgen-el](https://github.com/kanru/uuidgen-el) - UUID generation implemented in elisp.
 - [alleyinteractive/action-deploy-to-server](https://github.com/alleyinteractive/action-deploy-to-server) - This GitHub action should facilitate deploying to remote server locations via rsync.
 - [andir/npins](https://github.com/andir/npins) - Nix dependency pinning. Very similar to Niv but has a few features that I personally wanted.
@@ -6241,7 +6242,7 @@
 - [a-ahandani/remixpress](https://github.com/a-ahandani/remixpress) - ✏ RemixPress is a presentation layer built with React, Remix, MUI and GraphQl that works with Wordress as a headless CMS
 - [wpscanteam/wpscan](https://github.com/wpscanteam/wpscan) - WPScan WordPress security scanner. Written for security professionals and blog maintainers to test the security of their WordPress websites. Contact us via contact@wpscan.com
 - [humanmade/wp-simple-saml](https://github.com/humanmade/wp-simple-saml) - WordPress Simple SAML plugin
-- [roots/wordpress](https://github.com/roots/wordpress) - Automatically updated WordPress composer package
+- [roots/wordpress](https://github.com/roots/wordpress) - Automatically updated WordPress Composer package
 - [roots/bedrock-autoloader](https://github.com/roots/bedrock-autoloader) - Bedrock Autoloader enables standard plugins to be required just like must-use plugins
 - [carlalexander/passwords-evolved](https://github.com/carlalexander/passwords-evolved) - WordPress password authentication for the modern era
 - [rtCamp/wp-decoupled](https://github.com/rtCamp/wp-decoupled) - Next.js app with WPGraphQL and WordPress at the backend.
