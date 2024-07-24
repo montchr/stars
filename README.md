@@ -2089,6 +2089,7 @@
 
 ## PHP 
 
+- [pantheon-systems/wp-saml-auth](https://github.com/pantheon-systems/wp-saml-auth) - Rock-solid SAML authentication for WordPress built on a modern foundation.
 - [PHP-DI/PHP-DI](https://github.com/PHP-DI/PHP-DI) - The dependency injection container for humans
 - [shipmonk-rnd/composer-dependency-analyser](https://github.com/shipmonk-rnd/composer-dependency-analyser) - 🚀 Fast detection of composer dependency issues (unused dependencies, shadow dependencies, misplaced dependencies)
 - [lucatume/di52](https://github.com/lucatume/di52) - The dependency injection container for streamlined WordPress development. Easily manage and inject dependencies for efficient and hassle-free app creation.
