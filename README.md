@@ -2715,7 +2715,7 @@
 - [MolotovCherry/Yet-Another-BG3-Native-Mod-Loader](https://github.com/MolotovCherry/Yet-Another-BG3-Native-Mod-Loader) - A mod loader for Baldur's Gate 3
 - [MolotovCherry/Native-Plugin-Template-Rust](https://github.com/MolotovCherry/Native-Plugin-Template-Rust) - A rust template for creating native dll plugins that edit game memory
 - [nix-community/docnix](https://github.com/nix-community/docnix) - nix-community reference documentation (until officially released) [maintainer=@hsjobeki]
-- [eza-community/eza](https://github.com/eza-community/eza) - A modern, maintained replacement for ls
+- [eza-community/eza](https://github.com/eza-community/eza) - A modern alternative to ls
 - [bahlo/arne.me](https://github.com/bahlo/arne.me) - My personal website
 - [helix-editor/nucleo](https://github.com/helix-editor/nucleo) - A fast and convenient fuzzy matcher library for rust
 - [srid/nixci](https://github.com/srid/nixci) - Define and build CI for Nix projects anywhere
