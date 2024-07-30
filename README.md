@@ -386,6 +386,7 @@
 
 ## Emacs Lisp 
 
+- [kickingvegas/casual-bookmarks](https://github.com/kickingvegas/casual-bookmarks) - An opinionated Transient-based porcelain for the Emacs bookmark list.
 - [kanru/uuidgen-el](https://github.com/kanru/uuidgen-el) - UUID generation implemented in elisp.
 - [minad/marginalia](https://github.com/minad/marginalia) - :scroll: marginalia.el - Marginalia in the minibuffer
 - [protesilaos/modus-themes](https://github.com/protesilaos/modus-themes) - Highly accessible themes for GNU Emacs, conforming with the highest standard for colour contrast between background and foreground values (WCAG AAA).
@@ -2467,6 +2468,7 @@
 
 ## Python 
 
+- [FlareSolverr/FlareSolverr](https://github.com/FlareSolverr/FlareSolverr) - Proxy server to bypass Cloudflare protection
 - [KurtBestor/Hitomi-Downloader](https://github.com/KurtBestor/Hitomi-Downloader) - :cake: Desktop utility to download images/videos/music/text from various websites, and more.
 - [copier-org/copier](https://github.com/copier-org/copier) - Library and command-line utility for rendering projects templates.
 - [albertomosconi/foss-apps](https://github.com/albertomosconi/foss-apps) - a list of 100+ awesome open source android apps 📱
@@ -2861,6 +2863,7 @@
 - [Mic92/cntr](https://github.com/Mic92/cntr) - A container debugging tool based on FUSE
 - [Velfi/i-ching](https://github.com/Velfi/i-ching) - A library for i-ching apps written in Rust, and a companion CLI app for divination
 - [crossterm-rs/crossterm](https://github.com/crossterm-rs/crossterm) - Cross platform terminal library rust
+- [mTvare6/hello-world.rs](https://github.com/mTvare6/hello-world.rs) - 🚀Memory safe, blazing fast, configurable, minimal hello world written in rust(🚀) in a few lines of code with few(1092🚀) dependencies🚀
 - [dani-garcia/vaultwarden](https://github.com/dani-garcia/vaultwarden) - Unofficial Bitwarden compatible server written in Rust, formerly known as bitwarden_rs
 - [yaa110/nomino](https://github.com/yaa110/nomino) - Batch rename utility for developers
 - [tonarino/innernet](https://github.com/tonarino/innernet) - A private network system that uses WireGuard under the hood.
@@ -3122,7 +3125,7 @@
 - [kenorb/dotfiles](https://github.com/kenorb/dotfiles) - Various configuration files for shell.
 - [konstruktoid/hardening](https://github.com/konstruktoid/hardening) - Hardening Ubuntu. Systemd edition.
 - [hetzneronline/installimage](https://github.com/hetzneronline/installimage) - Bash scripts to universally deploy various distributions
-- [olets/zsh-abbr](https://github.com/olets/zsh-abbr) - The zsh manager for auto-expanding abbreviations, inspired by fish. ~13,000 unique cloners as of May '24, 580+ Homebrew installs 6/23-6/24
+- [olets/zsh-abbr](https://github.com/olets/zsh-abbr) - The zsh manager for auto-expanding abbreviations, inspired by fish. ~18,000 unique cloners as of July '24, 700+ Homebrew installs 7/23-7/24
 - [base16-manager/base16-manager](https://github.com/base16-manager/base16-manager) - A command line tool to install base16 templates and set themes globally.
 - [rainglow/jetbrains](https://github.com/rainglow/jetbrains) - 320+ color themes for JetBrains IDEs including PHPStorm, Webstorm and more.
 - [asdf-community/asdf-direnv](https://github.com/asdf-community/asdf-direnv) - direnv plugin for the asdf version manager
