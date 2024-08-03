@@ -2793,6 +2793,7 @@
 ## macos 
 
 - [jtroo/kanata](https://github.com/jtroo/kanata) - Improve keyboard comfort and usability with advanced customization
+- [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) - Wimpy's NixOS, nix-darwin  & Home Manager Configurations ❄️
 - [htop-dev/htop](https://github.com/htop-dev/htop) - htop - an interactive process viewer
 - [nikolaeu/numi](https://github.com/nikolaeu/numi) - Beautiful calculator app for macOS, Linux & Windows
 - [bertof/nix-rice](https://github.com/bertof/nix-rice) - A library to functionally define your configuration and theme (rice) with Nix
@@ -3276,7 +3277,6 @@
 - [xenodium/ready-player](https://github.com/xenodium/ready-player) - 
 - [PneumaSolutions/shib-sp](https://github.com/PneumaSolutions/shib-sp) - Containerized Shibboleth SP
 - [kickingvegas/casual-bookmarks](https://github.com/kickingvegas/casual-bookmarks) - An opinionated Transient-based porcelain for the Emacs bookmark list.
-- [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) - Wimpy's NixOS  & Home Manager Configurations ❄️
 - [kanru/uuidgen-el](https://github.com/kanru/uuidgen-el) - UUID generation implemented in elisp.
 - [alleyinteractive/action-deploy-to-server](https://github.com/alleyinteractive/action-deploy-to-server) - This GitHub action should facilitate deploying to remote server locations via rsync.
 - [andir/npins](https://github.com/andir/npins) - Nix dependency pinning. Very similar to Niv but has a few features that I personally wanted.
@@ -3439,7 +3439,7 @@
 - [casouri/vundo](https://github.com/casouri/vundo) - Visualize the undo tree.
 - [astro/skyflake](https://github.com/astro/skyflake) - NixOS Hyperconverged Infrastructure on Nomad/NixOS
 - [oddlama/agenix-rekey](https://github.com/oddlama/agenix-rekey) - An agenix extension adding secret generation and automatic rekeying using a YubiKey or master-identity
-- [nix-community/nixd](https://github.com/nix-community/nixd) - Nix language server, based on nix libraries [maintainer=@inclyc]
+- [nix-community/nixd](https://github.com/nix-community/nixd) - Nix language server, based on nix libraries [maintainer=@inclyc,@Aleksanaa]
 - [Crell/fp](https://github.com/Crell/fp) - Utilities for functional tasks in PHP, especially pipelining
 - [Crell/php-project-template](https://github.com/Crell/php-project-template) - My personal template for new PHP projects.
 - [pondersson/org-bulletproof](https://github.com/pondersson/org-bulletproof) - Automatic bullet cycling for Org mode
@@ -5459,7 +5459,7 @@
 
 ## self-hosted 
 
-- [ibizaman/selfhostblocks](https://github.com/ibizaman/selfhostblocks) - Building blocks for self-hosting with battery included.
+- [ibizaman/selfhostblocks](https://github.com/ibizaman/selfhostblocks) - Modulable server management based on NixOS modules and focused on best practices.
 - [Deaftone/Deaftone](https://github.com/Deaftone/Deaftone) - Lightweight music server. With a clean and simple API
 - [szepeviktor/wordpress-website-lifecycle](https://github.com/szepeviktor/wordpress-website-lifecycle) - How to work with WordPress 📅 for long years
 - [fspoettel/linkding-on-fly](https://github.com/fspoettel/linkding-on-fly) - 🔖 Run linkding on fly.io. Backup the bookmark DB to cloud storage with litestream.
