@@ -1416,7 +1416,7 @@
 
 - [minad/marginalia](https://github.com/minad/marginalia) - :scroll: marginalia.el - Marginalia in the minibuffer
 - [protesilaos/modus-themes](https://github.com/protesilaos/modus-themes) - Highly accessible themes for GNU Emacs, conforming with the highest standard for colour contrast between background and foreground values (WCAG AAA).
-- [kickingvegas/casual-calc](https://github.com/kickingvegas/casual-calc) - Casual Calc - An opinionated Transient porcelain for Emacs Calc.
+- [kickingvegas/casual-calc](https://github.com/kickingvegas/casual-calc) - Casual Calc - An opinionated Transient user interface for Emacs Calc.
 - [skissue/meow-tree-sitter](https://github.com/skissue/meow-tree-sitter) - Tree-sitter powered :deciduous_tree: motions for Meow :cat:
 - [alphapapa/org-super-agenda](https://github.com/alphapapa/org-super-agenda) - Supercharge your Org daily/weekly agenda by grouping items
 - [kickingvegas/casual-avy](https://github.com/kickingvegas/casual-avy) - Casual Avy - An opinionated Transient menu for Avy.
@@ -1516,7 +1516,7 @@
 - [ianyepan/.macOS-emacs.d](https://github.com/ianyepan/.macOS-emacs.d) - 😈My personal Emacs configuration on macOS
 - [wakatime/wakatime-mode](https://github.com/wakatime/wakatime-mode) - Emacs plugin for automatic time tracking and metrics generated from your programming activity.
 - [rougier/svg-lib](https://github.com/rougier/svg-lib) - Emacs SVG libraries for creatings tags, icons and bars
-- [mickael-kerjean/filestash](https://github.com/mickael-kerjean/filestash) - 🦄 A modern web client for SFTP, S3, FTP, WebDAV, Git, Minio, LDAP, CalDAV, CardDAV, Mysql, Backblaze, ...
+- [mickael-kerjean/filestash](https://github.com/mickael-kerjean/filestash) - 🦄 A file manager / web client for SFTP, S3, FTP, WebDAV, Git, Minio, LDAP, CalDAV, CardDAV, Mysql, Backblaze, ...
 - [nobiot/md-roam](https://github.com/nobiot/md-roam) - Use Org-roam with markdown files by adding Md-roam as a plug-in. Mix org and markdown files in a single Org-roam database.
 - [serhiip/org2any](https://github.com/serhiip/org2any) - Seamless synchronisation of Org files with macOS Reminders
 - [NeQuissimus/DevSetup](https://github.com/NeQuissimus/DevSetup) - dotfiles and NixOS setups
@@ -2036,7 +2036,7 @@
 - [chentsulin/awesome-graphql](https://github.com/chentsulin/awesome-graphql) - Awesome list of GraphQL
 - [gregrickaby/nextjs-wordpress](https://github.com/gregrickaby/nextjs-wordpress) - 💀 It's headless WordPress!
 - [coralproject/talk](https://github.com/coralproject/talk) - A better commenting experience from Vox Media
-- [keystonejs/keystone](https://github.com/keystonejs/keystone) - The most powerful headless CMS for Node.js — built with GraphQL and React
+- [keystonejs/keystone](https://github.com/keystonejs/keystone) - The superpowered headless CMS for Node.js — built with GraphQL and React
 - [pubkey/rxdb](https://github.com/pubkey/rxdb) - A fast, local first, reactive Database for JavaScript Applications https://rxdb.info/
 - [redwoodjs/redwood](https://github.com/redwoodjs/redwood) - The App Framework for Startups
 - [refinedev/refine](https://github.com/refinedev/refine) - A React Framework for building  internal tools, admin panels, dashboards & B2B apps with unmatched flexibility.
@@ -3170,7 +3170,7 @@
 - [lovell/sharp](https://github.com/lovell/sharp) - High performance Node.js image processing, the fastest module to resize JPEG, PNG, WebP, AVIF and TIFF images. Uses the libvips library.
 - [gqty-dev/gqty](https://github.com/gqty-dev/gqty) - The No-GraphQL Client for TypeScript
 - [coralproject/talk](https://github.com/coralproject/talk) - A better commenting experience from Vox Media
-- [keystonejs/keystone](https://github.com/keystonejs/keystone) - The most powerful headless CMS for Node.js — built with GraphQL and React
+- [keystonejs/keystone](https://github.com/keystonejs/keystone) - The superpowered headless CMS for Node.js — built with GraphQL and React
 - [ddev/ddev](https://github.com/ddev/ddev) - Docker-based local PHP+Node.js web development environments
 - [lando/lando](https://github.com/lando/lando) - A development tool for all your projects that is fast, easy, powerful and liberating
 - [pubkey/rxdb](https://github.com/pubkey/rxdb) - A fast, local first, reactive Database for JavaScript Applications https://rxdb.info/
@@ -5099,7 +5099,7 @@
 - [postlight/headless-wp-starter](https://github.com/postlight/headless-wp-starter) - 🔪 WordPress + React Starter Kit: Spin up a WordPress-powered React app in one step
 - [coralproject/talk](https://github.com/coralproject/talk) - A better commenting experience from Vox Media
 - [frontity/frontity](https://github.com/frontity/frontity) - » Frontity - The React Framework for WordPress
-- [keystonejs/keystone](https://github.com/keystonejs/keystone) - The most powerful headless CMS for Node.js — built with GraphQL and React
+- [keystonejs/keystone](https://github.com/keystonejs/keystone) - The superpowered headless CMS for Node.js — built with GraphQL and React
 - [PostHog/posthog](https://github.com/PostHog/posthog) - 🦔 PostHog provides open-source product analytics, session recording, feature flagging and A/B testing that you can self-host.
 - [WebDevStudios/nextjs-wordpress-starter](https://github.com/WebDevStudios/nextjs-wordpress-starter) - A headless starter for WordPress powered by Next.js.
 - [redwoodjs/redwood](https://github.com/redwoodjs/redwood) - The App Framework for Startups
@@ -6120,7 +6120,7 @@
 - [H-M-H/Weylus](https://github.com/H-M-H/Weylus) - Use your tablet as graphic tablet/touch screen on your computer.
 - [LukasMasuch/best-of-react](https://github.com/LukasMasuch/best-of-react) - 🏆 A ranked list of awesome React open-source libraries and tools. Updated weekly.
 - [donnemartin/system-design-primer](https://github.com/donnemartin/system-design-primer) - Learn how to design large-scale systems. Prep for the system design interview.  Includes Anki flashcards.
-- [mickael-kerjean/filestash](https://github.com/mickael-kerjean/filestash) - 🦄 A modern web client for SFTP, S3, FTP, WebDAV, Git, Minio, LDAP, CalDAV, CardDAV, Mysql, Backblaze, ...
+- [mickael-kerjean/filestash](https://github.com/mickael-kerjean/filestash) - 🦄 A file manager / web client for SFTP, S3, FTP, WebDAV, Git, Minio, LDAP, CalDAV, CardDAV, Mysql, Backblaze, ...
 - [safeapps-io/money-client](https://github.com/safeapps-io/money-client) - World's first 100% secure finance tracker. Save more money. Plan for future. Preserve your privacy.
 
 ## webpack 
