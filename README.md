@@ -387,7 +387,7 @@
 ## Emacs Lisp 
 
 - [xenodium/ready-player](https://github.com/xenodium/ready-player) - 
-- [kickingvegas/casual-bookmarks](https://github.com/kickingvegas/casual-bookmarks) - An opinionated Transient-based porcelain for the Emacs bookmark list.
+- [kickingvegas/casual-bookmarks](https://github.com/kickingvegas/casual-bookmarks) - An opinionated Transient-based user interface for the Emacs bookmark list.
 - [kanru/uuidgen-el](https://github.com/kanru/uuidgen-el) - UUID generation implemented in elisp.
 - [minad/marginalia](https://github.com/minad/marginalia) - :scroll: marginalia.el - Marginalia in the minibuffer
 - [protesilaos/modus-themes](https://github.com/protesilaos/modus-themes) - Highly accessible themes for GNU Emacs, conforming with the highest standard for colour contrast between background and foreground values (WCAG AAA).
@@ -1498,7 +1498,7 @@
 - [rasmus-kirk/nixarr](https://github.com/rasmus-kirk/nixarr) - The Media Server Nixos Module
 - [catppuccin/nix](https://github.com/catppuccin/nix) - ❄️ Soothing pastel theme for Nix
 - [oddlama/nix-topology](https://github.com/oddlama/nix-topology) - 🍁 Generate infrastructure and network diagrams directly from your NixOS configurations
-- [ibizaman/selfhostblocks](https://github.com/ibizaman/selfhostblocks) - Modulable server management based on NixOS modules and focused on best practices.
+- [ibizaman/selfhostblocks](https://github.com/ibizaman/selfhostblocks) - Modular server management based on NixOS modules and focused on best practices.
 - [chadac/nix-config-modules](https://github.com/chadac/nix-config-modules) - Flake modules for multi-host joint NixOS + home-manager configs
 - [chadac/dotfiles](https://github.com/chadac/dotfiles) - 
 - [novoid/nixos-config](https://github.com/novoid/nixos-config) - NixOS + flakes + home-manager with xfce, zsh, tmux, ...
@@ -1526,7 +1526,7 @@
 - [RaubJo/hive](https://github.com/RaubJo/hive) - 
 - [figsoda/rand-nix](https://github.com/figsoda/rand-nix) - 🔥 Eval-time random number generator for Nix without IFD 🚀
 - [xddxdd/nixos-config](https://github.com/xddxdd/nixos-config) - Lan Tian's NixOS Configuration
-- [sioodmy/dotfiles](https://github.com/sioodmy/dotfiles) - Beautiful catppuccin themed NixOS configuration, with built in impermanence, full disk encryption and many more!
+- [sioodmy/dotfiles](https://github.com/sioodmy/dotfiles) - NixOS configuration flake, without home-manager
 - [flakelib/fl](https://github.com/flakelib/fl) - callPackage for Nix flakes
 - [musnix/musnix](https://github.com/musnix/musnix) - Real-time audio in NixOS
 - [MayNiklas/nixos](https://github.com/MayNiklas/nixos) - My personal NixOS infrastructure
@@ -2091,6 +2091,7 @@
 
 ## PHP 
 
+- [michaelryanmcneill/shibboleth](https://github.com/michaelryanmcneill/shibboleth) - Shibboleth plugin for WordPress
 - [pantheon-systems/wp-saml-auth](https://github.com/pantheon-systems/wp-saml-auth) - Rock-solid SAML authentication for WordPress built on a modern foundation.
 - [PHP-DI/PHP-DI](https://github.com/PHP-DI/PHP-DI) - The dependency injection container for humans
 - [shipmonk-rnd/composer-dependency-analyser](https://github.com/shipmonk-rnd/composer-dependency-analyser) - 🚀 Fast detection of composer dependency issues (unused dependencies, shadow dependencies, misplaced dependencies)
@@ -3256,7 +3257,7 @@
 - [DeterminateSystems/magic-nix-cache-action](https://github.com/DeterminateSystems/magic-nix-cache-action) - Save 30-50%+ of CI time without any effort or cost. Use Magic Nix Cache, a totally free and zero-configuration binary cache for Nix on GitHub Actions.
 - [material-shell/material-shell](https://github.com/material-shell/material-shell) - A modern desktop interface for Linux. Improve your user experience and get rid of the anarchy of traditional desktop workflows. Designed to simplify navigation and reduce the need to manipulate window
 - [10up/headstartwp](https://github.com/10up/headstartwp) - Build a headless website fast with WordPress, the world’s most popular CMS, and Next.js, the most popular React framework. A free and open source solution by the experts at 10up.
-- [makeplane/plane](https://github.com/makeplane/plane) - 🔥 🔥 🔥 Open Source JIRA, Linear and Asana Alternative. Plane helps you track your issues, epics, and product roadmaps in the simplest way possible.
+- [makeplane/plane](https://github.com/makeplane/plane) - 🔥 🔥 🔥 Open Source JIRA, Linear, Monday, and Asana Alternative. Plane helps you track your issues, epics, and product roadmaps in the simplest way possible.
 - [unocss/unocss](https://github.com/unocss/unocss) - The instant on-demand atomic CSS engine.
 - [antfu/vscode-theme-vitesse](https://github.com/antfu/vscode-theme-vitesse) - 🏕 Vitesse theme for VS Code
 - [nix-community/nixt](https://github.com/nix-community/nixt) - Simple unit-testing for Nix [maintainer=@Lord-Valen]
