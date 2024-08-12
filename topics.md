@@ -1253,7 +1253,7 @@
 - [sioodmy/dotfiles](https://github.com/sioodmy/dotfiles) - NixOS configuration flake, without home-manager
 - [kittywitch/nixfiles](https://github.com/kittywitch/nixfiles) - kat's configuration flake
 - [jonascarpay/nix](https://github.com/jonascarpay/nix) - My system configurations, dotfiles, and other miscellanies
-- [KubqoA/dotfiles](https://github.com/KubqoA/dotfiles) - My NixOS dotfiles
+- [KubqoA/dotfiles](https://github.com/KubqoA/dotfiles) - My NixOS, macOS and home-manager configurations
 - [figsoda/cfg](https://github.com/figsoda/cfg) - My NixOS configuration featuring awesome and neovim
 - [rgbatty/cauldron](https://github.com/rgbatty/cauldron) - Double, double toil and trouble; Fire burn and caldron bubble - A collection of declarative user and host configurations (eg. dotfiles) managed with Nix
 - [ecosse3/nvim](https://github.com/ecosse3/nvim) - A non-minimal Neovim config built to work most efficiently with Frontend Development
@@ -3311,7 +3311,7 @@
 - [yveszoundi/eglot-yaml](https://github.com/yveszoundi/eglot-yaml) - Yaml extension for the eglot LSP client
 - [WordPress/wp-plugin-dependencies](https://github.com/WordPress/wp-plugin-dependencies) - WordPress Feature Project: Plugin Dependencies
 - [numtide/nix-vm-test](https://github.com/numtide/nix-vm-test) - Re-use the NixOS VM test infrastructure to test Ubuntu, Debian, and Fedora machines.
-- [kickingvegas/casual-dired](https://github.com/kickingvegas/casual-dired) - Casual Dired - An opinionated Transient porcelain for Emacs file manager Dired.
+- [kickingvegas/casual-dired](https://github.com/kickingvegas/casual-dired) - Casual Dired - An opinionated Transient user interface for Emacs file manager Dired.
 - [ichernyshovvv/grid.el](https://github.com/ichernyshovvv/grid.el) - 
 - [montchr/ceamx](https://github.com/montchr/ceamx) - 
 - [minad/jinx](https://github.com/minad/jinx) - 🪄 Enchanted Spell Checker
