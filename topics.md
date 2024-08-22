@@ -30,6 +30,7 @@
 - [bootstrap](#bootstrap)
 - [bot](#bot)
 - [c](#c)
+- [c-plus-plus](#c-plus-plus)
 - [chatgpt](#chatgpt)
 - [chrome](#chrome)
 - [chrome-extension](#chrome-extension)
@@ -710,6 +711,19 @@
 - [serhii-londar/open-source-mac-os-apps](https://github.com/serhii-londar/open-source-mac-os-apps) - 🚀 Awesome list of open source applications for macOS. https://t.me/s/opensourcemacosapps
 - [jarun/nnn](https://github.com/jarun/nnn) - n³ The unorthodox terminal file manager
 - [kovidgoyal/kitty](https://github.com/kovidgoyal/kitty) - Cross-platform, fast, feature-rich, GPU based terminal
+
+## c-plus-plus 
+
+- [SerenityOS/serenity](https://github.com/SerenityOS/serenity) - The Serenity Operating System 🐞
+- [qmk/qmk_firmware](https://github.com/qmk/qmk_firmware) - Open-source keyboard firmware for Atmel AVR and Arm USB families
+- [emcrisostomo/fswatch](https://github.com/emcrisostomo/fswatch) - A cross-platform file change monitor with multiple backends: Apple OS X File System Events, *BSD kqueue, Solaris/Illumos File Events Notification, Linux inotify, Microsoft Windows and a stat()-based b
+- [grame-cncm/faust](https://github.com/grame-cncm/faust) - Functional programming language for signal processing and sound synthesis
+- [supercollider/supercollider](https://github.com/supercollider/supercollider) - An audio server, programming language, and IDE for sound synthesis and algorithmic composition.
+- [fabrizioschiavi/pragmatapro](https://github.com/fabrizioschiavi/pragmatapro) - PragmataPro font is designed to help pros to work better
+- [NixOS/nix](https://github.com/NixOS/nix) - Nix, the purely functional package manager
+- [astroidmail/astroid](https://github.com/astroidmail/astroid) - A graphical threads-with-tags style, lightweight and fast, e-mail client for Notmuch
+- [serhii-londar/open-source-mac-os-apps](https://github.com/serhii-londar/open-source-mac-os-apps) - 🚀 Awesome list of open source applications for macOS. https://t.me/s/opensourcemacosapps
+- [mawww/kakoune](https://github.com/mawww/kakoune) - mawww's experiment for a better code editor
 
 ## chatgpt 
 
@@ -3737,7 +3751,7 @@
 - [jordanisaacs/dotfiles](https://github.com/jordanisaacs/dotfiles) - My NixOS dotfiles for desktops and servers
 - [aaemnnosttv/wp-cli-login-command](https://github.com/aaemnnosttv/wp-cli-login-command) - Log in to WordPress with secure passwordless magic links.
 - [open-guides/og-aws](https://github.com/open-guides/og-aws) - 📙 Amazon Web Services — a practical guide
-- [Mic92/nix-ld](https://github.com/Mic92/nix-ld) - Run unpatched dynamic binaries on NixOS
+- [nix-community/nix-ld](https://github.com/nix-community/nix-ld) - Run unpatched dynamic binaries on NixOS
 - [the-nix-way/dev-templates](https://github.com/the-nix-way/dev-templates) - Dev environments for numerous languages based on Nix flakes [maintainer=@lucperkins]
 - [tekapo/show-current-template](https://github.com/tekapo/show-current-template) - A WordPress plugin which shows the current template file name, the current theme name and included template files' name in the tool bar.
 - [humanmade/aws-xray](https://github.com/humanmade/aws-xray) - HM Platform AWS X-Ray Integration
@@ -4379,7 +4393,6 @@
 - [OfflineIMAP/imapfw](https://github.com/OfflineIMAP/imapfw) - imapfw (IMAP/mail framework)
 - [afewmail/afew](https://github.com/afewmail/afew) - an initial tagging script for notmuch mail
 - [gauteh/lieer](https://github.com/gauteh/lieer) - Fast email-fetching, sending, and two-way tag synchronization between notmuch and GMail
-- [astroidmail/astroid](https://github.com/astroidmail/astroid) - A graphical threads-with-tags style, lightweight and fast, e-mail client for Notmuch
 - [KittyGiraudel/a11y-dialog](https://github.com/KittyGiraudel/a11y-dialog) - A very lightweight and flexible accessible modal dialog script.
 - [altstoreio/AltStore](https://github.com/altstoreio/AltStore) - AltStore is an alternative app store for non-jailbroken iOS devices.
 - [McYoloSwagHam/win3wm](https://github.com/McYoloSwagHam/win3wm) - A Tiling Window Manager for windows 10, Inspired by  i3wm
