@@ -2022,7 +2022,6 @@
 - [caisah/emacs.dz](https://github.com/caisah/emacs.dz) - Awesome emacs config files
 - [css-modules/css-modules](https://github.com/css-modules/css-modules) - Documentation about css-modules
 - [zhouzi/awesome-perceived-performance](https://github.com/zhouzi/awesome-perceived-performance) - 💫 Perceived performance best practices & resources.
-- [esselius/notes](https://github.com/esselius/notes) - 
 - [adrianlarion/useful-sed](https://github.com/adrianlarion/useful-sed) - Useful sed scripts & patterns.
 - [trimstray/the-book-of-secret-knowledge](https://github.com/trimstray/the-book-of-secret-knowledge) - A collection of inspiring lists, manuals, cheatsheets, blogs, hacks, one-liners, cli/web tools and more.
 - [madd86/awesome-system-design](https://github.com/madd86/awesome-system-design) - A curated list of awesome System Design (A.K.A. Distributed Systems) resources.
