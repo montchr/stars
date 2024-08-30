@@ -1203,7 +1203,6 @@
 - [nezhar/wordpress-docker-compose](https://github.com/nezhar/wordpress-docker-compose) - Easy Wordpress development with Docker and Docker Compose
 - [autobrr/autobrr](https://github.com/autobrr/autobrr) - Modern, easy to use download automation for torrents and usenet.
 - [Automattic/vip-container-images](https://github.com/Automattic/vip-container-images) - Multipurpose VIP Docker container images (primarily meant for use with the VIP Local Development Environment)
-- [lando/lando](https://github.com/lando/lando) - A development tool for all your projects that is fast, easy, powerful and liberating
 - [railwayapp/nixpacks](https://github.com/railwayapp/nixpacks) - App source + Nix packages + Docker = Image
 - [nlewo/nix2container](https://github.com/nlewo/nix2container) - An archive-less dockerTools.buildImage implementation
 - [evertramos/docker-wordpress](https://github.com/evertramos/docker-wordpress) - Wordpress Docker container using SSL Certificates with LetsEncrypt
@@ -1396,7 +1395,6 @@
 
 ## dotnet 
 
-- [lando/lando](https://github.com/lando/lando) - A development tool for all your projects that is fast, easy, powerful and liberating
 - [bitwarden/server](https://github.com/bitwarden/server) - Bitwarden infrastructure/backend (API, database, Docker, etc).
 
 ## education 
@@ -2621,7 +2619,6 @@
 - [pixelfed/pixelfed](https://github.com/pixelfed/pixelfed) - Photo Sharing. For Everyone.
 - [ddev/ddev](https://github.com/ddev/ddev) - Docker-based local PHP+Node.js web development environments
 - [itsgoingd/clockwork](https://github.com/itsgoingd/clockwork) - Clockwork - php dev tools in your browser - server-side component
-- [lando/lando](https://github.com/lando/lando) - A development tool for all your projects that is fast, easy, powerful and liberating
 - [Kovah/LinkAce](https://github.com/Kovah/LinkAce) - LinkAce is a self-hosted archive to collect links of your favorite websites.
 - [corcel/corcel](https://github.com/corcel/corcel) - Use WordPress backend with Laravel or any PHP application
 - [laravel/valet](https://github.com/laravel/valet) - A more enjoyable local development experience for Mac.
@@ -3203,7 +3200,6 @@
 - [coralproject/talk](https://github.com/coralproject/talk) - A better commenting experience from Vox Media
 - [keystonejs/keystone](https://github.com/keystonejs/keystone) - The superpowered headless CMS for Node.js — built with GraphQL and React
 - [ddev/ddev](https://github.com/ddev/ddev) - Docker-based local PHP+Node.js web development environments
-- [lando/lando](https://github.com/lando/lando) - A development tool for all your projects that is fast, easy, powerful and liberating
 - [pubkey/rxdb](https://github.com/pubkey/rxdb) - A fast, local first, reactive Database for JavaScript Applications https://rxdb.info/
 - [immich-app/immich](https://github.com/immich-app/immich) - High performance self-hosted photo and video management solution.
 - [serverless-dns/serverless-dns](https://github.com/serverless-dns/serverless-dns) - The RethinkDNS resolver that deploys to Cloudflare Workers, Deno Deploy, Fastly, and Fly.io
@@ -3305,6 +3301,8 @@
 
 ## others 
 
+- [retlehs/kinsta-mu-plugins](https://github.com/retlehs/kinsta-mu-plugins) - kinsta-mu-plugins with composer.json
+- [generoi/bedrock](https://github.com/generoi/bedrock) - 
 - [michaelryanmcneill/shibboleth](https://github.com/michaelryanmcneill/shibboleth) - Shibboleth plugin for WordPress
 - [xenodium/ready-player](https://github.com/xenodium/ready-player) - 
 - [PneumaSolutions/shib-sp](https://github.com/PneumaSolutions/shib-sp) - Containerized Shibboleth SP
@@ -4832,7 +4830,6 @@
 - [seanmorris/php-wasm](https://github.com/seanmorris/php-wasm) - PHP in Browser, powered by WebAssembly.
 - [itsgoingd/clockwork](https://github.com/itsgoingd/clockwork) - Clockwork - php dev tools in your browser - server-side component
 - [phpmd/phpmd](https://github.com/phpmd/phpmd) - PHPMD is a spin-off project of PHP Depend and aims to be a PHP equivalent of the well known Java tool PMD. PHPMD can be seen as an user friendly frontend application for the raw metrics stream measure
-- [lando/lando](https://github.com/lando/lando) - A development tool for all your projects that is fast, easy, powerful and liberating
 - [nelmio/alice](https://github.com/nelmio/alice) - Expressive fixtures generator
 - [nette/tracy](https://github.com/nette/tracy) - 😎 Tracy: the addictive tool to ease debugging PHP code for cool developers. Friendly design, logging, profiler, advanced features like debugging AJAX calls or CLI support. You will love it.
 - [typisttech/imposter-plugin](https://github.com/typisttech/imposter-plugin) - Composer plugin that wraps all composer vendor packages inside your own namespace. Intended for WordPress plugins.
@@ -5000,7 +4997,6 @@
 - [buildbot/buildbot](https://github.com/buildbot/buildbot) - Python-based continuous integration testing framework; your pull requests are more than welcome!
 - [numtide/deploykit](https://github.com/numtide/deploykit) - Execute commands remote via ssh and locally in parallel with python
 - [PostHog/posthog](https://github.com/PostHog/posthog) - 🦔 PostHog provides open-source product analytics, session recording, feature flagging and A/B testing that you can self-host.
-- [lando/lando](https://github.com/lando/lando) - A development tool for all your projects that is fast, easy, powerful and liberating
 - [StevenBlack/hosts](https://github.com/StevenBlack/hosts) - 🔒 Consolidating and extending hosts files from several well-curated sources. Optionally pick extensions for porn, social media, and other categories.
 - [source-foundry/font-line](https://github.com/source-foundry/font-line) - OpenType vertical metrics reporting and font line spacing adjustment tool
 - [datafold/data-diff](https://github.com/datafold/data-diff) - Compare tables within or across databases
@@ -5276,7 +5272,6 @@
 
 - [Stranger6667/css-inline](https://github.com/Stranger6667/css-inline) - High-performance library for inlining CSS into HTML 'style' attributes
 - [toy/image_optim](https://github.com/toy/image_optim) - Optimize images using multiple utilities
-- [lando/lando](https://github.com/lando/lando) - A development tool for all your projects that is fast, easy, powerful and liberating
 - [multiprocessio/datastation](https://github.com/multiprocessio/datastation) - App to easily query, script, and visualize data from every database, file, and API.
 - [semgrep/semgrep](https://github.com/semgrep/semgrep) - Lightweight static analysis for many languages. Find bug variants with patterns that look like source code.
 - [rbenv/rbenv](https://github.com/rbenv/rbenv) - Manage your app's Ruby environment
@@ -6336,7 +6331,6 @@
 - [WordPress/wordpress-playground](https://github.com/WordPress/wordpress-playground) - Run WordPress in the browser via WebAssembly PHP
 - [nezhar/wordpress-docker-compose](https://github.com/nezhar/wordpress-docker-compose) - Easy Wordpress development with Docker and Docker Compose
 - [colbyfayock/next-wordpress-starter](https://github.com/colbyfayock/next-wordpress-starter) - 📝 Bring WordPress to the static world with Next.js
-- [lando/lando](https://github.com/lando/lando) - A development tool for all your projects that is fast, easy, powerful and liberating
 - [WebDevStudios/nextjs-wordpress-starter](https://github.com/WebDevStudios/nextjs-wordpress-starter) - A headless starter for WordPress powered by Next.js.
 - [roots/trellis](https://github.com/roots/trellis) - WordPress LEMP stack with PHP 8.2, Composer, WP-CLI and more
 - [wp-cli/entity-command](https://github.com/wp-cli/entity-command) - Manage WordPress comments, menus, options, posts, sites, terms, and users.
