@@ -2036,7 +2036,7 @@
 
 - [renatonascalves/wp-graphql-buddypress](https://github.com/renatonascalves/wp-graphql-buddypress) - Bringing the power of GraphQL to BuddyPress.
 - [imranhsayed/nextjs-headless-wordpress](https://github.com/imranhsayed/nextjs-headless-wordpress) - 🔥 Nextjs Headless WordPress
-- [jasonkuhrt/graphql-request](https://github.com/jasonkuhrt/graphql-request) - Minimal GraphQL client
+- [jasonkuhrt/graffle](https://github.com/jasonkuhrt/graffle) - Minimal GraphQL client
 - [ritz078/transform](https://github.com/ritz078/transform) - A polyglot web converter.
 - [AxeWP/wp-graphql-headless-login](https://github.com/AxeWP/wp-graphql-headless-login) - A WordPress plugin that provides Headless login and authentication for WPGraphQL, supporting traditional passwords, OAuth2/OpenID Connect, JWT, and more.
 - [wpengine/wp-graphql-content-blocks](https://github.com/wpengine/wp-graphql-content-blocks) - Plugin that extends WPGraphQL to support querying (Gutenberg) Blocks as data
@@ -3193,7 +3193,7 @@
 ## nodejs 
 
 - [jesec/flood](https://github.com/jesec/flood) - A modern web UI for various torrent clients with a Node.js backend and React frontend.
-- [jasonkuhrt/graphql-request](https://github.com/jasonkuhrt/graphql-request) - Minimal GraphQL client
+- [jasonkuhrt/graffle](https://github.com/jasonkuhrt/graffle) - Minimal GraphQL client
 - [philipstanislaus/performant-array-to-tree](https://github.com/philipstanislaus/performant-array-to-tree) - Converts an array of items with ids and parent ids to a nested tree in a performant O(n) way. Runs in browsers and Node.js.
 - [svg/svgo](https://github.com/svg/svgo) - ⚙️ Node.js tool for optimizing SVG files
 - [lovell/sharp](https://github.com/lovell/sharp) - High performance Node.js image processing, the fastest module to resize JPEG, PNG, WebP, AVIF and TIFF images. Uses the libvips library.
@@ -3332,7 +3332,7 @@
 - [temple-acm/site](https://github.com/temple-acm/site) - The Temple University ACM website.
 - [php-parallel-lint/PHP-Parallel-Lint](https://github.com/php-parallel-lint/PHP-Parallel-Lint) - This tool check syntax of PHP files faster than serial check with fancier output.
 - [alleyinteractive/create-wordpress-project](https://github.com/alleyinteractive/create-wordpress-project) - A starter structure for the wp-content directory on a new WordPress project.
-- [kickingvegas/casual-suite](https://github.com/kickingvegas/casual-suite) - Casual Suite - An umbrella package to support a single install point for all Casual porcelains.
+- [kickingvegas/casual-suite](https://github.com/kickingvegas/casual-suite) - Casual Suite - An umbrella package to support a single install point for all Casual user interfaces.
 - [dot-config/dot-config.github.io](https://github.com/dot-config/dot-config.github.io) - dot-config promotes use of .config folders for project level settings
 - [felixarntz/wp-oop-plugin-lib](https://github.com/felixarntz/wp-oop-plugin-lib) - A library providing classes around WordPress APIs, to be used for example in object oriented WordPress plugins.
 - [felixarntz/attachment-taxonomies](https://github.com/felixarntz/attachment-taxonomies) - This plugin adds categories and tags to the WordPress media library - lightweight and developer-friendly.
@@ -5934,7 +5934,7 @@
 - [ast-grep/ast-grep](https://github.com/ast-grep/ast-grep) - ⚡A CLI tool for code structural search, lint and rewriting. Written in Rust
 - [remeda/remeda](https://github.com/remeda/remeda) - A utility library for JavaScript and TypeScript.
 - [gregrickaby/nextjs-app-router-examples](https://github.com/gregrickaby/nextjs-app-router-examples) - 😎 Next.js 13 App Router Examples
-- [jasonkuhrt/graphql-request](https://github.com/jasonkuhrt/graphql-request) - Minimal GraphQL client
+- [jasonkuhrt/graffle](https://github.com/jasonkuhrt/graffle) - Minimal GraphQL client
 - [ritz078/transform](https://github.com/ritz078/transform) - A polyglot web converter.
 - [roots/bud](https://github.com/roots/bud) - High-performance build system that supports SWC, esbuild, and Babel
 - [philipstanislaus/performant-array-to-tree](https://github.com/philipstanislaus/performant-array-to-tree) - Converts an array of items with ids and parent ids to a nested tree in a performant O(n) way. Runs in browsers and Node.js.
