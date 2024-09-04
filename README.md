@@ -2081,6 +2081,8 @@
 
 ## PHP 
 
+- [przemekhernik/footmate.pro](https://github.com/przemekhernik/footmate.pro) - 
+- [asuh/forage](https://github.com/asuh/forage) - Forage is a WordPress Starter Theme for custom themes using Laravel Blade, Vite, and Biome.
 - [roots/acorn-example-package](https://github.com/roots/acorn-example-package) - A template for creating your own Acorn packages
 - [retlehs/kinsta-mu-plugins](https://github.com/retlehs/kinsta-mu-plugins) - kinsta-mu-plugins with composer.json
 - [generoi/bedrock](https://github.com/generoi/bedrock) - 
@@ -3027,7 +3029,7 @@
 - [bash-bastion/bash-object](https://github.com/bash-bastion/bash-object) - Manipulate heterogenous data hierarchies in Bash.
 - [paulotome/emacstool](https://github.com/paulotome/emacstool) - Using Emacs Ediff as Git Merge/Difftool
 - [dcreemer/1pass](https://github.com/dcreemer/1pass) - A caching wrapper for the 1Password CLI
-- [Narice/nixos-system](https://github.com/Narice/nixos-system) - My NixOS System!
+- [nova-nowiz/nixos-system](https://github.com/nova-nowiz/nixos-system) - My NixOS System!
 - [ericdallo/dotfiles](https://github.com/ericdallo/dotfiles) - Dotfiles for my NixOS system based on Dracula theme
 - [stark/Color-Scripts](https://github.com/stark/Color-Scripts) - User contributed color scripts
 - [marlonrichert/zsh-snap](https://github.com/marlonrichert/zsh-snap) - ⚡️ Znap! Fast, easy-to-use tools for Zsh dotfiles & plugins, plus git repos
