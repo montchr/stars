@@ -206,6 +206,7 @@
 - [sql-server](#sql-server)
 - [sqlite](#sqlite)
 - [stable-diffusion](#stable-diffusion)
+- [statistics](#statistics)
 - [storybook](#storybook)
 - [sublime-text](#sublime-text)
 - [svelte](#svelte)
@@ -2215,7 +2216,7 @@
 - [validatorjs/validator.js](https://github.com/validatorjs/validator.js) - String validation
 - [ProcursusTeam/Procursus](https://github.com/ProcursusTeam/Procursus) - Modern *OS Bootstrap
 - [tazjin/nix-1p](https://github.com/tazjin/nix-1p) - A (more or less) one page introduction to Nix, the language.
-- [Prowlarr/Prowlarr](https://github.com/Prowlarr/Prowlarr) - 
+- [Prowlarr/Prowlarr](https://github.com/Prowlarr/Prowlarr) - Prowlarr is an indexer manager/proxy built on the popular *arr .net/reactjs base stack to integrate with your various PVR apps, supporting management of both Torrent Trackers and Usenet Indexers.
 - [digitallyinduced/ihp](https://github.com/digitallyinduced/ihp) - 🔥 The fastest way to build type safe web apps. IHP is a new batteries-included web framework optimized for longterm productivity and programmer happiness
 - [nocodb/nocodb](https://github.com/nocodb/nocodb) - 🔥 🔥 🔥 Open Source Airtable Alternative
 - [ksnip/ksnip](https://github.com/ksnip/ksnip) - ksnip the cross-platform screenshot and annotation tool
@@ -5704,6 +5705,10 @@
 
 - [Maks-s/sd-akashic](https://github.com/Maks-s/sd-akashic) - A compendium of informations regarding Stable Diffusion (SD)
 
+## statistics 
+
+- [jqnatividad/qsv](https://github.com/jqnatividad/qsv) - CSVs sliced, diced & analyzed.
+
 ## storybook 
 
 - [Highfivery/nextjs-starter](https://github.com/Highfivery/nextjs-starter) - A Next.js 13 CMS & theme agnostic starter framework to build fully-featured headless sites.
@@ -6221,6 +6226,7 @@
 
 ## wordpress 
 
+- [bonny/WordPress-Simple-History](https://github.com/bonny/WordPress-Simple-History) - 🔍🕵️‍♀️ WordPress audit log that track user changes in WordPress admin using a nice activity feed.
 - [asuh/forage](https://github.com/asuh/forage) - Forage is a WordPress Starter Theme for custom themes using Laravel Blade, Vite, and Biome.
 - [Automattic/wordpress-rs](https://github.com/Automattic/wordpress-rs) - A cross-platform WordPress API implementation
 - [carolinan/fullsiteediting](https://github.com/carolinan/fullsiteediting) - 
