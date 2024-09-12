@@ -1699,7 +1699,7 @@
 - [yuanw/nix-home](https://github.com/yuanw/nix-home) - My Nix dotfiles on MacOS/NixOS
 - [ngi-nix/OSX-KVM](https://github.com/ngi-nix/OSX-KVM) - 
 - [balsoft/nixos-config](https://github.com/balsoft/nixos-config) - Mirror of https://code.balsoft.ru/balsoft/nixos-config
-- [yipengsun/nix-config](https://github.com/yipengsun/nix-config) - My NixOS/nix-darwin/home-manager config based on devos
+- [yipengsun/nix-config](https://github.com/yipengsun/nix-config) - My NixOS/nix-darwin/home-manager config
 - [nix-community/nix-environments](https://github.com/nix-community/nix-environments) - Repository to maintain out-of-tree shell.nix files (maintainer=@mic92)
 - [bbigras/nix-config](https://github.com/bbigras/nix-config) - My personal nix config
 - [lovesegfault/nix-config](https://github.com/lovesegfault/nix-config) - My personal NixOS config
