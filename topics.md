@@ -3310,6 +3310,7 @@
 
 ## others 
 
+- [soflyy/import-users-from-csv](https://github.com/soflyy/import-users-from-csv) - WordPress plugin - Import users from a CSV file into WordPress
 - [przemekhernik/footmate.pro](https://github.com/przemekhernik/footmate.pro) - 
 - [roots/acorn-example-package](https://github.com/roots/acorn-example-package) - A template for creating your own Acorn packages
 - [retlehs/kinsta-mu-plugins](https://github.com/retlehs/kinsta-mu-plugins) - kinsta-mu-plugins with composer.json
@@ -4039,7 +4040,7 @@
 - [Baughn/machine-config](https://github.com/Baughn/machine-config) - NixOS configuration for all my machines
 - [balsoft/nixos-config](https://github.com/balsoft/nixos-config) - Mirror of https://code.balsoft.ru/balsoft/nixos-config
 - [arachne-framework/architecture](https://github.com/arachne-framework/architecture) - Repository of Architecture Decision Records
-- [yipengsun/nix-config](https://github.com/yipengsun/nix-config) - My NixOS/nix-darwin/home-manager config based on devos
+- [yipengsun/nix-config](https://github.com/yipengsun/nix-config) - My NixOS/nix-darwin/home-manager config
 - [arnarg/pushnix](https://github.com/arnarg/pushnix) - Simple cli utility that pushes NixOS configuration and triggers a rebuild using ssh.
 - [jakoblind/webpack-autoconf](https://github.com/jakoblind/webpack-autoconf) - A tool to create frontend apps using webpack, Parcel or Snowpack
 - [nix-community/nix-environments](https://github.com/nix-community/nix-environments) - Repository to maintain out-of-tree shell.nix files (maintainer=@mic92)
