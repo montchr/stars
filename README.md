@@ -287,6 +287,7 @@
 
 ## CSS 
 
+- [soflyy/import-users-from-csv](https://github.com/soflyy/import-users-from-csv) - WordPress plugin - Import users from a CSV file into WordPress
 - [kognise/water.css](https://github.com/kognise/water.css) - A drop-in collection of CSS styles to make simple websites just a little nicer
 - [youknowriad/blockbook](https://github.com/youknowriad/blockbook) - Build and Share WordPress Blocks in Isolation.
 - [darrenjacoby/tailwindcss-fl](https://github.com/darrenjacoby/tailwindcss-fl) - TailwindCSS plugin to generate fluid utility classes using existing config
