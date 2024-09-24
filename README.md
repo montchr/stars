@@ -2079,6 +2079,7 @@
 
 ## PHP 
 
+- [php-stubs/generator](https://github.com/php-stubs/generator) - Generate stubs from any PHP code for IDE completion and static analysis.
 - [archtechx/tenancy](https://github.com/archtechx/tenancy) - Automatic multi-tenancy for Laravel. No code changes needed.
 - [bonny/WordPress-Simple-History](https://github.com/bonny/WordPress-Simple-History) - 🔍🕵️‍♀️ WordPress audit log that track user changes in WordPress admin using a nice activity feed.
 - [24Slides/laravel-saml2](https://github.com/24Slides/laravel-saml2) - [Laravel 5.4+] An integration to add SSO to your service via SAML2 protocol based on OneLogin toolkit with support of multiple Identity Providers
