@@ -2094,6 +2094,8 @@
 - [cycle/annotated](https://github.com/cycle/annotated) - Schema generation using annotated entities and mappers
 - [ffraenz/private-composer-installer](https://github.com/ffraenz/private-composer-installer) - Composer install helper outsourcing sensitive keys from the package URL into environment variables
 - [piroor/treestyletab](https://github.com/piroor/treestyletab) - Tree Style Tab, Show tabs like a tree.
+- [markmead/alpinejs-component](https://github.com/markmead/alpinejs-component) - Reusable HTML components powered by Alpine JS reactivity 🛸
+- [markmead/hyperjs](https://github.com/markmead/hyperjs) - HyperJS is a component library for Alpine JS allowing developers to quickly copy and paste functionality into their projects 🛵
 - [Stranger6667/css-inline](https://github.com/Stranger6667/css-inline) - High-performance library for inlining CSS into HTML 'style' attributes
 - [pyrech/composer-changelogs](https://github.com/pyrech/composer-changelogs) - :notebook: Display better summary after Composer update
 - [floating-ui/floating-ui](https://github.com/floating-ui/floating-ui) - A JavaScript library to position floating elements and create interactions for them.
@@ -3320,6 +3322,7 @@
 
 ## others 
 
+- [nelhage/reptyr](https://github.com/nelhage/reptyr) - Reparent a running program to a new terminal
 - [php-stubs/generator](https://github.com/php-stubs/generator) - Generate stubs from any PHP code for IDE completion and static analysis.
 - [soflyy/import-users-from-csv](https://github.com/soflyy/import-users-from-csv) - WordPress plugin - Import users from a CSV file into WordPress
 - [przemekhernik/footmate.pro](https://github.com/przemekhernik/footmate.pro) - 
@@ -3509,8 +3512,6 @@
 - [zakirullin/cognitive-load](https://github.com/zakirullin/cognitive-load) - 🧠 Cognitive Load is what matters
 - [hendricius/the-sourdough-framework](https://github.com/hendricius/the-sourdough-framework) - Open source book dedicated to helping you to make the best possible sourdough bread at home.
 - [szepeviktor/WordPress-the-good-parts](https://github.com/szepeviktor/WordPress-the-good-parts) - A sustainable and modernized version of WordPress core.
-- [markmead/alpinejs-component](https://github.com/markmead/alpinejs-component) - Reusable HTML components powered by Alpine JS reactivity 🛸
-- [markmead/hyperjs](https://github.com/markmead/hyperjs) - HyperJS is a component library for Alpine JS allowing developers to quickly copy and paste functionality into their projects 🛵
 - [urbas/rix](https://github.com/urbas/rix) - Nix language interpreter.
 - [figsoda/rand-nix](https://github.com/figsoda/rand-nix) - 🔥 Eval-time random number generator for Nix without IFD 🚀
 - [xddxdd/nixos-config](https://github.com/xddxdd/nixos-config) - Lan Tian's NixOS Configuration
