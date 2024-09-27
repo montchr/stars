@@ -126,6 +126,7 @@
 
 ## C 
 
+- [nelhage/reptyr](https://github.com/nelhage/reptyr) - Reparent a running program to a new terminal
 - [cheusov/dictd](https://github.com/cheusov/dictd) - Client/server software, human language dictionary databases, and tools supporting the DICT protocol (RFC 2229)
 - [htop-dev/htop](https://github.com/htop-dev/htop) - htop - an interactive process viewer
 - [OneDeadKey/arsenik](https://github.com/OneDeadKey/arsenik) - A 33-key layout that works with all keyboards.
@@ -944,6 +945,7 @@
 - [edwardtufte/et-book](https://github.com/edwardtufte/et-book) - A webfont of the typeface used in Edward Tufte’s books.
 - [ericchiang/pup](https://github.com/ericchiang/pup) - Parsing HTML at the command line
 - [VK3FNG/dnd5e-orgmode-charsheet](https://github.com/VK3FNG/dnd5e-orgmode-charsheet) - This is an Emacs org-mode character sheet with automatically calculated derived attributes. Pretty HTML stolen from https://github.com/fniessen/org-html-themes
+- [vercel/geist-font](https://github.com/vercel/geist-font) - 
 - [markmead/hyperjs](https://github.com/markmead/hyperjs) - HyperJS is a component library for Alpine JS allowing developers to quickly copy and paste functionality into their projects 🛵
 - [0atman/noboilerplate](https://github.com/0atman/noboilerplate) - Code for my talks on the No Boilerplate channel
 - [alpinejs/alpine](https://github.com/alpinejs/alpine) - A rugged, minimal framework for composing JavaScript behavior in your markup.
@@ -1873,6 +1875,7 @@
 
 ## Others 
 
+- [sc0ttkclark/wordpress-fields-api](https://github.com/sc0ttkclark/wordpress-fields-api) - The 2024 Fields API proposal for WordPress Core
 - [alleyinteractive/action-deploy-to-server](https://github.com/alleyinteractive/action-deploy-to-server) - This GitHub action should facilitate deploying to remote server locations via rsync.
 - [WordPress/book](https://github.com/WordPress/book) - Our book about WordPress. Version 1
 - [NixOS/nix-constitutional-assembly](https://github.com/NixOS/nix-constitutional-assembly) - Home of the Nix Constitutional Assembly, there to establish a community-based governance
@@ -1882,7 +1885,6 @@
 - [exakat/php-static-analysis-tools](https://github.com/exakat/php-static-analysis-tools) - A reviewed list of useful PHP static analysis tools
 - [montchr/c-games](https://github.com/montchr/c-games) - 
 - [TheRealDjmr/BG3ImprovedUI](https://github.com/TheRealDjmr/BG3ImprovedUI) - 
-- [vercel/geist-font](https://github.com/vercel/geist-font) - 
 - [joonspk-research/generative_agents](https://github.com/joonspk-research/generative_agents) - Generative Agents: Interactive Simulacra of Human Behavior
 - [Log1x/acf-builder-cheatsheet](https://github.com/Log1x/acf-builder-cheatsheet) - A cheatsheet for use with ACF Builder.
 - [rougier/URFIST-git-course](https://github.com/rougier/URFIST-git-course) - This is the material for the URFIST course on Git & GitHub.   Bordeaux, March 27 & 28, 2018.
@@ -2078,6 +2080,7 @@
 
 ## PHP 
 
+- [johnbillion/slurpetta](https://github.com/johnbillion/slurpetta) - Slurps down the most popular plugins and themes from WordPress.org
 - [php-stubs/generator](https://github.com/php-stubs/generator) - Generate stubs from any PHP code for IDE completion and static analysis.
 - [archtechx/tenancy](https://github.com/archtechx/tenancy) - Automatic multi-tenancy for Laravel. No code changes needed.
 - [bonny/WordPress-Simple-History](https://github.com/bonny/WordPress-Simple-History) - 🔍🕵️‍♀️ WordPress audit log that track user changes in WordPress admin using a nice activity feed.
@@ -2294,7 +2297,6 @@
 - [publishpress/PublishPress-Planner](https://github.com/publishpress/PublishPress-Planner) - PublishPress Planner has all the tools you need to manage WordPress content, including an editorial calendar to plan content. You can create custom status and notifications for content updates.
 - [studio24/wordpress-multi-env-config](https://github.com/studio24/wordpress-multi-env-config) - WordPress multi-environment config
 - [beberlei/assert](https://github.com/beberlei/assert) - Thin assertion library for use in libraries and business-model
-- [cakephp/phinx](https://github.com/cakephp/phinx) - PHP Database Migrations for Everyone
 - [doctrine/DoctrineMigrationsBundle](https://github.com/doctrine/DoctrineMigrationsBundle) - Symfony integration for the doctrine/migrations library
 - [auraphp/Aura.Sql](https://github.com/auraphp/Aura.Sql) - SQL database access through PDO.
 - [Seldaek/monolog](https://github.com/Seldaek/monolog) - Sends your logs to files, sockets, inboxes, databases and various web services
