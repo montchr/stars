@@ -1763,6 +1763,7 @@
 
 ## framework 
 
+- [laravel/framework](https://github.com/laravel/framework) - The Laravel Framework.
 - [QuivrHQ/quivr](https://github.com/QuivrHQ/quivr) - Open-source RAG Framework for building GenAI Second Brains 🧠  Build productivity assistant (RAG) ⚡️🤖 Chat with your docs (PDF, CSV, ...)  & apps using Langchain, GPT 3.5 / 4 turbo, Private, Anthropic,
 - [szepeviktor/running-laravel](https://github.com/szepeviktor/running-laravel) - Running Laraval framework-based web applications for long years 🪘
 - [sybrew/the-seo-framework](https://github.com/sybrew/the-seo-framework) - The SEO Framework WordPress plugin.
@@ -2129,6 +2130,7 @@
 - [kubesphere/kubesphere](https://github.com/kubesphere/kubesphere) - The container platform tailored for Kubernetes multi-cloud, datacenter, and edge management ⎈ 🖥 ☁️
 - [AxeWP/wp-graphql-gravity-forms](https://github.com/AxeWP/wp-graphql-gravity-forms) - GraphQL API for interacting with Gravity Forms.
 - [adr/madr](https://github.com/adr/madr) - Markdown Architectural Decision Records
+- [10up/safe-svg](https://github.com/10up/safe-svg) - Enable SVG uploads and sanitize them to stop XML/SVG vulnerabilities in your WordPress website.
 - [searxng/searxng](https://github.com/searxng/searxng) - SearXNG is a free internet metasearch engine which aggregates results from various search services and databases. Users are neither tracked nor profiled.
 - [vlucas/phpdotenv](https://github.com/vlucas/phpdotenv) - Loads environment variables from `.env` to `getenv()`, `$_ENV` and `$_SERVER` automagically.
 - [louislam/uptime-kuma](https://github.com/louislam/uptime-kuma) - A fancy self-hosted monitoring tool
@@ -2272,6 +2274,7 @@
 - [geek-cookbook/geek-cookbook](https://github.com/geek-cookbook/geek-cookbook) - The "Geek's Cookbook" is a collection of guides for establishing your own highly-available "private cloud" and using it to run self-hosted services such as GitLab, Plex, NextCloud, etc.
 - [Ombi-app/Ombi](https://github.com/Ombi-app/Ombi) - Want a Movie or TV Show on Plex/Emby/Jellyfin? Use Ombi!
 - [org-roam/org-roam](https://github.com/org-roam/org-roam) - Rudimentary Roam replica with Org-mode
+- [10up/distributor](https://github.com/10up/distributor) - Share content between your websites.
 - [koel/koel](https://github.com/koel/koel) - 🐦 A personal music streaming server that works.
 - [Automattic/jetpack](https://github.com/Automattic/jetpack) - Security, performance, marketing, and design tools — Jetpack is made by WordPress experts to make WP sites safer and faster, and help you grow your traffic.
 - [github-changelog-generator/github-changelog-generator](https://github.com/github-changelog-generator/github-changelog-generator) - Automatically generate change log from your tags, issues, labels and pull requests on GitHub.
@@ -2619,6 +2622,7 @@
 
 ## laravel 
 
+- [laravel/framework](https://github.com/laravel/framework) - The Laravel Framework.
 - [archtechx/tenancy](https://github.com/archtechx/tenancy) - Automatic multi-tenancy for Laravel. No code changes needed.
 - [24Slides/laravel-saml2](https://github.com/24Slides/laravel-saml2) - [Laravel 5.4+] An integration to add SSO to your service via SAML2 protocol based on OneLogin toolkit with support of multiple Identity Providers
 - [asuh/forage](https://github.com/asuh/forage) - Forage is a WordPress Starter Theme for custom themes using Laravel Blade, Vite, and Biome.
@@ -4056,7 +4060,7 @@
 - [Baughn/machine-config](https://github.com/Baughn/machine-config) - NixOS configuration for all my machines
 - [balsoft/nixos-config](https://github.com/balsoft/nixos-config) - Mirror of https://code.balsoft.ru/balsoft/nixos-config
 - [arachne-framework/architecture](https://github.com/arachne-framework/architecture) - Repository of Architecture Decision Records
-- [yipengsun/nix-config](https://github.com/yipengsun/nix-config) - My NixOS/nix-darwin/home-manager config
+- [yipengsun/nix-config](https://github.com/yipengsun/nix-config) - My NixOS/nix-darwin config
 - [arnarg/pushnix](https://github.com/arnarg/pushnix) - Simple cli utility that pushes NixOS configuration and triggers a rebuild using ssh.
 - [jakoblind/webpack-autoconf](https://github.com/jakoblind/webpack-autoconf) - A tool to create frontend apps using webpack, Parcel or Snowpack
 - [nix-community/nix-environments](https://github.com/nix-community/nix-environments) - Repository to maintain out-of-tree shell.nix files (maintainer=@mic92)
@@ -4806,6 +4810,7 @@
 
 ## php 
 
+- [laravel/framework](https://github.com/laravel/framework) - The Laravel Framework.
 - [asuh/forage](https://github.com/asuh/forage) - Forage is a WordPress Starter Theme for custom themes using Laravel Blade, Vite, and Biome.
 - [PHP-DI/PHP-DI](https://github.com/PHP-DI/PHP-DI) - The dependency injection container for humans
 - [lucatume/di52](https://github.com/lucatume/di52) - The dependency injection container for streamlined WordPress development. Easily manage and inject dependencies for efficient and hassle-free app creation.
