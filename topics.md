@@ -1508,7 +1508,7 @@
 - [bobbbay/dotfiles](https://github.com/bobbbay/dotfiles) - ~. Nix all the things!
 - [artempyanykh/marksman](https://github.com/artempyanykh/marksman) - Write Markdown with code assist and intelligence in the comfort of your favourite editor.
 - [tecosaur/org-glossary](https://github.com/tecosaur/org-glossary) - Mirror of https://git.tecosaur.net/tec/org-glossary
-- [tecosaur/engrave-faces](https://github.com/tecosaur/engrave-faces) - Mirror of https://git.tecosaur.net/tec/engrave-faces
+- [tecosaur/engrave-faces](https://github.com/tecosaur/engrave-faces) - Mirror of https://code.tecosaur.net/tec/engrave-faces
 - [dustinlyons/nixos-config](https://github.com/dustinlyons/nixos-config) - General purpose Nix configuration for macOS / NixOS with starter templates + step-by-step guides ✨
 - [mihaiolteanu/mugur](https://github.com/mihaiolteanu/mugur) - Configurator for QMK compatible keyboards
 - [hraban/tomono](https://github.com/hraban/tomono) - Multi- To Mono-repository merge
@@ -2104,6 +2104,7 @@
 - [pyrech/composer-changelogs](https://github.com/pyrech/composer-changelogs) - :notebook: Display better summary after Composer update
 - [floating-ui/floating-ui](https://github.com/floating-ui/floating-ui) - A JavaScript library to position floating elements and create interactions for them.
 - [ouch-org/ouch](https://github.com/ouch-org/ouch) - Painless compression and decompression in the terminal
+- [inpsyde/Wonolog](https://github.com/inpsyde/Wonolog) - Monolog-based logging package for WordPress.
 - [imranhsayed/nextjs-headless-wordpress](https://github.com/imranhsayed/nextjs-headless-wordpress) - 🔥 Nextjs Headless WordPress
 - [pods-framework/pods](https://github.com/pods-framework/pods) - The Pods Framework is a Content Development Framework for WordPress - It lets you create and extend content types that can be used for any project. Add fields of various types we've built in, or add y
 - [wecodemore/wpstarter](https://github.com/wecodemore/wpstarter) - Easily bootstrap whole site Composer packages for WordPress.
@@ -5064,7 +5065,6 @@
 - [simonw/datasette](https://github.com/simonw/datasette) - An open source multi-tool for exploring and publishing data
 - [yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp) - A feature-rich command-line audio/video downloader
 - [localstack/localstack](https://github.com/localstack/localstack) - 💻 A fully functional local AWS cloud stack. Develop and test your cloud & Serverless apps offline
-- [Chalarangelo/30-seconds-of-code](https://github.com/Chalarangelo/30-seconds-of-code) - Short code snippets for all your development needs
 - [bregman-arie/devops-resources](https://github.com/bregman-arie/devops-resources) - DevOps resources - Linux, Jenkins, AWS, SRE, Prometheus, Docker, Python, Ansible, Git, Kubernetes, Terraform, OpenStack, SQL, NoSQL, Azure, GCP
 - [univ-of-utah-marriott-library-apple/display_manager](https://github.com/univ-of-utah-marriott-library-apple/display_manager) - An open-source Python library which can modify your Mac's display settings manually or automatically.
 - [bregman-arie/devops-exercises](https://github.com/bregman-arie/devops-exercises) - Linux, Jenkins, AWS, SRE, Prometheus, Docker, Python, Ansible, Git, Kubernetes, Terraform, OpenStack, SQL, NoSQL, Azure, GCP, DNS, Elastic, Network, Virtualization. DevOps Interview Questions
@@ -5261,7 +5261,6 @@
 - [TanStack/table](https://github.com/TanStack/table) - 🤖 Headless UI for building powerful tables & datagrids for TS/JS -  React-Table, Vue-Table, Solid-Table, Svelte-Table
 - [pmndrs/zustand](https://github.com/pmndrs/zustand) - 🐻 Bear necessities for state management in React
 - [Dusk-Labs/dim](https://github.com/Dusk-Labs/dim) - Dim, a media manager fueled by dark forces.
-- [Chalarangelo/30-seconds-of-code](https://github.com/Chalarangelo/30-seconds-of-code) - Short code snippets for all your development needs
 - [ariakit/ariakit](https://github.com/ariakit/ariakit) - Toolkit for building accessible web apps with React
 - [aeagle/react-spaces](https://github.com/aeagle/react-spaces) - React components that allow you to divide a page or container into nestable anchored, scrollable and resizable spaces.
 - [donavon/use-persisted-state](https://github.com/donavon/use-persisted-state) - A custom React Hook that provides a multi-instance, multi-tab/browser shared and persistent state.
