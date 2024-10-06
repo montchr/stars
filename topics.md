@@ -2085,6 +2085,7 @@
 - [kognise/water.css](https://github.com/kognise/water.css) - A drop-in collection of CSS styles to make simple websites just a little nicer
 - [LawnchairLauncher/lawnchair](https://github.com/LawnchairLauncher/lawnchair) - No clever tagline needed.
 - [wei/pull](https://github.com/wei/pull) - 🤖 Keep your forks up-to-date via automated PRs
+- [catppuccin/nix](https://github.com/catppuccin/nix) - ❄️ Soothing pastel theme for Nix
 - [Martchus/syncthingtray](https://github.com/Martchus/syncthingtray) - Tray application and Dolphin/Plasma integration for Syncthing
 - [eza-community/eza](https://github.com/eza-community/eza) - A modern alternative to ls
 - [termux/termux-app](https://github.com/termux/termux-app) - Termux - a terminal emulator application for Android OS extendible by variety of packages.
@@ -3401,7 +3402,6 @@
 - [drashna/qmk_userspace](https://github.com/drashna/qmk_userspace) - Userspace for the open-source QMK keyboard firmware.
 - [getreuer/qmk-keymap](https://github.com/getreuer/qmk-keymap) - My keymap & reusable QMK gems
 - [bluskript/nix-inspect](https://github.com/bluskript/nix-inspect) - Interactive tui for inspecting nix configs
-- [catppuccin/nix](https://github.com/catppuccin/nix) - ❄️ Soothing pastel theme for Nix
 - [oddlama/nix-topology](https://github.com/oddlama/nix-topology) - 🍁 Generate infrastructure and network diagrams directly from your NixOS configurations
 - [replit/rippkgs](https://github.com/replit/rippkgs) - A CLI for indexing and searching packages in Nix expressions
 - [tumashu/el2org](https://github.com/tumashu/el2org) - Convert an emacs-lisp file to org file
