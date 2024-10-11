@@ -1066,6 +1066,7 @@
 
 ## JavaScript 
 
+- [ElMassimo/vite-plugin-manifest-sri](https://github.com/ElMassimo/vite-plugin-manifest-sri) - Subresource Integrity for Vite.js manifest files
 - [SUPERCILEX/gnome-clipboard-history](https://github.com/SUPERCILEX/gnome-clipboard-history) - Gnome Clipboard History is a clipboard manager Gnome extension that saves what you've copied into an easily accessible, searchable history panel.
 - [temple-acm/site](https://github.com/temple-acm/site) - The Temple University ACM website.
 - [repository-settings/app](https://github.com/repository-settings/app) - Pull Requests for GitHub repository settings
@@ -1611,7 +1612,7 @@
 - [yawnt/declarative-nix-flatpak](https://github.com/yawnt/declarative-nix-flatpak) - flatpak-install, but declarative
 - [jordanisaacs/dotfiles](https://github.com/jordanisaacs/dotfiles) - My NixOS dotfiles for desktops and servers
 - [the-nix-way/dev-templates](https://github.com/the-nix-way/dev-templates) - Dev environments for numerous languages based on Nix flakes [maintainer=@lucperkins]
-- [nix-community/disko](https://github.com/nix-community/disko) - Declarative disk partitioning and formatting using nix [maintainers=@Lassulus @Enzime]
+- [nix-community/disko](https://github.com/nix-community/disko) - Declarative disk partitioning and formatting using nix [maintainers=@Lassulus @Enzime @iFreilicht]
 - [internet4refugees/beherbergung](https://github.com/internet4refugees/beherbergung) - Tools for ngos, organizing private hosting :blue_heart: :yellow_heart:
 - [jonringer/server-configuration](https://github.com/jonringer/server-configuration) - Build server nixos configuration
 - [ZilchOS/core](https://github.com/ZilchOS/core) - ZilchOS Core, a decidedly tiny Nix-based distro to play with
@@ -1828,7 +1829,7 @@
 - [peel/dotfiles](https://github.com/peel/dotfiles) - well-tailored NixOS & nix-darwin dotfiles
 - [kclejeune/system](https://github.com/kclejeune/system) - Declarative system configurations using nixOS, nix-darwin, and home-manager
 - [hardselius/dotfiles](https://github.com/hardselius/dotfiles) - My personal dotfiles
-- [cmacrae/config](https://github.com/cmacrae/config) - A collection of machine configurations, expressed in Nix
+- [cmacrae/config](https://github.com/cmacrae/config) - A collection of system configurations, expressed in Nix
 - [hlissner/dotfiles](https://github.com/hlissner/dotfiles) - And I say hey, what's going on?
 - [LnL7/nix-darwin](https://github.com/LnL7/nix-darwin) - nix modules for darwin
 
@@ -2080,6 +2081,7 @@
 
 ## PHP 
 
+- [archtechx/enums](https://github.com/archtechx/enums) - Helpers for making PHP enums more lovable.
 - [mindplay-dk/php-vite](https://github.com/mindplay-dk/php-vite) - a lightweight PHP-backend integration package for Vite
 - [dingo-d/wp-pest](https://github.com/dingo-d/wp-pest) - A package that will add WordPress integration test suite with Pest
 - [laravel/framework](https://github.com/laravel/framework) - The Laravel Framework.
@@ -2526,7 +2528,7 @@
 - [nicolargo/glances](https://github.com/nicolargo/glances) - Glances an Eye on your system. A top/htop alternative for GNU/Linux, BSD, Mac OS and Windows operating systems.
 - [aszlig/hetzner](https://github.com/aszlig/hetzner) - A high-level Python API for accessing the Hetzner robot.
 - [pimutils/vdirsyncer](https://github.com/pimutils/vdirsyncer) - 📇 Synchronize calendars and contacts.
-- [pimutils/todoman](https://github.com/pimutils/todoman) - ✅ A simple, standards-based, cli todo (aka: task) manager.
+- [pimutils/todoman](https://github.com/pimutils/todoman) - ✅ Simple, standards-based, command line todo (aka: task) manager.
 - [pimutils/khal](https://github.com/pimutils/khal) - :calendar: CLI calendar application
 - [mikf/gallery-dl](https://github.com/mikf/gallery-dl) - Command-line program to download image galleries and collections from several image hosting sites
 - [mitmproxy/mitmproxy](https://github.com/mitmproxy/mitmproxy) - An interactive TLS-capable intercepting HTTP proxy for penetration testers and software developers.
