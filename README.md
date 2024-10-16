@@ -1409,7 +1409,7 @@
 - [ray-x/navigator.lua](https://github.com/ray-x/navigator.lua) - Code analysis & navigation plugin for Neovim. Navigate codes like a breeze🎐  Exploring LSP and 🌲Treesitter symbols a piece of 🍰  Take control like a boss 🦍
 - [craftzdog/dotfiles-public](https://github.com/craftzdog/dotfiles-public) - My personal dotfiles
 - [nvim-lua/kickstart.nvim](https://github.com/nvim-lua/kickstart.nvim) - A launch point for your personal nvim configuration
-- [raexera/yoru](https://github.com/raexera/yoru) - 夜 - Yoru | Aesthetic and Beautiful Awesome  Environment :first_quarter_moon:
+- [raexera/yoru](https://github.com/raexera/yoru) - A custom Linux environment built on AwesomeWM
 - [syvanpera/nix-config](https://github.com/syvanpera/nix-config) - My NixOS configuration
 - [khuedoan/dotfiles](https://github.com/khuedoan/dotfiles) - nvim, tmux, zsh, fzf, sway, and more!
 - [rtauziac/Hammerspoon-Yabai](https://github.com/rtauziac/Hammerspoon-Yabai) - My personal macOS window manager setup
