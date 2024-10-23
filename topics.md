@@ -4408,7 +4408,7 @@
 - [errata-ai/vale](https://github.com/errata-ai/vale) - :pencil: A markup-aware linter for prose built with speed and extensibility in mind.
 - [Amar1729/yabai-zsh-completions](https://github.com/Amar1729/yabai-zsh-completions) - zsh completions for yabai tiling WM
 - [janpaepke/ScrollMagic](https://github.com/janpaepke/ScrollMagic) - The javascript library for magical scroll interactions.
-- [bbc/psammead](https://github.com/bbc/psammead) - React component library for BBC World Service and more
+- [BBC-archive/psammead](https://github.com/BBC-archive/psammead) - React component library for BBC World Service and more
 - [kuglee/TermiWatch](https://github.com/kuglee/TermiWatch) - Terminal Watch Face for Apple Watch
 - [facebook/watchman](https://github.com/facebook/watchman) - Watches files and records, or triggers actions, when they change.
 - [anubisthejackle/git-hooks](https://github.com/anubisthejackle/git-hooks) - An easy to use Git Hooks repository
