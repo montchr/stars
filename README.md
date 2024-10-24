@@ -1027,6 +1027,7 @@
 - [serhiip/org2any](https://github.com/serhiip/org2any) - Seamless synchronisation of Org files with macOS Reminders
 - [obsidiansystems/obelisk](https://github.com/obsidiansystems/obelisk) - Functional reactive web and mobile applications, with batteries included.
 - [purescript/purescript](https://github.com/purescript/purescript) - A strongly-typed language that compiles to JavaScript
+- [NixOS/nixfmt](https://github.com/NixOS/nixfmt) - The official (but not yet stable) formatter for Nix code
 - [berberman/nvfetcher](https://github.com/berberman/nvfetcher) - Generate nix sources expr for the latest version of packages
 - [obsidiansystems/nix-thunk](https://github.com/obsidiansystems/nix-thunk) - seamless management of source dependencies with nix
 - [kmonad/kmonad](https://github.com/kmonad/kmonad) - An advanced keyboard manager
@@ -1053,7 +1054,6 @@
 - [Helium314/HeliBoard](https://github.com/Helium314/HeliBoard) - Customizable and privacy-conscious open-source keyboard
 - [nix-community/nix-on-droid-app](https://github.com/nix-community/nix-on-droid-app) - Run Nix package manager on Android. Based off Termux the terminal emulator, but not Termux the distro. [maintainer=@t184256]
 - [termux/termux-app](https://github.com/termux/termux-app) - Termux - a terminal emulator application for Android OS extendible by variety of packages.
-- [mollyim/mollyim-android](https://github.com/mollyim/mollyim-android) - Enhanced and security-focused fork of Signal.
 - [google/closure-compiler](https://github.com/google/closure-compiler) - A JavaScript checker and optimizer.
 - [airmessage/airmessage-android](https://github.com/airmessage/airmessage-android) - AirMessage for Android phones, tablets, and laptops
 - [openboard-team/openboard](https://github.com/openboard-team/openboard) - 
@@ -1123,7 +1123,7 @@
 - [postlight/headless-wp-starter](https://github.com/postlight/headless-wp-starter) - 🔪 WordPress + React Starter Kit: Spin up a WordPress-powered React app in one step
 - [10up/wp-local-docker-v2](https://github.com/10up/wp-local-docker-v2) - ARCHIVED: A simple Docker based development environment for WordPress.
 - [artilleryio/artillery](https://github.com/artilleryio/artillery) - The complete load testing platform. Everything you need for production-grade load tests. Serverless & distributed. Load test with Playwright. Load test HTTP APIs, GraphQL, WebSocket, and more. Use any
-- [sveltejs/svelte](https://github.com/sveltejs/svelte) - Cybernetically enhanced web apps
+- [sveltejs/svelte](https://github.com/sveltejs/svelte) - web development for the rest of us
 - [louislam/uptime-kuma](https://github.com/louislam/uptime-kuma) - A fancy self-hosted monitoring tool
 - [WordPress/wordpress-playground](https://github.com/WordPress/wordpress-playground) - Run WordPress in the browser via WebAssembly PHP
 - [colbyfayock/next-wordpress-starter](https://github.com/colbyfayock/next-wordpress-starter) - 📝 Bring WordPress to the static world with Next.js
@@ -1382,6 +1382,7 @@
 - [orgzly-revived/orgzly-android-revived](https://github.com/orgzly-revived/orgzly-android-revived) - Outliner for taking notes and managing to-do lists
 - [caydey/ffshare](https://github.com/caydey/ffshare) - An android app to compress image, video and audio files through ffmpeg before sharing them
 - [signalapp/Signal-Android](https://github.com/signalapp/Signal-Android) - A private messenger for Android.
+- [mollyim/mollyim-android](https://github.com/mollyim/mollyim-android) - Enhanced and security-focused fork of Signal.
 - [JunkFood02/Seal](https://github.com/JunkFood02/Seal) - 🦭 Video/Audio Downloader for Android, based on yt-dlp, designed with Material You
 - [streetcomplete/StreetComplete](https://github.com/streetcomplete/StreetComplete) - Easy to use OpenStreetMap editor for Android
 - [d4rken-org/capod](https://github.com/d4rken-org/capod) - A companion app for AirPods on Android.
@@ -1779,7 +1780,6 @@
 - [cipharius/dotfiles](https://github.com/cipharius/dotfiles) - My complete NixOS system configuration with application specific dotfiles.
 - [Mic92/sops-nix](https://github.com/Mic92/sops-nix) - Atomic secret provisioning for NixOS based on sops
 - [GTrunSec/nixos-flk](https://github.com/GTrunSec/nixos-flk) - highly structured NixOS configuration based on devos
-- [NixOS/nixfmt](https://github.com/NixOS/nixfmt) - The official (but not yet stable) formatter for Nix code
 - [QuentinI/dotnix](https://github.com/QuentinI/dotnix) - 
 - [gytis-ivaskevicius/nixfiles](https://github.com/gytis-ivaskevicius/nixfiles) - My kick-ass NixOS systems configurations!!
 - [nix-community/nur-combined](https://github.com/nix-community/nur-combined) - A repository of NUR that combines all repositories [maintainer=@Mic92]
@@ -2084,6 +2084,8 @@
 
 ## PHP 
 
+- [alleyinteractive/wp-captain-hook](https://github.com/alleyinteractive/wp-captain-hook) - 
+- [alleyinteractive/wp-big-pit](https://github.com/alleyinteractive/wp-big-pit) - The WordPress database table for everything else.
 - [spatie/laravel-package-tools](https://github.com/spatie/laravel-package-tools) - Tools for creating Laravel packages
 - [overtrue/laravel-saml](https://github.com/overtrue/laravel-saml) - SAML toolkit for Laravel based on OneLogin's SAML PHP Toolkit.
 - [askdkc/livewire-csv](https://github.com/askdkc/livewire-csv) - Add importing large CSV (and TSV) data feature to your Laravel models quickly and easily / Laravelにお手軽にCSVインポート機能(TSV含む、大容量対応)を追加する凄いやつだよ🚀
