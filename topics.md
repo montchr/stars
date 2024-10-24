@@ -929,7 +929,7 @@
 - [parcel-bundler/lightningcss](https://github.com/parcel-bundler/lightningcss) - An extremely fast CSS parser, transformer, bundler, and minifier written in Rust.
 - [typst/typst](https://github.com/typst/typst) - A new markup-based typesetting system that is powerful and easy to learn.
 - [vercel/next.js](https://github.com/vercel/next.js) - The React Framework
-- [sveltejs/svelte](https://github.com/sveltejs/svelte) - Cybernetically enhanced web apps
+- [sveltejs/svelte](https://github.com/sveltejs/svelte) - web development for the rest of us
 - [vlang/v](https://github.com/vlang/v) - Simple, fast, safe, compiled language for developing maintainable software. Compiles itself in &lt;1s with zero library dependencies. Supports automatic C =&gt; V translation. https://vlang.io
 - [swc-project/swc](https://github.com/swc-project/swc) - Rust-based platform for the Web
 - [evanw/esbuild](https://github.com/evanw/esbuild) - An extremely fast bundler for the web
@@ -3340,6 +3340,8 @@
 
 ## others 
 
+- [alleyinteractive/wp-captain-hook](https://github.com/alleyinteractive/wp-captain-hook) - 
+- [alleyinteractive/wp-big-pit](https://github.com/alleyinteractive/wp-big-pit) - The WordPress database table for everything else.
 - [overtrue/laravel-saml](https://github.com/overtrue/laravel-saml) - SAML toolkit for Laravel based on OneLogin's SAML PHP Toolkit.
 - [adamblvck/iching-wilhelm-dataset](https://github.com/adamblvck/iching-wilhelm-dataset) - Dataset (JSON & CSV) containing the best English translation of the I-Ching (Wilhelm-Bayes)
 - [viperML/activation-manager](https://github.com/viperML/activation-manager) - The missing piece for effectful operations with Nix
