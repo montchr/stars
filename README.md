@@ -2544,7 +2544,7 @@
 - [borisdayma/dalle-mini](https://github.com/borisdayma/dalle-mini) - DALL·E Mini - Generate images from a text prompt
 - [synchronizing/bluelink](https://github.com/synchronizing/bluelink) - 🚙 Control your Hyundai car via Python.
 - [pyinvoke/invoke](https://github.com/pyinvoke/invoke) - Pythonic task management & command execution.
-- [seanbreckenridge/promnesia](https://github.com/seanbreckenridge/promnesia) - Additional promnesia Sources for my HPI modules
+- [purarue/promnesia](https://github.com/purarue/promnesia) - Additional promnesia Sources for my HPI modules
 - [timokau/nix-bisect](https://github.com/timokau/nix-bisect) - Bisect nix builds. Status: alpha/proof of concept. You'll probably have to dig into the implementation if you want to use it. Built for personal use, lightly maintained. PRs welcome. Issues welcome, b
 - [djacu/nixos-on-zfs](https://github.com/djacu/nixos-on-zfs) - A collection of setup scripts for installing nixOS on my work laptop.
 - [rougier/recursive-voronoi](https://github.com/rougier/recursive-voronoi) - Recursive voronoi diagram
@@ -3385,7 +3385,7 @@
 - [TanStack/router](https://github.com/TanStack/router) - 🤖 Fully typesafe Router for React (and friends) w/ built-in caching, 1st class search-param APIs, client-side cache integration and isomorphic rendering.
 - [DeterminateSystems/update-flake-lock](https://github.com/DeterminateSystems/update-flake-lock) - Automatically refresh your Nix Flakes.
 - [vercel/swr](https://github.com/vercel/swr) - React Hooks for Data Fetching
-- [mswjs/msw](https://github.com/mswjs/msw) - Seamless REST/GraphQL API mocking library for browser and Node.js.
+- [mswjs/msw](https://github.com/mswjs/msw) - Industry standard API mocking for JavaScript.
 - [remotion-dev/remotion](https://github.com/remotion-dev/remotion) - 🎥      Make videos programmatically with React
 - [tailwindlabs/headlessui](https://github.com/tailwindlabs/headlessui) - Completely unstyled, fully accessible UI components, designed to integrate beautifully with Tailwind CSS.
 - [radix-ui/primitives](https://github.com/radix-ui/primitives) - Radix Primitives is an open-source UI component library for building high-quality, accessible design systems and web apps. Maintained by @workos.
