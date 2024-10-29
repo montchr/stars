@@ -856,7 +856,6 @@
 - [ibraheemdev/modern-unix](https://github.com/ibraheemdev/modern-unix) - A collection of modern/faster/saner alternatives to common unix commands.
 - [google/zx](https://github.com/google/zx) - A tool for writing better scripts
 - [oclif/oclif](https://github.com/oclif/oclif) - CLI for generating, building, and releasing oclif CLIs. Built by Salesforce.
-- [jrnl-org/jrnl](https://github.com/jrnl-org/jrnl) - Collect your thoughts and notes without leaving the command line.
 - [wfxr/forgit](https://github.com/wfxr/forgit) - :zzz: A utility tool powered by fzf for using git interactively.
 - [skx/sysbox](https://github.com/skx/sysbox) - sysadmin/scripting utilities, distributed as a single binary
 - [numtide/treefmt](https://github.com/numtide/treefmt) - one CLI to format your repo [maintainers=@zimbatm,@brianmcgee]
@@ -1102,7 +1101,7 @@
 ## deep-learning 
 
 - [naptha/tesseract.js](https://github.com/naptha/tesseract.js) - Pure Javascript OCR for more than 100 Languages 📖🎉🖥
-- [jina-ai/jina](https://github.com/jina-ai/jina) - ☁️ Build multimodal AI applications with cloud-native stack
+- [jina-ai/serve](https://github.com/jina-ai/serve) - ☁️ Build multimodal AI applications with cloud-native stack
 - [lucidrains/deep-daze](https://github.com/lucidrains/deep-daze) - Simple command line tool for text to image generation using OpenAI's CLIP and Siren (Implicit neural representation network). Technique was originally created by https://twitter.com/advadnoun
 
 ## deno 
@@ -1229,7 +1228,7 @@
 - [sct/overseerr](https://github.com/sct/overseerr) - Request management and media discovery tool for the Plex ecosystem
 - [hercules-ci/arion](https://github.com/hercules-ci/arion) - Run docker-compose with help from Nix/NixOS
 - [tazjin/nixery](https://github.com/tazjin/nixery) - Container registry which transparently builds images using the Nix package manager. Canonical repository is https://cs.tvl.fyi/depot/-/tree/tools/nixery
-- [jina-ai/jina](https://github.com/jina-ai/jina) - ☁️ Build multimodal AI applications with cloud-native stack
+- [jina-ai/serve](https://github.com/jina-ai/serve) - ☁️ Build multimodal AI applications with cloud-native stack
 - [benbusby/whoogle-search](https://github.com/benbusby/whoogle-search) - A self-hosted, ad-free, privacy-respecting metasearch engine
 - [bitwarden/server](https://github.com/bitwarden/server) - Bitwarden infrastructure/backend (API, database, Docker, etc).
 - [sentriz/gonic](https://github.com/sentriz/gonic) - music streaming server / free-software subsonic server API implementation
@@ -1770,7 +1769,7 @@
 - [htmlburger/wpemerge](https://github.com/htmlburger/wpemerge) - A modern, MVC-powered WordPress as a CMS workflow. 🚀
 - [pestphp/pest](https://github.com/pestphp/pest) - Pest is an elegant PHP testing Framework with a focus on simplicity, meticulously designed to bring back the joy of testing in PHP.
 - [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) - A powerful little TUI framework 🏗
-- [jina-ai/jina](https://github.com/jina-ai/jina) - ☁️ Build multimodal AI applications with cloud-native stack
+- [jina-ai/serve](https://github.com/jina-ai/serve) - ☁️ Build multimodal AI applications with cloud-native stack
 - [digitallyinduced/ihp](https://github.com/digitallyinduced/ihp) - 🔥 The fastest way to build type safe web apps. IHP is a new batteries-included web framework optimized for longterm productivity and programmer happiness
 - [BracketSpace/Notification](https://github.com/BracketSpace/Notification) - WordPress Notification plugin
 - [niieani/bash-oo-framework](https://github.com/niieani/bash-oo-framework) - Bash Infinity is a modern standard library / framework / boilerplate for Bash
@@ -2613,7 +2612,7 @@
 - [saschagrunert/kubernix](https://github.com/saschagrunert/kubernix) - Single dependency Kubernetes clusters for local testing, experimenting and development
 - [xtruder/kubenix](https://github.com/xtruder/kubenix) - Replaced by https://github.com/hall/kubenix
 - [tazjin/nixery](https://github.com/tazjin/nixery) - Container registry which transparently builds images using the Nix package manager. Canonical repository is https://cs.tvl.fyi/depot/-/tree/tools/nixery
-- [jina-ai/jina](https://github.com/jina-ai/jina) - ☁️ Build multimodal AI applications with cloud-native stack
+- [jina-ai/serve](https://github.com/jina-ai/serve) - ☁️ Build multimodal AI applications with cloud-native stack
 - [geek-cookbook/geek-cookbook](https://github.com/geek-cookbook/geek-cookbook) - The "Geek's Cookbook" is a collection of guides for establishing your own highly-available "private cloud" and using it to run self-hosted services such as GitLab, Plex, NextCloud, etc.
 
 ## language 
@@ -2629,6 +2628,7 @@
 
 ## laravel 
 
+- [larastan/larastan](https://github.com/larastan/larastan) - ⚗️ Adds code analysis to Laravel improving developer productivity and code quality.
 - [spatie/laravel-package-tools](https://github.com/spatie/laravel-package-tools) - Tools for creating Laravel packages
 - [askdkc/livewire-csv](https://github.com/askdkc/livewire-csv) - Add importing large CSV (and TSV) data feature to your Laravel models quickly and easily / Laravelにお手軽にCSVインポート機能(TSV含む、大容量対応)を追加する凄いやつだよ🚀
 - [laravel/framework](https://github.com/laravel/framework) - The Laravel Framework.
@@ -2844,7 +2844,7 @@
 - [paperless-ngx/paperless-ngx](https://github.com/paperless-ngx/paperless-ngx) - A community-supported supercharged version of paperless: scan, index and archive all your physical documents
 - [donnemartin/awesome-aws](https://github.com/donnemartin/awesome-aws) - A curated list of awesome Amazon Web Services (AWS) libraries, open source repos, guides, blogs, and other resources.  Featuring the Fiery Meter of AWSome.
 - [amark/gun](https://github.com/amark/gun) - An open source cybersecurity protocol for syncing decentralized graph data.
-- [jina-ai/jina](https://github.com/jina-ai/jina) - ☁️ Build multimodal AI applications with cloud-native stack
+- [jina-ai/serve](https://github.com/jina-ai/serve) - ☁️ Build multimodal AI applications with cloud-native stack
 - [photoprism/photoprism](https://github.com/photoprism/photoprism) - AI-Powered Photos App for the Decentralized Web 🌈💎✨
 
 ## macos 
@@ -3340,6 +3340,8 @@
 
 ## others 
 
+- [ai/environment](https://github.com/ai/environment) - My home config, scripts and installation process
+- [ai/nanoid](https://github.com/ai/nanoid) - A tiny (124 bytes), secure, URL-friendly, unique string ID generator for JavaScript
 - [alleyinteractive/wp-captain-hook](https://github.com/alleyinteractive/wp-captain-hook) - 
 - [alleyinteractive/wp-big-pit](https://github.com/alleyinteractive/wp-big-pit) - The WordPress database table for everything else.
 - [overtrue/laravel-saml](https://github.com/overtrue/laravel-saml) - SAML toolkit for Laravel based on OneLogin's SAML PHP Toolkit.
@@ -3427,7 +3429,7 @@
 - [progfolio/auto-tangle-mode.el](https://github.com/progfolio/auto-tangle-mode.el) - Minor mode for tangling literate files on save
 - [karthink/repeat-help](https://github.com/karthink/repeat-help) - 
 - [karthink/.emacs.d](https://github.com/karthink/.emacs.d) - My personal emacs settings
-- [Genivia/ugrep](https://github.com/Genivia/ugrep) - NEW ugrep 6.5: a more powerful, ultra fast, user-friendly, compatible grep. Includes a TUI, Google-like Boolean search with AND/OR/NOT, fuzzy search, hexdumps, searches (nested) archives (zip, 7z, tar
+- [Genivia/ugrep](https://github.com/Genivia/ugrep) - NEW ugrep 7.0: a more powerful, ultra fast, user-friendly, compatible grep. Includes a TUI, Google-like Boolean search with AND/OR/NOT, fuzzy search, hexdumps, searches (nested) archives (zip, 7z, tar
 - [rougier/book-mode](https://github.com/rougier/book-mode) - A clean interface for org files (Emacs)
 - [orgzly-revived/orgzly-android-revived](https://github.com/orgzly-revived/orgzly-android-revived) - Outliner for taking notes and managing to-do lists
 - [VK3FNG/dnd5e-orgmode-charsheet](https://github.com/VK3FNG/dnd5e-orgmode-charsheet) - This is an Emacs org-mode character sheet with automatically calculated derived attributes. Pretty HTML stolen from https://github.com/fniessen/org-html-themes
@@ -3717,7 +3719,6 @@
 - [grafana/faro-web-sdk](https://github.com/grafana/faro-web-sdk) - The Grafana Faro Web SDK, part of the Grafana Faro project, is a highly configurable web SDK for real user monitoring (RUM) that instruments browser frontend applications to capture observability sign
 - [erebe/personal-server](https://github.com/erebe/personal-server) - Personal server configuration with k3s
 - [topjohnwu/Magisk](https://github.com/topjohnwu/Magisk) - The Magic Mask for Android
-- [divnix/hive](https://github.com/divnix/hive) - The secretly open NixOS-Society
 - [MatthewCroughan/filestash-nix](https://github.com/MatthewCroughan/filestash-nix) - A flake for testing, building and using Filestash by Mickael Kerjean
 - [paulintrognon/next-typescript](https://github.com/paulintrognon/next-typescript) - Starter template for a clean Next.js + TypeScript + ESLint project
 - [casey/just](https://github.com/casey/just) - 🤖 Just a command runner
@@ -4829,6 +4830,7 @@
 
 ## php 
 
+- [larastan/larastan](https://github.com/larastan/larastan) - ⚗️ Adds code analysis to Laravel improving developer productivity and code quality.
 - [spatie/laravel-package-tools](https://github.com/spatie/laravel-package-tools) - Tools for creating Laravel packages
 - [mindplay-dk/php-vite](https://github.com/mindplay-dk/php-vite) - a lightweight PHP-backend integration package for Vite
 - [laravel/framework](https://github.com/laravel/framework) - The Laravel Framework.
@@ -5090,7 +5092,6 @@
 - [colonelpanic8/dotfiles](https://github.com/colonelpanic8/dotfiles) - Configuration files for XMonad, Emacs, NixOS, Taffybar and more.
 - [NixOS/nixops](https://github.com/NixOS/nixops) - NixOps is a tool for deploying to NixOS machines in a network or cloud.
 - [benbusby/whoogle-search](https://github.com/benbusby/whoogle-search) - A self-hosted, ad-free, privacy-respecting metasearch engine
-- [jrnl-org/jrnl](https://github.com/jrnl-org/jrnl) - Collect your thoughts and notes without leaving the command line.
 - [pre-commit/pre-commit](https://github.com/pre-commit/pre-commit) - A framework for managing and maintaining multi-language pre-commit hooks.
 - [borgbackup/borg](https://github.com/borgbackup/borg) - Deduplicating archiver with compression and authenticated encryption.
 - [harelba/q](https://github.com/harelba/q) - q - Run SQL directly on delimited files and multi-file sqlite databases
@@ -5641,7 +5642,6 @@
 - [colonelpanic8/dotfiles](https://github.com/colonelpanic8/dotfiles) - Configuration files for XMonad, Emacs, NixOS, Taffybar and more.
 - [nushell/nushell](https://github.com/nushell/nushell) - A new type of shell
 - [abathur/resholve](https://github.com/abathur/resholve) - a shell resolver? :) (find and resolve shell script dependencies)
-- [jrnl-org/jrnl](https://github.com/jrnl-org/jrnl) - Collect your thoughts and notes without leaving the command line.
 - [Aloxaf/fzf-tab](https://github.com/Aloxaf/fzf-tab) - Replace zsh's default completion selection menu with fzf!
 - [rothgar/mastering-zsh](https://github.com/rothgar/mastering-zsh) - Advanced topics to take advantage of zsh 👩‍💻👨‍💻
 - [jandamm/zgenom](https://github.com/jandamm/zgenom) - A lightweight and fast plugin manager for ZSH
