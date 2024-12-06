@@ -66,6 +66,7 @@
 - [PureScript](#purescript)
 - [Python](#python)
 - [QML](#qml)
+- [RenderScript](#renderscript)
 - [Rich Text Format](#rich-text-format)
 - [Ruby](#ruby)
 - [Rust](#rust)
@@ -191,7 +192,6 @@
 - [ascii-boxes/boxes](https://github.com/ascii-boxes/boxes) - Command line ASCII boxes unlimited!
 - [dylanaraps/paleta](https://github.com/dylanaraps/paleta) - Change terminal colors on-the-fly independent of terminal emulator.
 - [syohex/emacs-libyaml](https://github.com/syohex/emacs-libyaml) - libyaml binding of Emacs Lisp
-- [laurynas-biveinis/dotfiles](https://github.com/laurynas-biveinis/dotfiles) - My dotfiles and scripts
 - [noahfrederick/qmk-keymaps](https://github.com/noahfrederick/qmk-keymaps) - Personal keyboard keymap files for QMK firmware
 - [dvorka/hstr](https://github.com/dvorka/hstr) - bash and zsh shell history suggest box - easily view, navigate, search and manage your command history.
 - [ish-app/ish](https://github.com/ish-app/ish) - Linux shell for iOS
@@ -384,6 +384,7 @@
 
 ## Emacs Lisp 
 
+- [szermatt/visual-replace](https://github.com/szermatt/visual-replace) - A nicer interface for query-replace on Emacs
 - [xenodium/dotsies](https://github.com/xenodium/dotsies) - Dot files, Emacs config, etc
 - [kickingvegas/casual](https://github.com/kickingvegas/casual) - A collection of opinionated keyboard-driven user interfaces for various built-in Emacs modes.
 - [emacsomancer/org-daily-reflection](https://github.com/emacsomancer/org-daily-reflection) - Reflect on your org-roam daily entries, comparing N org-roam dailies at M intervals (years, months, fortnights, weeks, days).
@@ -668,6 +669,7 @@
 - [colonelpanic8/org-project-capture](https://github.com/colonelpanic8/org-project-capture) - Manage org-mode TODOs for your projectile projects
 - [Fuco1/dired-hacks](https://github.com/Fuco1/dired-hacks) - Collection of useful dired additions
 - [aldrichtr/tangld](https://github.com/aldrichtr/tangld) - A literate dotfiles manager
+- [laurynas-biveinis/dotfiles](https://github.com/laurynas-biveinis/dotfiles) - My dotfiles and scripts
 - [ogdenwebb/emacs-kaolin-themes](https://github.com/ogdenwebb/emacs-kaolin-themes) - Set of eye pleasing themes for GNU Emacs. Supports both GUI and terminal.
 - [justinbarclay/parinfer-rust-mode](https://github.com/justinbarclay/parinfer-rust-mode) - Simplifying how you write Lisp
 - [awth13/org-appear](https://github.com/awth13/org-appear) - Toggle visibility of hidden Org mode element parts upon entering and leaving an element
@@ -1460,6 +1462,7 @@
 
 ## Makefile 
 
+- [lorien/awesome-web-scraping](https://github.com/lorien/awesome-web-scraping) - List of libraries, tools and APIs for web scraping and data processing.
 - [Crell/php-project-template](https://github.com/Crell/php-project-template) - My personal template for new PHP projects.
 - [teamniteo/handbook](https://github.com/teamniteo/handbook) - The Niteo Handbook
 - [wodby/docker4wordpress](https://github.com/wodby/docker4wordpress) - Docker-based WordPress stack
@@ -1547,7 +1550,6 @@
 - [DeterminateSystems/nuenv](https://github.com/DeterminateSystems/nuenv) - A Nushell environment for Nix
 - [divnix/std-data-collection](https://github.com/divnix/std-data-collection) - A collection of nixago configurations that you can use if you like them.
 - [schuelermine/xhmm](https://github.com/schuelermine/xhmm) - Extra home manager modules
-- [dxmh/system-config](https://github.com/dxmh/system-config) - My macOS setup with nix and Homebrew, managed by nix-darwin
 - [Platonic-Systems/process-compose-flake](https://github.com/Platonic-Systems/process-compose-flake) - A `flake-parts` module to spin up processes for development by leveraging `process-compose`
 - [arcnmx/ci](https://github.com/arcnmx/ci) - CI helpers
 - [hugosenari/friendly-modules](https://github.com/hugosenari/friendly-modules) - Random Nix Modules from web
@@ -2100,6 +2102,11 @@
 
 ## PHP 
 
+- [10up/wp_mock](https://github.com/10up/wp_mock) - WordPress API Mocking Framework
+- [cyruscollier/wp-spark](https://github.com/cyruscollier/wp-spark) - An expressive and elegant object-oriented API for WordPress
+- [cyruscollier/wp-test](https://github.com/cyruscollier/wp-test) - A PHP library for running unit and integration tests on any WordPress theme, plugin or full website project
+- [Brain-WP/BrainMonkey](https://github.com/Brain-WP/BrainMonkey) - Mocking utility for PHP functions and WordPress plugin API
+- [JJJ/post-type-switcher](https://github.com/JJJ/post-type-switcher) - The simplest way to change a post's type in WordPress
 - [Automattic/jetpack-blocks](https://github.com/Automattic/jetpack-blocks) - [READ ONLY] Register and manage blocks within a plugin. This repository is a mirror, for issue tracking and development head to https://github.com/Automattic/Jetpack/
 - [kleinweb/lib](https://github.com/kleinweb/lib) - 
 - [humbug/php-scoper](https://github.com/humbug/php-scoper) - 🔨 Prefixes all PHP namespaces in a file/directory to isolate the code bundled in PHARs.
@@ -2501,6 +2508,8 @@
 
 ## Python 
 
+- [metabrainz/listenbrainz-server](https://github.com/metabrainz/listenbrainz-server) - Server for the ListenBrainz project, including the front-end (javascript/react) code that it serves and all of the data processing components that LB uses.
+- [steven-murray/beet-summarize](https://github.com/steven-murray/beet-summarize) - Summarize beet library statistics
 - [krateng/maloja](https://github.com/krateng/maloja) - Self-hosted music scrobble database to create personal listening statistics and charts
 - [Mic92/nixpkgs-review](https://github.com/Mic92/nixpkgs-review) - Review pull-requests on https://github.com/NixOS/nixpkgs
 - [gtronset/beets-filetote](https://github.com/gtronset/beets-filetote) - A plugin for beets that moves non-music files during import & other operations.
@@ -2696,6 +2705,10 @@
 
 - [NICHOLAS85/dotfiles](https://github.com/NICHOLAS85/dotfiles) - Followed https://www.atlassian.com/git/tutorials/dotfiles
 
+## RenderScript 
+
+- [mTvare6/hello-world.rs](https://github.com/mTvare6/hello-world.rs) - 🚀Memory safe, blazing fast, configurable, minimal hello world written in rust(🚀) in a few lines of code with few(1092🚀) dependencies🚀
+
 ## Rich Text Format 
 
 - [fabrizioschiavi/pragmatapro](https://github.com/fabrizioschiavi/pragmatapro) - PragmataPro font is designed to help pros to work better
@@ -2738,6 +2751,9 @@
 
 ## Rust 
 
+- [InputUsername/listenbrainz-rs](https://github.com/InputUsername/listenbrainz-rs) - ListenBrainz API bindings for Rust
+- [RustyNova016/musicbrainz_rs_nova](https://github.com/RustyNova016/musicbrainz_rs_nova) - A wrapper around the musicbrainz API
+- [RustyNova016/Alistral](https://github.com/RustyNova016/Alistral) - Power tools for Listenbrainz
 - [jdx/mise](https://github.com/jdx/mise) - dev tools, env vars, task runner
 - [Automattic/wordpress-rs](https://github.com/Automattic/wordpress-rs) - A cross-platform WordPress API implementation
 - [casey/intermodal](https://github.com/casey/intermodal) - A command-line utility for BitTorrent torrent file creation, verification, and more
@@ -2766,7 +2782,7 @@
 - [lapce/lapce](https://github.com/lapce/lapce) - Lightning-fast and Powerful Code Editor written in Rust
 - [Uriopass/Egregoria](https://github.com/Uriopass/Egregoria) - 3D City Builder without a grid
 - [squidowl/halloy](https://github.com/squidowl/halloy) - IRC application written in Rust
-- [jqnatividad/qsv](https://github.com/jqnatividad/qsv) - Blazing-fast Data-Wrangling toolkit
+- [dathere/qsv](https://github.com/dathere/qsv) - Blazing-fast Data-Wrangling toolkit
 - [DeterminateSystems/magic-nix-cache](https://github.com/DeterminateSystems/magic-nix-cache) - Save 30-50%+ of CI time without any effort or cost. Use Magic Nix Cache, a totally free and zero-configuration binary cache for Nix on GitHub Actions.
 - [kamiyaa/joshuto](https://github.com/kamiyaa/joshuto) - ranger-like terminal file manager written in Rust
 - [automancy/automancy](https://github.com/automancy/automancy) - A game about automation, hexagons and magic; and there's no Conveyor Belts.
@@ -2901,7 +2917,6 @@
 - [Mic92/cntr](https://github.com/Mic92/cntr) - A container debugging tool based on FUSE
 - [Velfi/i-ching](https://github.com/Velfi/i-ching) - A library for i-ching apps written in Rust, and a companion CLI app for divination
 - [crossterm-rs/crossterm](https://github.com/crossterm-rs/crossterm) - Cross platform terminal library rust
-- [mTvare6/hello-world.rs](https://github.com/mTvare6/hello-world.rs) - 🚀Memory safe, blazing fast, configurable, minimal hello world written in rust(🚀) in a few lines of code with few(1092🚀) dependencies🚀
 - [dani-garcia/vaultwarden](https://github.com/dani-garcia/vaultwarden) - Unofficial Bitwarden compatible server written in Rust, formerly known as bitwarden_rs
 - [yaa110/nomino](https://github.com/yaa110/nomino) - Batch rename utility for developers
 - [tonarino/innernet](https://github.com/tonarino/innernet) - A private network system that uses WireGuard under the hood.
@@ -3164,7 +3179,7 @@
 - [kenorb/dotfiles](https://github.com/kenorb/dotfiles) - Various configuration files for shell.
 - [konstruktoid/hardening](https://github.com/konstruktoid/hardening) - Hardening Ubuntu. Systemd edition.
 - [hetzneronline/installimage](https://github.com/hetzneronline/installimage) - Bash scripts to universally deploy various distributions
-- [olets/zsh-abbr](https://github.com/olets/zsh-abbr) - The zsh manager for auto-expanding abbreviations, inspired by fish. ~23,000 clones by ~15,000 unique cloners as of Nov '24, and averaging ~60 Homebrew installs monthly since June 2023
+- [olets/zsh-abbr](https://github.com/olets/zsh-abbr) - The zsh manager for auto-expanding abbreviations, inspired by fish. ~24,000 clones by ~15,000 unique cloners as of late Nov '24, and averaging ~60 Homebrew installs monthly since June 2023
 - [base16-manager/base16-manager](https://github.com/base16-manager/base16-manager) - A command line tool to install base16 templates and set themes globally.
 - [rainglow/jetbrains](https://github.com/rainglow/jetbrains) - 320+ color themes for JetBrains IDEs including PHPStorm, Webstorm and more.
 - [asdf-community/asdf-direnv](https://github.com/asdf-community/asdf-direnv) - direnv plugin for the asdf version manager
