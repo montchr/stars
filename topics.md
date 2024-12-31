@@ -199,6 +199,7 @@
 - [sass](#sass)
 - [scala](#scala)
 - [security](#security)
+- [security-tools](#security-tools)
 - [self-hosted](#self-hosted)
 - [server](#server)
 - [serverless](#serverless)
@@ -514,7 +515,7 @@
 - [reHackable/awesome-reMarkable](https://github.com/reHackable/awesome-reMarkable) - A curated list of projects related to the reMarkable tablet
 - [selfrefactor/useful-javascript-libraries](https://github.com/selfrefactor/useful-javascript-libraries) - Collection of Javascript libraries
 - [rockerBOO/awesome-neovim](https://github.com/rockerBOO/awesome-neovim) - Collections of awesome neovim plugins.
-- [p3r7/awesome-elisp](https://github.com/p3r7/awesome-elisp) - 🏵️ A curated list of Emacs Lisp development resources
+- [emacs-tw/awesome-elisp](https://github.com/emacs-tw/awesome-elisp) - 🏵️ A curated list of Emacs Lisp development resources
 - [zhouzi/awesome-perceived-performance](https://github.com/zhouzi/awesome-perceived-performance) - 💫 Perceived performance best practices & resources.
 - [trimstray/the-book-of-secret-knowledge](https://github.com/trimstray/the-book-of-secret-knowledge) - A collection of inspiring lists, manuals, cheatsheets, blogs, hacks, one-liners, cli/web tools and more.
 - [fiatjaf/awesome-loginless](https://github.com/fiatjaf/awesome-loginless) - an awesome list of internet services that don't require logins or registrations
@@ -605,7 +606,7 @@
 - [starship/starship](https://github.com/starship/starship) - ☄🌌️  The minimal, blazing-fast, and infinitely customizable prompt for any shell!
 - [rgbatty/cauldron](https://github.com/rgbatty/cauldron) - Double, double toil and trouble; Fire burn and caldron bubble - A collection of declarative user and host configurations (eg. dotfiles) managed with Nix
 - [nix-community/patsh](https://github.com/nix-community/patsh) - A command-line tool for patching shell scripts inspired by resholve [maintainer=@figsoda]
-- [carapace-sh/carapace](https://github.com/carapace-sh/carapace) - command argument completion generator for spf13/cobra
+- [carapace-sh/carapace](https://github.com/carapace-sh/carapace) - A multi-shell completion library.
 - [charmbracelet/gum](https://github.com/charmbracelet/gum) - A tool for glamorous shell scripts 🎀
 - [techandme/wordpress-vm](https://github.com/techandme/wordpress-vm) - Scripts to setup and configure the Wordpress VM. Find all the latest VMs here:
 - [tinted-theming/base16-shell-legacy](https://github.com/tinted-theming/base16-shell-legacy) - Base16 for Shells
@@ -890,7 +891,7 @@
 - [sindresorhus/dark-mode-cli](https://github.com/sindresorhus/dark-mode-cli) - Control the macOS dark mode from the command-line
 - [xwmx/nb](https://github.com/xwmx/nb) - CLI and local web plain text note‑taking, bookmarking, and archiving with linking, tagging, filtering, search, Git versioning & syncing, Pandoc conversion, + more, in a single portable script.
 - [FormidableLabs/webpack-dashboard](https://github.com/FormidableLabs/webpack-dashboard) - A CLI dashboard for webpack dev server
-- [gpakosz/.tmux](https://github.com/gpakosz/.tmux) - 🇫🇷 Oh my tmux! My self-contained, pretty & versatile tmux configuration made with ❤️
+- [gpakosz/.tmux](https://github.com/gpakosz/.tmux) - Oh my tmux! My self-contained, pretty & versatile tmux configuration made with 💛🩷💙🖤❤️🤍
 - [rgcr/m-cli](https://github.com/rgcr/m-cli) -  Swiss Army Knife for macOS
 - [athityakumar/colorls](https://github.com/athityakumar/colorls) - A Ruby gem that beautifies the terminal's ls command, with color and font-awesome icons. :tada:
 - [ohmyzsh/ohmyzsh](https://github.com/ohmyzsh/ohmyzsh) - 🙃   A delightful community-driven (with 2,400+ contributors) framework for managing your zsh configuration. Includes 300+ optional plugins (rails, git, macOS, hub, docker, homebrew, node, php, python,
@@ -1006,7 +1007,7 @@
 - [yuschick/stylelint-plugin-defensive-css](https://github.com/yuschick/stylelint-plugin-defensive-css) - A Stylelint plugin for enforcing defensive CSS best practices.
 - [Stranger6667/css-inline](https://github.com/Stranger6667/css-inline) - High-performance library for inlining CSS into HTML 'style' attributes
 - [parcel-bundler/lightningcss](https://github.com/parcel-bundler/lightningcss) - An extremely fast CSS parser, transformer, bundler, and minifier written in Rust.
-- [Leniolabs/layoutit-grid](https://github.com/Leniolabs/layoutit-grid) - Layoutit grid is a CSS Grid layout generator. Quickly draw down web pages layouts with our clean editor, and get HTML and CSS code to quickstart your next project.
+- [LayoutitStudio/layoutit-grid](https://github.com/LayoutitStudio/layoutit-grid) - Layoutit grid is a CSS Grid layout generator. Quickly draw down web pages layouts with our clean editor, and get HTML and CSS code to quickstart your next project.
 - [darrenjacoby/tailwindcss-fl](https://github.com/darrenjacoby/tailwindcss-fl) - TailwindCSS plugin to generate fluid utility classes using existing config
 - [mdn/content](https://github.com/mdn/content) - The content behind MDN Web Docs
 - [Etesam913/rounded-fox](https://github.com/Etesam913/rounded-fox) - A userchrome css configuration for firefox that is ultra-minimalistic
@@ -1079,7 +1080,7 @@
 
 - [metabrainz/listenbrainz-server](https://github.com/metabrainz/listenbrainz-server) - Server for the ListenBrainz project, including the front-end (javascript/react) code that it serves and all of the data processing components that LB uses.
 - [QuivrHQ/quivr](https://github.com/QuivrHQ/quivr) - Opiniated RAG for integrating GenAI in your apps 🧠   Focus on your product rather than the RAG. Easy integration in existing products with customisation!  Any LLM: GPT4, Groq, Llama. Any Vectorstore: 
-- [AmrDeveloper/GQL](https://github.com/AmrDeveloper/GQL) - Git Query language is a SQL like language to perform queries on .git files with supports of most of SQL features such as grouping, ordering and aggregations functions
+- [AmrDeveloper/GQL](https://github.com/AmrDeveloper/GQL) - GitQL is a extensible SQL-like query language and SDK to perform queries on various data sources such .git files with supports of most of SQL features such as grouping, ordering and aggregation and wi
 - [VictoriaMetrics/VictoriaMetrics](https://github.com/VictoriaMetrics/VictoriaMetrics) - VictoriaMetrics: fast, cost-effective monitoring solution and time series database
 - [valeriansaliou/sonic](https://github.com/valeriansaliou/sonic) - 🦔 Fast, lightweight & schema-less search backend. An alternative to Elasticsearch that runs on a few MBs of RAM.
 - [tursodatabase/libsql](https://github.com/tursodatabase/libsql) - libSQL is a fork of SQLite that is both Open Source, and Open Contributions.
@@ -1394,7 +1395,7 @@
 - [alrra/dotfiles](https://github.com/alrra/dotfiles) - 💻 macOS / Ubuntu dotfiles
 - [tony/tmux-config](https://github.com/tony/tmux-config) - :green_book: Example tmux configuration - screen + vim key-bindings, system stat, cpu load bar.
 - [tony/.dot-config](https://github.com/tony/.dot-config) - :books: Example dot configs for tmux, tmuxp, vim, vcspull, i3 and awesome
-- [gpakosz/.tmux](https://github.com/gpakosz/.tmux) - 🇫🇷 Oh my tmux! My self-contained, pretty & versatile tmux configuration made with ❤️
+- [gpakosz/.tmux](https://github.com/gpakosz/.tmux) - Oh my tmux! My self-contained, pretty & versatile tmux configuration made with 💛🩷💙🖤❤️🤍
 - [edheltzel/dotfiles](https://github.com/edheltzel/dotfiles) - My setup for 🐠 Fish shell on  macOS - v3
 - [paulirish/dotfiles](https://github.com/paulirish/dotfiles) - paul's fish, bash, git, etc config files. good stuff.
 - [montchr/dotfiles](https://github.com/montchr/dotfiles) - dotfiles by @montchr
@@ -1441,6 +1442,7 @@
 
 ## emacs 
 
+- [enzuru/.emacs.d](https://github.com/enzuru/.emacs.d) - A maximalist Emacs config tracking the latest trends
 - [szermatt/visual-replace](https://github.com/szermatt/visual-replace) - A nicer interface for query-replace on Emacs
 - [jamescherti/minimal-emacs.d](https://github.com/jamescherti/minimal-emacs.d) - Minimal ~/.emacs.d - Better Vanilla Emacs Defaults and Optimized Startup
 - [minad/marginalia](https://github.com/minad/marginalia) - :scroll: marginalia.el - Marginalia in the minibuffer
@@ -1550,7 +1552,7 @@
 - [NeQuissimus/DevSetup](https://github.com/NeQuissimus/DevSetup) - dotfiles and NixOS setups
 - [rougier/svg-tag-mode](https://github.com/rougier/svg-tag-mode) - A minor mode for Emacs that replace keywords with nice SVG labels
 - [vic/SPC](https://github.com/vic/SPC) - Send keyboard macros to Spacemacs or DOOM Emacs via emacsclient.
-- [p3r7/awesome-elisp](https://github.com/p3r7/awesome-elisp) - 🏵️ A curated list of Emacs Lisp development resources
+- [emacs-tw/awesome-elisp](https://github.com/emacs-tw/awesome-elisp) - 🏵️ A curated list of Emacs Lisp development resources
 - [seagle0128/.emacs.d](https://github.com/seagle0128/.emacs.d) - Centaur Emacs - A Fancy and Fast Emacs Configuration
 - [rougier/nano-modeline](https://github.com/rougier/nano-modeline) - GNU Emacs / N Λ N O Modeline
 - [rougier/notebook-mode](https://github.com/rougier/notebook-mode) - GNU Emacs notebook mode
@@ -1826,7 +1828,7 @@
 
 - [abhinav/git-spice](https://github.com/abhinav/git-spice) - Manage stacked Git branches
 - [hakoerber/git-repo-manager](https://github.com/hakoerber/git-repo-manager) - A git tool to manage worktrees and integrate with GitHub and GitLab
-- [AmrDeveloper/GQL](https://github.com/AmrDeveloper/GQL) - Git Query language is a SQL like language to perform queries on .git files with supports of most of SQL features such as grouping, ordering and aggregations functions
+- [AmrDeveloper/GQL](https://github.com/AmrDeveloper/GQL) - GitQL is a extensible SQL-like query language and SDK to perform queries on various data sources such .git files with supports of most of SQL features such as grouping, ordering and aggregation and wi
 - [cchexcode/complate](https://github.com/cchexcode/complate) - A powerful text templating tool.
 - [nix-community/nurl](https://github.com/nix-community/nurl) - Generate Nix fetcher calls from repository URLs [maintainer=@figsoda]
 - [rgbatty/cauldron](https://github.com/rgbatty/cauldron) - Double, double toil and trouble; Fire burn and caldron bubble - A collection of declarative user and host configurations (eg. dotfiles) managed with Nix
@@ -3341,6 +3343,10 @@
 
 ## others 
 
+- [emacstv/emacstv.github.io](https://github.com/emacstv/emacstv.github.io) - 
+- [positron-solutions/moc](https://github.com/positron-solutions/moc) - Master of Ceremonies.  Display & presentation utilities to make presentation packages more effective
+- [amno1/.emacs.d](https://github.com/amno1/.emacs.d) - My current Emacs setup.
+- [ghostty-org/ghostty](https://github.com/ghostty-org/ghostty) - 👻 Ghostty is a fast, feature-rich, and cross-platform terminal emulator that uses platform-native UI and GPU acceleration.
 - [positron-solutions/dslide](https://github.com/positron-solutions/dslide) - Present anything Emacs can do with programmable, extensible, configurable slides & presentation steps made from org mode headings
 - [bacoords/block-theme](https://github.com/bacoords/block-theme) - A starter block theme for modern WordPress developers.
 - [kagisearch/bangs](https://github.com/kagisearch/bangs) - Repository of bangs used by Kagi Search
@@ -4467,7 +4473,7 @@
 - [reconquest/shdoc](https://github.com/reconquest/shdoc) - Documentation generator for shell scripts (bash, sh, zsh). Javadoc for shell scripts.
 - [fsaintjacques/semver-tool](https://github.com/fsaintjacques/semver-tool) - semver bash implementation
 - [kickscondor/fraidycat](https://github.com/kickscondor/fraidycat) - Follow blogs, wikis, YouTube channels, as well as accounts on Twitter, Instagram, etc. from a single page.
-- [pratiktri/server_init_harden](https://github.com/pratiktri/server_init_harden) - Server hardening on 1st login as "root"
+- [pratiktri/server_init_harden](https://github.com/pratiktri/server_init_harden) - POSIX shell script automating Linux security hardening through SSH, firewall, access controls, and intrusion prevention across Linux distributions.
 - [rxhanson/Rectangle](https://github.com/rxhanson/Rectangle) - Move and resize windows on macOS with keyboard shortcuts and snap areas
 - [noahfrederick/qmk-keymaps](https://github.com/noahfrederick/qmk-keymaps) - Personal keyboard keymap files for QMK firmware
 - [inkandswitch/cambria-project](https://github.com/inkandswitch/cambria-project) - Schema evolution with bi-directional lenses.
@@ -5011,7 +5017,7 @@
 ## powershell 
 
 - [starship/starship](https://github.com/starship/starship) - ☄🌌️  The minimal, blazing-fast, and infinitely customizable prompt for any shell!
-- [carapace-sh/carapace](https://github.com/carapace-sh/carapace) - command argument completion generator for spf13/cobra
+- [carapace-sh/carapace](https://github.com/carapace-sh/carapace) - A multi-shell completion library.
 - [hpjansson/chafa](https://github.com/hpjansson/chafa) - 📺🗿 Terminal graphics for the 21st century.
 - [ajeetdsouza/zoxide](https://github.com/ajeetdsouza/zoxide) - A smarter cd command. Supports all major shells.
 - [faressoft/terminalizer](https://github.com/faressoft/terminalizer) - 🦄 Record your terminal and generate animated gif images or share a web player
@@ -5306,7 +5312,7 @@
 - [ecosse3/nvim](https://github.com/ecosse3/nvim) - A non-minimal Neovim config built to work most efficiently with Frontend Development
 - [ben-rogerson/twin.macro](https://github.com/ben-rogerson/twin.macro) - 🦹‍♂️ Twin blends the magic of Tailwind with the flexibility of css-in-js (emotion, styled-components, solid-styled-components, stitches and goober) at build time.
 - [bbc/simorgh](https://github.com/bbc/simorgh) - The BBC's Open Source Web Application. Contributions welcome! Used on some of our biggest websites, e.g.
-- [tremorlabs/tremor](https://github.com/tremorlabs/tremor) - React components to build charts and dashboards
+- [tremorlabs/tremor-npm](https://github.com/tremorlabs/tremor-npm) - React components to build charts and dashboards
 - [TanStack/virtual](https://github.com/TanStack/virtual) - 🤖 Headless UI for Virtualizing Large Element Lists in JS/TS, React, Solid, Vue and Svelte
 - [lukasmasuch/best-of-react](https://github.com/lukasmasuch/best-of-react) - 🏆 A ranked list of awesome React open-source libraries and tools. Updated weekly.
 - [TanStack/table](https://github.com/TanStack/table) - 🤖 Headless UI for building powerful tables & datagrids for TS/JS -  React-Table, Vue-Table, Solid-Table, Svelte-Table
@@ -5395,7 +5401,7 @@
 - [kamiyaa/joshuto](https://github.com/kamiyaa/joshuto) - ranger-like terminal file manager written in Rust
 - [automancy/automancy](https://github.com/automancy/automancy) - A game about automation, hexagons and magic; and there's no Conveyor Belts.
 - [uutils/coreutils](https://github.com/uutils/coreutils) - Cross-platform Rust rewrite of the GNU coreutils
-- [AmrDeveloper/GQL](https://github.com/AmrDeveloper/GQL) - Git Query language is a SQL like language to perform queries on .git files with supports of most of SQL features such as grouping, ordering and aggregations functions
+- [AmrDeveloper/GQL](https://github.com/AmrDeveloper/GQL) - GitQL is a extensible SQL-like query language and SDK to perform queries on various data sources such .git files with supports of most of SQL features such as grouping, ordering and aggregation and wi
 - [swsnr/mdcat](https://github.com/swsnr/mdcat) - cat for markdown
 - [BillyDM/awesome-audio-dsp](https://github.com/BillyDM/awesome-audio-dsp) - My curated list of audio DSP and plugin development resources
 - [Canop/rhit](https://github.com/Canop/rhit) - A nginx log explorer
@@ -5471,6 +5477,7 @@
 - [jonringer/nix-template](https://github.com/jonringer/nix-template) - Make creating nix expressions easy
 - [Misterio77/flavours](https://github.com/Misterio77/flavours) - 🎨💧 An easy to use base16 scheme manager that integrates with any workflow.
 - [nix-community/dream2nix](https://github.com/nix-community/dream2nix) - Simplified nix packaging for various programming language ecosystems [maintainer=@DavHau]
+- [fish-shell/fish-shell](https://github.com/fish-shell/fish-shell) - The user-friendly command line shell.
 - [Dusk-Labs/dim](https://github.com/Dusk-Labs/dim) - Dim, a media manager fueled by dark forces.
 - [orhun/git-cliff](https://github.com/orhun/git-cliff) - A highly customizable Changelog Generator that follows Conventional Commit specifications ⛰️
 - [libreddit/libreddit](https://github.com/libreddit/libreddit) - Private front-end for Reddit
@@ -5571,6 +5578,17 @@
 - [konstruktoid/hardening](https://github.com/konstruktoid/hardening) - Hardening Ubuntu. Systemd edition.
 - [mailpile/Mailpile](https://github.com/mailpile/Mailpile) - A free & open modern, fast email client with user-friendly encryption and privacy features
 
+## security-tools 
+
+- [nozaq/terraform-aws-secure-baseline](https://github.com/nozaq/terraform-aws-secure-baseline) - Terraform module to set up your AWS account with the secure baseline configuration based on CIS Amazon Web Services Foundations and AWS Foundational Security Best Practices.
+- [aquasecurity/trivy](https://github.com/aquasecurity/trivy) - Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes, code repositories, clouds and more
+- [smallstep/cli](https://github.com/smallstep/cli) - 🧰  A zero trust swiss army knife for working with X509, OAuth, JWT, OATH OTP, etc.
+- [Lissy93/personal-security-checklist](https://github.com/Lissy93/personal-security-checklist) - 🔒 A compiled checklist of 300+ tips for protecting digital security and privacy in 2024
+- [nccgroup/tracy](https://github.com/nccgroup/tracy) - A tool designed to assist with finding all sinks and sources of a web application and display these results in a digestible manner.
+- [qeeqbox/social-analyzer](https://github.com/qeeqbox/social-analyzer) - API, CLI, and Web App for analyzing and finding a person's profile in 1000 social media \ websites
+- [CISOfy/lynis](https://github.com/CISOfy/lynis) - Lynis - Security auditing tool for Linux, macOS, and UNIX-based systems. Assists with compliance testing (HIPAA/ISO27001/PCI DSS) and system hardening. Agentless, and installation optional.
+- [konstruktoid/hardening](https://github.com/konstruktoid/hardening) - Hardening Ubuntu. Systemd edition.
+
 ## self-hosted 
 
 - [krateng/maloja](https://github.com/krateng/maloja) - Self-hosted music scrobble database to create personal listening statistics and charts
@@ -5640,7 +5658,7 @@
 - [umlx5h/zsh-manpage-completion-generator](https://github.com/umlx5h/zsh-manpage-completion-generator) - Generate zsh completions from man page
 - [azjezz/psl](https://github.com/azjezz/psl) - 📚 PHP Standard Library - a modern, consistent, centralized, well-typed, non-blocking set of APIs for PHP programmers
 - [nix-community/patsh](https://github.com/nix-community/patsh) - A command-line tool for patching shell scripts inspired by resholve [maintainer=@figsoda]
-- [carapace-sh/carapace](https://github.com/carapace-sh/carapace) - command argument completion generator for spf13/cobra
+- [carapace-sh/carapace](https://github.com/carapace-sh/carapace) - A multi-shell completion library.
 - [szepeviktor/debian-server-tools](https://github.com/szepeviktor/debian-server-tools) - Tools and living docs 🧬 for Debian-based servers and Web Applications
 - [charmbracelet/gum](https://github.com/charmbracelet/gum) - A tool for glamorous shell scripts 🎀
 - [b3nj5m1n/xdg-ninja](https://github.com/b3nj5m1n/xdg-ninja) - A shell script which checks your $HOME for unwanted files and directories.
@@ -5731,7 +5749,7 @@
 - [alrra/dotfiles](https://github.com/alrra/dotfiles) - 💻 macOS / Ubuntu dotfiles
 - [tony/tmux-config](https://github.com/tony/tmux-config) - :green_book: Example tmux configuration - screen + vim key-bindings, system stat, cpu load bar.
 - [tony/.dot-config](https://github.com/tony/.dot-config) - :books: Example dot configs for tmux, tmuxp, vim, vcspull, i3 and awesome
-- [gpakosz/.tmux](https://github.com/gpakosz/.tmux) - 🇫🇷 Oh my tmux! My self-contained, pretty & versatile tmux configuration made with ❤️
+- [gpakosz/.tmux](https://github.com/gpakosz/.tmux) - Oh my tmux! My self-contained, pretty & versatile tmux configuration made with 💛🩷💙🖤❤️🤍
 - [zsh-users/zsh-autosuggestions](https://github.com/zsh-users/zsh-autosuggestions) - Fish-like autosuggestions for zsh
 - [ohmyzsh/ohmyzsh](https://github.com/ohmyzsh/ohmyzsh) - 🙃   A delightful community-driven (with 2,400+ contributors) framework for managing your zsh configuration. Includes 300+ optional plugins (rails, git, macOS, hub, docker, homebrew, node, php, python,
 - [holman/dotfiles](https://github.com/holman/dotfiles) - @holman does dotfiles
@@ -5746,7 +5764,7 @@
 
 - [mithrandie/csvq](https://github.com/mithrandie/csvq) - SQL-like query language for csv
 - [dathere/qsv](https://github.com/dathere/qsv) - Blazing-fast Data-Wrangling toolkit
-- [AmrDeveloper/GQL](https://github.com/AmrDeveloper/GQL) - Git Query language is a SQL like language to perform queries on .git files with supports of most of SQL features such as grouping, ordering and aggregations functions
+- [AmrDeveloper/GQL](https://github.com/AmrDeveloper/GQL) - GitQL is a extensible SQL-like query language and SDK to perform queries on various data sources such .git files with supports of most of SQL features such as grouping, ordering and aggregation and wi
 - [mergestat/mergestat-lite](https://github.com/mergestat/mergestat-lite) - Query git repositories with SQL. Generate reports, perform status checks, analyze codebases. 🔍 📊
 - [neilotoole/sq](https://github.com/neilotoole/sq) - sq data wrangler
 - [cube2222/octosql](https://github.com/cube2222/octosql) - OctoSQL is a query tool that allows you to join, analyse and transform data from multiple databases and file formats using SQL.
@@ -5854,7 +5872,7 @@
 - [ixartz/Next-js-Boilerplate](https://github.com/ixartz/Next-js-Boilerplate) - 🚀🎉📚 Boilerplate and Starter for Next.js 15 with App Router and Page Router support, Tailwind CSS 3.4 and TypeScript ⚡️ Made with developer experience first: Next.js + TypeScript + ESLint + Prettier + 
 - [tailwindlabs/tailwindcss-intellisense](https://github.com/tailwindlabs/tailwindcss-intellisense) - Intelligent Tailwind CSS tooling for Visual Studio Code
 - [ben-rogerson/twin.macro](https://github.com/ben-rogerson/twin.macro) - 🦹‍♂️ Twin blends the magic of Tailwind with the flexibility of css-in-js (emotion, styled-components, solid-styled-components, stitches and goober) at build time.
-- [tremorlabs/tremor](https://github.com/tremorlabs/tremor) - React components to build charts and dashboards
+- [tremorlabs/tremor-npm](https://github.com/tremorlabs/tremor-npm) - React components to build charts and dashboards
 - [gregrickaby/nextjs-wordpress](https://github.com/gregrickaby/nextjs-wordpress) - 💀 It's headless WordPress!
 - [WebDevStudios/nextjs-wordpress-starter](https://github.com/WebDevStudios/nextjs-wordpress-starter) - A headless starter for WordPress powered by Next.js.
 - [jeffreyvr/tailpress](https://github.com/jeffreyvr/tailpress) - TailPress is a minimal boilerplate theme for WordPress using Tailwind CSS.
@@ -5951,7 +5969,7 @@
 - [kovidgoyal/kitty](https://github.com/kovidgoyal/kitty) - Cross-platform, fast, feature-rich, GPU based terminal
 - [alacritty/alacritty](https://github.com/alacritty/alacritty) - A cross-platform, OpenGL terminal emulator.
 - [tony/tmux-config](https://github.com/tony/tmux-config) - :green_book: Example tmux configuration - screen + vim key-bindings, system stat, cpu load bar.
-- [gpakosz/.tmux](https://github.com/gpakosz/.tmux) - 🇫🇷 Oh my tmux! My self-contained, pretty & versatile tmux configuration made with ❤️
+- [gpakosz/.tmux](https://github.com/gpakosz/.tmux) - Oh my tmux! My self-contained, pretty & versatile tmux configuration made with 💛🩷💙🖤❤️🤍
 - [akermu/emacs-libvterm](https://github.com/akermu/emacs-libvterm) - Emacs libvterm integration
 - [athityakumar/colorls](https://github.com/athityakumar/colorls) - A Ruby gem that beautifies the terminal's ls command, with color and font-awesome icons. :tada:
 - [ohmyzsh/ohmyzsh](https://github.com/ohmyzsh/ohmyzsh) - 🙃   A delightful community-driven (with 2,400+ contributors) framework for managing your zsh configuration. Includes 300+ optional plugins (rails, git, macOS, hub, docker, homebrew, node, php, python,
@@ -6042,7 +6060,7 @@
 - [gqty-dev/gqty](https://github.com/gqty-dev/gqty) - The No-GraphQL Client for TypeScript
 - [bbc/simorgh](https://github.com/bbc/simorgh) - The BBC's Open Source Web Application. Contributions welcome! Used on some of our biggest websites, e.g.
 - [belgattitude/nextjs-monorepo-example](https://github.com/belgattitude/nextjs-monorepo-example) - Collection of monorepo tips & tricks
-- [tremorlabs/tremor](https://github.com/tremorlabs/tremor) - React components to build charts and dashboards
+- [tremorlabs/tremor-npm](https://github.com/tremorlabs/tremor-npm) - React components to build charts and dashboards
 - [gregrickaby/nextjs-wordpress](https://github.com/gregrickaby/nextjs-wordpress) - 💀 It's headless WordPress!
 - [coralproject/talk](https://github.com/coralproject/talk) - A better commenting experience from Vox Media
 - [Automattic/vip-go-nextjs-skeleton](https://github.com/Automattic/vip-go-nextjs-skeleton) - A Next.js boilerplate for decoupled WordPress on VIP.
@@ -6209,7 +6227,7 @@
 ## vue 
 
 - [area17/twill](https://github.com/area17/twill) - Twill is an open source CMS toolkit for Laravel that helps developers rapidly create a custom admin console that is intuitive, powerful and flexible. Chat with us on Discord at https://discord.gg/cnWk
-- [Leniolabs/layoutit-grid](https://github.com/Leniolabs/layoutit-grid) - Layoutit grid is a CSS Grid layout generator. Quickly draw down web pages layouts with our clean editor, and get HTML and CSS code to quickstart your next project.
+- [LayoutitStudio/layoutit-grid](https://github.com/LayoutitStudio/layoutit-grid) - Layoutit grid is a CSS Grid layout generator. Quickly draw down web pages layouts with our clean editor, and get HTML and CSS code to quickstart your next project.
 - [roots/bud](https://github.com/roots/bud) - High-performance build system that supports SWC, esbuild, and Babel
 - [vidstack/player](https://github.com/vidstack/player) - UI components and hooks for building video/audio players on the web. Robust, customizable, and accessible. Modern alternative to JW Player and Video.js.
 - [rogden/tailwind-config-viewer](https://github.com/rogden/tailwind-config-viewer) - A local UI tool for visualizing your Tailwind CSS configuration file.
