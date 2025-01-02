@@ -2277,7 +2277,7 @@
 - [express-labs/pure-react-carousel](https://github.com/express-labs/pure-react-carousel) - A highly impartial suite of React components that can be assembled by the consumer to create a carousel with almost no limits on DOM structure or CSS styles.  If you're tired of fighting some other de
 - [murdos/musicbrainz-userscripts](https://github.com/murdos/musicbrainz-userscripts) - Collection of userscripts for MusicBrainz, by various authors
 - [Lidarr/Lidarr](https://github.com/Lidarr/Lidarr) - Looks and smells like Sonarr but made for music.
-- [Jean-Tinland/simple-bar](https://github.com/Jean-Tinland/simple-bar) - A yabai status bar widget for Übersicht
+- [Jean-Tinland/simple-bar](https://github.com/Jean-Tinland/simple-bar) - A yabai and AeroSpace status bar widget for Übersicht
 - [unixorn/awesome-zsh-plugins](https://github.com/unixorn/awesome-zsh-plugins) - A collection of ZSH frameworks, plugins, themes and tutorials.
 - [adnanh/webhook](https://github.com/adnanh/webhook) - webhook is a lightweight incoming webhook server to run shell commands
 - [iina/iina](https://github.com/iina/iina) - The modern video player for macOS.
@@ -2941,7 +2941,7 @@
 - [noatpad/UeberPlayer](https://github.com/noatpad/UeberPlayer) - A customizable, yet sleek music player for Ubersicht
 - [inscapist/dotfiles](https://github.com/inscapist/dotfiles) - My dotfiles - Emacs centric OSX Big Sur
 - [julian-heng/yabai-config](https://github.com/julian-heng/yabai-config) - My personal Yabai and Skhd configs and scripts.
-- [Jean-Tinland/simple-bar](https://github.com/Jean-Tinland/simple-bar) - A yabai status bar widget for Übersicht
+- [Jean-Tinland/simple-bar](https://github.com/Jean-Tinland/simple-bar) - A yabai and AeroSpace status bar widget for Übersicht
 - [bevry/dorothy](https://github.com/bevry/dorothy) - 🧙🏻‍♀️ Bring your dotfile commands and configuration to any shell. Sensible defaults and hundreds of commands preloaded. Supports Bash, Zsh, Fish, Nu, Xonsh, Elvish, Dash, KornShell, macOS, Linux, Wind
 - [sindresorhus/dark-mode-cli](https://github.com/sindresorhus/dark-mode-cli) - Control the macOS dark mode from the command-line
 - [kkga/nibar](https://github.com/kkga/nibar) - Simple Übersicht status bar with yabai support.
