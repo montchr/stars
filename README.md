@@ -1172,7 +1172,7 @@
 - [zgrossbart/jdd](https://github.com/zgrossbart/jdd) - A semantic JSON compare tool
 - [ryanmcdermott/3rs-of-software-architecture](https://github.com/ryanmcdermott/3rs-of-software-architecture) - A guide on how to write readable, reusable, and refactorable software
 - [ryanmcdermott/code-review-tips](https://github.com/ryanmcdermott/code-review-tips) - :microscope: Common problems to look for in a code review
-- [ryanmcdermott/clean-code-javascript](https://github.com/ryanmcdermott/clean-code-javascript) - :bathtub: Clean Code concepts adapted for JavaScript
+- [ryanmcdermott/clean-code-javascript](https://github.com/ryanmcdermott/clean-code-javascript) - Clean Code concepts adapted for JavaScript
 - [ljharb/can-merge](https://github.com/ljharb/can-merge) - 
 - [nix-community/tree-sitter-nix](https://github.com/nix-community/tree-sitter-nix) - Nix grammar for tree-sitter [maintainer=@cstrahan]
 - [jakoblind/webpack-autoconf](https://github.com/jakoblind/webpack-autoconf) - A tool to create frontend apps using webpack, Parcel or Snowpack
@@ -1197,7 +1197,7 @@
 - [yaylinda/scriptable](https://github.com/yaylinda/scriptable) - Scripts and widgets for the iOS Scriptable App
 - [sh-dv/hat.sh](https://github.com/sh-dv/hat.sh) - Encrypt and Decrypt files securely in your browser.
 - [stevenvachon/broken-link-checker](https://github.com/stevenvachon/broken-link-checker) - Find broken links, missing images, etc within your HTML.
-- [Chalarangelo/30-seconds-of-code](https://github.com/Chalarangelo/30-seconds-of-code) - Short code snippets for all your development needs
+- [Chalarangelo/30-seconds-of-code](https://github.com/Chalarangelo/30-seconds-of-code) - Coding articles to level up your development skills
 - [trekhleb/javascript-algorithms](https://github.com/trekhleb/javascript-algorithms) - 📝 Algorithms and data structures implemented in JavaScript with explanations and links to further readings
 - [numirias/paxmod](https://github.com/numirias/paxmod) - 🕊️ Firefox add-on for multi-row tabs and site-dependent tab colors
 - [Brianfit/I-Ching](https://github.com/Brianfit/I-Ching) - A programmatic replication of the Yarrow Stalk Method of I-Ching Divination
@@ -1528,7 +1528,7 @@
 - [DeterminateSystems/flake-schemas](https://github.com/DeterminateSystems/flake-schemas) - Schemas for common flake output types
 - [nzbr/nixos](https://github.com/nzbr/nixos) - My NixOS System configurations
 - [mayflower/nixexprs](https://github.com/mayflower/nixexprs) - Public, Opinionated Mayflower NixOS Modules/Packages and other Expressions
-- [nix-community/authentik-nix](https://github.com/nix-community/authentik-nix) - Nix flake with package, NixOS module and basic VM test for authentik. Trying to provide an alternative deployment mode to the officially supported docker-compose approach. Not affiliated with or offic
+- [nix-community/authentik-nix](https://github.com/nix-community/authentik-nix) - Nix flake with package, NixOS module and VM test for authentik. Alternative deployment mode to the official docker-compose approach. No official support by authentik [maintainer=@willibutz]
 - [loophp/nix-php-composer-builder](https://github.com/loophp/nix-php-composer-builder) - A PHP builder for Composer based projects
 - [loophp/flake-lock-update-workflow](https://github.com/loophp/flake-lock-update-workflow) - Provide a 'ready-to-use' Github workflow to update 'flake.lock' file automatically.
 - [NuschtOS/nixos-modules](https://github.com/NuschtOS/nixos-modules) - Opinionated, integrated and shared NixOS modules
@@ -2481,7 +2481,7 @@
 - [roots/bedrock](https://github.com/roots/bedrock) - WordPress boilerplate with Composer, easier configuration, and an improved folder structure
 - [interconnectit/Search-Replace-DB](https://github.com/interconnectit/Search-Replace-DB) - This script was made to aid the process of migrating PHP and MySQL based websites. Works with most common CMSes.
 - [WhatCD/Gazelle](https://github.com/WhatCD/Gazelle) - 
-- [roots/sage](https://github.com/roots/sage) - WordPress starter theme with Laravel Blade components and templates, Tailwind CSS, and a modern development workflow
+- [roots/sage](https://github.com/roots/sage) - WordPress starter theme with Laravel Blade components and templates, Tailwind CSS, and block editor support
 - [scribu/wp-posts-to-posts](https://github.com/scribu/wp-posts-to-posts) - Efficient many-to-many connections between posts, pages, custom post types, users.
 - [Rahe/Simple-responsive-images](https://github.com/Rahe/Simple-responsive-images) - Responsive images in WordPress content
 - [Melindrea/wp-typography](https://github.com/Melindrea/wp-typography) - Forked from http://wordpress.org/extend/plugins/wp-typography/
@@ -3203,7 +3203,7 @@
 - [sorin-ionescu/prezto](https://github.com/sorin-ionescu/prezto) - The configuration framework for Zsh
 - [julian-heng/yabai-config](https://github.com/julian-heng/yabai-config) - My personal Yabai and Skhd configs and scripts.
 - [dylanaraps/neofetch](https://github.com/dylanaraps/neofetch) - 🖼️  A command-line system information tool written in bash 3.2+
-- [bevry/dorothy](https://github.com/bevry/dorothy) - 🧙🏻‍♀️ Bring your dotfile commands and configuration to any shell. Sensible defaults and hundreds of commands preloaded. Supports Bash, Zsh, Fish, Nu, Xonsh, Elvish, Dash, KornShell, macOS, Linux, Wind
+- [bevry/dorothy](https://github.com/bevry/dorothy) - 🧙🏻‍♀️ Empower your command line experience for any shell and platform, with hundreds of primitives for powerful and intuitive scripting and automation. Supports Bash, Zsh, Fish, Nu, Xonsh, Elvish, Das
 - [sloria/dotfiles](https://github.com/sloria/dotfiles) - sloria's dotfiles as Ansible roles
 - [Addvilz/dots](https://github.com/Addvilz/dots) - Completely automated desktop setup, configuration and maintenance using Ansible
 - [ajkis/scripts](https://github.com/ajkis/scripts) - Ajki's scripts & guides
