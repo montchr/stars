@@ -385,6 +385,8 @@
 
 ## Emacs Lisp 
 
+- [yibie/org-supertag](https://github.com/yibie/org-supertag) - Enhance org-mode tag system, borrow idea from tana.
+- [justinbarclay/.emacs.d](https://github.com/justinbarclay/.emacs.d) - 
 - [positron-solutions/moc](https://github.com/positron-solutions/moc) - Master of Ceremonies.  Display & presentation utilities to make presentation packages more effective
 - [amno1/.emacs.d](https://github.com/amno1/.emacs.d) - My current Emacs setup.
 - [enzuru/.emacs.d](https://github.com/enzuru/.emacs.d) - A maximalist Emacs config tracking the latest trends
@@ -963,6 +965,7 @@
 - [0atman/noboilerplate](https://github.com/0atman/noboilerplate) - Code for my talks on the No Boilerplate channel
 - [alpinejs/alpine](https://github.com/alpinejs/alpine) - A rugged, minimal framework for composing JavaScript behavior in your markup.
 - [paulirish/lite-youtube-embed](https://github.com/paulirish/lite-youtube-embed) - A faster youtube embed.
+- [boxuk/wp-project-skeleton](https://github.com/boxuk/wp-project-skeleton) - A skeleton WordPress project to be used as a base for new WordPress projects.
 - [zimfw/zimfw](https://github.com/zimfw/zimfw) - Zim: Modular, customizable, and blazing fast Zsh framework
 - [johannesloetzsch/swlkup](https://github.com/johannesloetzsch/swlkup) - An application to manage a database of supervisors and provide anonymous access for authorized users
 - [cstate/cstate](https://github.com/cstate/cstate) - 🔥 Open source static (serverless) status page. Uses hyperfast Go & Hugo, minimal HTML/CSS/JS, customizable, outstanding browser support (IE8+), preloaded CMS, read-only API, badges & more.
@@ -1071,6 +1074,7 @@
 - [Helium314/HeliBoard](https://github.com/Helium314/HeliBoard) - Customizable and privacy-conscious open-source keyboard
 - [nix-community/nix-on-droid-app](https://github.com/nix-community/nix-on-droid-app) - Run Nix package manager on Android. Based off Termux the terminal emulator, but not Termux the distro. [maintainer=@t184256]
 - [termux/termux-app](https://github.com/termux/termux-app) - Termux - a terminal emulator application for Android OS extendible by variety of packages.
+- [Arcticons-Team/Arcticons](https://github.com/Arcticons-Team/Arcticons) - A monotone line-based icon pack for android
 - [google/closure-compiler](https://github.com/google/closure-compiler) - A JavaScript checker and optimizer.
 - [airmessage/airmessage-android](https://github.com/airmessage/airmessage-android) - AirMessage for Android phones, tablets, and laptops
 - [openboard-team/openboard](https://github.com/openboard-team/openboard) - 
@@ -2312,7 +2316,6 @@
 - [10up/wp-hammer](https://github.com/10up/wp-hammer) - ARCHIVED: Please see https://github.com/10up/wp-scrubber as replacement.
 - [Automattic/vip-go-mu-plugins](https://github.com/Automattic/vip-go-mu-plugins) - The development repo for mu-plugins used on the WordPress VIP Platform.
 - [Automattic/vip-decoupled-bundle](https://github.com/Automattic/vip-decoupled-bundle) - WordPress VIP decoupled plugin bundle
-- [boxuk/wp-project-skeleton](https://github.com/boxuk/wp-project-skeleton) - A skeleton WordPress project to be used as a base for new WordPress projects.
 - [aaemnnosttv/wp-cli-login-command](https://github.com/aaemnnosttv/wp-cli-login-command) - Log in to WordPress with secure passwordless magic links.
 - [vlucas/phpdotenv](https://github.com/vlucas/phpdotenv) - Loads environment variables from `.env` to `getenv()`, `$_ENV` and `$_SERVER` automagically.
 - [roots/wp-config](https://github.com/roots/wp-config) - Bedrock's failsafe wp-config
@@ -2532,7 +2535,6 @@
 - [offa/android-foss](https://github.com/offa/android-foss) - A list of Free and Open Source Software (FOSS) for Android – saving Freedom and Privacy.
 - [OneDeadKey/kalamine](https://github.com/OneDeadKey/kalamine) - Keyboard Layout Maker
 - [Mic92/nix-fast-build](https://github.com/Mic92/nix-fast-build) - Combine the power of nix-eval-jobs with nix-output-monitor to speed-up your evaluation and building process.
-- [Arcticons-Team/Arcticons](https://github.com/Arcticons-Team/Arcticons) - A monotone line-based icon pack for android
 - [borgmatic-collective/borgmatic](https://github.com/borgmatic-collective/borgmatic) - Simple, configuration-driven backup software for servers and workstations
 - [QuivrHQ/quivr](https://github.com/QuivrHQ/quivr) - Opiniated RAG for integrating GenAI in your apps 🧠   Focus on your product rather than the RAG. Easy integration in existing products with customisation!  Any LLM: GPT4, Groq, Llama. Any Vectorstore: 
 - [oar-team/nixos-compose](https://github.com/oar-team/nixos-compose) - Ease reproducible experiments of distributed systems
@@ -3557,7 +3559,7 @@
 - [ewilazarus/preto](https://github.com/ewilazarus/preto) - A minimal dark theme for VIM.
 - [metalelf0/base16-black-metal-scheme](https://github.com/metalelf0/base16-black-metal-scheme) - A collection of Black Metal inspired base16 schemes.
 - [inscapist/dotfiles](https://github.com/inscapist/dotfiles) - My dotfiles - Emacs centric OSX Big Sur
-- [MarcoIeni/intellimacs](https://github.com/MarcoIeni/intellimacs) - Spacemacs' like key bindings for IntelliJ platform.
+- [marcoieni/intellimacs](https://github.com/marcoieni/intellimacs) - Spacemacs' like key bindings for IntelliJ platform.
 - [koekeishiya/dotfiles](https://github.com/koekeishiya/dotfiles) - Configuration files
 - [terryma/vim-multiple-cursors](https://github.com/terryma/vim-multiple-cursors) - True Sublime Text style multiple selections for Vim
 - [danielbachhuber/dotfiles](https://github.com/danielbachhuber/dotfiles) - 
