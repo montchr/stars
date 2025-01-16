@@ -385,6 +385,7 @@
 
 ## Emacs Lisp 
 
+- [meedstrom/org-node](https://github.com/meedstrom/org-node) - A notetaking system like Roam using Emacs Org-mode
 - [yibie/org-supertag](https://github.com/yibie/org-supertag) - Enhance org-mode tag system, borrow idea from tana.
 - [justinbarclay/.emacs.d](https://github.com/justinbarclay/.emacs.d) - 
 - [positron-solutions/moc](https://github.com/positron-solutions/moc) - Master of Ceremonies.  Display & presentation utilities to make presentation packages more effective
