@@ -789,7 +789,6 @@
 - [numtide/bld](https://github.com/numtide/bld) - Build nix targets based on git repository directories
 - [F1bonacc1/process-compose](https://github.com/F1bonacc1/process-compose) - Process Compose is a simple and flexible scheduler and orchestrator to manage non-containerized applications.
 - [beringresearch/macpine](https://github.com/beringresearch/macpine) - Lightweight Linux VMs on MacOS
-- [terrastruct/d2](https://github.com/terrastruct/d2) - D2 is a modern diagram scripting language that turns text to diagrams.
 - [charmbracelet/vhs](https://github.com/charmbracelet/vhs) - Your CLI home video recorder 📼
 - [siderolabs/conform](https://github.com/siderolabs/conform) - Policy enforcement for your pipelines.
 - [gruntwork-io/terratest](https://github.com/gruntwork-io/terratest) - Terratest is a Go library that makes it easier to write automated tests for your infrastructure code.
@@ -1131,6 +1130,7 @@
 - [cookpete/react-player](https://github.com/cookpete/react-player) - A React component for playing a variety of URLs, including file paths, YouTube, Facebook, Twitch, SoundCloud, Streamable, Vimeo, Wistia and DailyMotion
 - [vimeo/player.js](https://github.com/vimeo/player.js) - Interact with and control an embedded Vimeo Player.
 - [svg/svgo](https://github.com/svg/svgo) - ⚙️ Node.js tool for optimizing SVG files
+- [terrastruct/d2](https://github.com/terrastruct/d2) - D2 is a modern diagram scripting language that turns text to diagrams.
 - [lovell/sharp](https://github.com/lovell/sharp) - High performance Node.js image processing, the fastest module to resize JPEG, PNG, WebP, AVIF and TIFF images. Uses the libvips library.
 - [KevinBatdorf/gutenberg-rust-starter](https://github.com/KevinBatdorf/gutenberg-rust-starter) - Gutenberg + Rust + TypeScript
 - [iann0036/former2](https://github.com/iann0036/former2) - Generate CloudFormation / Terraform / Troposphere templates from your existing AWS resources.
@@ -3090,7 +3090,7 @@
 - [GoGoGadgetRepo/ArchInstallMBP](https://github.com/GoGoGadgetRepo/ArchInstallMBP) - Automated scripts to install arch linux on macbook pro 11,4.
 - [trimstray/nginx-admins-handbook](https://github.com/trimstray/nginx-admins-handbook) - How to improve NGINX performance, security, and other important things.
 - [jacobfoard/dotfiles](https://github.com/jacobfoard/dotfiles) - 
-- [digital-asset/dev-env](https://github.com/digital-asset/dev-env) - Per-project isolated set of dev tools
+- [digital-asset-archive/dev-env](https://github.com/digital-asset-archive/dev-env) - Per-project isolated set of dev tools
 - [myspaghetti/macos-virtualbox](https://github.com/myspaghetti/macos-virtualbox) - Push-button installer of macOS Catalina, Mojave, and High Sierra guests in Virtualbox on x86 CPUs for Windows, Linux, and macOS
 - [MichaelAquilina/zsh-auto-notify](https://github.com/MichaelAquilina/zsh-auto-notify) - ⏰ ZSH plugin that automatically sends out a notification when a long running task has completed.
 - [bash-bastion/bash-object](https://github.com/bash-bastion/bash-object) - Manipulate heterogenous data hierarchies in Bash.
