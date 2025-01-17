@@ -3346,6 +3346,7 @@
 
 ## others 
 
+- [meedstrom/org-node](https://github.com/meedstrom/org-node) - A notetaking system like Roam using Emacs Org-mode
 - [yibie/org-supertag](https://github.com/yibie/org-supertag) - Enhance org-mode tag system, borrow idea from tana.
 - [justinbarclay/.emacs.d](https://github.com/justinbarclay/.emacs.d) - 
 - [emacstv/emacstv.github.io](https://github.com/emacstv/emacstv.github.io) - 
@@ -4302,7 +4303,7 @@
 - [pinpox/wallpaper-generator](https://github.com/pinpox/wallpaper-generator) - Generate wallpaper images from mathematical functions
 - [kamadorueda/machine](https://github.com/kamadorueda/machine) - My OS, development tools, and dotfiles, as code
 - [BespokeSynth/BespokeSynth](https://github.com/BespokeSynth/BespokeSynth) - Software modular synth
-- [digital-asset/dev-env](https://github.com/digital-asset/dev-env) - Per-project isolated set of dev tools
+- [digital-asset-archive/dev-env](https://github.com/digital-asset-archive/dev-env) - Per-project isolated set of dev tools
 - [chessai/nix-std](https://github.com/chessai/nix-std) - no-nixpkgs standard library for the nix expression language
 - [akshatagarwl/nix-learning](https://github.com/akshatagarwl/nix-learning) - A bunch of links to blog posts, articles, videos, etc for learning Nix
 - [shlevy/nix-plugins](https://github.com/shlevy/nix-plugins) - Collection of miscellaneous plugins for the nix expression language
