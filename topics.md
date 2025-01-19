@@ -3346,6 +3346,7 @@
 
 ## others 
 
+- [tarsius/hl-todo](https://github.com/tarsius/hl-todo) - Highlight TODO keywords
 - [meedstrom/org-node](https://github.com/meedstrom/org-node) - A notetaking system like Roam using Emacs Org-mode
 - [yibie/org-supertag](https://github.com/yibie/org-supertag) - Enhance org-mode tag system, borrow idea from tana.
 - [justinbarclay/.emacs.d](https://github.com/justinbarclay/.emacs.d) - 
