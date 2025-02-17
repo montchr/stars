@@ -44,6 +44,7 @@
 - [Jinja](#jinja)
 - [Jupyter Notebook](#jupyter-notebook)
 - [Just](#just)
+- [KakouneScript](#kakounescript)
 - [Kotlin](#kotlin)
 - [Lua](#lua)
 - [M4](#m4)
@@ -1279,7 +1280,7 @@
 - [be5invis/Iosevka](https://github.com/be5invis/Iosevka) - Versatile typeface for code, from code.
 - [noatpad/UeberPlayer](https://github.com/noatpad/UeberPlayer) - A customizable, yet sleek music player for Ubersicht
 - [js-cookie/js-cookie](https://github.com/js-cookie/js-cookie) - A simple, lightweight JavaScript API for handling browser cookies
-- [Jean-Tinland/simple-bar](https://github.com/Jean-Tinland/simple-bar) - A yabai and AeroSpace status bar widget for Übersicht
+- [Jean-Tinland/simple-bar](https://github.com/Jean-Tinland/simple-bar) - A yabai, AeroSpace or FlashSpace status bar widget for Übersicht
 - [lucaorio/nero](https://github.com/lucaorio/nero) - Übersicht widget to monitor the state of Yabai tiling window manager
 - [satya164/minimal.widget](https://github.com/satya164/minimal.widget) - A minimal widget for Übersicht which displays a panel on top right and apps list on top left
 - [brainhubeu/react-carousel](https://github.com/brainhubeu/react-carousel) - A pure extendable React carousel, powered by Brainhub (craftsmen who ❤️ JS)
@@ -1403,6 +1404,10 @@
 
 - [kleinweb/php-coding-standards](https://github.com/kleinweb/php-coding-standards) - PHP coding standards rulesets used by the Klein College of Media and Communication at Temple University
 - [erebe/personal-server](https://github.com/erebe/personal-server) - Personal server configuration with k3s
+
+## KakouneScript 
+
+- [evanrelf/dotfiles](https://github.com/evanrelf/dotfiles) - My personal dotfiles
 
 ## Kotlin 
 
@@ -1647,7 +1652,7 @@
 - [yawnt/declarative-nix-flatpak](https://github.com/yawnt/declarative-nix-flatpak) - flatpak-install, but declarative
 - [jordanisaacs/dotfiles](https://github.com/jordanisaacs/dotfiles) - My NixOS dotfiles for desktops and servers
 - [the-nix-way/dev-templates](https://github.com/the-nix-way/dev-templates) - Dev environments for numerous languages based on Nix flakes [maintainer=@lucperkins]
-- [nix-community/disko](https://github.com/nix-community/disko) - Declarative disk partitioning and formatting using nix [maintainers=@Lassulus @Enzime @iFreilicht]
+- [nix-community/disko](https://github.com/nix-community/disko) - Declarative disk partitioning and formatting using nix [maintainers=Lassulus Enzime iFreilicht Mic92 phaer]
 - [internet4refugees/beherbergung](https://github.com/internet4refugees/beherbergung) - Tools for ngos, organizing private hosting :blue_heart: :yellow_heart:
 - [jonringer/server-configuration](https://github.com/jonringer/server-configuration) - Build server nixos configuration
 - [ZilchOS/core](https://github.com/ZilchOS/core) - ZilchOS Core, a decidedly tiny Nix-based distro to play with
@@ -1761,7 +1766,6 @@
 - [Shados/nix-config-shared](https://github.com/Shados/nix-config-shared) - My cross-machine shared configuration, defaults, modules, and packages not suitable for upstreaming or NUR
 - [aciceri/nixfleet](https://github.com/aciceri/nixfleet) - A complete, declarative and reproducible configuration of my entire Nix fleet.
 - [Ericson2314/nixos-configuration](https://github.com/Ericson2314/nixos-configuration) - Much better than a .dotfiles repo
-- [evanrelf/dotfiles](https://github.com/evanrelf/dotfiles) - My personal dotfiles
 - [NixOS/infra](https://github.com/NixOS/infra) - NixOS configurations for nixos.org and its servers
 - [sei40kr/dotfiles](https://github.com/sei40kr/dotfiles) - My dotfiles for NixOS & Darwin
 - [nix-community/fenix](https://github.com/nix-community/fenix) - Rust toolchains and rust-analyzer nightly for Nix [maintainer=@figsoda]
@@ -2111,7 +2115,7 @@
 - [alphapapa/transclusion-in-emacs](https://github.com/alphapapa/transclusion-in-emacs) - Resources about implementing transclusion in Emacs
 - [wfiveash/itunes-applescript-duplicate-tracks](https://github.com/wfiveash/itunes-applescript-duplicate-tracks) - This is an Applescript program I wrote for iTunes to deal with a number of duplicate tracks in my iTunes library.  I'm creating this repo. in case others are interested in this type of Applescript.
 - [deaghean/omnifocus-perspective-icons](https://github.com/deaghean/omnifocus-perspective-icons) - Perspective icons designed specifically for OmniFocus 3 for Mac and iOS
-- [getify/You-Dont-Know-JS](https://github.com/getify/You-Dont-Know-JS) - A book series on JavaScript. @YDKJS on twitter.
+- [getify/You-Dont-Know-JS](https://github.com/getify/You-Dont-Know-JS) - A book series (2 published editions) on the JS language.
 - [toplap/awesome-livecoding](https://github.com/toplap/awesome-livecoding) - All things livecoding
 - [TomodomoCo/gutenberg-hig](https://github.com/TomodomoCo/gutenberg-hig) - Suggested human interface guidelines (HIG) for Gutenberg integrations
 - [enaqx/awesome-react](https://github.com/enaqx/awesome-react) - A collection of awesome things regarding React ecosystem
@@ -3058,7 +3062,7 @@
 - [spiritedmedia/systems](https://github.com/spiritedmedia/systems) - Code and documentation for building, deploying, and serving code.
 - [txtyash/pretty-kitty](https://github.com/txtyash/pretty-kitty) - :octocat: :lollipop:  Beautiful light and dark theme eye candy :candy: with multiple fonts :doughnut: for the KITTY :fire: terminal
 - [Bash-it/bash-it](https://github.com/Bash-it/bash-it) - A community Bash framework.
-- [rlch/dotfiles](https://github.com/rlch/dotfiles) - neovim + yabai + wezterm + zellij - I don't like my mouse
+- [rlch/dotfiles](https://github.com/rlch/dotfiles) - neovim + aerospace + wezterm + zellij - I don't like my mouse
 - [adi1090x/kitty-cat](https://github.com/adi1090x/kitty-cat) - Simple script to change color-schemes and fonts for kitty terminal.
 - [pirate/bash-utils](https://github.com/pirate/bash-utils) - A collection of hand-crafted bash scripts for various common tasks.
 - [black7375/BlaCk-Void-Zsh](https://github.com/black7375/BlaCk-Void-Zsh) - 🔮 Awesome, Customable Zsh Starter Kit 🌠🌠
