@@ -132,7 +132,7 @@
 - [htop-dev/htop](https://github.com/htop-dev/htop) - htop - an interactive process viewer
 - [OneDeadKey/arsenik](https://github.com/OneDeadKey/arsenik) - A 33-key layout that works with all keyboards.
 - [drashna/qmk_userspace](https://github.com/drashna/qmk_userspace) - Userspace for the open-source QMK keyboard firmware.
-- [getreuer/qmk-keymap](https://github.com/getreuer/qmk-keymap) - My keymap & reusable QMK gems
+- [getreuer/qmk-keymap](https://github.com/getreuer/qmk-keymap) - @getreuer's QMK keymap
 - [WillPower3309/swayfx](https://github.com/WillPower3309/swayfx) - SwayFX: Sway, but with eye candy!
 - [davidjo/snd_hda_macbookpro](https://github.com/davidjo/snd_hda_macbookpro) - Kernel audio driver for Macs with 8409 HDA chip + MAX98706/SSM3515 amps
 - [curl/trurl](https://github.com/curl/trurl) - a command line tool for URL parsing and manipulation.
@@ -224,7 +224,7 @@
 
 ## C++ 
 
-- [Genivia/ugrep](https://github.com/Genivia/ugrep) - 🔍 ugrep 7.2 file pattern searcher -- a more powerful, ultra fast, user-friendly, compatible grep replacement. Includes a TUI, Google-like Boolean search with AND/OR/NOT, fuzzy search, hexdumps, search
+- [Genivia/ugrep](https://github.com/Genivia/ugrep) - 🔍 ugrep 7.3 file pattern searcher -- a more powerful, ultra fast, user-friendly, compatible grep replacement. Includes a TUI, Google-like Boolean search with AND/OR/NOT, fuzzy search, hexdumps, search
 - [Norbyte/bg3se](https://github.com/Norbyte/bg3se) - Baldur's Gate 3 Script Extender
 - [Martchus/syncthingtray](https://github.com/Martchus/syncthingtray) - Tray application and Dolphin/Plasma integration for Syncthing
 - [trapexit/mergerfs](https://github.com/trapexit/mergerfs) - a featureful union filesystem
@@ -386,6 +386,7 @@
 
 ## Emacs Lisp 
 
+- [tarsius/llama](https://github.com/tarsius/llama) - Compact syntax for short lambda
 - [emacs-sideline/sideline](https://github.com/emacs-sideline/sideline) - Show information on the side
 - [skeeto/elfeed](https://github.com/skeeto/elfeed) - An Emacs web feeds client
 - [remyhonig/elfeed-org](https://github.com/remyhonig/elfeed-org) - Configure the Elfeed RSS reader with an Orgmode file
@@ -394,7 +395,7 @@
 - [tarsius/morlock](https://github.com/tarsius/morlock) - More font-lock keywords for elisp
 - [tarsius/hl-todo](https://github.com/tarsius/hl-todo) - Highlight TODO keywords
 - [meedstrom/org-node](https://github.com/meedstrom/org-node) - A notetaking system like Roam using Emacs Org-mode
-- [yibie/org-supertag](https://github.com/yibie/org-supertag) - Enhance org-mode tag system, borrow idea from tana.
+- [yibie/org-supertag](https://github.com/yibie/org-supertag) - Make tag system great again, based on org-mode.
 - [justinbarclay/.emacs.d](https://github.com/justinbarclay/.emacs.d) - 
 - [positron-solutions/moc](https://github.com/positron-solutions/moc) - Master of Ceremonies.  Display & presentation utilities to make presentation packages more effective
 - [amno1/.emacs.d](https://github.com/amno1/.emacs.d) - My current Emacs setup.
@@ -406,7 +407,7 @@
 - [emacsomancer/org-daily-reflection](https://github.com/emacsomancer/org-daily-reflection) - Reflect on your org-roam daily entries, comparing N org-roam dailies at M intervals (years, months, fortnights, weeks, days).
 - [bgturner/dot-files](https://github.com/bgturner/dot-files) - Minimal dotfiles
 - [brabalan/org-review](https://github.com/brabalan/org-review) - Track when you have done a review in org mode
-- [jamescherti/minimal-emacs.d](https://github.com/jamescherti/minimal-emacs.d) - minimal-emacs.d - Better Vanilla Emacs Defaults and Optimized Startup
+- [jamescherti/minimal-emacs.d](https://github.com/jamescherti/minimal-emacs.d) - minimal-emacs.d - Better Emacs Defaults and Faster Startup
 - [xenodium/ready-player](https://github.com/xenodium/ready-player) - 
 - [kickingvegas/casual-bookmarks](https://github.com/kickingvegas/casual-bookmarks) - An opinionated Transient-based user interface for the Emacs bookmark list.
 - [kanru/uuidgen-el](https://github.com/kanru/uuidgen-el) - UUID generation implemented in elisp.
@@ -927,6 +928,7 @@
 - [adnanh/webhook](https://github.com/adnanh/webhook) - webhook is a lightweight incoming webhook server to run shell commands
 - [navidrome/navidrome](https://github.com/navidrome/navidrome) - 🎧☁️ Your Personal Streaming Service
 - [ipfs/kubo](https://github.com/ipfs/kubo) - An IPFS implementation in Go
+- [johnste/finicky](https://github.com/johnste/finicky) - A macOS app for customizing which browser to start
 - [msoedov/Alfred-collection](https://github.com/msoedov/Alfred-collection) - A collection of all known Alfred3 workflows
 - [oniony/TMSU](https://github.com/oniony/TMSU) - TMSU lets you tags your files and then access them through a nifty virtual filesystem from any other application.
 
@@ -1093,6 +1095,7 @@
 
 ## JavaScript 
 
+- [ndiego/icon-block](https://github.com/ndiego/icon-block) - Effortlessly add SVG icons and graphics to your website.
 - [davidmerfield/Blot](https://github.com/davidmerfield/Blot) - Turns a folder into a blog
 - [Lyfhael/DeleteTweets](https://github.com/Lyfhael/DeleteTweets) - Delete / Remove all your tweets
 - [ai/nanoid](https://github.com/ai/nanoid) - A tiny (124 bytes), secure, URL-friendly, unique string ID generator for JavaScript
@@ -1117,6 +1120,7 @@
 - [gbprod/tree-sitter-twig](https://github.com/gbprod/tree-sitter-twig) - Twig grammar for Tree-sitter
 - [area17/tailwind-plugins](https://github.com/area17/tailwind-plugins) - A series of Tailwind plugins to enable/encourage systematised web design/development and some other useful utility classes.
 - [Automattic/block-experiments](https://github.com/Automattic/block-experiments) - A monorepo of Block Experiments
+- [joanrodas/plubo](https://github.com/joanrodas/plubo) - Simple WordPress plugin boilerplate
 - [gregsullivan/_tw-themejson](https://github.com/gregsullivan/_tw-themejson) - A Tailwind CSS plugin that automatically pulls colors and widths from a WordPress theme’s theme.json file
 - [WordPress/gutenberg-examples](https://github.com/WordPress/gutenberg-examples) - Examples for extending WordPress/Gutenberg with blocks.
 - [adventistchurch/alps-wordpress](https://github.com/adventistchurch/alps-wordpress) - This Wordpress theme is an implementation of the Adventist Living Pattern System (ALPS) designed to support the work of the Seventh-day Adventist Church.
@@ -1192,7 +1196,7 @@
 - [remy/light-dark-switcher](https://github.com/remy/light-dark-switcher) - Light/Dark theme switcher for Firefox
 - [matthewp/robot](https://github.com/matthewp/robot) - 🤖 A functional, immutable Finite State Machine library
 - [amanda-mitchell/suppress-eslint-errors](https://github.com/amanda-mitchell/suppress-eslint-errors) - Suppress existing violations of new eslint rules and get back to building stuff.
-- [mickael-kerjean/filestash](https://github.com/mickael-kerjean/filestash) - 🦄 A file manager / web client for SFTP, S3, FTP, WebDAV, Git, Minio, LDAP, CalDAV, CardDAV, Mysql, Backblaze, ...
+- [mickael-kerjean/filestash](https://github.com/mickael-kerjean/filestash) - :file_folder: A file manager / web client for SFTP, S3, FTP, WebDAV, Git, Minio, LDAP, CalDAV, CardDAV, Mysql, Backblaze, ...
 - [75lb/command-line-args](https://github.com/75lb/command-line-args) - A mature, feature-complete library to parse command-line options.
 - [Xe/Xeact](https://github.com/Xe/Xeact) - A high performance, developer-efficient and overall ballin' femtoframework for productive development in Javascript
 - [bigskysoftware/_hyperscript](https://github.com/bigskysoftware/_hyperscript) - a small scripting language for the web
@@ -1395,7 +1399,7 @@
 - [adamblvck/iching-wilhelm-dataset](https://github.com/adamblvck/iching-wilhelm-dataset) - Dataset (JSON & CSV) containing the best English translation of the I-Ching (Wilhelm-Bayes)
 - [langchain-ai/langchain](https://github.com/langchain-ai/langchain) - 🦜🔗 Build context-aware reasoning applications
 - [CompVis/stable-diffusion](https://github.com/CompVis/stable-diffusion) - A latent text-to-image diffusion model
-- [marceloprates/prettymaps](https://github.com/marceloprates/prettymaps) - A small set of Python functions to draw pretty maps from OpenStreetMap data. Based on osmnx, matplotlib and shapely libraries.
+- [marceloprates/prettymaps](https://github.com/marceloprates/prettymaps) - Draw pretty maps from OpenStreetMap data! Built with osmnx +matplotlib + shapely
 - [howlCode/tarot_api](https://github.com/howlCode/tarot_api) - rails API for rider-waite tarot and spreads
 
 ## Just 
@@ -1502,16 +1506,16 @@
 
 ## Mustache 
 
-- [danth/stylix](https://github.com/danth/stylix) - System-wide colorscheming and typography for NixOS
 - [hsluv/hsluv](https://github.com/hsluv/hsluv) - Human-friendly HSL, website and math
 - [kdrag0n/base16-kitty](https://github.com/kdrag0n/base16-kitty) - Base16 color scheme template for kitty
 - [tinted-theming/base16-jetbrains](https://github.com/tinted-theming/base16-jetbrains) - Base16 themes for Jetbrains IDE's (IntelliJ, PyCharm, Webstorm, etc) - and the Material Theme plugin
 
 ## Nix 
 
+- [tejing1/nixos-config](https://github.com/tejing1/nixos-config) - Tejing's personal NixOS configuration flake
+- [spikespaz/dotfiles](https://github.com/spikespaz/dotfiles) - My NixOS dotfiles. Friends call it Bird OS.
 - [foo-dogsquared/nix-module-wrapper-manager-fds](https://github.com/foo-dogsquared/nix-module-wrapper-manager-fds) - foodogsquared's reimagining of wrapper-manager.
 - [michalrus/dotfiles](https://github.com/michalrus/dotfiles) - 
-- [kivikakk/vyxos](https://github.com/kivikakk/vyxos) - My laptop and server Nix configuration.
 - [Ramblurr/nixcfg](https://github.com/Ramblurr/nixcfg) - ❄️ My nix flake for all my NixOS machines.
 - [viperML/wrapper-manager](https://github.com/viperML/wrapper-manager) - Post-modern configuration management
 - [ekala-project/nix-lib](https://github.com/ekala-project/nix-lib) - Standalone lib for use with nix
@@ -1555,6 +1559,7 @@
 - [flakelib/fl](https://github.com/flakelib/fl) - callPackage for Nix flakes
 - [musnix/musnix](https://github.com/musnix/musnix) - Real-time audio in NixOS
 - [MayNiklas/nixos](https://github.com/MayNiklas/nixos) - My personal NixOS infrastructure
+- [danth/stylix](https://github.com/danth/stylix) - Theming framework for NixOS, Home Manager, nix-darwin, and Nix-on-Droid
 - [foo-dogsquared/nixos-config](https://github.com/foo-dogsquared/nixos-config) - Aiming to be the most overkill NixOS config in the entire world.
 - [shyim/nixcfg](https://github.com/shyim/nixcfg) - My Nix config for my Macbook and Server
 - [ethnt/tilde](https://github.com/ethnt/tilde) - macOS configuration via Nix
@@ -1618,7 +1623,7 @@
 - [divnix/std](https://github.com/divnix/std) - A DevOps framework for the SDLC with the power of Nix and Flakes. Good for keeping deadlines!
 - [chessai/nixos-configs](https://github.com/chessai/nixos-configs) - my nixos configs
 - [water-sucks/nixed](https://github.com/water-sucks/nixed) - I've nixed any chance I have at human interaction by building this config
-- [jakehamilton/config](https://github.com/jakehamilton/config) - One Nix flake to rule them all.
+- [jakehamilton/config](https://github.com/jakehamilton/config) - My Nix configuration for packages, systems, etc.
 - [viperML/iosevka](https://github.com/viperML/iosevka) - My iosevka build, patched with nerd fonts
 - [DavHau/pkgs-modules](https://github.com/DavHau/pkgs-modules) - The Ideal interface for configuring packages
 - [numtide/treefmt-nix](https://github.com/numtide/treefmt-nix) - treefmt nix configuration
@@ -1685,7 +1690,7 @@
 - [myme/dotfiles](https://github.com/myme/dotfiles) - My collection of dotfiles
 - [TLATER/nixos-hosts](https://github.com/TLATER/nixos-hosts) - NixOS host configuration
 - [ncfavier/config](https://github.com/ncfavier/config) - My NixOS configurations
-- [dustinlyons/nixos-config](https://github.com/dustinlyons/nixos-config) - General purpose Nix configuration for macOS / NixOS (with stater templates!)
+- [dustinlyons/nixos-config](https://github.com/dustinlyons/nixos-config) - General purpose Nix configuration for macOS / NixOS (with starter templates!)
 - [noib3/dotfiles](https://github.com/noib3/dotfiles) - :house: Procrastinating never felt this productive
 - [nixosbrasil/climod](https://github.com/nixosbrasil/climod) - Modular generated command line interfaces using the same technology as the NixOS module system.
 - [talyz/nixos-config](https://github.com/talyz/nixos-config) - My NixOS configuration
@@ -1912,6 +1917,7 @@
 - [protesilaos/aporetic](https://github.com/protesilaos/aporetic) - Aporetic fonts are a custom build of Iosevka with different style and metrics than the default. This is the successor to my "Iosevka Comfy" fonts.
 - [foocorp/hacienda](https://github.com/foocorp/hacienda) - The Hacienda must be built
 - [Chivv/deploy-radicle-to-kinsta](https://github.com/Chivv/deploy-radicle-to-kinsta) - Automated deployments to Kinsta environments (development and production) using GitHub Actions with environment-specific configurations, SSH, Composer, and NPM integration.
+- [kivikakk/vyxos](https://github.com/kivikakk/vyxos) - My laptop and server Nix configuration.
 - [sc0ttkclark/wordpress-fields-api](https://github.com/sc0ttkclark/wordpress-fields-api) - The 2024 Fields API proposal for WordPress Core
 - [alleyinteractive/action-deploy-to-server](https://github.com/alleyinteractive/action-deploy-to-server) - This GitHub action should facilitate deploying to remote server locations via rsync.
 - [WordPress/book](https://github.com/WordPress/book) - Our book about WordPress. Version 1
@@ -2119,6 +2125,7 @@
 
 ## PHP 
 
+- [Tmeister/wp-api-jwt-auth](https://github.com/Tmeister/wp-api-jwt-auth) - A simple plugin to add JSON Web Token (JWT) Authentication to WP REST API
 - [bacoords/block-theme](https://github.com/bacoords/block-theme) - A starter block theme for modern WordPress developers.
 - [10up/wp_mock](https://github.com/10up/wp_mock) - WordPress API Mocking Framework
 - [cyruscollier/wp-spark](https://github.com/cyruscollier/wp-spark) - An expressive and elegant object-oriented API for WordPress
@@ -2217,7 +2224,7 @@
 - [alleyinteractive/mantle-framework](https://github.com/alleyinteractive/mantle-framework) - Mantle is a framework for building large, robust websites and applications with WordPress. Framework for https://github.com/alleyinteractive/mantle
 - [szepeviktor/waf4wordpress](https://github.com/szepeviktor/waf4wordpress) - WAF for WordPress 🔥 with 60+ security checks and weekly updates
 - [pyrech/composer-changelogs](https://github.com/pyrech/composer-changelogs) - :notebook: Display better summary after Composer update
-- [spaze/phpstan-disallowed-calls](https://github.com/spaze/phpstan-disallowed-calls) - PHPStan rules to detect disallowed method & function calls, constant, namespace, attribute & superglobal usages
+- [spaze/phpstan-disallowed-calls](https://github.com/spaze/phpstan-disallowed-calls) - PHPStan rules to detect disallowed method & function calls, constant, namespace, attribute & superglobal usages, with powerful rules to re-allow a call or a usage in places where it should be allowed.
 - [Brain-WP/Assets](https://github.com/Brain-WP/Assets) - WordPress assets helpers
 - [szepeviktor/SentencePress](https://github.com/szepeviktor/SentencePress) - A set of words that is complete in itself. - OOP wrappers for WordPress
 - [php-stubs/acf-pro-stubs](https://github.com/php-stubs/acf-pro-stubs) - ACF PRO stubs for static analysis
@@ -2232,7 +2239,6 @@
 - [schmittjoh/php-option](https://github.com/schmittjoh/php-option) - Option Type for PHP
 - [spatie/laravel-ignition](https://github.com/spatie/laravel-ignition) - A beautiful error page for Laravel apps
 - [Log1x/sage-directives](https://github.com/Log1x/sage-directives) - A set of Blade directives for use with Roots Sage.
-- [joanrodas/plubo](https://github.com/joanrodas/plubo) - Simple WordPress plugin boilerplate
 - [10up/safe-redirect-manager](https://github.com/10up/safe-redirect-manager) - A simple HTTP redirection plugin for WordPress.
 - [FlorianMoser/bedrock-deployer](https://github.com/FlorianMoser/bedrock-deployer) - Deployer recipes for Roots Bedrock
 - [flyntwp/flynt](https://github.com/flyntwp/flynt) - Component based WordPress starter theme, powered by ACF Pro and Timber, optimized for performance and a11y.
@@ -2526,6 +2532,7 @@
 
 ## Python 
 
+- [catppuccin/cursors](https://github.com/catppuccin/cursors) - 🐁 Soothing pastel cursors for GTK/Plasma/Hyprland
 - [metabrainz/listenbrainz-server](https://github.com/metabrainz/listenbrainz-server) - Server for the ListenBrainz project, including the front-end (javascript/react) code that it serves and all of the data processing components that LB uses.
 - [steven-murray/beet-summarize](https://github.com/steven-murray/beet-summarize) - Summarize beet library statistics
 - [krateng/maloja](https://github.com/krateng/maloja) - Self-hosted music scrobble database to create personal listening statistics and charts
@@ -2770,6 +2777,8 @@
 
 ## Rust 
 
+- [Y2Z/monolith](https://github.com/Y2Z/monolith) - ⬛️ CLI tool and library for saving complete web pages as a single HTML file
+- [figsoda/mmtc](https://github.com/figsoda/mmtc) - Minimal mpd terminal client that aims to be simple yet highly configurable
 - [SeaDve/Kooha](https://github.com/SeaDve/Kooha) - Elegantly record your screen
 - [gabm/Satty](https://github.com/gabm/Satty) - Satty - Modern Screenshot Annotation. A tool inspired by Swappy and Flameshot.
 - [InputUsername/listenbrainz-rs](https://github.com/InputUsername/listenbrainz-rs) - ListenBrainz API bindings for Rust
@@ -2807,7 +2816,7 @@
 - [dathere/qsv](https://github.com/dathere/qsv) - Blazing-fast Data-Wrangling toolkit
 - [DeterminateSystems/magic-nix-cache](https://github.com/DeterminateSystems/magic-nix-cache) - Save 30-50%+ of CI time without any effort or cost. Use Magic Nix Cache, a totally free and zero-configuration binary cache for Nix on GitHub Actions.
 - [kamiyaa/joshuto](https://github.com/kamiyaa/joshuto) - ranger-like terminal file manager written in Rust
-- [automancy/automancy](https://github.com/automancy/automancy) - A game about automation, hexagons and magic; and there's no Conveyor Belts.
+- [automancy/automancy](https://github.com/automancy/automancy) - automancy! is a magic-themed, hexagon-based 'automation game' where there is no 'Conveyor Belts'.
 - [uutils/coreutils](https://github.com/uutils/coreutils) - Cross-platform Rust rewrite of the GNU coreutils
 - [AmrDeveloper/GQL](https://github.com/AmrDeveloper/GQL) - GitQL is a extensible SQL-like query language and SDK to perform queries on various data sources such .git files with supports of most of SQL features such as grouping, ordering and aggregation and wi
 - [samwho/spacer](https://github.com/samwho/spacer) - CLI tool to insert spacers when command output stops
@@ -3304,7 +3313,6 @@
 - [iina/iina](https://github.com/iina/iina) - The modern video player for macOS.
 - [leits/MeetingBar](https://github.com/leits/MeetingBar) - 🇺🇦 Your meetings at your fingertips in the macOS menu bar
 - [MonitorControl/MonitorControl](https://github.com/MonitorControl/MonitorControl) - 🖥 Control your display's brightness & volume on your Mac as if it was a native Apple Display. Use Apple Keyboard keys or custom shortcuts. Shows the native macOS OSDs.
-- [johnste/finicky](https://github.com/johnste/finicky) - A macOS app for customizing which browser to start
 - [andersfischernielsen/Traktor-Transition-Finder](https://github.com/andersfischernielsen/Traktor-Transition-Finder) - A tool for automatically finding the next song(s) to play when DJing using Traktor Pro.
 - [glushchenko/fsnotes](https://github.com/glushchenko/fsnotes) - Notes manager for macOS/iOS
 
@@ -3475,7 +3483,7 @@
 - [cachix/cachix-action](https://github.com/cachix/cachix-action) - Build software only once and put it in a global cache
 - [rancher-sandbox/rancher-desktop](https://github.com/rancher-sandbox/rancher-desktop) - Container Management and Kubernetes on the Desktop
 - [alexnault/react-headings](https://github.com/alexnault/react-headings) - ⚛ Auto-increment your HTML headings (h1, h2, etc.) for improved accessibility and SEO.
-- [ariakit/ariakit](https://github.com/ariakit/ariakit) - Toolkit for building accessible web apps with React
+- [ariakit/ariakit](https://github.com/ariakit/ariakit) - Toolkit with accessible components, styles, and examples for your next web app
 - [typescript-language-server/typescript-language-server](https://github.com/typescript-language-server/typescript-language-server) - TypeScript & JavaScript Language Server
 - [aeagle/react-spaces](https://github.com/aeagle/react-spaces) - React components that allow you to divide a page or container into nestable anchored, scrollable and resizable spaces.
 - [mantinedev/mantine](https://github.com/mantinedev/mantine) - A fully featured React components library
