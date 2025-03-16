@@ -3192,7 +3192,7 @@
 - [kvz/bash3boilerplate](https://github.com/kvz/bash3boilerplate) - Templates to write better Bash scripts
 - [fidian/ansi](https://github.com/fidian/ansi) - ANSI escape codes in pure bash - change text color, position the cursor, much more
 - [dolegi/lockdown.sh](https://github.com/dolegi/lockdown.sh) - Lockdown your linux install. The simple zero config linux hardening script
-- [asdf-community/asdf-php](https://github.com/asdf-community/asdf-php) - PHP plugin for the asdf version manager
+- [asdf-community/asdf-php](https://github.com/asdf-community/asdf-php) - PHP plugin for the asdf version manager [maintainer=LOOKING FOR A MAINTAINER! SUBMIT A PULL REQUEST TO THE INFRASTRUCTURE REPOSITORY!]
 - [bats-core/bats-core](https://github.com/bats-core/bats-core) - Bash Automated Testing System
 - [niieani/bash-oo-framework](https://github.com/niieani/bash-oo-framework) - Bash Infinity is a modern standard library / framework / boilerplate for Bash
 - [jmcantrell/bashful](https://github.com/jmcantrell/bashful) - A collection of modules to simplify writing bash scripts.
@@ -3215,7 +3215,7 @@
 - [olets/zsh-abbr](https://github.com/olets/zsh-abbr) - The zsh manager for auto-expanding abbreviations, inspired by fish. ~27,000 clones by ~17,000 unique cloners as of late Nov '24, and averaging ~60 Homebrew installs monthly since June 2023
 - [base16-manager/base16-manager](https://github.com/base16-manager/base16-manager) - A command line tool to install base16 templates and set themes globally.
 - [rainglow/jetbrains](https://github.com/rainglow/jetbrains) - 320+ color themes for JetBrains IDEs including PHPStorm, Webstorm and more.
-- [asdf-community/asdf-direnv](https://github.com/asdf-community/asdf-direnv) - direnv plugin for the asdf version manager
+- [asdf-community/asdf-direnv](https://github.com/asdf-community/asdf-direnv) - direnv plugin for the asdf version manager [maintainer=@jfly, @michi-zuri, @vic]
 - [aspiers/shell-env](https://github.com/aspiers/shell-env) - Adam's shell environment (bash/zsh) including a bunch of handy home-made utilities
 - [romkatv/powerlevel10k](https://github.com/romkatv/powerlevel10k) - A Zsh theme
 - [agkozak/zsh-z](https://github.com/agkozak/zsh-z) - Jump quickly to directories that you have visited "frecently." A native Zsh port of z.sh with added features.
