@@ -408,7 +408,7 @@
 - [emacsomancer/org-daily-reflection](https://github.com/emacsomancer/org-daily-reflection) - Reflect on your org-roam daily entries, comparing N org-roam dailies at M intervals (years, months, fortnights, weeks, days).
 - [bgturner/dot-files](https://github.com/bgturner/dot-files) - Minimal dotfiles
 - [brabalan/org-review](https://github.com/brabalan/org-review) - Track when you have done a review in org mode
-- [jamescherti/minimal-emacs.d](https://github.com/jamescherti/minimal-emacs.d) - minimal-emacs.d - Better Emacs Defaults and Faster Startup
+- [jamescherti/minimal-emacs.d](https://github.com/jamescherti/minimal-emacs.d) - minimal-emacs.d - Starter-Kit with Better Emacs Defaults and Faster Startup
 - [xenodium/ready-player](https://github.com/xenodium/ready-player) - 
 - [kickingvegas/casual-bookmarks](https://github.com/kickingvegas/casual-bookmarks) - An opinionated Transient-based user interface for the Emacs bookmark list.
 - [kanru/uuidgen-el](https://github.com/kanru/uuidgen-el) - UUID generation implemented in elisp.
@@ -991,6 +991,7 @@
 - [tc39/proposal-pipeline-operator](https://github.com/tc39/proposal-pipeline-operator) - A proposal for adding a useful pipe operator to JavaScript.
 - [TandoorRecipes/recipes](https://github.com/TandoorRecipes/recipes) - Application for managing recipes, planning meals, building shopping lists and much much more!
 - [cleverca22/nixos-configs](https://github.com/cleverca22/nixos-configs) - 
+- [ossu/computer-science](https://github.com/ossu/computer-science) - 🎓 Path to a free self-taught education in Computer Science!
 - [umpirsky/country-list](https://github.com/umpirsky/country-list) - :globe_with_meridians: List of all countries with names and ISO 3166-1 codes in all languages and data formats.
 - [arianvp/nixos-stuff](https://github.com/arianvp/nixos-stuff) - Nixos stuff
 - [krzemienski/awesome-video](https://github.com/krzemienski/awesome-video) - A curated list of awesome streaming video tools, frameworks, libraries, and learning resources.
@@ -1018,7 +1019,6 @@
 - [NUKnightLab/soundcite](https://github.com/NUKnightLab/soundcite) - Making Inline Audio Easy and Seamless
 - [abbernie/tune](https://github.com/abbernie/tune) - A web audio tuning library of microtonal and just intonation scales
 - [mlarcher/docssa](https://github.com/mlarcher/docssa) - DoCSSa – Sass based CSS architecture and methodology – http://mlarcher.github.io/docssa/
-- [jglovier/gifs](https://github.com/jglovier/gifs) - :joy: :camera: :sparkler: Storage place for all mah gifs.
 - [bootflat/bootflat.github.io](https://github.com/bootflat/bootflat.github.io) - BOOTFLAT is an open source Flat UI KIT based on Bootstrap 3.3.0 CSS framework. It provides a faster, easier and less repetitive way for web developers to create elegant web apps.
 - [codrops/AnimatedHeader](https://github.com/codrops/AnimatedHeader) - A fixed header that will animate its size on scroll. The inner elements will also adjust their size with a transition.
 - [impressivewebs/HTML9-Responsive-Boilerstrap-js](https://github.com/impressivewebs/HTML9-Responsive-Boilerstrap-js) - HTML9 Responsive Boilerstrap JS
@@ -1174,7 +1174,6 @@
 - [linuxserver/budge](https://github.com/linuxserver/budge) - 
 - [ljharb/qs](https://github.com/ljharb/qs) - A querystring parser with nesting support
 - [facebookexperimental/Recoil](https://github.com/facebookexperimental/Recoil) - Recoil is an experimental state management library for React apps. It provides several capabilities that are difficult to achieve with React alone, while being compatible with the newest features of R
-- [gajus/eslint-config-canonical](https://github.com/gajus/eslint-config-canonical) - The most comprehensive ES code style guide.
 - [jsx-eslint/eslint-plugin-react](https://github.com/jsx-eslint/eslint-plugin-react) - React-specific linting rules for ESLint
 - [naptha/tesseract.js](https://github.com/naptha/tesseract.js) - Pure Javascript OCR for more than 100 Languages 📖🎉🖥
 - [digitalocean/nginxconfig.io](https://github.com/digitalocean/nginxconfig.io) - ⚙️ NGINX config generator on steroids 💉
@@ -2072,7 +2071,6 @@
 - [DovAmir/awesome-design-patterns](https://github.com/DovAmir/awesome-design-patterns) - A curated list of software and architecture related design patterns.
 - [pdfernhout/High-Performance-Organizations-Reading-List](https://github.com/pdfernhout/High-Performance-Organizations-Reading-List) - Ideas for creating and sustaining high performance organizations
 - [akshatagarwl/nix-learning](https://github.com/akshatagarwl/nix-learning) - A bunch of links to blog posts, articles, videos, etc for learning Nix
-- [ossu/computer-science](https://github.com/ossu/computer-science) - 🎓 Path to a free self-taught education in Computer Science!
 - [rehooks/awesome-react-hooks](https://github.com/rehooks/awesome-react-hooks) - Awesome React Hooks
 - [jorgebucaran/awsm.fish](https://github.com/jorgebucaran/awsm.fish) - A curation of prompts, plugins & other Fish treasures 🐚💎
 - [brillout/awesome-react-components](https://github.com/brillout/awesome-react-components) - Curated List of React Components & Libraries.
@@ -3124,7 +3122,7 @@
 - [denisse-dev/dotfiles](https://github.com/denisse-dev/dotfiles) - :dragon_face: My Arch Linux config [i3-gaps + i3blocks + Zsh + Spacemacs + Rofi + Alacritty + Neofetch]
 - [agkozak/dotfiles](https://github.com/agkozak/dotfiles) - Dotfiles for zsh, vim, tmux, and more. Now using zcomet!
 - [lilyball/nix-env.fish](https://github.com/lilyball/nix-env.fish) - Nix environment setup for the fish shell
-- [nikitavoloboev/config](https://github.com/nikitavoloboev/config) - Apps/CLIs/configs I use on macOS/iOS. Fish, Karabiner, Cursor..
+- [nikitavoloboev/config](https://github.com/nikitavoloboev/config) - Apps/CLIs/configs I use on macOS/iOS
 - [adi1090x/plymouth-themes](https://github.com/adi1090x/plymouth-themes) - A huge collection (80+) of plymouth themes ported from android bootanimations
 - [trapd00r/LS_COLORS](https://github.com/trapd00r/LS_COLORS) - A collection of LS_COLORS definitions; needs your contribution!
 - [michaelpj/nixos-config](https://github.com/michaelpj/nixos-config) - 
@@ -3224,7 +3222,7 @@
 - [geometry-zsh/geometry](https://github.com/geometry-zsh/geometry) - geometry is a minimal, composable zsh prompt
 - [nextcloud/docker](https://github.com/nextcloud/docker) - ⛴ Docker image of Nextcloud
 - [sindresorhus/pure](https://github.com/sindresorhus/pure) - Pretty, minimal and fast ZSH prompt
-- [ar1a/dotfiles](https://github.com/ar1a/dotfiles) - My dotfiles
+- [ar1a/dotfiles-old](https://github.com/ar1a/dotfiles-old) - My dotfiles
 - [sorin-ionescu/prezto](https://github.com/sorin-ionescu/prezto) - The configuration framework for Zsh
 - [julian-heng/yabai-config](https://github.com/julian-heng/yabai-config) - My personal Yabai and Skhd configs and scripts.
 - [dylanaraps/neofetch](https://github.com/dylanaraps/neofetch) - 🖼️  A command-line system information tool written in bash 3.2+
@@ -3433,6 +3431,7 @@
 - [pawelmalak/flame](https://github.com/pawelmalak/flame) - Flame is self-hosted startpage for your server. Easily manage your apps and bookmarks with built-in editors.
 - [TanStack/virtual](https://github.com/TanStack/virtual) - 🤖 Headless UI for Virtualizing Large Element Lists in JS/TS, React, Solid, Vue and Svelte
 - [ThomasAribart/json-schema-to-ts](https://github.com/ThomasAribart/json-schema-to-ts) - Infer TS types from JSON schemas 📝
+- [gajus/eslint-config-canonical](https://github.com/gajus/eslint-config-canonical) - The most comprehensive ES code style guide.
 - [ProtonMail/WebClients](https://github.com/ProtonMail/WebClients) - Monorepo hosting the proton web clients
 - [microsoft/tsdoc](https://github.com/microsoft/tsdoc) - A doc comment standard for TypeScript
 - [woutervh-/typescript-is](https://github.com/woutervh-/typescript-is) - 
