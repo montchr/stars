@@ -3367,6 +3367,7 @@
 
 ## others 
 
+- [kleinweb/saml-auth](https://github.com/kleinweb/saml-auth) - 
 - [pwmt/zathura](https://github.com/pwmt/zathura) - Document viewer
 - [tejing1/nixos-config](https://github.com/tejing1/nixos-config) - Tejing's personal NixOS configuration flake
 - [Y2Z/monolith](https://github.com/Y2Z/monolith) - ⬛️ CLI tool and library for saving complete web pages as a single HTML file
