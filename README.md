@@ -81,6 +81,7 @@
 - [Swift](#swift)
 - [Tcl](#tcl)
 - [TeX](#tex)
+- [Tree-sitter Query](#tree-sitter-query)
 - [TypeScript](#typescript)
 - [Typst](#typst)
 - [V](#v)
@@ -351,6 +352,7 @@
 
 ## Common Lisp 
 
+- [shaunsingh/nix-darwin-dotfiles](https://github.com/shaunsingh/nix-darwin-dotfiles) - Dotfiles managed via Nix-Darwin and Mk-Darwin-System, for schoolwork and kotlin, lua, and rust programming
 - [atlas-engineer/nyxt](https://github.com/atlas-engineer/nyxt) - Nyxt - the hacker's browser.
 
 ## DIGITAL Command Language 
@@ -372,6 +374,7 @@
 
 ## Dockerfile 
 
+- [Crell/php-project-template](https://github.com/Crell/php-project-template) - My personal template for new PHP projects.
 - [fspoettel/linkding-on-fly](https://github.com/fspoettel/linkding-on-fly) - 🔖 Run linkding on fly.io. Backup the bookmark DB to cloud storage with litestream.
 - [tianon/dockerfiles](https://github.com/tianon/dockerfiles) - A semi-random collection of odds and ends.
 
@@ -690,7 +693,6 @@
 - [justinbarclay/parinfer-rust-mode](https://github.com/justinbarclay/parinfer-rust-mode) - Simplifying how you write Lisp
 - [awth13/org-appear](https://github.com/awth13/org-appear) - Toggle visibility of hidden Org mode element parts upon entering and leaving an element
 - [emacs-grammarly/lsp-grammarly](https://github.com/emacs-grammarly/lsp-grammarly) - lsp-mode ❤️ grammarly
-- [meain/dotfiles](https://github.com/meain/dotfiles) - If there is a shell, there is a way!
 - [martinbaillie/evil-motion-trainer](https://github.com/martinbaillie/evil-motion-trainer) - Make Emacs drop lazily repeated "hjkl"-based motions after a configurable threshold
 - [fritzgrabo/cascading-dir-locals](https://github.com/fritzgrabo/cascading-dir-locals) - Emacs: Apply all (!) .dir-locals.el from root to current directory
 - [narendraj9/hledger-mode](https://github.com/narendraj9/hledger-mode) - An Emacs major mode for Hledger
@@ -1483,7 +1485,6 @@
 ## Makefile 
 
 - [lorien/awesome-web-scraping](https://github.com/lorien/awesome-web-scraping) - List of libraries, tools and APIs for web scraping and data processing.
-- [Crell/php-project-template](https://github.com/Crell/php-project-template) - My personal template for new PHP projects.
 - [teamniteo/handbook](https://github.com/teamniteo/handbook) - The Niteo Handbook
 - [wodby/docker4wordpress](https://github.com/wodby/docker4wordpress) - Docker-based WordPress stack
 - [Automattic/vip-gold](https://github.com/Automattic/vip-gold) - VIP Go Local Development
@@ -1655,7 +1656,7 @@
 - [jonringer/server-configuration](https://github.com/jonringer/server-configuration) - Build server nixos configuration
 - [ZilchOS/core](https://github.com/ZilchOS/core) - ZilchOS Core, a decidedly tiny Nix-based distro to play with
 - [fricklerhandwerk/settings](https://github.com/fricklerhandwerk/settings) - Nix configuration for all my computers, published for educational purposes
-- [LunNova/nixos-configs](https://github.com/LunNova/nixos-configs) - Config flake for personal systems and home devices
+- [LunNova/nixos-configs](https://github.com/LunNova/nixos-configs) - Config flake for @LunNova's personal systems and home devices
 - [viperML/neoinfra](https://github.com/viperML/neoinfra) - Infrastucture as code
 - [colemickens/nixos-flake-example](https://github.com/colemickens/nixos-flake-example) - This is a demo NixOS config, with optional flakes support. Along with notes on why flakes is useful and worth adopting.
 - [dramforever/config](https://github.com/dramforever/config) - Random config (v2, clean history)
@@ -1759,7 +1760,6 @@
 - [vic/clap-nix](https://github.com/vic/clap-nix) - Command line argument parser in pure Nix. Supports sub-commands, typed positional arguments, value coercion and resolution via Nix Modules.
 - [vic/vix](https://github.com/vic/vix) - Vic's *Nix config.
 - [vic/mk-darwin-system](https://github.com/vic/mk-darwin-system) - Small Nix utility to create an M1 aarch64-darwin (nixFlakes + nix-darwin + home-manager) system.
-- [shaunsingh/nix-darwin-dotfiles](https://github.com/shaunsingh/nix-darwin-dotfiles) - Dotfiles managed via Nix-Darwin and Mk-Darwin-System, for schoolwork and kotlin, lua, and rust programming
 - [gvolpe/nix-config](https://github.com/gvolpe/nix-config) - :space_invader: NixOS configuration
 - [Misterio77/nix-starter-configs](https://github.com/Misterio77/nix-starter-configs) - Simple and documented config templates to help you get started with NixOS + home-manager + flakes. All the boilerplate you need!
 - [Shados/nix-config-shared](https://github.com/Shados/nix-config-shared) - My cross-machine shared configuration, defaults, modules, and packages not suitable for upstreaming or NUR
@@ -1858,7 +1858,6 @@
 - [cideM/dotfiles](https://github.com/cideM/dotfiles) - No place like ~. Nix. All. The. Things.
 - [nix-community/home-manager](https://github.com/nix-community/home-manager) - Manage a user environment using Nix  [maintainer=@rycee]
 - [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs) - Nix Packages collection & NixOS
-- [NixOS/nix.dev](https://github.com/NixOS/nix.dev) - Official documentation for getting things done with Nix.
 - [numtide/devshell](https://github.com/numtide/devshell) - Per project developer environments
 - [malob/nixpkgs](https://github.com/malob/nixpkgs) - My Nix system configs!
 - [jkachmar/dotnix](https://github.com/jkachmar/dotnix) - Shackled within an elaborate prison of my own design.
@@ -1914,6 +1913,7 @@
 
 ## Others 
 
+- [protesilaos/emacs-lisp-elements](https://github.com/protesilaos/emacs-lisp-elements) - A book that provides a big picture view of the Emacs Lisp programming language.
 - [protesilaos/aporetic](https://github.com/protesilaos/aporetic) - Aporetic fonts are a custom build of Iosevka with different style and metrics than the default. This is the successor to my "Iosevka Comfy" fonts.
 - [foocorp/hacienda](https://github.com/foocorp/hacienda) - The Hacienda must be built
 - [Chivv/deploy-radicle-to-kinsta](https://github.com/Chivv/deploy-radicle-to-kinsta) - Automated deployments to Kinsta environments (development and production) using GitHub Actions with environment-specific configurations, SSH, Composer, and NPM integration.
@@ -1936,7 +1936,6 @@
 - [termstandard/colors](https://github.com/termstandard/colors) - Color standards for terminal emulators
 - [laravel/docs](https://github.com/laravel/docs) - The Laravel documentation.
 - [Automattic/phpcs-neutron-ruleset](https://github.com/Automattic/phpcs-neutron-ruleset) - A phpcs meta-ruleset for WordPress development
-- [koekeishiya/meraki](https://github.com/koekeishiya/meraki) - Global shortcuts for macOS (coming soon™)
 - [zakirullin/cognitive-load](https://github.com/zakirullin/cognitive-load) - 🧠 Cognitive Load is what matters
 - [BillyDM/awesome-audio-dsp](https://github.com/BillyDM/awesome-audio-dsp) - My curated list of audio DSP and plugin development resources
 - [lg/yabai-and-skhd-highlighting](https://github.com/lg/yabai-and-skhd-highlighting) - yabai and skhd syntax highlighting for vscode
@@ -2656,6 +2655,7 @@
 - [pre-commit/pre-commit](https://github.com/pre-commit/pre-commit) - A framework for managing and maintaining multi-language pre-commit hooks.
 - [borgbackup/borg](https://github.com/borgbackup/borg) - Deduplicating archiver with compression and authenticated encryption.
 - [archlinux/archinstall](https://github.com/archlinux/archinstall) - Arch Linux installer - guided, templates etc.
+- [NixOS/nix.dev](https://github.com/NixOS/nix.dev) - Official documentation for getting things done with Nix.
 - [jarun/buku](https://github.com/jarun/buku) - :bookmark: Personal mini-web in text
 - [oils-for-unix/oils](https://github.com/oils-for-unix/oils) - Oils is our upgrade path from bash to a better language and runtime.  It's also for Python and JavaScript users who avoid shell!
 - [0k/shyaml](https://github.com/0k/shyaml) - YAML for command line
@@ -2776,6 +2776,7 @@
 
 ## Rust 
 
+- [medialab/xan](https://github.com/medialab/xan) - The CSV magician
 - [Y2Z/monolith](https://github.com/Y2Z/monolith) - ⬛️ CLI tool and library for saving complete web pages as a single HTML file
 - [figsoda/mmtc](https://github.com/figsoda/mmtc) - Minimal mpd terminal client that aims to be simple yet highly configurable
 - [SeaDve/Kooha](https://github.com/SeaDve/Kooha) - Elegantly record your screen
@@ -3003,7 +3004,6 @@
 
 - [skissue/meow-tree-sitter](https://github.com/skissue/meow-tree-sitter) - Tree-sitter powered :deciduous_tree: motions for Meow :cat:
 - [dmille56/treesit-jump](https://github.com/dmille56/treesit-jump) - Jump around your source code in emacs using treesit and avy
-- [nvim-treesitter/nvim-treesitter-textobjects](https://github.com/nvim-treesitter/nvim-treesitter-textobjects) - 
 
 ## Shell 
 
@@ -3021,7 +3021,7 @@
 - [typkrft/chezmoi](https://github.com/typkrft/chezmoi) - 
 - [torenware/ddev-viteserve](https://github.com/torenware/ddev-viteserve) - An add-on to run the Vite dev server from inside the DDEV environment.
 - [junegunn/fzf-git.sh](https://github.com/junegunn/fzf-git.sh) - bash and zsh key bindings for Git objects, powered by fzf
-- [nix-community/nixos-anywhere](https://github.com/nix-community/nixos-anywhere) - Install NixOS everywhere via SSH [maintainers=Mic92, Lassulus, phaer, Enzime]
+- [nix-community/nixos-anywhere](https://github.com/nix-community/nixos-anywhere) - Install NixOS everywhere via SSH [maintainers=@Mic92, @Lassulus, @phaer, @Enzime]
 - [numtide/prj-spec](https://github.com/numtide/prj-spec) - Project Base Directory Specification
 - [mattmc3/zephyr](https://github.com/mattmc3/zephyr) - :wind_face: A Zsh framework as nice as a cool summer breeze
 - [ramitsurana/awesome-kubernetes](https://github.com/ramitsurana/awesome-kubernetes) - A curated list for awesome kubernetes sources :ship::tada:
@@ -3175,6 +3175,7 @@
 - [fsaintjacques/semver-tool](https://github.com/fsaintjacques/semver-tool) - semver bash implementation
 - [xero/dotfiles](https://github.com/xero/dotfiles) - rice 🍚 custom linux config files. as seen on r/unixporn #noricenolife neovim cultist. dotfiles are perpetual wip
 - [pratiktri/server_init_harden](https://github.com/pratiktri/server_init_harden) - POSIX shell script automating Linux security hardening through SSH, firewall, access controls, and intrusion prevention across Linux distributions.
+- [meain/dotfiles](https://github.com/meain/dotfiles) - If there is a shell, there is a way!
 - [webpro/dotfiles](https://github.com/webpro/dotfiles) - Dotfiles for macOS
 - [pch/welder](https://github.com/pch/welder) - 👨‍🏭Set up your Linux server with plain shell scripts
 - [rockymadden/slack-cli](https://github.com/rockymadden/slack-cli) - :neckbeard: Powerful Slack CLI via pure bash. Rich messaging, uploads, posts, piping, oh my!
@@ -3325,6 +3326,10 @@
 - [hendricius/the-sourdough-framework](https://github.com/hendricius/the-sourdough-framework) - Open source book dedicated to helping you to make the best possible sourdough bread at home.
 - [krimlabs/z](https://github.com/krimlabs/z) - 🐢An incubator for a Zettlekasten Tool
 
+## Tree-sitter Query 
+
+- [nvim-treesitter/nvim-treesitter-textobjects](https://github.com/nvim-treesitter/nvim-treesitter-textobjects) - 
+
 ## TypeScript 
 
 - [kellnerd/musicbrainz-scripts](https://github.com/kellnerd/musicbrainz-scripts) - Bookmarklets and Userscripts for MusicBrainz.org
@@ -3423,7 +3428,7 @@
 - [multiprocessio/datastation](https://github.com/multiprocessio/datastation) - App to easily query, script, and visualize data from every database, file, and API.
 - [cursorless-dev/cursorless](https://github.com/cursorless-dev/cursorless) - Don't let the cursor slow you down
 - [GoogleChromeLabs/container-query-polyfill](https://github.com/GoogleChromeLabs/container-query-polyfill) - A polyfill for CSS Container Queries
-- [redwoodjs/redwood](https://github.com/redwoodjs/redwood) - The App Framework for Startups
+- [redwoodjs/graphql](https://github.com/redwoodjs/graphql) - RedwoodGraphQL
 - [omnivore-app/omnivore](https://github.com/omnivore-app/omnivore) - Omnivore is a complete, open source read-it-later solution for people who like reading.
 - [JustinBeckwith/linkinator](https://github.com/JustinBeckwith/linkinator) - 🐿 Scurry around your site and find all those broken links.
 - [johnbillion/wp-json-schemas](https://github.com/johnbillion/wp-json-schemas) - JSON schemas for WordPress PHP objects and REST  API responses
@@ -3469,7 +3474,7 @@
 - [adobe/react-spectrum](https://github.com/adobe/react-spectrum) - A collection of libraries and tools that help you build adaptive, accessible, and robust user experiences.
 - [GeekyAnts/NativeBase](https://github.com/GeekyAnts/NativeBase) - Mobile-first, accessible components for React Native & Web to build consistent UI across Android, iOS and Web.
 - [dai-shi/react-tracked](https://github.com/dai-shi/react-tracked) - State usage tracking with Proxies. Optimize re-renders for useState/useReducer, React Redux, Zustand and others.
-- [alibaba/hooks](https://github.com/alibaba/hooks) - A high-quality & reliable React Hooks library.   https://ahooks.pages.dev/
+- [alibaba/hooks](https://github.com/alibaba/hooks) - A high-quality & reliable React Hooks library.   https://alibaba.github.io/hooks/
 - [pmndrs/use-gesture](https://github.com/pmndrs/use-gesture) - 👇Bread n butter utility for component-tied mouse/touch gestures in React and Vanilla Javascript.
 - [pmndrs/zustand](https://github.com/pmndrs/zustand) - 🐻 Bear necessities for state management in React
 - [remix-run/react-router](https://github.com/remix-run/react-router) - Declarative routing for React
@@ -3510,7 +3515,7 @@
 - [milesj/babel-plugin-typescript-to-proptypes](https://github.com/milesj/babel-plugin-typescript-to-proptypes) - Generate React PropTypes from TypeScript interfaces or type aliases.
 - [mrmckeb/typescript-plugin-css-modules](https://github.com/mrmckeb/typescript-plugin-css-modules) - A TypeScript language service plugin providing support for CSS Modules.
 - [azu/kvs](https://github.com/azu/kvs) - Lightweight key-value storage library for Browser, Node.js, and In-Memory.
-- [textlint/textlint](https://github.com/textlint/textlint) - The pluggable natural language linter for text and markdown.
+- [textlint/textlint](https://github.com/textlint/textlint) - textlint is the pluggable linter for natural language text.
 - [deepsweet/foxr](https://github.com/deepsweet/foxr) - 🦊 Node.js API to control Firefox
 - [calcom/cal.com](https://github.com/calcom/cal.com) - Scheduling infrastructure for absolutely everyone.
 - [piotrwitek/react-redux-typescript-guide](https://github.com/piotrwitek/react-redux-typescript-guide) - The complete guide to static typing in "React & Redux" apps using TypeScript
