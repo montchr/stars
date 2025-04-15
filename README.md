@@ -390,6 +390,7 @@
 
 ## Emacs Lisp 
 
+- [unmonoqueteclea/jira.el](https://github.com/unmonoqueteclea/jira.el) - Emacs integration for Altassian's Jira.  Support listing and filtering issues, showing their details, modifying some of their properties or adding worklogs.
 - [tarsius/llama](https://github.com/tarsius/llama) - Compact syntax for short lambda
 - [emacs-sideline/sideline](https://github.com/emacs-sideline/sideline) - Show information on the side
 - [skeeto/elfeed](https://github.com/skeeto/elfeed) - An Emacs web feeds client
@@ -1582,10 +1583,10 @@
 - [drupol/nixos-x260](https://github.com/drupol/nixos-x260) - Contains the configuration of every home computers
 - [KubqoA/dotfiles](https://github.com/KubqoA/dotfiles) - ❄️ My NixOS, macOS and home-manager configurations
 - [a-kenji/zellij-nix](https://github.com/a-kenji/zellij-nix) - Zellij Nix Environment
-- [aakropotkin/floco](https://github.com/aakropotkin/floco) - Using Nix to put NPM and Yarn in a coffin
-- [aakropotkin/ak-nix](https://github.com/aakropotkin/ak-nix) - Various `nix` and NixOS extensions
-- [aakropotkin/laika](https://github.com/aakropotkin/laika) - Nix fetcher abstractions.
-- [aakropotkin/rime](https://github.com/aakropotkin/rime) - Nix URI libs and utils
+- [alex-ameen/floco](https://github.com/alex-ameen/floco) - Using Nix to put NPM and Yarn in a coffin
+- [alex-ameen/ak-nix](https://github.com/alex-ameen/ak-nix) - Various `nix` and NixOS extensions
+- [alex-ameen/laika](https://github.com/alex-ameen/laika) - Nix fetcher abstractions.
+- [alex-ameen/rime](https://github.com/alex-ameen/rime) - Nix URI libs and utils
 - [numtide/nix-stdlib](https://github.com/numtide/nix-stdlib) - experimental nix prelude
 - [emacs-twist/twist.nix](https://github.com/emacs-twist/twist.nix) - Build an entire Emacs configuration as a Nix package in a pure, reproducible way
 - [planetbeldar/mac-overlay](https://github.com/planetbeldar/mac-overlay) - nixpkgs mac overlay (mmm, dmgs)
@@ -2776,6 +2777,7 @@
 
 ## Rust 
 
+- [blahgeek/emacs-lsp-booster](https://github.com/blahgeek/emacs-lsp-booster) - Emacs LSP performance booster
 - [medialab/xan](https://github.com/medialab/xan) - The CSV magician
 - [Y2Z/monolith](https://github.com/Y2Z/monolith) - ⬛️ CLI tool and library for saving complete web pages as a single HTML file
 - [figsoda/mmtc](https://github.com/figsoda/mmtc) - Minimal mpd terminal client that aims to be simple yet highly configurable
