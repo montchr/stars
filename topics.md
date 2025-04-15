@@ -1461,6 +1461,8 @@
 
 ## emacs 
 
+- [blahgeek/emacs-lsp-booster](https://github.com/blahgeek/emacs-lsp-booster) - Emacs LSP performance booster
+- [unmonoqueteclea/jira.el](https://github.com/unmonoqueteclea/jira.el) - Emacs integration for Altassian's Jira.  Support listing and filtering issues, showing their details, modifying some of their properties or adding worklogs.
 - [emacs-sideline/sideline](https://github.com/emacs-sideline/sideline) - Show information on the side
 - [remyhonig/elfeed-org](https://github.com/remyhonig/elfeed-org) - Configure the Elfeed RSS reader with an Orgmode file
 - [enzuru/.emacs.d](https://github.com/enzuru/.emacs.d) - A maximalist Emacs config tracking the latest trends
@@ -3749,10 +3751,10 @@
 - [a-kenji/zellij-nix](https://github.com/a-kenji/zellij-nix) - Zellij Nix Environment
 - [lccambiaghi/vanilla-emacs](https://github.com/lccambiaghi/vanilla-emacs) - 
 - [koute/bytehound](https://github.com/koute/bytehound) - A memory profiler for Linux.
-- [aakropotkin/floco](https://github.com/aakropotkin/floco) - Using Nix to put NPM and Yarn in a coffin
-- [aakropotkin/ak-nix](https://github.com/aakropotkin/ak-nix) - Various `nix` and NixOS extensions
-- [aakropotkin/laika](https://github.com/aakropotkin/laika) - Nix fetcher abstractions.
-- [aakropotkin/rime](https://github.com/aakropotkin/rime) - Nix URI libs and utils
+- [alex-ameen/floco](https://github.com/alex-ameen/floco) - Using Nix to put NPM and Yarn in a coffin
+- [alex-ameen/ak-nix](https://github.com/alex-ameen/ak-nix) - Various `nix` and NixOS extensions
+- [alex-ameen/laika](https://github.com/alex-ameen/laika) - Nix fetcher abstractions.
+- [alex-ameen/rime](https://github.com/alex-ameen/rime) - Nix URI libs and utils
 - [numtide/bld](https://github.com/numtide/bld) - Build nix targets based on git repository directories
 - [numtide/nix-stdlib](https://github.com/numtide/nix-stdlib) - experimental nix prelude
 - [mozilla/policy-templates](https://github.com/mozilla/policy-templates) - Policy Templates for Firefox
@@ -5430,6 +5432,7 @@
 
 ## rust 
 
+- [blahgeek/emacs-lsp-booster](https://github.com/blahgeek/emacs-lsp-booster) - Emacs LSP performance booster
 - [medialab/xan](https://github.com/medialab/xan) - The CSV magician
 - [figsoda/mmtc](https://github.com/figsoda/mmtc) - Minimal mpd terminal client that aims to be simple yet highly configurable
 - [SeaDve/Kooha](https://github.com/SeaDve/Kooha) - Elegantly record your screen
