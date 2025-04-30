@@ -781,6 +781,7 @@
 
 ## cli 
 
+- [Orange-OpenSource/hurl](https://github.com/Orange-OpenSource/hurl) - Hurl, run and test HTTP requests with plain text.
 - [medialab/xan](https://github.com/medialab/xan) - The CSV magician
 - [casey/intermodal](https://github.com/casey/intermodal) - A command-line utility for BitTorrent torrent file creation, verification, and more
 - [wader/fq](https://github.com/wader/fq) - jq for binary formats - tool, language and decoders for working with binary and text formats
@@ -816,7 +817,7 @@
 - [iojw/socialscan](https://github.com/iojw/socialscan) - Python library for accurately querying username and email usage on online platforms
 - [pimalaya/himalaya](https://github.com/pimalaya/himalaya) - CLI to manage emails
 - [conventional-changelog/standard-version](https://github.com/conventional-changelog/standard-version) - :trophy: Automate versioning and CHANGELOG generation, with semver.org and conventionalcommits.org
-- [nix-community/nh](https://github.com/nix-community/nh) - Yet another nix cli helper
+- [nix-community/nh](https://github.com/nix-community/nh) - Yet another Nix CLI helper. [Maintainers=@viperML, @NotAShelf]
 - [railwayapp/nixpacks](https://github.com/railwayapp/nixpacks) - App source + Nix packages + Docker = Image
 - [wp-cli/entity-command](https://github.com/wp-cli/entity-command) - Manage WordPress comments, menus, options, posts, sites, terms, and users.
 - [ItinerisLtd/composify](https://github.com/ItinerisLtd/composify) - Turn WordPress plugin zip files into git repositories, so that composer version constraints work properly.
@@ -968,7 +969,7 @@
 - [rememberYou/.emacs.d](https://github.com/rememberYou/.emacs.d) - 🎉 Personal GNU Emacs configuration
 - [ianyepan/yay-evil-emacs](https://github.com/ianyepan/yay-evil-emacs) - 😈 A lightweight literate Emacs config with even better "better defaults". Shipped with a custom theme!
 - [pinpox/nixos](https://github.com/pinpox/nixos) - My NixOS Configurations
-- [drduh/config](https://github.com/drduh/config) - Various configuration files and scripts
+- [drduh/config](https://github.com/drduh/config) - Configuration files and scripts used in guides and for system setup.
 - [ashfinal/awesome-hammerspoon](https://github.com/ashfinal/awesome-hammerspoon) - awesome configuration for Hammerspoon.
 - [vsund/dotfiles](https://github.com/vsund/dotfiles) - Some things that live in ~/ at my machines
 - [psamim/dotfiles](https://github.com/psamim/dotfiles) - My dotfiles
@@ -1353,10 +1354,10 @@
 - [pinpox/nixos](https://github.com/pinpox/nixos) - My NixOS Configurations
 - [QuentinI/dotnix](https://github.com/QuentinI/dotnix) - 
 - [ericdallo/dotfiles](https://github.com/ericdallo/dotfiles) - Dotfiles for my NixOS system based on Dracula theme
-- [denisse-dev/dotfiles](https://github.com/denisse-dev/dotfiles) - :dragon_face: My Arch Linux config [i3-gaps + i3blocks + Zsh + Spacemacs + Rofi + Alacritty + Neofetch]
+- [denisse-dev/dotfiles](https://github.com/denisse-dev/dotfiles) - :dragon_face: My Arch Linux config [Zsh + Sway + Alacritty + Emacs, etc]
 - [agkozak/dotfiles](https://github.com/agkozak/dotfiles) - Dotfiles for zsh, vim, tmux, and more. Now using zcomet!
 - [nikitavoloboev/config](https://github.com/nikitavoloboev/config) - Apps/CLIs/configs I use on macOS/iOS
-- [Olical/dotfiles](https://github.com/Olical/dotfiles) - Configuration for Linux, i3, Kitty, Fish, Neovim and more
+- [Olical/dotfiles](https://github.com/Olical/dotfiles) - Configuration for Linux, sway, ghostty, fish, neovim and more
 - [infinisil/system](https://github.com/infinisil/system) - My system configuration
 - [colonelpanic8/dotfiles](https://github.com/colonelpanic8/dotfiles) - Configuration files for XMonad, Emacs, NixOS, Taffybar and more.
 - [matthewbauer/bauer](https://github.com/matthewbauer/bauer) - An Emacs+Nix IDE
@@ -1391,7 +1392,7 @@
 - [aspiers/stow](https://github.com/aspiers/stow) - GNU Stow - mirror of savannah git repository occasionally with more bleeding-edge branches
 - [evanpurkhiser/dots](https://github.com/evanpurkhiser/dots) - A portable tool for managing a single set of dotfiles in an organized fashion
 - [gf3/dotfiles](https://github.com/gf3/dotfiles) - Configurations for the tools I use every day
-- [migueravila/dotfiles](https://github.com/migueravila/dotfiles) - 🍙 Personal dotfiles repository.
+- [migueravila/dotfiles](https://github.com/migueravila/dotfiles) - Personal dotfiles repository.
 - [yadm-dev/yadm](https://github.com/yadm-dev/yadm) - Yet Another Dotfiles Manager
 - [Seirdy/dotfiles](https://github.com/Seirdy/dotfiles) - Seirdy's dotfiles
 - [csivanich/dotfiles](https://github.com/csivanich/dotfiles) - Configuration repository containing most customized home folder dotfiles.
@@ -1461,6 +1462,11 @@
 
 ## emacs 
 
+- [alphapapa/ts.el](https://github.com/alphapapa/ts.el) - Emacs timestamp and date-time library
+- [bzg/dotemacs](https://github.com/bzg/dotemacs) - My .emacs.el file.
+- [orgtre/csvorg](https://github.com/orgtre/csvorg) - Export/import Emacs Org mode entries to/from csv-files
+- [SavchenkoValeriy/jeison](https://github.com/SavchenkoValeriy/jeison) - An Emacs library for declarative JSON parsing
+- [jonnay/emagicians-starter-kit](https://github.com/jonnay/emagicians-starter-kit) - 🐰  My own take on an Emacs Starter Kit, with Secret Alien Org Mode Superpowers. -|-+-|-
 - [blahgeek/emacs-lsp-booster](https://github.com/blahgeek/emacs-lsp-booster) - Emacs LSP performance booster
 - [unmonoqueteclea/jira.el](https://github.com/unmonoqueteclea/jira.el) - Emacs integration for Altassian's Jira.  Support listing and filtering issues, showing their details, modifying some of their properties or adding worklogs.
 - [emacs-sideline/sideline](https://github.com/emacs-sideline/sideline) - Show information on the side
@@ -1609,7 +1615,7 @@
 - [dcreemer/1pass](https://github.com/dcreemer/1pass) - A caching wrapper for the 1Password CLI
 - [ericdallo/dotfiles](https://github.com/ericdallo/dotfiles) - Dotfiles for my NixOS system based on Dracula theme
 - [universal-ctags/citre](https://github.com/universal-ctags/citre) - A superior code reading & auto-completion tool with pluggable backends.
-- [denisse-dev/dotfiles](https://github.com/denisse-dev/dotfiles) - :dragon_face: My Arch Linux config [i3-gaps + i3blocks + Zsh + Spacemacs + Rofi + Alacritty + Neofetch]
+- [denisse-dev/dotfiles](https://github.com/denisse-dev/dotfiles) - :dragon_face: My Arch Linux config [Zsh + Sway + Alacritty + Emacs, etc]
 - [org-roam/org-roam-ui](https://github.com/org-roam/org-roam-ui) - A graphical frontend for exploring your org-roam Zettelkasten
 - [mrkkrp/char-menu](https://github.com/mrkkrp/char-menu) - Create a menu for fast insertion of arbitrary symbols
 - [rougier/elegant-emacs](https://github.com/rougier/elegant-emacs) - A very minimal but elegant emacs (I think)
@@ -1756,7 +1762,7 @@
 - [marmmaz/Group-Speed-Dial](https://github.com/marmmaz/Group-Speed-Dial) - My Group Speed Dial startup page
 - [tridactyl/tridactyl](https://github.com/tridactyl/tridactyl) - A Vim-like interface for Firefox, inspired by Vimperator/Pentadactyl.
 - [xiaoxiaoflood/firefox-scripts](https://github.com/xiaoxiaoflood/firefox-scripts) - userChromeJS / autoconfig.js and extensions
-- [migueravila/simplefox](https://github.com/migueravila/simplefox) - 🦊 A Userstyle theme for Firefox minimalist and Keyboard centered.
+- [migueravila/simplefox](https://github.com/migueravila/simplefox) - A Userstyle theme for Firefox minimalist and Keyboard centered.
 - [muckSponge/MaterialFox](https://github.com/muckSponge/MaterialFox) - A Material Design-inspired userChrome.css theme for Firefox
 - [akshat46/FlyingFox](https://github.com/akshat46/FlyingFox) - An opinionated set of configurations for firefox.
 - [Guerra24/Firefox-UWP-Style](https://github.com/Guerra24/Firefox-UWP-Style) - Sun Valley + MDL2 Theme for Firefox
@@ -1901,7 +1907,7 @@
 - [paulotome/emacstool](https://github.com/paulotome/emacstool) - Using Emacs Ediff as Git Merge/Difftool
 - [ericdallo/dotfiles](https://github.com/ericdallo/dotfiles) - Dotfiles for my NixOS system based on Dracula theme
 - [marlonrichert/zsh-snap](https://github.com/marlonrichert/zsh-snap) - ⚡️ Znap! Fast, easy-to-use tools for Zsh dotfiles & plugins, plus git repos
-- [denisse-dev/dotfiles](https://github.com/denisse-dev/dotfiles) - :dragon_face: My Arch Linux config [i3-gaps + i3blocks + Zsh + Spacemacs + Rofi + Alacritty + Neofetch]
+- [denisse-dev/dotfiles](https://github.com/denisse-dev/dotfiles) - :dragon_face: My Arch Linux config [Zsh + Sway + Alacritty + Emacs, etc]
 - [magit/magit](https://github.com/magit/magit) - It's Magit! A Git Porcelain inside Emacs.
 - [wfxr/forgit](https://github.com/wfxr/forgit) - :zzz: A utility tool powered by fzf for using git interactively.
 - [logseq/logseq](https://github.com/logseq/logseq) - A privacy-first, open-source platform for knowledge management and collaboration. Download link:  http://github.com/logseq/logseq/releases. roadmap: http://trello.com/b/8txSM12G/roadmap
@@ -2002,6 +2008,7 @@
 - [sentriz/gonic](https://github.com/sentriz/gonic) - music streaming server / free-software subsonic server API implementation
 - [kovidgoyal/kitty](https://github.com/kovidgoyal/kitty) - Cross-platform, fast, feature-rich, GPU based terminal
 - [adnanh/webhook](https://github.com/adnanh/webhook) - webhook is a lightweight incoming webhook server to run shell commands
+- [johnste/finicky](https://github.com/johnste/finicky) - A macOS app for customizing which browser to start
 - [oniony/TMSU](https://github.com/oniony/TMSU) - TMSU lets you tags your files and then access them through a nifty virtual filesystem from any other application.
 
 ## godot 
@@ -2388,6 +2395,7 @@
 
 ## http 
 
+- [Orange-OpenSource/hurl](https://github.com/Orange-OpenSource/hurl) - Hurl, run and test HTTP requests with plain text.
 - [WordPress/Requests](https://github.com/WordPress/Requests) - Requests for PHP is a humble HTTP request library. It simplifies how you interact with other sites and takes away all your worries.
 - [mdn/content](https://github.com/mdn/content) - The content behind MDN Web Docs
 - [mitmproxy/mitmproxy](https://github.com/mitmproxy/mitmproxy) - An interactive TLS-capable intercepting HTTP proxy for penetration testers and software developers.
@@ -2571,6 +2579,7 @@
 
 ## json 
 
+- [SavchenkoValeriy/jeison](https://github.com/SavchenkoValeriy/jeison) - An Emacs library for declarative JSON parsing
 - [wader/fq](https://github.com/wader/fq) - jq for binary formats - tool, language and decoders for working with binary and text formats
 - [ergebnis/composer-normalize](https://github.com/ergebnis/composer-normalize) - 🎵 Provides a composer plugin for normalizing composer.json.
 - [biomejs/biome](https://github.com/biomejs/biome) - A toolchain for web projects, aimed to provide functionalities to maintain them. Biome offers formatter and linter, usable via CLI and LSP.
@@ -2712,6 +2721,7 @@
 
 ## library 
 
+- [alphapapa/ts.el](https://github.com/alphapapa/ts.el) - Emacs timestamp and date-time library
 - [thunderer/Shortcode](https://github.com/thunderer/Shortcode) - Advanced shortcode (BBCode) parser and engine for PHP
 - [wp-bond/bond](https://github.com/wp-bond/bond) - A utility library for WordPress developers.
 - [cloudposse/terraform-aws-components](https://github.com/cloudposse/terraform-aws-components) - Opinionated, self-contained Terraform root modules that each solve one, specific problem
@@ -2788,7 +2798,7 @@
 - [akkartik/mu](https://github.com/akkartik/mu) - Soul of a tiny new machine. More thorough tests → More comprehensible and rewrite-friendly software → More resilient society.
 - [bregman-arie/devops-resources](https://github.com/bregman-arie/devops-resources) - DevOps resources - Linux, Jenkins, AWS, SRE, Prometheus, Docker, Python, Ansible, Git, Kubernetes, Terraform, OpenStack, SQL, NoSQL, Azure, GCP
 - [bregman-arie/devops-exercises](https://github.com/bregman-arie/devops-exercises) - Linux, Jenkins, AWS, SRE, Prometheus, Docker, Python, Ansible, Git, Kubernetes, Terraform, OpenStack, SQL, NoSQL, Azure, GCP, DNS, Elastic, Network, Virtualization. DevOps Interview Questions
-- [denisse-dev/dotfiles](https://github.com/denisse-dev/dotfiles) - :dragon_face: My Arch Linux config [i3-gaps + i3blocks + Zsh + Spacemacs + Rofi + Alacritty + Neofetch]
+- [denisse-dev/dotfiles](https://github.com/denisse-dev/dotfiles) - :dragon_face: My Arch Linux config [Zsh + Sway + Alacritty + Emacs, etc]
 - [adi1090x/plymouth-themes](https://github.com/adi1090x/plymouth-themes) - A huge collection (80+) of plymouth themes ported from android bootanimations
 - [kmonad/kmonad](https://github.com/kmonad/kmonad) - An advanced keyboard manager
 - [marzocchi/zsh-notify](https://github.com/marzocchi/zsh-notify) - Desktop notifications for long-running commands in zsh.
@@ -2950,7 +2960,7 @@
 - [malob/prefmanager](https://github.com/malob/prefmanager) - WIP tool for managing macOS defaults.
 - [jkachmar/dotnix](https://github.com/jkachmar/dotnix) - Shackled within an elaborate prison of my own design.
 - [nmattia/homies](https://github.com/nmattia/homies) - home dir & package management
-- [drduh/macOS-Security-and-Privacy-Guide](https://github.com/drduh/macOS-Security-and-Privacy-Guide) - Guide to securing and improving privacy on macOS
+- [drduh/macOS-Security-and-Privacy-Guide](https://github.com/drduh/macOS-Security-and-Privacy-Guide) - Community guide to securing and improving privacy on macOS.
 - [bacongravy/macinbox](https://github.com/bacongravy/macinbox) - Puts macOS in a Vagrant box
 - [laurynas-biveinis/dotfiles](https://github.com/laurynas-biveinis/dotfiles) - My dotfiles and scripts
 - [webpro/dotfiles](https://github.com/webpro/dotfiles) - Dotfiles for macOS
@@ -3178,7 +3188,7 @@
 - [doom-neovim/doom-nvim](https://github.com/doom-neovim/doom-nvim) - A Neovim configuration for the advanced martian hacker
 - [Icy-Thought/snowflake](https://github.com/Icy-Thought/snowflake) - A repository which contains my current Nix (flake-based) setup!
 - [jacobfoard/dotfiles](https://github.com/jacobfoard/dotfiles) - 
-- [Olical/dotfiles](https://github.com/Olical/dotfiles) - Configuration for Linux, i3, Kitty, Fish, Neovim and more
+- [Olical/dotfiles](https://github.com/Olical/dotfiles) - Configuration for Linux, sway, ghostty, fish, neovim and more
 - [eoli3n/dotfiles](https://github.com/eoli3n/dotfiles) - Sway acid dark
 - [kalkayan/dotfiles](https://github.com/kalkayan/dotfiles) - Dotfiles or you can say my swiss army knife. Configs for creating a delightful development experience - vim + tmux + Fzf + Rg + LSP etc.
 - [Blacksuan19/init.nvim](https://github.com/Blacksuan19/init.nvim) - An Opinionated Neovim Config for the Minimalists
@@ -3347,7 +3357,7 @@
 - [wulkano/Kap](https://github.com/wulkano/Kap) - An open-source screen recorder built with web technology
 - [calcom/cal.com](https://github.com/calcom/cal.com) - Scheduling infrastructure for absolutely everyone.
 - [serhii-londar/open-source-mac-os-apps](https://github.com/serhii-londar/open-source-mac-os-apps) - 🚀 Awesome list of open source applications for macOS. https://t.me/s/opensourcemacosapps
-- [migueravila/bento](https://github.com/migueravila/bento) - 🍱 The minimalist, elegant and hackable startpage.
+- [migueravila/bento](https://github.com/migueravila/bento) - The minimalist, elegant and hackable startpage.
 - [nextcloud/docker](https://github.com/nextcloud/docker) - ⛴ Docker image of Nextcloud
 
 ## openai 
@@ -3379,6 +3389,17 @@
 
 ## others 
 
+- [jonringer/nixpkgs-config](https://github.com/jonringer/nixpkgs-config) - ~/.config/nixpkgs
+- [imagewize/sage-native-block](https://github.com/imagewize/sage-native-block) - Sage Native Block Acorn Package
+- [doublep/datetime](https://github.com/doublep/datetime) - Library for parsing, formatting, matching and recoding timestamps and date-time format strings.
+- [Wilfred/ht.el](https://github.com/Wilfred/ht.el) - The missing hash table library for Emacs
+- [City-of-Helsinki/wordpress-helfi-helsinkiteema](https://github.com/City-of-Helsinki/wordpress-helfi-helsinkiteema) - General purpose HDS compliant WordPress parent theme. Requires HDS WP plugin.
+- [mhayashi1120/Emacs-pcsv](https://github.com/mhayashi1120/Emacs-pcsv) - 
+- [juanmanuelferrera/gtd-E](https://github.com/juanmanuelferrera/gtd-E) - 
+- [flokli/nixos-apple-silicon](https://github.com/flokli/nixos-apple-silicon) - Resources to install NixOS bare metal on Apple Silicon Macs
+- [krisbalintona/org-roam-folgezettel](https://github.com/krisbalintona/org-roam-folgezettel) - 
+- [krisbalintona/emacs-config](https://github.com/krisbalintona/emacs-config) - 
+- [jplindstrom/emacs-org-transform-tree-table](https://github.com/jplindstrom/emacs-org-transform-tree-table) - Transform an org-mode outline and its properties to a table format (org-table, CSV)
 - [protesilaos/emacs-lisp-elements](https://github.com/protesilaos/emacs-lisp-elements) - A book that provides a big picture view of the Emacs Lisp programming language.
 - [kleinweb/saml-auth](https://github.com/kleinweb/saml-auth) - 
 - [pwmt/zathura](https://github.com/pwmt/zathura) - Document viewer
@@ -3523,7 +3544,7 @@
 - [progfolio/auto-tangle-mode.el](https://github.com/progfolio/auto-tangle-mode.el) - Minor mode for tangling literate files on save
 - [karthink/repeat-help](https://github.com/karthink/repeat-help) - 
 - [karthink/.emacs.d](https://github.com/karthink/.emacs.d) - My personal emacs settings
-- [Genivia/ugrep](https://github.com/Genivia/ugrep) - 🔍 ugrep 7.3 file pattern searcher -- a more powerful, ultra fast, user-friendly, compatible grep replacement. Includes a TUI, Google-like Boolean search with AND/OR/NOT, fuzzy search, hexdumps, search
+- [Genivia/ugrep](https://github.com/Genivia/ugrep) - 🔍 ugrep 7.4 file pattern searcher -- a more powerful, ultra fast, user-friendly, compatible grep replacement. Includes a TUI, Google-like Boolean search with AND/OR/NOT, fuzzy search, hexdumps, search
 - [rougier/book-mode](https://github.com/rougier/book-mode) - A clean interface for org files (Emacs)
 - [orgzly-revived/orgzly-android-revived](https://github.com/orgzly-revived/orgzly-android-revived) - Outliner for taking notes and managing to-do lists
 - [VK3FNG/dnd5e-orgmode-charsheet](https://github.com/VK3FNG/dnd5e-orgmode-charsheet) - This is an Emacs org-mode character sheet with automatically calculated derived attributes. Pretty HTML stolen from https://github.com/fniessen/org-html-themes
@@ -5092,8 +5113,9 @@
 - [openstyles/stylus](https://github.com/openstyles/stylus) - Stylus - Userstyles Manager
 - [safeapps-io/money-client](https://github.com/safeapps-io/money-client) - World's first 100% secure finance tracker. Save more money. Plan for future. Preserve your privacy.
 - [benbusby/whoogle-search](https://github.com/benbusby/whoogle-search) - A self-hosted, ad-free, privacy-respecting metasearch engine
+- [drduh/config](https://github.com/drduh/config) - Configuration files and scripts used in guides and for system setup.
 - [drduh/Debian-Privacy-Server-Guide](https://github.com/drduh/Debian-Privacy-Server-Guide) - Guide to using a remote Debian server for security and privacy services
-- [drduh/macOS-Security-and-Privacy-Guide](https://github.com/drduh/macOS-Security-and-Privacy-Guide) - Guide to securing and improving privacy on macOS
+- [drduh/macOS-Security-and-Privacy-Guide](https://github.com/drduh/macOS-Security-and-Privacy-Guide) - Community guide to securing and improving privacy on macOS.
 - [pyllyukko/user.js](https://github.com/pyllyukko/user.js) - user.js -- Firefox configuration hardening
 - [arkenfox/user.js](https://github.com/arkenfox/user.js) - Firefox privacy, security and anti-tracking: a comprehensive user.js template for configuration and hardening
 - [leon-ai/leon](https://github.com/leon-ai/leon) - 🧠 Leon is your open-source personal assistant.
@@ -5272,7 +5294,7 @@
 - [keystonejs/keystone](https://github.com/keystonejs/keystone) - The superpowered headless CMS for Node.js — built with GraphQL and React
 - [PostHog/posthog](https://github.com/PostHog/posthog) - 🦔 PostHog provides open-source web & product analytics, session recording, feature flagging and A/B testing that you can self-host. Get started - free.
 - [WebDevStudios/nextjs-wordpress-starter](https://github.com/WebDevStudios/nextjs-wordpress-starter) - A headless starter for WordPress powered by Next.js.
-- [nikitavoloboev/nikiv.dev](https://github.com/nikitavoloboev/nikiv.dev) - Personal website, docs
+- [nikitavoloboev/nikiv](https://github.com/nikitavoloboev/nikiv) - Personal website, docs
 - [redwoodjs/graphql](https://github.com/redwoodjs/graphql) - RedwoodGraphQL
 - [refinedev/refine](https://github.com/refinedev/refine) - A React Framework for building  internal tools, admin panels, dashboards & B2B apps with unmatched flexibility.
 - [TanStack/virtual](https://github.com/TanStack/virtual) - 🤖 Headless UI for Virtualizing Large Element Lists in JS/TS, React, Solid, Vue and Svelte
@@ -5490,7 +5512,7 @@
 - [rant-lang/rant](https://github.com/rant-lang/rant) - Rant - The templating language for procedural generation.
 - [H-M-H/Weylus](https://github.com/H-M-H/Weylus) - Use your tablet as graphic tablet/touch screen on your computer.
 - [pimalaya/himalaya](https://github.com/pimalaya/himalaya) - CLI to manage emails
-- [nix-community/nh](https://github.com/nix-community/nh) - Yet another nix cli helper
+- [nix-community/nh](https://github.com/nix-community/nh) - Yet another Nix CLI helper. [Maintainers=@viperML, @NotAShelf]
 - [PaddiM8/kalker](https://github.com/PaddiM8/kalker) - Scientific calculator with math syntax that supports user-defined variables and functions, complex numbers, and estimation of derivatives and integrals
 - [railwayapp/nixpacks](https://github.com/railwayapp/nixpacks) - App source + Nix packages + Docker = Image
 - [toeverything/AFFiNE](https://github.com/toeverything/AFFiNE) - There can be more than Notion and Miro. AFFiNE(pronounced [ə‘fain]) is a next-gen knowledge base that brings planning, sorting and creating all together. Privacy first, open-source, customizable and r
@@ -5620,10 +5642,11 @@
 - [jollheef/appvm](https://github.com/jollheef/appvm) - Nix-based app VMs
 - [nix-community/vulnix](https://github.com/nix-community/vulnix) - Vulnerability (CVE) scanner for Nix/NixOS [maintainer=@henrirosten]
 - [nccgroup/tracy](https://github.com/nccgroup/tracy) - A tool designed to assist with finding all sinks and sources of a web application and display these results in a digestible manner.
+- [drduh/config](https://github.com/drduh/config) - Configuration files and scripts used in guides and for system setup.
 - [drduh/Debian-Privacy-Server-Guide](https://github.com/drduh/Debian-Privacy-Server-Guide) - Guide to using a remote Debian server for security and privacy services
-- [drduh/macOS-Security-and-Privacy-Guide](https://github.com/drduh/macOS-Security-and-Privacy-Guide) - Guide to securing and improving privacy on macOS
+- [drduh/macOS-Security-and-Privacy-Guide](https://github.com/drduh/macOS-Security-and-Privacy-Guide) - Community guide to securing and improving privacy on macOS.
 - [pyllyukko/user.js](https://github.com/pyllyukko/user.js) - user.js -- Firefox configuration hardening
-- [drduh/YubiKey-Guide](https://github.com/drduh/YubiKey-Guide) - Guide to using YubiKey for GnuPG and SSH
+- [drduh/YubiKey-Guide](https://github.com/drduh/YubiKey-Guide) - Community guide to using YubiKey for GnuPG and SSH - protect secrets with hardware crypto.
 - [imthenachoman/How-To-Secure-A-Linux-Server](https://github.com/imthenachoman/How-To-Secure-A-Linux-Server) - An evolving how-to guide for securing a Linux server.
 - [ovh/debian-cis](https://github.com/ovh/debian-cis) - PCI-DSS compliant Debian 10/11/12 hardening
 - [dolegi/lockdown.sh](https://github.com/dolegi/lockdown.sh) - Lockdown your linux install. The simple zero config linux hardening script
@@ -5904,7 +5927,6 @@
 - [iina/iina](https://github.com/iina/iina) - The modern video player for macOS.
 - [leits/MeetingBar](https://github.com/leits/MeetingBar) - 🇺🇦 Your meetings at your fingertips in the macOS menu bar
 - [MonitorControl/MonitorControl](https://github.com/MonitorControl/MonitorControl) - 🖥 Control your display's brightness & volume on your Mac as if it was a native Apple Display. Use Apple Keyboard keys or custom shortcuts. Shows the native macOS OSDs.
-- [johnste/finicky](https://github.com/johnste/finicky) - A macOS app for customizing which browser to start
 - [glushchenko/fsnotes](https://github.com/glushchenko/fsnotes) - Notes manager for macOS/iOS
 
 ## swiftui 
@@ -5929,7 +5951,7 @@
 - [tremorlabs/tremor-npm](https://github.com/tremorlabs/tremor-npm) - React components to build charts and dashboards
 - [gregrickaby/nextjs-wordpress](https://github.com/gregrickaby/nextjs-wordpress) - 💀 It's headless WordPress!
 - [WebDevStudios/nextjs-wordpress-starter](https://github.com/WebDevStudios/nextjs-wordpress-starter) - A headless starter for WordPress powered by Next.js.
-- [jeffreyvr/tailpress](https://github.com/jeffreyvr/tailpress) - TailPress is a minimal boilerplate theme for WordPress using Tailwind CSS.
+- [tailpress/tailpress](https://github.com/tailpress/tailpress) - TailPress is a minimal boilerplate theme for WordPress using Tailwind CSS.
 - [tailwindlabs/headlessui](https://github.com/tailwindlabs/headlessui) - Completely unstyled, fully accessible UI components, designed to integrate beautifully with Tailwind CSS.
 - [ariakit/ariakit](https://github.com/ariakit/ariakit) - Toolkit with accessible components, styles, and examples for your next web app
 - [thedevdojo/wave](https://github.com/thedevdojo/wave) - Wave - The Software as a Service Starter Kit, designed to help you build the SAAS of your dreams 🚀 💰
@@ -6063,6 +6085,7 @@
 
 ## testing 
 
+- [Orange-OpenSource/hurl](https://github.com/Orange-OpenSource/hurl) - Hurl, run and test HTTP requests with plain text.
 - [phpstan/phpdoc-parser](https://github.com/phpstan/phpdoc-parser) - Next-gen phpDoc parser with support for intersection types and generics
 - [alleyinteractive/pest-plugin-wordpress](https://github.com/alleyinteractive/pest-plugin-wordpress) - A Pest plugin for WordPress
 - [lucatume/wp-browser](https://github.com/lucatume/wp-browser) - The easy and reliable way to test WordPress with Codeception. 10 years of proven success.
@@ -6127,7 +6150,7 @@
 - [PostHog/posthog](https://github.com/PostHog/posthog) - 🦔 PostHog provides open-source web & product analytics, session recording, feature flagging and A/B testing that you can self-host. Get started - free.
 - [WorldBrain/Memex](https://github.com/WorldBrain/Memex) - Browser extension to curate, annotate, and discuss the most valuable content and ideas on the web. As individuals, teams and communities.
 - [immich-app/immich](https://github.com/immich-app/immich) - High performance self-hosted photo and video management solution.
-- [nikitavoloboev/nikiv.dev](https://github.com/nikitavoloboev/nikiv.dev) - Personal website, docs
+- [nikitavoloboev/nikiv](https://github.com/nikitavoloboev/nikiv) - Personal website, docs
 - [prisma/prisma](https://github.com/prisma/prisma) - Next-generation ORM for Node.js & TypeScript | PostgreSQL, MySQL, MariaDB, SQL Server, SQLite, MongoDB and CockroachDB
 - [varbhat/exatorrent](https://github.com/varbhat/exatorrent) - 🧲 Easy to Use Torrent Client. Can be hosted in Cloud. Files can be streamed in Browser/Media Player.
 - [semgrep/semgrep](https://github.com/semgrep/semgrep) - Lightweight static analysis for many languages. Find bug variants with patterns that look like source code.
@@ -6233,7 +6256,7 @@
 - [LunarVim/LunarVim](https://github.com/LunarVim/LunarVim) - 🌙 LunarVim is an IDE layer for Neovim. Completely free and community driven.
 - [edmundmiller/dotfiles](https://github.com/edmundmiller/dotfiles) - For keeping all my Dotfiles update to date
 - [jakeisnt/nixcfg](https://github.com/jakeisnt/nixcfg) - A modular, Wayland-enabled NixOS configuration.
-- [Olical/dotfiles](https://github.com/Olical/dotfiles) - Configuration for Linux, i3, Kitty, Fish, Neovim and more
+- [Olical/dotfiles](https://github.com/Olical/dotfiles) - Configuration for Linux, sway, ghostty, fish, neovim and more
 - [kalkayan/dotfiles](https://github.com/kalkayan/dotfiles) - Dotfiles or you can say my swiss army knife. Configs for creating a delightful development experience - vim + tmux + Fzf + Rg + LSP etc.
 - [wookayin/dotfiles](https://github.com/wookayin/dotfiles) - :house: Personal dotfiles for *NIX systems
 - [kclejeune/system](https://github.com/kclejeune/system) - Declarative system configurations using nixOS, nix-darwin, and home-manager
@@ -6399,6 +6422,7 @@
 
 ## wordpress 
 
+- [scribu/wp-hyper-admins](https://github.com/scribu/wp-hyper-admins) - Give even more power to super-admins
 - [ndiego/icon-block](https://github.com/ndiego/icon-block) - Effortlessly add SVG icons and graphics to your website.
 - [ndiego/enable-button-icons](https://github.com/ndiego/enable-button-icons) - Easily add icons to Button blocks in WordPress.
 - [mandrasch/ddev-pull-wp-scripts](https://github.com/mandrasch/ddev-pull-wp-scripts) - Inofficial DDEV pull scripts for happy local WordPress development.
@@ -6604,7 +6628,6 @@
 ## xcode 
 
 - [MonitorControl/MonitorControl](https://github.com/MonitorControl/MonitorControl) - 🖥 Control your display's brightness & volume on your Mac as if it was a native Apple Display. Use Apple Keyboard keys or custom shortcuts. Shows the native macOS OSDs.
-- [johnste/finicky](https://github.com/johnste/finicky) - A macOS app for customizing which browser to start
 
 ## xml 
 
