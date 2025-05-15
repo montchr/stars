@@ -219,6 +219,7 @@
 - [swift](#swift)
 - [swiftui](#swiftui)
 - [symfony](#symfony)
+- [tailwind](#tailwind)
 - [tailwindcss](#tailwindcss)
 - [telegram](#telegram)
 - [tensorflow](#tensorflow)
@@ -230,6 +231,7 @@
 - [twitter](#twitter)
 - [typescript](#typescript)
 - [ubuntu](#ubuntu)
+- [ui](#ui)
 - [ui-design](#ui-design)
 - [vagrant](#vagrant)
 - [vim](#vim)
@@ -402,6 +404,7 @@
 
 ## awesome 
 
+- [Kazhnuz/awesome-gnome](https://github.com/Kazhnuz/awesome-gnome) - A curated list of awesome apps, extensions, modules, themes and tools for the Gnome Desktop Environment.
 - [BillyDM/awesome-audio-dsp](https://github.com/BillyDM/awesome-audio-dsp) - My curated list of audio DSP and plugin development resources
 - [rust-unofficial/awesome-rust](https://github.com/rust-unofficial/awesome-rust) - A curated list of Rust code and resources.
 - [pluja/awesome-privacy](https://github.com/pluja/awesome-privacy) - Awesome Privacy - A curated list of services and alternatives that respect your privacy because PRIVACY MATTERS.
@@ -480,6 +483,7 @@
 
 ## awesome-list 
 
+- [Kazhnuz/awesome-gnome](https://github.com/Kazhnuz/awesome-gnome) - A curated list of awesome apps, extensions, modules, themes and tools for the Gnome Desktop Environment.
 - [BillyDM/awesome-audio-dsp](https://github.com/BillyDM/awesome-audio-dsp) - My curated list of audio DSP and plugin development resources
 - [pluja/awesome-privacy](https://github.com/pluja/awesome-privacy) - Awesome Privacy - A curated list of services and alternatives that respect your privacy because PRIVACY MATTERS.
 - [kdeldycke/awesome-iam](https://github.com/kdeldycke/awesome-iam) - 👤 Identity and Access Management knowledge for cloud platforms
@@ -729,7 +733,6 @@
 
 ## c-plus-plus 
 
-- [SerenityOS/serenity](https://github.com/SerenityOS/serenity) - The Serenity Operating System 🐞
 - [qmk/qmk_firmware](https://github.com/qmk/qmk_firmware) - Open-source keyboard firmware for Atmel AVR and Arm USB families
 - [emcrisostomo/fswatch](https://github.com/emcrisostomo/fswatch) - A cross-platform file change monitor with multiple backends: Apple macOS File System Events, *BSD kqueue, Solaris/Illumos File Events Notification, Linux inotify, Microsoft Windows and a stat()-based 
 - [grame-cncm/faust](https://github.com/grame-cncm/faust) - Functional programming language for signal processing and sound synthesis
@@ -1298,6 +1301,7 @@
 
 ## dotfiles 
 
+- [NotAShelf/nyx](https://github.com/NotAShelf/nyx) - My overengineered NixOS flake. Desktops, laptops, servers and everything else that can run an OS.
 - [spikespaz/dotfiles](https://github.com/spikespaz/dotfiles) - My NixOS dotfiles. Friends call it Bird OS.
 - [Ramblurr/nixcfg](https://github.com/Ramblurr/nixcfg) - ❄️ My nix flake for all my NixOS machines.
 - [meowgorithm/dotfiles](https://github.com/meowgorithm/dotfiles) - The Meowgorithm Dotfiles, Collectors’ Edition
@@ -1466,6 +1470,8 @@
 
 ## emacs 
 
+- [toshism/org-super-links](https://github.com/toshism/org-super-links) - Package to create links with auto backlinks
+- [kickingvegas/cclisp](https://github.com/kickingvegas/cclisp) - Emacs configuration files for Charles Choi
 - [alphapapa/ts.el](https://github.com/alphapapa/ts.el) - Emacs timestamp and date-time library
 - [bzg/dotemacs](https://github.com/bzg/dotemacs) - My .emacs.el file.
 - [orgtre/csvorg](https://github.com/orgtre/csvorg) - Export/import Emacs Org mode entries to/from csv-files
@@ -1477,7 +1483,7 @@
 - [remyhonig/elfeed-org](https://github.com/remyhonig/elfeed-org) - Configure the Elfeed RSS reader with an Orgmode file
 - [enzuru/.emacs.d](https://github.com/enzuru/.emacs.d) - A maximalist Emacs config tracking the latest trends
 - [szermatt/visual-replace](https://github.com/szermatt/visual-replace) - A nicer interface for query-replace on Emacs
-- [jamescherti/minimal-emacs.d](https://github.com/jamescherti/minimal-emacs.d) - minimal-emacs.d - Starter-Kit with Better Emacs Defaults and Faster Startup
+- [jamescherti/minimal-emacs.d](https://github.com/jamescherti/minimal-emacs.d) - minimal-emacs.d - Better Emacs defaults and optimized startup, intended to serve as a solid foundation for your vanilla Emacs configuration
 - [minad/marginalia](https://github.com/minad/marginalia) - :scroll: marginalia.el - Marginalia in the minibuffer
 - [protesilaos/modus-themes](https://github.com/protesilaos/modus-themes) - Highly accessible themes for GNU Emacs, conforming with the highest standard for colour contrast between background and foreground values (WCAG AAA).
 - [kickingvegas/casual-calc](https://github.com/kickingvegas/casual-calc) - Casual Calc - An opinionated Transient user interface for Emacs Calc.
@@ -2125,6 +2131,7 @@
 
 ## hacktoberfest 
 
+- [5e-bits/5e-srd-api](https://github.com/5e-bits/5e-srd-api) - REST API to access D&D 5th Edition SRD database
 - [figsoda/mmtc](https://github.com/figsoda/mmtc) - Minimal mpd terminal client that aims to be simple yet highly configurable
 - [catppuccin/cursors](https://github.com/catppuccin/cursors) - 🐁 Soothing pastel cursors for GTK/Plasma/Hyprland
 - [Mic92/nixpkgs-review](https://github.com/Mic92/nixpkgs-review) - Review pull-requests on https://github.com/NixOS/nixpkgs
@@ -2370,6 +2377,7 @@
 
 ## html 
 
+- [oldmanumby/DND.SRD.Wiki](https://github.com/oldmanumby/DND.SRD.Wiki) - Dungeons & Dragons 5th Edition SRD converted to Markdown.
 - [QuivrHQ/quivr](https://github.com/QuivrHQ/quivr) - Opiniated RAG for integrating GenAI in your apps 🧠   Focus on your product rather than the RAG. Easy integration in existing products with customisation!  Any LLM: GPT4, Groq, Llama. Any Vectorstore: 
 - [Stranger6667/css-inline](https://github.com/Stranger6667/css-inline) - High-performance library for inlining CSS into HTML 'style' attributes
 - [spatie/menu](https://github.com/spatie/menu) - Html menu generator
@@ -2678,6 +2686,7 @@
 
 ## laravel 
 
+- [Stillat/dagger](https://github.com/Stillat/dagger) - A robust component authoring library for Laravel Blade.
 - [larastan/larastan](https://github.com/larastan/larastan) - ⚗️ Adds code analysis to Laravel improving developer productivity and code quality.
 - [spatie/laravel-package-tools](https://github.com/spatie/laravel-package-tools) - Tools for creating Laravel packages
 - [askdkc/livewire-csv](https://github.com/askdkc/livewire-csv) - Add importing large CSV (and TSV) data feature to your Laravel models quickly and easily / Laravelにお手軽にCSVインポート機能(TSV含む、大容量対応)を追加する凄いやつだよ🚀
@@ -2708,6 +2717,7 @@
 
 ## latex 
 
+- [rpgtex/DND-5e-LaTeX-Template](https://github.com/rpgtex/DND-5e-LaTeX-Template) - LaTeX package to typeset material for the fifth edition of the "world's greatest roleplaying game".
 - [miyuchina/mistletoe](https://github.com/miyuchina/mistletoe) - A fast, extensible and spec-compliant Markdown parser in pure Python.
 - [shaunsingh/nyoom.emacs](https://github.com/shaunsingh/nyoom.emacs) - Configurable, Minimal, Fast emacs config based on Nano-emacs and Doom
 - [emacs-citar/citar](https://github.com/emacs-citar/citar) - Emacs package to quickly find and act on bibliographic references, and edit org, markdown, and latex academic documents.
@@ -2744,6 +2754,7 @@
 
 ## linux 
 
+- [mixxxdj/mixxx](https://github.com/mixxxdj/mixxx) - Mixxx is Free DJ software that gives you everything you need to perform live mixes.
 - [SeaDve/Kooha](https://github.com/SeaDve/Kooha) - Elegantly record your screen
 - [jtroo/kanata](https://github.com/jtroo/kanata) - Improve keyboard comfort and usability with advanced customization
 - [jim3692/server.nix](https://github.com/jim3692/server.nix) - A flake providing a framework for steamlined declarative management of NixOS containers and VMs
@@ -2880,6 +2891,7 @@
 
 ## mac 
 
+- [mixxxdj/mixxx](https://github.com/mixxxdj/mixxx) - Mixxx is Free DJ software that gives you everything you need to perform live mixes.
 - [donnemartin/dev-setup](https://github.com/donnemartin/dev-setup) - macOS development environment setup:  Easy-to-understand instructions with automated setup scripts for developer tools like Vim, Sublime Text, Bash, iTerm, Python data analysis, Spark, Hadoop MapReduc
 - [notable/notable](https://github.com/notable/notable) - The Markdown-based note-taking app that doesn't suck.
 - [syncthing/syncthing-macos](https://github.com/syncthing/syncthing-macos) - Official frugal and native macOS Syncthing application bundle
@@ -3016,6 +3028,7 @@
 
 ## markdown 
 
+- [oldmanumby/DND.SRD.Wiki](https://github.com/oldmanumby/DND.SRD.Wiki) - Dungeons & Dragons 5th Edition SRD converted to Markdown.
 - [gsantner/markor](https://github.com/gsantner/markor) - Text editor - Notes & ToDo (for Android) - Markdown, todo.txt, plaintext, math, ..
 - [tinacms/tinacms](https://github.com/tinacms/tinacms) - A fully open-source headless CMS that supports Markdown and Visual Editing
 - [getzola/zola](https://github.com/getzola/zola) - A fast static site generator in a single binary with everything built-in. https://www.getzola.org
@@ -3107,6 +3120,7 @@
 
 ## music 
 
+- [mixxxdj/mixxx](https://github.com/mixxxdj/mixxx) - Mixxx is Free DJ software that gives you everything you need to perform live mixes.
 - [figsoda/mmtc](https://github.com/figsoda/mmtc) - Minimal mpd terminal client that aims to be simple yet highly configurable
 - [metabrainz/listenbrainz-server](https://github.com/metabrainz/listenbrainz-server) - Server for the ListenBrainz project, including the front-end (javascript/react) code that it serves and all of the data processing components that LB uses.
 - [krateng/maloja](https://github.com/krateng/maloja) - Self-hosted music scrobble database to create personal listening statistics and charts
@@ -3388,7 +3402,6 @@
 
 ## operating-system 
 
-- [SerenityOS/serenity](https://github.com/SerenityOS/serenity) - The Serenity Operating System 🐞
 - [PureDarwin/PureDarwin](https://github.com/PureDarwin/PureDarwin) - Darwin is the Open Source core of macOS, and PureDarwin is a community project to extend Darwin into a complete, usable operating system.
 
 ## osint 
@@ -3399,6 +3412,19 @@
 
 ## others 
 
+- [evo-mark/inertia-wordpress](https://github.com/evo-mark/inertia-wordpress) - Wordpress adapter for InertiaJS
+- [marcIhm/org-id-cleanup](https://github.com/marcIhm/org-id-cleanup) - Interactively find, present and maybe delete unused IDs of org-id. Available on MELPA.
+- [mozilla-firefox/firefox](https://github.com/mozilla-firefox/firefox) - The official repository of Mozilla's Firefox web browser.
+- [idleberg/php-vite-manifest](https://github.com/idleberg/php-vite-manifest) - A parser for Vite manifest files
+- [adisbladis/korora](https://github.com/adisbladis/korora) - A tiny & fast type system for Nix in Nix
+- [meedstrom/org-mem](https://github.com/meedstrom/org-mem) - Turn thousands of Org files into a database in seconds
+- [spwhitton/org-d20](https://github.com/spwhitton/org-d20) - Emacs minor mode for tabletop roleplaying games that use a d20
+- [Log1x/gutentweaks](https://github.com/Log1x/gutentweaks) - 
+- [roots/vite-plugin](https://github.com/roots/vite-plugin) - A Vite plugin for working with WordPress
+- [redhat-developer/yaml-language-server](https://github.com/redhat-developer/yaml-language-server) - Language Server for YAML Files
+- [slowernews/hamster-system](https://github.com/slowernews/hamster-system) - Ultra-simple framework to organize your life.
+- [codestify/wordforge](https://github.com/codestify/wordforge) - WordForge is a simple, opinionated SLIM MVC framework for WordPress that brings structure to plugin development
+- [Vladimir-csp/uwsm](https://github.com/Vladimir-csp/uwsm) - Universal Wayland Session Manager
 - [simonw/til](https://github.com/simonw/til) - Today I Learned
 - [ynqa/empiriqa](https://github.com/ynqa/empiriqa) - For empiricists...
 - [feel-co/hjem](https://github.com/feel-co/hjem) - Streamlined, elegant $HOME management with Nix
@@ -3424,7 +3450,7 @@
 - [tarsius/llama](https://github.com/tarsius/llama) - Compact syntax for short lambda
 - [tinted-theming/schemes](https://github.com/tinted-theming/schemes) - A common location to store all color scheme data for the Tinted theming project
 - [vinceliuice/Tela-circle-icon-theme](https://github.com/vinceliuice/Tela-circle-icon-theme) - Tela-circle-icon-theme
-- [gabm/Satty](https://github.com/gabm/Satty) - Satty - Modern Screenshot Annotation. A tool inspired by Swappy and Flameshot.
+- [gabm/Satty](https://github.com/gabm/Satty) - Satty - Modern Screenshot Annotation.
 - [skeeto/elfeed](https://github.com/skeeto/elfeed) - An Emacs web feeds client
 - [protesilaos/aporetic](https://github.com/protesilaos/aporetic) - Aporetic fonts are a custom build of Iosevka with different style and metrics than the default. This is the successor to my "Iosevka Comfy" fonts.
 - [emacsmirror/nerd-icons](https://github.com/emacsmirror/nerd-icons) - Emacs Nerd Font Icons Library
@@ -3562,7 +3588,7 @@
 - [rougier/book-mode](https://github.com/rougier/book-mode) - A clean interface for org files (Emacs)
 - [orgzly-revived/orgzly-android-revived](https://github.com/orgzly-revived/orgzly-android-revived) - Outliner for taking notes and managing to-do lists
 - [VK3FNG/dnd5e-orgmode-charsheet](https://github.com/VK3FNG/dnd5e-orgmode-charsheet) - This is an Emacs org-mode character sheet with automatically calculated derived attributes. Pretty HTML stolen from https://github.com/fniessen/org-html-themes
-- [water-sucks/nixos](https://github.com/water-sucks/nixos) - A unified NixOS tooling replacement for nixos-* utilities
+- [nix-community/nixos-cli](https://github.com/nix-community/nixos-cli) - A unified NixOS tooling replacement for nixos-* utilities [maintainer=@water-sucks]
 - [montchr/c-games](https://github.com/montchr/c-games) - 
 - [mkinfrared/baldurs-gate3-mod-manager](https://github.com/mkinfrared/baldurs-gate3-mod-manager) - 
 - [Liareth/BG3Mods](https://github.com/Liareth/BG3Mods) - My BG3 mods
@@ -4161,7 +4187,6 @@
 - [xiamaz/YabaiIndicator](https://github.com/xiamaz/YabaiIndicator) - MacOS Menubar Applet for showing spaces and switching spaces easily
 - [johnlindquist/kit](https://github.com/johnlindquist/kit) - Script Kit. Automate Anything.
 - [bradtraversy/design-resources-for-developers](https://github.com/bradtraversy/design-resources-for-developers) - Curated list of design and UI resources from stock photos, web templates, CSS frameworks, UI libraries, tools and much more
-- [vlang/ui](https://github.com/vlang/ui) - A cross-platform UI library written in V
 - [theryangeary/choose](https://github.com/theryangeary/choose) - A human-friendly and fast alternative to cut (and sometimes awk)
 - [eradman/entr](https://github.com/eradman/entr) - Run arbitrary commands when files change
 - [johnae/nix-flake-templates](https://github.com/johnae/nix-flake-templates) - Templates for Nix flakes
@@ -4707,7 +4732,7 @@
 - [screeny05/letterboxd-list-radarr](https://github.com/screeny05/letterboxd-list-radarr) - Connect radarr to letterboxd.com lists
 - [l3uddz/traktarr](https://github.com/l3uddz/traktarr) - Script to add new series & movies to Sonarr/Radarr based on Trakt lists.
 - [x1ppy/beets-originquery](https://github.com/x1ppy/beets-originquery) - Plugin for beets that improves album matching
-- [simonxciv/eavesdrop.fm](https://github.com/simonxciv/eavesdrop.fm) - Eavesdrop.FM automagically takes Plex Webhooks and transmogrifies them into ListenBrainz... listens
+- [aubrey-wodonga/eavesdrop.fm](https://github.com/aubrey-wodonga/eavesdrop.fm) - Eavesdrop.FM automagically takes Plex Webhooks and transmogrifies them into ListenBrainz... listens
 - [YetAnotherNerd/whatlastgenre](https://github.com/YetAnotherNerd/whatlastgenre) - Improve genre metadata of audio files based on tags from various music sites.
 - [monokai-pro/sublime-text](https://github.com/monokai-pro/sublime-text) - Issue tracking for Monokai Pro for Visual Studio Code
 - [philc/vimium](https://github.com/philc/vimium) - The hacker's browser.
@@ -5154,6 +5179,7 @@
 
 ## publishing 
 
+- [oldmanumby/DND.SRD.Wiki](https://github.com/oldmanumby/DND.SRD.Wiki) - Dungeons & Dragons 5th Edition SRD converted to Markdown.
 - [publishpress/PublishPress-Planner](https://github.com/publishpress/PublishPress-Planner) - PublishPress Planner has all the tools you need to manage WordPress content, including an editorial calendar to plan content. You can create custom status and notifications for content updates.
 - [writefreely/writefreely](https://github.com/writefreely/writefreely) - A clean, Markdown-based publishing platform made for writers. Write together and build a community.
 
@@ -5164,6 +5190,7 @@
 
 ## python 
 
+- [john-kurkowski/tldextract](https://github.com/john-kurkowski/tldextract) - Accurately separates a URL’s subdomain, domain, and public suffix, using the Public Suffix List (PSL).
 - [metabrainz/listenbrainz-server](https://github.com/metabrainz/listenbrainz-server) - Server for the ListenBrainz project, including the front-end (javascript/react) code that it serves and all of the data processing components that LB uses.
 - [copier-org/copier](https://github.com/copier-org/copier) - Library and command-line utility for rendering projects templates.
 - [borgmatic-collective/borgmatic](https://github.com/borgmatic-collective/borgmatic) - Simple, configuration-driven backup software for servers and workstations
@@ -5251,6 +5278,7 @@
 
 ## qt 
 
+- [mixxxdj/mixxx](https://github.com/mixxxdj/mixxx) - Mixxx is Free DJ software that gives you everything you need to perform live mixes.
 - [dvorka/mindforger](https://github.com/dvorka/mindforger) - Thinking notebook and Markdown editor.
 - [ksnip/ksnip](https://github.com/ksnip/ksnip) - ksnip the cross-platform screenshot and annotation tool
 - [simple64/simple64-gui](https://github.com/simple64/simple64-gui) - mupen64plus GUI written in Qt6
@@ -5269,6 +5297,7 @@
 
 ## react 
 
+- [rnaga/wordpress-rest-admin](https://github.com/rnaga/wordpress-rest-admin) - A frontend for admin area of WordPress, using WP REST API and React. It works with Self-Hosted WordPress
 - [metabrainz/listenbrainz-server](https://github.com/metabrainz/listenbrainz-server) - Server for the ListenBrainz project, including the front-end (javascript/react) code that it serves and all of the data processing components that LB uses.
 - [tinacms/tinacms](https://github.com/tinacms/tinacms) - A fully open-source headless CMS that supports Markdown and Visual Editing
 - [jesec/flood](https://github.com/jesec/flood) - A modern web UI for various torrent clients with a Node.js backend and React frontend.
@@ -5410,6 +5439,7 @@
 
 ## redux 
 
+- [rnaga/wordpress-rest-admin](https://github.com/rnaga/wordpress-rest-admin) - A frontend for admin area of WordPress, using WP REST API and React. It works with Self-Hosted WordPress
 - [ryanmcdermott/3rs-of-software-architecture](https://github.com/ryanmcdermott/3rs-of-software-architecture) - A guide on how to write readable, reusable, and refactorable software
 - [dai-shi/react-tracked](https://github.com/dai-shi/react-tracked) - State usage tracking with Proxies. Optimize re-renders for useState/useReducer, React Redux, Zustand and others.
 - [pmndrs/zustand](https://github.com/pmndrs/zustand) - 🐻 Bear necessities for state management in React
@@ -5953,6 +5983,14 @@
 - [doctrine/DoctrineMigrationsBundle](https://github.com/doctrine/DoctrineMigrationsBundle) - Symfony integration for the doctrine/migrations library
 - [symfony/var-dumper](https://github.com/symfony/var-dumper) - Provides mechanisms for walking through any arbitrary PHP variable
 
+## tailwind 
+
+- [darrenjacoby/tailwindcss-fl](https://github.com/darrenjacoby/tailwindcss-fl) - TailwindCSS plugin to generate fluid utility classes using existing config
+- [rogden/tailwind-config-viewer](https://github.com/rogden/tailwind-config-viewer) - A local UI tool for visualizing your Tailwind CSS configuration file.
+- [tailwindlabs/tailwindcss-intellisense](https://github.com/tailwindlabs/tailwindcss-intellisense) - Intelligent Tailwind CSS tooling for Visual Studio Code
+- [ben-rogerson/twin.macro](https://github.com/ben-rogerson/twin.macro) - 🦹‍♂️ Twin blends the magic of Tailwind with the flexibility of css-in-js (emotion, styled-components, solid-styled-components, stitches and goober) at build time.
+- [tailpress/tailpress](https://github.com/tailpress/tailpress) - TailPress is a minimal boilerplate theme for WordPress using Tailwind CSS.
+
 ## tailwindcss 
 
 - [gregsullivan/_tw-themejson](https://github.com/gregsullivan/_tw-themejson) - A Tailwind CSS plugin that automatically pulls colors and widths from a WordPress theme’s theme.json file
@@ -6230,6 +6268,18 @@
 - [arakasi72/rtinst](https://github.com/arakasi72/rtinst) - seedbox installation script for Ubuntu and Debian systems
 - [swizzin/swizzin](https://github.com/swizzin/swizzin) - A simple, modular seedbox solution
 
+## ui 
+
+- [vidstack/player](https://github.com/vidstack/player) - UI components and hooks for building video/audio players on the web. Robust, customizable, and accessible. Modern alternative to JW Player and Video.js.
+- [tajo/ladle](https://github.com/tajo/ladle) - 🥄 Develop, test and document your React story components faster.
+- [sveltejs/svelte](https://github.com/sveltejs/svelte) - web development for the rest of us
+- [podman-desktop/podman-desktop](https://github.com/podman-desktop/podman-desktop) - Podman Desktop is the best free and open source tool to work with Containers and Kubernetes for developers. Get an intuitive and user-friendly interface to effortlessly build, manage, and deploy conta
+- [openui/open-ui](https://github.com/openui/open-ui) - Maintain an open standard for UI and promote its adherence and adoption.
+- [vlang/ui](https://github.com/vlang/ui) - A cross-platform UI library written in V
+- [radix-ui/primitives](https://github.com/radix-ui/primitives) - Radix Primitives is an open-source UI component library for building high-quality, accessible design systems and web apps. Maintained by @workos.
+- [FelixKratz/SketchyBar](https://github.com/FelixKratz/SketchyBar) - A highly customizable macOS status bar replacement
+- [kigster/bashmatic](https://github.com/kigster/bashmatic) - Optimized for humans, 900+ BASH DSL functions for all walks of life. Über Toölkit for über geeks and UNIX command line power users. Visit https://bashmatic.dev for more info..
+
 ## ui-design 
 
 - [lucide-icons/lucide](https://github.com/lucide-icons/lucide) - Beautiful & consistent icon toolkit made by the community. Open-source project and a fork of Feather Icons.
@@ -6409,6 +6459,7 @@
 
 ## windows 
 
+- [mixxxdj/mixxx](https://github.com/mixxxdj/mixxx) - Mixxx is Free DJ software that gives you everything you need to perform live mixes.
 - [jtroo/kanata](https://github.com/jtroo/kanata) - Improve keyboard comfort and usability with advanced customization
 - [MolotovCherry/Yet-Another-BG3-Native-Mod-Loader](https://github.com/MolotovCherry/Yet-Another-BG3-Native-Mod-Loader) - A mod loader for Baldur's Gate 3
 - [watchexec/watchexec](https://github.com/watchexec/watchexec) - Executes commands in response to file modifications
@@ -6440,6 +6491,8 @@
 
 ## wordpress 
 
+- [rnaga/wordpress-rest-admin](https://github.com/rnaga/wordpress-rest-admin) - A frontend for admin area of WordPress, using WP REST API and React. It works with Self-Hosted WordPress
+- [WordPress/block-development-examples](https://github.com/WordPress/block-development-examples) - Practical examples for building WordPress blocks and extending the Editor.
 - [scribu/wp-hyper-admins](https://github.com/scribu/wp-hyper-admins) - Give even more power to super-admins
 - [ndiego/icon-block](https://github.com/ndiego/icon-block) - Effortlessly add SVG icons and graphics to your website.
 - [ndiego/enable-button-icons](https://github.com/ndiego/enable-button-icons) - Easily add icons to Button blocks in WordPress.
@@ -6522,7 +6575,6 @@
 - [Automattic/vip-go-mu-plugins-built](https://github.com/Automattic/vip-go-mu-plugins-built) - The generated repo for mu-plugins used on the WPVIP platform.
 - [Log1x/pagi](https://github.com/Log1x/pagi) - A better WordPress pagination.
 - [Log1x/sage-svg](https://github.com/Log1x/sage-svg) - A simple package for using inline SVGs with Sage 10.
-- [Log1x/poet](https://github.com/Log1x/poet) - Configuration-based post type, taxonomy, block category, and block registration for Sage 10.
 - [GatoGraphQL/GatoGraphQL](https://github.com/GatoGraphQL/GatoGraphQL) - Interact with all your data in WordPress using GraphQL
 - [helsinki-systems/wp4nix](https://github.com/helsinki-systems/wp4nix) - Read-Only mirror of our GitLab repository
 - [sjinks/setup-wordpress-test-library](https://github.com/sjinks/setup-wordpress-test-library) - Set up WordPress and WordPress Test Library for unit tests
