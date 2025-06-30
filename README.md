@@ -1135,7 +1135,7 @@
 - [alphapapa/emacs-package-dev-handbook](https://github.com/alphapapa/emacs-package-dev-handbook) - An Emacs package development handbook. Built with Emacs, by Emacs package developers, for Emacs package developers.
 - [cloak-labs/cloakwp-workspace](https://github.com/cloak-labs/cloakwp-workspace) - An ecosystem of the best headless WordPress tooling.
 - [mechatroner/vscode_rainbow_csv](https://github.com/mechatroner/vscode_rainbow_csv) - 🌈Rainbow CSV - VS Code extension: Highlight CSV and TSV files in different rainbow colors to make them more readable
-- [igorlogius/tbl2csv](https://github.com/igorlogius/tbl2csv) - Save HTML Tables, CSS Pseudo/DIV Tables or Lists (UL/OL) as a comma seperated values (CSV) file which can be opened with any spreadsheet processor (e.g. excel, libreoffice-calc,gnumeric) for further p
+- [igorlogius/tbl2csv](https://github.com/igorlogius/tbl2csv) - 
 - [nikolaeu/numi](https://github.com/nikolaeu/numi) - Beautiful calculator app for macOS, Linux & Windows
 - [wearerequired/coding-standards](https://github.com/wearerequired/coding-standards) - 💻 required coding standards for PHP, JavaScript and CSS.
 - [violentmonkey/violentmonkey](https://github.com/violentmonkey/violentmonkey) - Violentmonkey provides userscripts support for browsers. It works on browsers with WebExtensions support.
@@ -1197,7 +1197,7 @@
 - [cidrblock/drawthe.net](https://github.com/cidrblock/drawthe.net) - drawthe.net draws network diagrams dynamically from a text file describing the placement, layout and icons. Given a yaml file describing the hierarchy of the network and it's connections, a resulting 
 - [vweevers/common-changelog](https://github.com/vweevers/common-changelog) - Write changelogs for humans. A style guide.
 - [linuxserver/budge](https://github.com/linuxserver/budge) - 
-- [ljharb/qs](https://github.com/ljharb/qs) - A querystring parser with nesting support
+- [ljharb/qs](https://github.com/ljharb/qs) - A querystring parser and serializer with nesting support
 - [facebookexperimental/Recoil](https://github.com/facebookexperimental/Recoil) - Recoil is an experimental state management library for React apps. It provides several capabilities that are difficult to achieve with React alone, while being compatible with the newest features of R
 - [jsx-eslint/eslint-plugin-react](https://github.com/jsx-eslint/eslint-plugin-react) - React-specific linting rules for ESLint
 - [naptha/tesseract.js](https://github.com/naptha/tesseract.js) - Pure Javascript OCR for more than 100 Languages 📖🎉🖥
@@ -1416,8 +1416,7 @@
 ## Jinja 
 
 - [trailofbits/algo](https://github.com/trailofbits/algo) - Set up a personal VPN in the cloud
-- [roots/trellis](https://github.com/roots/trellis) - WordPress LEMP stack with PHP 8.2, Composer, WP-CLI and more
-- [saltyorg/Saltbox](https://github.com/saltyorg/Saltbox) - Ansible-based solution for rapidly deploying a Docker containerized cloud media server.
+- [roots/trellis](https://github.com/roots/trellis) - WordPress LEMP stack with PHP 8.3, Composer, WP-CLI and more
 - [Cloudbox/Community](https://github.com/Cloudbox/Community) - Cloudbox Community Project
 - [borgbase/ansible-role-borgbackup](https://github.com/borgbase/ansible-role-borgbackup) - Ansible role to set up Borg and Borgmatic
 - [dev-sec/ansible-collection-hardening](https://github.com/dev-sec/ansible-collection-hardening) - This Ansible collection provides battle tested hardening for Linux, SSH, nginx, MySQL
@@ -1699,6 +1698,7 @@
 - [Nekroze/vms.nix](https://github.com/Nekroze/vms.nix) - NixOS module for QEMU VM's using a similar interface to nixos-containers.
 - [tlm-solutions/nix-config](https://github.com/tlm-solutions/nix-config) - 
 - [piperswe/nixfiles](https://github.com/piperswe/nixfiles) - The Nix derivations used to generate my system configurations
+- [tecosaur/golgi](https://github.com/tecosaur/golgi) - My personal server. Mirror of https://git.tecosaur.net/tec/golgi.
 - [pmeiyu/nixos-config](https://github.com/pmeiyu/nixos-config) - NixOS configuration.
 - [thiagokokada/nix-configs](https://github.com/thiagokokada/nix-configs) - My Nix{OS} configuration files
 - [DerickEddington/nixos-config](https://github.com/DerickEddington/nixos-config) - My ZFS-on-root mirrored-drives multi-users dotfiles-integrated NixOS configuration, with install and recover guides.
@@ -2012,7 +2012,6 @@
 - [dhall-lang/awesome-dhall](https://github.com/dhall-lang/awesome-dhall) - A curated list of awesome dhall-lang
 - [ziishaned/learn-regex](https://github.com/ziishaned/learn-regex) - Learn regex the easy way
 - [learn-anything/command-line-tools](https://github.com/learn-anything/command-line-tools) - Awesome Command Line Utilities
-- [EndeavourOS-Community-Editions/Community-wallpapers](https://github.com/EndeavourOS-Community-Editions/Community-wallpapers) - 
 - [greshake/magiclayout](https://github.com/greshake/magiclayout) - Repetitively arranging windows on a tiling WM is annoying. No more! Install one binary to give your WM a brain.
 - [johnbillion/wp_mail](https://github.com/johnbillion/wp_mail) - Documentation for all the situations where WordPress core sends an email, how and when they happen, and how to filter or disable each one.
 - [neilpanchal/quantum-lorem-ipsum](https://github.com/neilpanchal/quantum-lorem-ipsum) - Lorem Ipsum, now with 100% more physics.
@@ -2634,7 +2633,7 @@
 - [nix-community/pip2nix](https://github.com/nix-community/pip2nix) - Freeze pip-installable packages into Nix expressions [maintainer=@datakurre]
 - [StevenBlack/hosts](https://github.com/StevenBlack/hosts) - 🔒 Consolidating and extending hosts files from several well-curated sources. Optionally pick extensions for porn, social media, and other categories.
 - [asottile/git-code-debt](https://github.com/asottile/git-code-debt) - A dashboard for monitoring code debt in a git repository.
-- [dgtlmoon/changedetection.io](https://github.com/dgtlmoon/changedetection.io) - The best and simplest free open source web page change detection, website watcher,  restock monitor and notification service. Restock Monitor, change detection. Designed for simplicity - Simply monito
+- [dgtlmoon/changedetection.io](https://github.com/dgtlmoon/changedetection.io) - Best and simplest tool for website change detection, web page monitoring, and website change alerts. Perfect for tracking content changes, price drops, restock alerts, and website defacement monitorin
 - [source-foundry/font-line](https://github.com/source-foundry/font-line) - OpenType vertical metrics reporting and font line spacing adjustment tool
 - [andrejlamov/andrejlamov](https://github.com/andrejlamov/andrejlamov) - 
 - [datafold/data-diff](https://github.com/datafold/data-diff) - Compare tables within or across databases
@@ -2670,11 +2669,12 @@
 - [sherlock-project/sherlock](https://github.com/sherlock-project/sherlock) - Hunt down social media accounts by username across social networks
 - [tam5/util-font-patcher](https://github.com/tam5/util-font-patcher) - Font line height patcher
 - [newren/git-filter-repo](https://github.com/newren/git-filter-repo) - Quickly rewrite git repository history (filter-branch replacement)
-- [paperless-ngx/paperless-ngx](https://github.com/paperless-ngx/paperless-ngx) - A community-supported supercharged version of paperless: scan, index and archive all your physical documents
+- [paperless-ngx/paperless-ngx](https://github.com/paperless-ngx/paperless-ngx) - A community-supported supercharged document management system: scan, index and archive all your documents
 - [donnemartin/haxor-news](https://github.com/donnemartin/haxor-news) - Browse Hacker News like a haxor: A Hacker News command line interface (CLI).
 - [donnemartin/dev-setup](https://github.com/donnemartin/dev-setup) - macOS development environment setup:  Easy-to-understand instructions with automated setup scripts for developer tools like Vim, Sublime Text, Bash, iTerm, Python data analysis, Spark, Hadoop MapReduc
 - [donnemartin/system-design-primer](https://github.com/donnemartin/system-design-primer) - Learn how to design large-scale systems. Prep for the system design interview.  Includes Anki flashcards.
 - [donnemartin/awesome-aws](https://github.com/donnemartin/awesome-aws) - A curated list of awesome Amazon Web Services (AWS) libraries, open source repos, guides, blogs, and other resources.  Featuring the Fiery Meter of AWSome.
+- [saltyorg/Saltbox](https://github.com/saltyorg/Saltbox) - Ansible-based solution for rapidly deploying a Docker containerized cloud media server.
 - [Kometa-Team/Kometa](https://github.com/Kometa-Team/Kometa) - Python script to update metadata information for items in plex as well as automatically build collections and playlists. The Wiki Documentation is linked below.
 - [rougier/scientific-visualization-book](https://github.com/rougier/scientific-visualization-book) - An open access book on scientific visualization using python and matplotlib
 - [Mic92/nix-update](https://github.com/Mic92/nix-update) - Swiss-knife for updating nix packages.
@@ -2750,6 +2750,7 @@
 - [kovidgoyal/kitty](https://github.com/kovidgoyal/kitty) - Cross-platform, fast, feature-rich, GPU based terminal
 - [ranger/ranger](https://github.com/ranger/ranger) - A VIM-inspired filemanager for the console
 - [ligh7s/smoked-salmon](https://github.com/ligh7s/smoked-salmon) - salmon uploading tools~
+- [tony/.dot-config](https://github.com/tony/.dot-config) - :books: Example dot configs for tmux, tmuxp, vim, vcspull, i3 and awesome
 - [facebook/PathPicker](https://github.com/facebook/PathPicker) - PathPicker accepts a wide range of input -- output from git commands, grep results, searches -- pretty much anything. After parsing the input, PathPicker presents you with a nice UI to select which fi
 - [dylanaraps/pywal](https://github.com/dylanaraps/pywal) - 🎨 Generate and change color-schemes on the fly.
 - [l3uddz/plex_autoscan](https://github.com/l3uddz/plex_autoscan) - Script to assist sonarr/radarr with plex imports. Will only scan the folder that has been imported, instead of the whole library section.
@@ -3096,9 +3097,9 @@
 - [simonthum/git-sync](https://github.com/simonthum/git-sync) - Safe and simple one-script git synchronization
 - [nezhar/wordpress-docker-compose](https://github.com/nezhar/wordpress-docker-compose) - Easy Wordpress development with Docker and Docker Compose
 - [qw3rtman/git-fire](https://github.com/qw3rtman/git-fire) - :fire: Save Your Code in an Emergency
+- [EndeavourOS-Community-Editions/Community-wallpapers](https://github.com/EndeavourOS-Community-Editions/Community-wallpapers) - 
 - [nixcloud/nixcloud-container](https://github.com/nixcloud/nixcloud-container) - nixcloud-container is a Nix based wrapper around LXC, mainly to manage unprivileged LXC containers within NixOS
 - [elken/.nixpkgs](https://github.com/elken/.nixpkgs) - Nix dotfiles
-- [tecosaur/golgi](https://github.com/tecosaur/golgi) - My personal server. Mirror of https://git.tecosaur.net/tec/golgi.
 - [techandme/wordpress-vm](https://github.com/techandme/wordpress-vm) - Scripts to setup and configure the Wordpress VM. Find all the latest VMs here:
 - [yeswework/fabrica-dev-kit](https://github.com/yeswework/fabrica-dev-kit) - A toolkit for faster, smoother WordPress 5 development
 - [evertramos/docker-wordpress](https://github.com/evertramos/docker-wordpress) - Wordpress Docker container using SSL Certificates with LetsEncrypt
@@ -3296,7 +3297,6 @@
 - [xwmx/nb](https://github.com/xwmx/nb) - CLI and local web plain text note‑taking, bookmarking, and archiving with linking, tagging, filtering, search, Git versioning & syncing, Pandoc conversion, + more, in a single portable script.
 - [alrra/dotfiles](https://github.com/alrra/dotfiles) - 💻 macOS / Ubuntu dotfiles
 - [tony/tmux-config](https://github.com/tony/tmux-config) - :green_book: Example tmux configuration - screen + vim key-bindings, system stat, cpu load bar.
-- [tony/.dot-config](https://github.com/tony/.dot-config) - :books: Example dot configs for tmux, tmuxp, vim, vcspull, i3 and awesome
 - [gpakosz/.tmux](https://github.com/gpakosz/.tmux) - Oh my tmux! My self-contained, pretty & versatile tmux configuration made with 💛🩷💙🖤❤️🤍
 - [ultimate-pms/ultimate-media-server-core](https://github.com/ultimate-pms/ultimate-media-server-core) - A bunch of scripts that I've collected, written, and forked for the ultimate administration & automation of your Media Server - Think of this as your "Media server in a box"
 - [ivakyb/fish_ssh_agent](https://github.com/ivakyb/fish_ssh_agent) - Fish-function `fish_ssh_agent` to start `ssh-agent` and export its environment variables to all fish instances: currently running and newly created.
@@ -3352,7 +3352,7 @@
 
 ## Swift 
 
-- [apple/container](https://github.com/apple/container) - A tool for creating and running Linux containers using lightweight virtual machines on a Mac. It's written in Swift, and optimized for Apple silicon.
+- [apple/container](https://github.com/apple/container) - A tool for creating and running Linux containers using lightweight virtual machines on a Mac. It is written in Swift, and optimized for Apple silicon.
 - [pqrs-org/Tinkle](https://github.com/pqrs-org/Tinkle) - 
 - [simonbs/Runestone](https://github.com/simonbs/Runestone) - 📝 Performant plain text editor for iOS with syntax highlighting, line numbers, invisible characters and much more.
 - [xiamaz/YabaiIndicator](https://github.com/xiamaz/YabaiIndicator) - MacOS Menubar Applet for showing spaces and switching spaces easily
@@ -3398,6 +3398,9 @@
 
 ## TypeScript 
 
+- [evo-mark/vite-plugin-gutenberg-blocks](https://github.com/evo-mark/vite-plugin-gutenberg-blocks) - 
+- [wp-blocks/vite-block](https://github.com/wp-blocks/vite-block) - Vite Block is an experimental WordPress block development repository that explores the usage of Vite as a replacement for webpack, leveraging its advantages in ES module (ESM) support, faster build ti
+- [tsconfig/bases](https://github.com/tsconfig/bases) - Hosts TSConfigs to extend in a TypeScript app, tuned to a particular runtime environment
 - [mrOttoW/vite-wordpress](https://github.com/mrOttoW/vite-wordpress) - A Vite 6 configuration for block & traditional WordPress development with HMR & Vite DevServer integration & WP Interactivity API support.
 - [lit/lit](https://github.com/lit/lit) - Lit is a simple library for building fast, lightweight web components.
 - [5e-bits/5e-srd-api](https://github.com/5e-bits/5e-srd-api) - REST API to access D&D 5th Edition SRD database
