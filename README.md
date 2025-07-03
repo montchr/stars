@@ -1135,7 +1135,6 @@
 - [alphapapa/emacs-package-dev-handbook](https://github.com/alphapapa/emacs-package-dev-handbook) - An Emacs package development handbook. Built with Emacs, by Emacs package developers, for Emacs package developers.
 - [cloak-labs/cloakwp-workspace](https://github.com/cloak-labs/cloakwp-workspace) - An ecosystem of the best headless WordPress tooling.
 - [mechatroner/vscode_rainbow_csv](https://github.com/mechatroner/vscode_rainbow_csv) - 🌈Rainbow CSV - VS Code extension: Highlight CSV and TSV files in different rainbow colors to make them more readable
-- [igorlogius/tbl2csv](https://github.com/igorlogius/tbl2csv) - 
 - [nikolaeu/numi](https://github.com/nikolaeu/numi) - Beautiful calculator app for macOS, Linux & Windows
 - [wearerequired/coding-standards](https://github.com/wearerequired/coding-standards) - 💻 required coding standards for PHP, JavaScript and CSS.
 - [violentmonkey/violentmonkey](https://github.com/violentmonkey/violentmonkey) - Violentmonkey provides userscripts support for browsers. It works on browsers with WebExtensions support.
@@ -1784,6 +1783,7 @@
 - [kkharji/nixenv](https://github.com/kkharji/nixenv) - Nix Library for creating OS independent Systems.
 - [divnix/devos-ext-lib](https://github.com/divnix/devos-ext-lib) - A kick ass library to dominate your Extensions (with DevOS).
 - [reckenrode/nixos-configs](https://github.com/reckenrode/nixos-configs) - My NixOS and nix-darwin configs
+- [bandithedoge/nixpkgs-firefox-darwin](https://github.com/bandithedoge/nixpkgs-firefox-darwin) - Nixpkgs overlay with Firefox binary builds for macOS
 - [benpye/nix-config](https://github.com/benpye/nix-config) - 
 - [berbiche/dotfiles](https://github.com/berbiche/dotfiles) - My messy system configuration setup
 - [nix-community/nixpkgs-wayland](https://github.com/nix-community/nixpkgs-wayland) - Automated, pre-built packages for Wayland (sway/wlroots) tools for NixOS. [maintainers=@colemickens, @Artturin]
@@ -1831,7 +1831,6 @@
 - [svanderburg/nix-processmgmt](https://github.com/svanderburg/nix-processmgmt) - Experimental Nix-based process management framework
 - [grafted-in/wordpress-nginx-nix](https://github.com/grafted-in/wordpress-nginx-nix) - One-stop shop for defining, testing, and deploying a WordPress CMS site using Nginx with Nix, NixOps, and NixOS
 - [benley/dotfiles](https://github.com/benley/dotfiles) - My various login scripts, dotfiles, and other random toys that make my unix environments pleasant.
-- [Mic92/dotfiles](https://github.com/Mic92/dotfiles) - My NixOS dotfiles
 - [divnix/bud](https://github.com/divnix/bud) - EXPERIMENTAL -- A highly composable system ctl tool
 - [pjones/phoebe](https://github.com/pjones/phoebe) - A collection of NixOS modules that add features to the ones in nixpkgs.
 - [kanwren/nixfiles](https://github.com/kanwren/nixfiles) - My NixOS configurations and other Nix files :snowflake:
@@ -2064,7 +2063,7 @@
 - [animo/awesome-self-sovereign-identity](https://github.com/animo/awesome-self-sovereign-identity) - An awesome list of self-sovereign identity resources.
 - [bradtraversy/design-resources-for-developers](https://github.com/bradtraversy/design-resources-for-developers) - Curated list of design and UI resources from stock photos, web templates, CSS frameworks, UI libraries, tools and much more
 - [sahibjotsaggu/San-Francisco-Pro-Fonts](https://github.com/sahibjotsaggu/San-Francisco-Pro-Fonts) - The entire collection of San Francisco Pro Fonts
-- [warpdotdev/Warp](https://github.com/warpdotdev/Warp) - Warp is a modern, Rust-based terminal with AI built in so you and your team can build great software, faster.
+- [warpdotdev/Warp](https://github.com/warpdotdev/Warp) - Warp is the agentic development environment, built for coding with multiple AI agents.
 - [h5bp/server-configs-nginx](https://github.com/h5bp/server-configs-nginx) - Nginx HTTP server boilerplate configs
 - [sirredbeard/awesome-wsl](https://github.com/sirredbeard/awesome-wsl) - Awesome list dedicated to Windows Subsystem for Linux
 - [arachne-framework/architecture](https://github.com/arachne-framework/architecture) - Repository of Architecture Decision Records
@@ -2688,6 +2687,7 @@
 - [localstack/localstack](https://github.com/localstack/localstack) - 💻 A fully functional local AWS cloud stack. Develop and test your cloud & Serverless apps offline
 - [nix-gui/nix-gui](https://github.com/nix-gui/nix-gui) - Use NixOS Without Coding
 - [speedyg0nz/MagInkCal](https://github.com/speedyg0nz/MagInkCal) - E-Ink Magic Calendar that automatically syncs to Google Calendar and runs off a battery powered Raspberry Pi Zero
+- [Mic92/dotfiles](https://github.com/Mic92/dotfiles) - My NixOS dotfiles
 - [emacs-eaf/emacs-application-framework](https://github.com/emacs-eaf/emacs-application-framework) - EAF, an extensible framework that revolutionizes the graphical capabilities of Emacs
 - [univ-of-utah-marriott-library-apple/display_manager](https://github.com/univ-of-utah-marriott-library-apple/display_manager) - An open-source Python library which can modify your Mac's display settings manually or automatically.
 - [bregman-arie/devops-exercises](https://github.com/bregman-arie/devops-exercises) - Linux, Jenkins, AWS, SRE, Prometheus, Docker, Python, Ansible, Git, Kubernetes, Terraform, OpenStack, SQL, NoSQL, Azure, GCP, DNS, Elastic, Network, Virtualization. DevOps Interview Questions
@@ -3143,7 +3143,6 @@
 - [kevinywlui/zlong_alert.zsh](https://github.com/kevinywlui/zlong_alert.zsh) - A plugin to alert you when a long-running command has finished
 - [SxC97/Yabai-Spaces](https://github.com/SxC97/Yabai-Spaces) - A *crazy* customizable Bitbar plugin that displays the total number of spaces and highlights the current one.
 - [SxC97/dotfiles](https://github.com/SxC97/dotfiles) - 
-- [bandithedoge/nixpkgs-firefox-darwin](https://github.com/bandithedoge/nixpkgs-firefox-darwin) - Nixpkgs overlay with Firefox binary builds for macOS
 - [ralish/bash-script-template](https://github.com/ralish/bash-script-template) - A best practices Bash script template with several useful functions
 - [shellspec/shellspec](https://github.com/shellspec/shellspec) - A full-featured BDD unit testing framework for bash, ksh, zsh, dash and all POSIX shells
 - [vic/SPC](https://github.com/vic/SPC) - Send keyboard macros to Spacemacs or DOOM Emacs via emacsclient.
