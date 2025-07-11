@@ -391,6 +391,7 @@
 
 ## Emacs Lisp 
 
+- [bennyandresen/jujutsu.el](https://github.com/bennyandresen/jujutsu.el) - An Emacs interface for jujutsu, inspired by magit and humbly not attempting to match it in scope.
 - [fxbois/web-mode](https://github.com/fxbois/web-mode) - web template editing mode for emacs
 - [protesilaos/doric-themes](https://github.com/protesilaos/doric-themes) - Minimalist themes for GNU Emacs
 - [marcIhm/org-id-cleanup](https://github.com/marcIhm/org-id-cleanup) - Interactively find, present and maybe delete unused IDs of org-id. Available on MELPA.
@@ -1009,6 +1010,7 @@
 - [OctoLinker/OctoLinker](https://github.com/OctoLinker/OctoLinker) - OctoLinker — Links together, what belongs together
 - [fabrizioschiavi/pragmatapro-semiotics](https://github.com/fabrizioschiavi/pragmatapro-semiotics) - Semiotics of all the symbols and signs of Pragmata Pro typeface
 - [joyeusenoelle/GuideToMastodon](https://github.com/joyeusenoelle/GuideToMastodon) - An increasingly less-brief guide to Mastodon
+- [Baughn/machine-config](https://github.com/Baughn/machine-config) - NixOS configuration for all my machines
 - [healeycodes/if-sad-send-cat](https://github.com/healeycodes/if-sad-send-cat) - 🐱 A program that sends cats to my phone when I'm sad at the computer.
 - [tc39/proposal-pipeline-operator](https://github.com/tc39/proposal-pipeline-operator) - A proposal for adding a useful pipe operator to JavaScript.
 - [TandoorRecipes/recipes](https://github.com/TandoorRecipes/recipes) - Application for managing recipes, planning meals, building shopping lists and much much more!
@@ -1117,6 +1119,7 @@
 
 ## JavaScript 
 
+- [WordPress/gutenberg](https://github.com/WordPress/gutenberg) - The Block Editor project for WordPress and beyond. Plugin is available from the official repository.
 - [godaddy-wordpress/coblocks](https://github.com/godaddy-wordpress/coblocks) - A suite of professional page building content blocks for the WordPress Gutenberg block editor.
 - [humanmade/block-editor-components](https://github.com/humanmade/block-editor-components) - Reusable components, hooks and helper functions for the WordPress block editor(s).
 - [mozilla-firefox/firefox](https://github.com/mozilla-firefox/firefox) - The official repository of Mozilla's Firefox web browser.
@@ -1772,7 +1775,6 @@
 - [nix-community/nix-doom-emacs](https://github.com/nix-community/nix-doom-emacs) - doom-emacs packaged for Nix [maintainers=@thiagokokada]
 - [purcell/nix-emacs-ci](https://github.com/purcell/nix-emacs-ci) - Emacs builds for continuous integration
 - [yuanw/nix-home](https://github.com/yuanw/nix-home) - My Nix dotfiles on MacOS/NixOS
-- [Baughn/machine-config](https://github.com/Baughn/machine-config) - NixOS configuration for all my machines
 - [ngi-nix/OSX-KVM](https://github.com/ngi-nix/OSX-KVM) - 
 - [balsoft/nixos-config](https://github.com/balsoft/nixos-config) - Mirror of https://code.balsoft.ru/balsoft/nixos-config
 - [yipengsun/nix-config](https://github.com/yipengsun/nix-config) - My NixOS/nix-darwin config
@@ -2161,6 +2163,7 @@
 
 ## PHP 
 
+- [x3p0-dev/x3p0-ideas](https://github.com/x3p0-dev/x3p0-ideas) - A new WordPress theme.
 - [godaddy-wordpress/go](https://github.com/godaddy-wordpress/go) - The most flexible Gutenberg-first WordPress theme built for go-getters everywhere.
 - [inpsyde/gutenberg-versions-manager](https://github.com/inpsyde/gutenberg-versions-manager) - A lib that activate/deactivate a Gutenberg version depending on the Theme being activate
 - [inpsyde/disable-comments](https://github.com/inpsyde/disable-comments) - A WordPress plugin that completely disables comments as a WordPress feature.
@@ -2181,7 +2184,6 @@
 - [City-of-Helsinki/wordpress-helfi-helsinkiteema](https://github.com/City-of-Helsinki/wordpress-helfi-helsinkiteema) - General purpose HDS compliant WordPress parent theme. Requires HDS WP plugin.
 - [scribu/wp-hyper-admins](https://github.com/scribu/wp-hyper-admins) - Give even more power to super-admins
 - [kleinweb/saml-auth](https://github.com/kleinweb/saml-auth) - 
-- [Tmeister/wp-api-jwt-auth](https://github.com/Tmeister/wp-api-jwt-auth) - A simple plugin to add JSON Web Token (JWT) Authentication to WP REST API
 - [bacoords/block-theme](https://github.com/bacoords/block-theme) - A starter block theme for modern WordPress developers.
 - [10up/wp_mock](https://github.com/10up/wp_mock) - WordPress API Mocking Framework
 - [cyruscollier/wp-spark](https://github.com/cyruscollier/wp-spark) - An expressive and elegant object-oriented API for WordPress
@@ -3070,6 +3072,7 @@
 
 ## Shell 
 
+- [mrOttoW/ddev-wordpress-vite](https://github.com/mrOttoW/ddev-wordpress-vite) - This add-on simply adds a yaml config that exposes and routes the ports necessary to load up the Vite dev server ande make use of their HMR features inside DDEV.
 - [Vladimir-csp/app2unit](https://github.com/Vladimir-csp/app2unit) - Launches Desktop Entries as Systemd user units
 - [tinted-theming/schemes](https://github.com/tinted-theming/schemes) - A common location to store all color scheme data for the Tinted theming project
 - [vinceliuice/Tela-circle-icon-theme](https://github.com/vinceliuice/Tela-circle-icon-theme) - Tela-circle-icon-theme
@@ -3403,6 +3406,7 @@
 
 ## TypeScript 
 
+- [RebeccaStevens/deepmerge-ts](https://github.com/RebeccaStevens/deepmerge-ts) - Deeply merge 2 or more objects respecting type information.
 - [evo-mark/vite-plugin-gutenberg-blocks](https://github.com/evo-mark/vite-plugin-gutenberg-blocks) - 
 - [wp-blocks/vite-block](https://github.com/wp-blocks/vite-block) - Vite Block is an experimental WordPress block development repository that explores the usage of Vite as a replacement for webpack, leveraging its advantages in ES module (ESM) support, faster build ti
 - [tsconfig/bases](https://github.com/tsconfig/bases) - Hosts TSConfigs to extend in a TypeScript app, tuned to a particular runtime environment
@@ -3412,6 +3416,7 @@
 - [roots/vite-plugin](https://github.com/roots/vite-plugin) - A Vite plugin for working with WordPress
 - [redhat-developer/yaml-language-server](https://github.com/redhat-developer/yaml-language-server) - Language Server for YAML Files
 - [glideapps/quicktype](https://github.com/glideapps/quicktype) - Generate types and converters from JSON, Schema, and GraphQL
+- [Tmeister/wp-api-jwt-auth](https://github.com/Tmeister/wp-api-jwt-auth) - A simple plugin to add JSON Web Token (JWT) Authentication to WP REST API
 - [kellnerd/harmony](https://github.com/kellnerd/harmony) - Music Metadata Aggregator and MusicBrainz Importer
 - [kellnerd/elbisaur](https://github.com/kellnerd/elbisaur) - CLI to manage your ListenBrainz listens and process listen dumps
 - [getsentry/action-release](https://github.com/getsentry/action-release) - GitHub Action for creating a release on Sentry
