@@ -21,7 +21,6 @@
 - [Common Lisp](#common-lisp)
 - [DIGITAL Command Language](#digital-command-language)
 - [Dart](#dart)
-- [Dhall](#dhall)
 - [Dockerfile](#dockerfile)
 - [Elixir](#elixir)
 - [Elm](#elm)
@@ -369,10 +368,6 @@
 - [jenspfahl/BDT](https://github.com/jenspfahl/BDT) - Break.Down.Timer
 - [austinried/subtracks](https://github.com/austinried/subtracks) - A music streaming app for Subsonic-compatible servers
 
-## Dhall 
-
-- [dhall-lang/dhall-lang](https://github.com/dhall-lang/dhall-lang) - Maintainable configuration files
-
 ## Dockerfile 
 
 - [Crell/php-project-template](https://github.com/Crell/php-project-template) - My personal template for new PHP projects.
@@ -391,6 +386,8 @@
 
 ## Emacs Lisp 
 
+- [AmaiKinono/puni](https://github.com/AmaiKinono/puni) - Structured editing (soft deletion, expression navigating & manipulating) that supports many major modes out of the box.
+- [ainame/smart-newline.el](https://github.com/ainame/smart-newline.el) - The smart-newline.el provide a stress-less newline command for programmer.
 - [bennyandresen/jujutsu.el](https://github.com/bennyandresen/jujutsu.el) - An Emacs interface for jujutsu, inspired by magit and humbly not attempting to match it in scope.
 - [fxbois/web-mode](https://github.com/fxbois/web-mode) - web template editing mode for emacs
 - [protesilaos/doric-themes](https://github.com/protesilaos/doric-themes) - Minimalist themes for GNU Emacs
@@ -774,7 +771,6 @@
 - [ggandor/leap.nvim](https://github.com/ggandor/leap.nvim) - Neovim's answer to the mouse 🦘
 - [nyoom-engineering/nyoom.nvim](https://github.com/nyoom-engineering/nyoom.nvim) - A Neovim framework and doom emacs alternative for the stubborn martian hacker. Powered by fennel and the oxocarbon theme
 - [jsfr/Spoons](https://github.com/jsfr/Spoons) - Personal Hammerspoon Spoons Repository
-- [Olical/dotfiles](https://github.com/Olical/dotfiles) - Configuration for Linux, sway, ghostty, fish, neovim and more
 - [agzam/spacehammer](https://github.com/agzam/spacehammer) - Hammerspoon config inspired by Spacemacs
 
 ## GDB 
@@ -1077,7 +1073,7 @@
 - [serhiip/org2any](https://github.com/serhiip/org2any) - Seamless synchronisation of Org files with macOS Reminders
 - [obsidiansystems/obelisk](https://github.com/obsidiansystems/obelisk) - Functional reactive web and mobile applications, with batteries included.
 - [purescript/purescript](https://github.com/purescript/purescript) - A strongly-typed language that compiles to JavaScript
-- [NixOS/nixfmt](https://github.com/NixOS/nixfmt) - The official (but not yet stable) formatter for Nix code
+- [NixOS/nixfmt](https://github.com/NixOS/nixfmt) - The official formatter for Nix code
 - [berberman/nvfetcher](https://github.com/berberman/nvfetcher) - Generate nix sources expr for the latest version of packages
 - [obsidiansystems/nix-thunk](https://github.com/obsidiansystems/nix-thunk) - seamless management of source dependencies with nix
 - [kmonad/kmonad](https://github.com/kmonad/kmonad) - An advanced keyboard manager
@@ -1101,7 +1097,6 @@
 ## Java 
 
 - [gsantner/markor](https://github.com/gsantner/markor) - Text editor - Notes & ToDo (for Android) - Markdown, todo.txt, plaintext, math, ..
-- [Catfriend1/syncthing-android](https://github.com/Catfriend1/syncthing-android) - Syncthing-Fork - A Syncthing Wrapper for Android.
 - [LawnchairLauncher/lawnchair](https://github.com/LawnchairLauncher/lawnchair) - No clever tagline needed.
 - [Helium314/HeliBoard](https://github.com/Helium314/HeliBoard) - Customizable and privacy-conscious open-source keyboard
 - [nix-community/nix-on-droid-app](https://github.com/nix-community/nix-on-droid-app) - Run Nix package manager on Android. Based off Termux the terminal emulator, but not Termux the distro. [maintainer=@t184256]
@@ -1765,7 +1760,7 @@
 - [jhenahan/dots](https://github.com/jhenahan/dots) - New Nix world
 - [tgunnoe/nixos](https://github.com/tgunnoe/nixos) - System and application configurations
 - [CaptainSpof/dafos-old](https://github.com/CaptainSpof/dafos-old) - WIP · Here lies my shipwrecks. I mean fleet of hosts.
-- [astro/microvm.nix](https://github.com/astro/microvm.nix) - NixOS MicroVMs
+- [microvm-nix/microvm.nix](https://github.com/microvm-nix/microvm.nix) - NixOS MicroVMs
 - [jtojnar/nixfiles](https://github.com/jtojnar/nixfiles) - Nix configuration for the machines I manage.
 - [numtide/nix-filter](https://github.com/numtide/nix-filter) - a small self-contained source filtering lib
 - [nix-community/impermanence](https://github.com/nix-community/impermanence) - Modules to help you handle persistent state on systems with ephemeral root storage [maintainer=@talyz]
@@ -1894,7 +1889,7 @@
 - [ryantm/home-manager-template](https://github.com/ryantm/home-manager-template) - A quick-start template for using home-manager in a more reproducible way.
 - [divnix/digga](https://github.com/divnix/digga) - A flake utility library to craft shell-, home-, and hosts- environments.
 - [cideM/dotfiles](https://github.com/cideM/dotfiles) - No place like ~. Nix. All. The. Things.
-- [nix-community/home-manager](https://github.com/nix-community/home-manager) - Manage a user environment using Nix  [maintainer=@rycee]
+- [nix-community/home-manager](https://github.com/nix-community/home-manager) - Manage a user environment using Nix  [maintainer=@khaneliman, @rycee]
 - [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs) - Nix Packages collection & NixOS
 - [NixOS/nix.dev](https://github.com/NixOS/nix.dev) - Official documentation for getting things done with Nix.
 - [numtide/devshell](https://github.com/numtide/devshell) - Per project developer environments
@@ -2839,6 +2834,7 @@
 
 ## Rust 
 
+- [gulbanana/gg](https://github.com/gulbanana/gg) - GG - Gui for JJ
 - [ynqa/empiriqa](https://github.com/ynqa/empiriqa) - For empiricists...
 - [ynqa/jnv](https://github.com/ynqa/jnv) - Interactive JSON filter using jq
 - [Supreeeme/xwayland-satellite](https://github.com/Supreeeme/xwayland-satellite) - Xwayland outside your Wayland
@@ -2938,7 +2934,7 @@
 - [H-M-H/Weylus](https://github.com/H-M-H/Weylus) - Use your tablet as graphic tablet/touch screen on your computer.
 - [pimalaya/himalaya](https://github.com/pimalaya/himalaya) - CLI to manage emails
 - [DeterminateSystems/nix-netboot-serve](https://github.com/DeterminateSystems/nix-netboot-serve) - Make any NixOS system netbootable with 10s cycle times.
-- [nix-community/nh](https://github.com/nix-community/nh) - Yet another Nix CLI helper. [Maintainers=@viperML, @NotAShelf]
+- [nix-community/nh](https://github.com/nix-community/nh) - Yet another Nix CLI helper. [Maintainers=@NotAShelf]
 - [dramforever/nix-json-progress](https://github.com/dramforever/nix-json-progress) - Progress bars from Nix internal-json log
 - [PaddiM8/kalker](https://github.com/PaddiM8/kalker) - Scientific calculator with math syntax that supports user-defined variables and functions, complex numbers, and estimation of derivatives and integrals
 - [railwayapp/nixpacks](https://github.com/railwayapp/nixpacks) - App source + Nix packages + Docker = Image
@@ -3072,6 +3068,7 @@
 
 ## Shell 
 
+- [tim-janik/jj-fzf](https://github.com/tim-janik/jj-fzf) - Text UI for Jujutsu based on fzf, centering around the jj log with key bindings for common operations
 - [mrOttoW/ddev-wordpress-vite](https://github.com/mrOttoW/ddev-wordpress-vite) - This add-on simply adds a yaml config that exposes and routes the ports necessary to load up the Vite dev server ande make use of their HMR features inside DDEV.
 - [Vladimir-csp/app2unit](https://github.com/Vladimir-csp/app2unit) - Launches Desktop Entries as Systemd user units
 - [tinted-theming/schemes](https://github.com/tinted-theming/schemes) - A common location to store all color scheme data for the Tinted theming project
@@ -3191,6 +3188,7 @@
 - [agkozak/dotfiles](https://github.com/agkozak/dotfiles) - Dotfiles for zsh, vim, tmux, and more. Now using zcomet!
 - [lilyball/nix-env.fish](https://github.com/lilyball/nix-env.fish) - Nix environment setup for the fish shell
 - [nikitavoloboev/config](https://github.com/nikitavoloboev/config) - Apps/CLIs/configs I use on macOS/iOS
+- [Olical/dotfiles](https://github.com/Olical/dotfiles) - Configuration for Linux, sway, ghostty, fish, neovim and more
 - [adi1090x/plymouth-themes](https://github.com/adi1090x/plymouth-themes) - A huge collection (80+) of plymouth themes ported from android bootanimations
 - [trapd00r/LS_COLORS](https://github.com/trapd00r/LS_COLORS) - A collection of LS_COLORS definitions; needs your contribution!
 - [michaelpj/nixos-config](https://github.com/michaelpj/nixos-config) - 
