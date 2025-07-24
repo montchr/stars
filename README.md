@@ -386,6 +386,7 @@
 
 ## Emacs Lisp 
 
+- [konrad1977/flyover](https://github.com/konrad1977/flyover) - A beautiful inline overlay for Emacs (Flycheck | Flymake)
 - [DevelopmentCool2449/onyx-emacs](https://github.com/DevelopmentCool2449/onyx-emacs) - Onyx Emacs - An emacs android configuration for note taking with org-mode and markdown
 - [AmaiKinono/puni](https://github.com/AmaiKinono/puni) - Structured editing (soft deletion, expression navigating & manipulating) that supports many major modes out of the box.
 - [ainame/smart-newline.el](https://github.com/ainame/smart-newline.el) - The smart-newline.el provide a stress-less newline command for programmer.
@@ -789,6 +790,7 @@
 
 ## Go 
 
+- [water-sucks/optnix](https://github.com/water-sucks/optnix) - An options searcher for Nix module systems.
 - [nix-community/nixos-facter](https://github.com/nix-community/nixos-facter) - Declarative hardware configuration for NixOS [maintainer=@brianmcgee,@Mic92]
 - [loeffel-io/ls-lint](https://github.com/loeffel-io/ls-lint) - An extremely fast directory and filename linter - Bring some structure to your project filesystem
 - [abhinav/git-spice](https://github.com/abhinav/git-spice) - Manage stacked Git branches
@@ -1116,6 +1118,7 @@
 
 ## JavaScript 
 
+- [a8cteam51/special-projects-blocks-monorepo](https://github.com/a8cteam51/special-projects-blocks-monorepo) - 
 - [WordPress/gutenberg](https://github.com/WordPress/gutenberg) - The Block Editor project for WordPress and beyond. Plugin is available from the official repository.
 - [godaddy-wordpress/coblocks](https://github.com/godaddy-wordpress/coblocks) - A suite of professional page building content blocks for the WordPress Gutenberg block editor.
 - [humanmade/block-editor-components](https://github.com/humanmade/block-editor-components) - Reusable components, hooks and helper functions for the WordPress block editor(s).
@@ -1216,7 +1219,7 @@
 - [jakoblind/webpack-autoconf](https://github.com/jakoblind/webpack-autoconf) - A tool to create frontend apps using webpack, Parcel or Snowpack
 - [brightcove/player-loader](https://github.com/brightcove/player-loader) - An asynchronous script loader and embed generator for the Brightcove Player.
 - [GoogleChrome/dialog-polyfill](https://github.com/GoogleChrome/dialog-polyfill) - Polyfill for the HTML dialog element
-- [harlan-zw/unlighthouse](https://github.com/harlan-zw/unlighthouse) - Scan your entire site with Google Lighthouse in 2 minutes (on average). Open source, fully configurable with minimal setup.
+- [harlan-zw/unlighthouse](https://github.com/harlan-zw/unlighthouse) - Google Lighthouse for your entire site.
 - [blinksh/themes](https://github.com/blinksh/themes) - blink themes collection
 - [remy/light-dark-switcher](https://github.com/remy/light-dark-switcher) - Light/Dark theme switcher for Firefox
 - [matthewp/robot](https://github.com/matthewp/robot) - 🤖 A functional, immutable Finite State Machine library
@@ -1539,6 +1542,7 @@
 
 ## Nix 
 
+- [terlar/dev-flake](https://github.com/terlar/dev-flake) - Nix flake to support the pattern of using a separate development flake
 - [nicknovitski/make-shell](https://github.com/nicknovitski/make-shell) - mkShell meets modules
 - [nix-community/nixos-facter-modules](https://github.com/nix-community/nixos-facter-modules) - A series of NixOS modules to be used in conjunction with https://github.com/nix-community/nixos-facter [maintainer=@brianmcgee,@Mic92]
 - [mightyiam/infra](https://github.com/mightyiam/infra) - Shahar "Dawn" Or's Nix-powered "IT infrastructure" repository
@@ -2041,7 +2045,7 @@
 - [GEIGEIGEIST/KLOR](https://github.com/GEIGEIGEIST/KLOR) - KLOR is 36-42 keys column-staggered split keyboard. It supports a per key RGB matrix, encoders, OLED displays, haptic feedback, audio, a Pixart Paw3204 trackball and four different layouts, through br
 - [vpavlenko/study-music](https://github.com/vpavlenko/study-music) - An "awesome music theory" kinda wiki with books, resources and courses for studying everything about music and sound
 - [dkhamsing/open-source-ios-apps](https://github.com/dkhamsing/open-source-ios-apps) - :iphone: Collaborative List of Open-Source iOS Apps
-- [justSem/r-selfhosted-security](https://github.com/justSem/r-selfhosted-security) - Started from the beginners security guide on r/selfhosted - this repo aims to be a collection of guides
+- [justsem/r-selfhosted-security](https://github.com/justsem/r-selfhosted-security) - Started from the beginners security guide on r/selfhosted - this repo aims to be a collection of guides
 - [sebgl/htpc-download-box](https://github.com/sebgl/htpc-download-box) - Sonarr / Radarr / Jackett / NZBGet / Deluge / OpenVPN / Plex
 - [kahun/awesome-sysadmin](https://github.com/kahun/awesome-sysadmin) - A curated list of amazingly awesome open source sysadmin resources inspired by Awesome PHP.
 - [trimstray/the-practical-linux-hardening-guide](https://github.com/trimstray/the-practical-linux-hardening-guide) - This guide details creating a secure Linux production system. OpenSCAP (C2S/CIS, STIG).
@@ -3405,6 +3409,8 @@
 
 ## TypeScript 
 
+- [shimataro/ssh-key-action](https://github.com/shimataro/ssh-key-action) - GitHub Action that installs SSH key to .ssh
+- [thefrontside/lspx](https://github.com/thefrontside/lspx) - language server multiplexer, supervisor, and interactive shell
 - [RebeccaStevens/deepmerge-ts](https://github.com/RebeccaStevens/deepmerge-ts) - Deeply merge 2 or more objects respecting type information.
 - [evo-mark/vite-plugin-gutenberg-blocks](https://github.com/evo-mark/vite-plugin-gutenberg-blocks) - 
 - [wp-blocks/vite-block](https://github.com/wp-blocks/vite-block) - Vite Block is an experimental WordPress block development repository that explores the usage of Vite as a replacement for webpack, leveraging its advantages in ES module (ESM) support, faster build ti
