@@ -385,6 +385,7 @@
 
 ## Emacs Lisp 
 
+- [vberezhnev/better-org-habit.el](https://github.com/vberezhnev/better-org-habit.el) - 🎖️Game-changing package for org-habit with UI improvements and gamification feature
 - [konrad1977/flyover](https://github.com/konrad1977/flyover) - A beautiful inline overlay for Emacs (Flycheck | Flymake)
 - [DevelopmentCool2449/onyx-emacs](https://github.com/DevelopmentCool2449/onyx-emacs) - Onyx Emacs - An emacs android configuration for note taking with org-mode and markdown
 - [AmaiKinono/puni](https://github.com/AmaiKinono/puni) - Structured editing (soft deletion, expression navigating & manipulating) that supports many major modes out of the box.
@@ -1511,6 +1512,7 @@
 
 ## Makefile 
 
+- [shytikov/pragmasevka](https://github.com/shytikov/pragmasevka) - Pragmata Pro doppelgänger made of Iosevka SS08
 - [lorien/awesome-web-scraping](https://github.com/lorien/awesome-web-scraping) - List of libraries, tools and APIs for web scraping and data processing.
 - [teamniteo/handbook](https://github.com/teamniteo/handbook) - The Niteo Handbook
 - [wodby/docker4wordpress](https://github.com/wodby/docker4wordpress) - Docker-based WordPress stack
@@ -2841,6 +2843,7 @@
 
 ## Rust 
 
+- [htkhiem/euphonica](https://github.com/htkhiem/euphonica) - An MPD client with delusions of grandeur, made with Rust, GTK and Libadwaita.
 - [gulbanana/gg](https://github.com/gulbanana/gg) - GG - Gui for JJ
 - [ynqa/empiriqa](https://github.com/ynqa/empiriqa) - For empiricists...
 - [ynqa/jnv](https://github.com/ynqa/jnv) - Interactive JSON filter using jq
