@@ -2089,6 +2089,7 @@
 
 ## golang 
 
+- [gpanders/ijq](https://github.com/gpanders/ijq) - Interactive jq (mirror)
 - [glideapps/quicktype](https://github.com/glideapps/quicktype) - Generate types and converters from JSON, Schema, and GraphQL
 - [wader/fq](https://github.com/wader/fq) - jq for binary formats - tool, language and decoders for working with binary and text formats
 - [rebuy-de/aws-nuke](https://github.com/rebuy-de/aws-nuke) - Nuke a whole AWS account and delete all its resources.
@@ -3500,6 +3501,10 @@
 
 ## others 
 
+- [scrothers/sieve-filters](https://github.com/scrothers/sieve-filters) - A collection of sieve filters for my Proton account.
+- [brokenalarms/hey-proton](https://github.com/brokenalarms/hey-proton) - Sieve filters for Proton inspired by HEY.
+- [progfolio/wordel](https://github.com/progfolio/wordel) - Wordle in Emacs
+- [garyo/lsp-multiplexer](https://github.com/garyo/lsp-multiplexer) - Simple LSP server multiplexer in python
 - [leon-barrett/just-ts-mode.el](https://github.com/leon-barrett/just-ts-mode.el) - Emacs mode for justfiles using TreeSitter
 - [christiannaths/redacted-font](https://github.com/christiannaths/redacted-font) - Keep your wireframes free of distracting Lorem Ipsum.
 - [shimataro/ssh-key-action](https://github.com/shimataro/ssh-key-action) - GitHub Action that installs SSH key to .ssh
@@ -3978,7 +3983,6 @@
 - [nushell/nu_scripts](https://github.com/nushell/nu_scripts) - A place to share Nushell scripts with each other
 - [numtide/prj-spec](https://github.com/numtide/prj-spec) - Project Base Directory Specification
 - [dep-sys/nix-dabei](https://github.com/dep-sys/nix-dabei) - An operating system generator, based on nixos, focused on installation
-- [oxipng/oxipng](https://github.com/oxipng/oxipng) - Multithreaded PNG optimizer written in Rust
 - [madjam002/yarnpnp2nix](https://github.com/madjam002/yarnpnp2nix) - A performance focused and space efficient way of packaging NodeJS applications with Nix
 - [juanfont/headscale](https://github.com/juanfont/headscale) - An open source, self-hosted implementation of the Tailscale control server
 - [grafana/faro-web-sdk](https://github.com/grafana/faro-web-sdk) - The Grafana Faro Web SDK, part of the Grafana Faro project, is a highly configurable web SDK for real user monitoring (RUM) that instruments browser frontend applications to capture observability sign
@@ -5680,6 +5684,7 @@
 - [cocogitto/cocogitto](https://github.com/cocogitto/cocogitto) - The Conventional Commits toolbox
 - [nix-community/patsh](https://github.com/nix-community/patsh) - A command-line tool for patching shell scripts inspired by resholve [maintainer=@figsoda]
 - [sharkdp/pastel](https://github.com/sharkdp/pastel) - A command-line tool to generate, analyze, convert and manipulate colors
+- [oxipng/oxipng](https://github.com/oxipng/oxipng) - Multithreaded PNG optimizer written in Rust
 - [valeriansaliou/sonic](https://github.com/valeriansaliou/sonic) - 🦔 Fast, lightweight & schema-less search backend. An alternative to Elasticsearch that runs on a few MBs of RAM.
 - [neovide/neovide](https://github.com/neovide/neovide) - No Nonsense Neovim Client in Rust
 - [watchexec/watchexec](https://github.com/watchexec/watchexec) - Executes commands in response to file modifications
@@ -6156,6 +6161,7 @@
 
 ## terminal 
 
+- [gpanders/ijq](https://github.com/gpanders/ijq) - Interactive jq (mirror)
 - [tim-janik/jj-fzf](https://github.com/tim-janik/jj-fzf) - Text UI for Jujutsu based on fzf, centering around the jj log with key bindings for common operations
 - [htop-dev/htop](https://github.com/htop-dev/htop) - htop - an interactive process viewer
 - [chmln/sd](https://github.com/chmln/sd) - Intuitive find & replace CLI (sed alternative)
@@ -6263,7 +6269,7 @@
 - [khuedoan/homelab](https://github.com/khuedoan/homelab) - Fully automated homelab from empty disk to running services with a single command.
 - [MichaelCade/90DaysOfDevOps](https://github.com/MichaelCade/90DaysOfDevOps) - This repository started out as a learning in public project for myself and has now become a structured learning map for many in the community. We have 3 years under our belt covering all things DevOps
 - [cyntheticfox/terranix-linode-poc](https://github.com/cyntheticfox/terranix-linode-poc) - A Proof-of-Concept for deploying NixOS to Linode with Terranix
-- [terranix/terranix](https://github.com/terranix/terranix) - terranix is a terraform.json generator with a nix-like feeling
+- [terranix/terranix](https://github.com/terranix/terranix) - terranix is a terraform.json generator with a nix-like feeling [maintainer=@sshine, @mdarocha]
 - [shuaibiyy/awesome-tf](https://github.com/shuaibiyy/awesome-tf) - Curated list of resources on HashiCorp's Terraform and OpenTofu
 - [bregman-arie/devops-exercises](https://github.com/bregman-arie/devops-exercises) - Linux, Jenkins, AWS, SRE, Prometheus, Docker, Python, Ansible, Git, Kubernetes, Terraform, OpenStack, SQL, NoSQL, Azure, GCP, DNS, Elastic, Network, Virtualization. DevOps Interview Questions
 - [dflook/terraform-github-actions](https://github.com/dflook/terraform-github-actions) - GitHub actions for Terraform and OpenTofu
