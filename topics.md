@@ -1978,7 +1978,7 @@
 - [donnemartin/dev-setup](https://github.com/donnemartin/dev-setup) - macOS development environment setup:  Easy-to-understand instructions with automated setup scripts for developer tools like Vim, Sublime Text, Bash, iTerm, Python data analysis, Spark, Hadoop MapReduc
 - [xeruf/kull](https://github.com/xeruf/kull) - Kull is a collaboration convention that preserves order through clear rules and processes
 - [EdenEast/nyx](https://github.com/EdenEast/nyx) - ⚙️Nix[OS] Configuration
-- [mickael-kerjean/filestash](https://github.com/mickael-kerjean/filestash) - :file_folder: A file manager / web client for SFTP, S3, FTP, WebDAV, Git, Minio, LDAP, CalDAV, CardDAV, Mysql, Backblaze, ...
+- [mickael-kerjean/filestash](https://github.com/mickael-kerjean/filestash) - :file_folder: The Dropbox like web client for SFTP, S3, FTP, WebDAV, Git, Minio, LDAP, CalDAV, CardDAV, Mysql, Backblaze, ...
 - [tkellogg/dura](https://github.com/tkellogg/dura) - You shouldn't ever lose your work if you're using Git
 - [radian-software/radian](https://github.com/radian-software/radian) - 🍉 Dotfiles that marry elegance and practicality.
 - [yurrriq/dotfiles](https://github.com/yurrriq/dotfiles) - My (semi-)literate dotfiles for Nix, Emacs, fish, etc, managed with home-manager and GNU Stow
@@ -5052,7 +5052,7 @@
 - [bradfrost/patternlab](https://github.com/bradfrost/patternlab) - Make a pattern library using atomic design.
 - [foundation/foundation-sites](https://github.com/foundation/foundation-sites) - The most advanced responsive front-end framework in the world. Quickly create prototypes and production code for sites that work on any kind of device.
 - [milohuang/reverie](https://github.com/milohuang/reverie) - Reverie is a versatile HTML5 responsive WordPress framework based on ZURB's Foundation.
-- [Automattic/_s](https://github.com/Automattic/_s) - Hi. I'm a starter theme called _s, or underscores, if you like. I'm a theme meant for hacking so don't use me as a Parent Theme. Instead try turning me into the next, most awesome, WordPress theme out
+- [Automattic/_s](https://github.com/Automattic/_s) - Inactive project – please visit https://themeshaper.com/block-themes/ to learn more about the future of WordPress themes with Block Themes.
 - [samargulies/galleria-galleria](https://github.com/samargulies/galleria-galleria) - Galleria Galleria is a fork of the Photo Galleria Wordpress plugin that is designed to minimize resources and selectively load javascript.
 - [csswizardry/inuit.css](https://github.com/csswizardry/inuit.css) - Powerful, scalable, Sass-based, BEM, OOCSS framework.
 - [mleibman/SlickGrid](https://github.com/mleibman/SlickGrid) - A lightning fast JavaScript grid/spreadsheet
@@ -5310,7 +5310,7 @@
 - [gruntwork-io/git-xargs](https://github.com/gruntwork-io/git-xargs) - git-xargs is a command-line tool (CLI) for making updates across multiple Github repositories with a single command.
 - [Optixal/neovim-init.vim](https://github.com/Optixal/neovim-init.vim) - :izakaya_lantern: A hybrid Neovim configuration for productive developers who want a functional yet aesthetic Vim experience :izakaya_lantern:
 - [wmariuss/awesome-devops](https://github.com/wmariuss/awesome-devops) - A curated list of awesome DevOps platforms, tools, practices and resources
-- [publishpress/PublishPress-Planner](https://github.com/publishpress/PublishPress-Planner) - PublishPress Planner has all the tools you need to manage WordPress content, including an editorial calendar to plan content. You can create custom status and notifications for content updates.
+- [publishpress/publishpress-planner](https://github.com/publishpress/publishpress-planner) - PublishPress Planner has all the tools you need to manage WordPress content, including an editorial calendar to plan content. You can create custom status and notifications for content updates.
 - [pimutils/todoman](https://github.com/pimutils/todoman) - ✅ Simple, standards-based, command line todo (aka: task) manager.
 - [omnivore-app/omnivore](https://github.com/omnivore-app/omnivore) - Omnivore is a complete, open source read-it-later solution for people who like reading.
 - [barthr/redo](https://github.com/barthr/redo) - Redo is the ultimate tool to create reusable functions from your history in an interactive way
@@ -5357,7 +5357,7 @@
 ## publishing 
 
 - [oldmanumby/DND.SRD.Wiki](https://github.com/oldmanumby/DND.SRD.Wiki) - Dungeons & Dragons 5th Edition SRD converted to Markdown.
-- [publishpress/PublishPress-Planner](https://github.com/publishpress/PublishPress-Planner) - PublishPress Planner has all the tools you need to manage WordPress content, including an editorial calendar to plan content. You can create custom status and notifications for content updates.
+- [publishpress/publishpress-planner](https://github.com/publishpress/publishpress-planner) - PublishPress Planner has all the tools you need to manage WordPress content, including an editorial calendar to plan content. You can create custom status and notifications for content updates.
 - [writefreely/writefreely](https://github.com/writefreely/writefreely) - A clean, Markdown-based publishing platform made for writers. Write together and build a community.
 
 ## pwa 
