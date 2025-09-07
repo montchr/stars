@@ -332,7 +332,7 @@
 - [at-import/breakpoint](https://github.com/at-import/breakpoint) - Really simple media queries in Sass
 - [csswizardry/csswizardry-grids](https://github.com/csswizardry/csswizardry-grids) - Simple, fluid, nestable, flexible, Sass-based, responsive grid system.
 - [milohuang/reverie](https://github.com/milohuang/reverie) - Reverie is a versatile HTML5 responsive WordPress framework based on ZURB's Foundation.
-- [Automattic/_s](https://github.com/Automattic/_s) - Hi. I'm a starter theme called _s, or underscores, if you like. I'm a theme meant for hacking so don't use me as a Parent Theme. Instead try turning me into the next, most awesome, WordPress theme out
+- [Automattic/_s](https://github.com/Automattic/_s) - Inactive project – please visit https://themeshaper.com/block-themes/ to learn more about the future of WordPress themes with Block Themes.
 - [csswizardry/inuit.css](https://github.com/csswizardry/inuit.css) - Powerful, scalable, Sass-based, BEM, OOCSS framework.
 - [nathansmith/960-Grid-System](https://github.com/nathansmith/960-Grid-System) - The 960 Grid System is an effort to streamline web development workflow.
 - [mrjasonweaver/flexnav](https://github.com/mrjasonweaver/flexnav) - A jQuery plugin for responsive menus
@@ -1234,7 +1234,7 @@
 - [remy/light-dark-switcher](https://github.com/remy/light-dark-switcher) - Light/Dark theme switcher for Firefox
 - [matthewp/robot](https://github.com/matthewp/robot) - 🤖 A functional, immutable Finite State Machine library
 - [amanda-mitchell/suppress-eslint-errors](https://github.com/amanda-mitchell/suppress-eslint-errors) - Suppress existing violations of new eslint rules and get back to building stuff.
-- [mickael-kerjean/filestash](https://github.com/mickael-kerjean/filestash) - :file_folder: A file manager / web client for SFTP, S3, FTP, WebDAV, Git, Minio, LDAP, CalDAV, CardDAV, Mysql, Backblaze, ...
+- [mickael-kerjean/filestash](https://github.com/mickael-kerjean/filestash) - :file_folder: The Dropbox like web client for SFTP, S3, FTP, WebDAV, Git, Minio, LDAP, CalDAV, CardDAV, Mysql, Backblaze, ...
 - [75lb/command-line-args](https://github.com/75lb/command-line-args) - A mature, feature-complete library to parse command-line options.
 - [Xe/Xeact](https://github.com/Xe/Xeact) - A high performance, developer-efficient and overall ballin' femtoframework for productive development in Javascript
 - [bigskysoftware/_hyperscript](https://github.com/bigskysoftware/_hyperscript) - a small scripting language for the web
@@ -2446,7 +2446,7 @@
 - [tomjn/composerpress](https://github.com/tomjn/composerpress) - Retroactively creates a composer.json for a WordPress site
 - [stokry/wp-sqlite](https://github.com/stokry/wp-sqlite) - WordPress running on an SQLite database
 - [roots/wp-password-bcrypt](https://github.com/roots/wp-password-bcrypt) - WordPress plugin to implement secure bcrypt hashed passwords
-- [publishpress/PublishPress-Planner](https://github.com/publishpress/PublishPress-Planner) - PublishPress Planner has all the tools you need to manage WordPress content, including an editorial calendar to plan content. You can create custom status and notifications for content updates.
+- [publishpress/publishpress-planner](https://github.com/publishpress/publishpress-planner) - PublishPress Planner has all the tools you need to manage WordPress content, including an editorial calendar to plan content. You can create custom status and notifications for content updates.
 - [studio24/wordpress-multi-env-config](https://github.com/studio24/wordpress-multi-env-config) - WordPress multi-environment config
 - [beberlei/assert](https://github.com/beberlei/assert) - Thin assertion library for use in libraries and business-model
 - [doctrine/DoctrineMigrationsBundle](https://github.com/doctrine/DoctrineMigrationsBundle) - Symfony integration for the doctrine/migrations library
