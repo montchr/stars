@@ -387,6 +387,7 @@
 
 ## Emacs Lisp 
 
+- [emacs-tree-sitter/treesit-fold](https://github.com/emacs-tree-sitter/treesit-fold) - Code folding using treesit.el
 - [emacsmirror/setup](https://github.com/emacsmirror/setup) - Helpful Configuration Macro
 - [progfolio/wordel](https://github.com/progfolio/wordel) - Wordle in Emacs
 - [leon-barrett/just-ts-mode.el](https://github.com/leon-barrett/just-ts-mode.el) - Emacs mode for justfiles using TreeSitter
@@ -2365,7 +2366,6 @@
 - [AxeWP/wp-graphql-headless-login](https://github.com/AxeWP/wp-graphql-headless-login) - A WordPress plugin that provides Headless login and authentication for WPGraphQL, supporting traditional passwords, OAuth2/OpenID Connect, JWT, and more.
 - [wpengine/wp-graphql-content-blocks](https://github.com/wpengine/wp-graphql-content-blocks) - Plugin that extends WPGraphQL to support querying (Gutenberg) Blocks as data
 - [sybrew/the-seo-framework](https://github.com/sybrew/the-seo-framework) - The SEO Framework WordPress plugin.
-- [Highfivery/wordpress-plugin-starter](https://github.com/Highfivery/wordpress-plugin-starter) - Simple WordPress plugin starter framework.
 - [boxybird/morph](https://github.com/boxybird/morph) - A WordPress theme package for building Laravel Livewire inspired WordPress components with Alpine.js.
 - [boxybird/inertia-wordpress](https://github.com/boxybird/inertia-wordpress) - The WordPress adapter for Inertia.js.
 - [alleyinteractive/wp-path-dispatch](https://github.com/alleyinteractive/wp-path-dispatch) - Simply and easily add a URL which fires an action, triggers a callback, and/or loads a template.
@@ -3109,7 +3109,6 @@
 
 - [numtide/nix-ai-tools](https://github.com/numtide/nix-ai-tools) - Exploring the integration between Nix and AI coding agents
 - [sultann/wordpress-site-deploy](https://github.com/sultann/wordpress-site-deploy) - Deploy wp-content using SSH and rsync with .distignore and Slack support.
-- [tim-janik/jj-fzf](https://github.com/tim-janik/jj-fzf) - Text UI for Jujutsu based on fzf, centering around the jj log with key bindings for common operations
 - [mrOttoW/ddev-wordpress-vite](https://github.com/mrOttoW/ddev-wordpress-vite) - This add-on simply adds a yaml config that exposes and routes the ports necessary to load up the Vite dev server ande make use of their HMR features inside DDEV.
 - [Vladimir-csp/app2unit](https://github.com/Vladimir-csp/app2unit) - Launches Desktop Entries as Systemd user units
 - [tinted-theming/schemes](https://github.com/tinted-theming/schemes) - A common location to store all color scheme data for the Tinted theming project
@@ -3491,7 +3490,6 @@
 - [kleinweb/logan-center-headless-experiments](https://github.com/kleinweb/logan-center-headless-experiments) - Source code for the Logan Center for Urban Investigative Reporting website
 - [ritz078/transform](https://github.com/ritz078/transform) - A polyglot web converter.
 - [shuding/nextra](https://github.com/shuding/nextra) - Simple, powerful and flexible site generation framework with everything you love from Next.js.
-- [Highfivery/nextjs-starter](https://github.com/Highfivery/nextjs-starter) - A Next.js 13 CMS & theme agnostic starter framework to build fully-featured headless sites.
 - [roots/bud](https://github.com/roots/bud) - Build tool that wraps webpack complexity behind an elegant, minimal API
 - [joe-bell/cva](https://github.com/joe-bell/cva) - Class Variance Authority
 - [dotenv-org/dotenv-vault](https://github.com/dotenv-org/dotenv-vault) - sync .env files—from the creator of `dotenv`.
