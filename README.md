@@ -248,7 +248,6 @@
 - [aristocratos/btop](https://github.com/aristocratos/btop) - A monitor of resources
 - [45Drives/autotier](https://github.com/45Drives/autotier) - A passthrough FUSE filesystem that intelligently moves files between storage tiers based on frequency of use, file age, and tier fullness.
 - [nix-community/nix-eval-jobs](https://github.com/nix-community/nix-eval-jobs) - Parallel nix evaluator with a streamable json output [maintainers @Mic92, @adisbladis]
-- [shajra/shajra-keyboards](https://github.com/shajra/shajra-keyboards) - Nix build/flash tool for a Keyboardio Model 100/01 or ZSA Technology Labs Ergodox EZ or Moonlander keyboard
 - [wwmm/easyeffects](https://github.com/wwmm/easyeffects) - Limiter, compressor, convolver, equalizer and auto volume and many other plugins for PipeWire applications
 - [WayfireWM/wayfire](https://github.com/WayfireWM/wayfire) - A modular and extensible wayland compositor
 - [Nheko-Reborn/nheko](https://github.com/Nheko-Reborn/nheko) - Desktop client for Matrix using Qt and C++20.
@@ -1760,6 +1759,7 @@
 - [TLATER/nixos-hosts](https://github.com/TLATER/nixos-hosts) - NixOS host configuration
 - [ncfavier/config](https://github.com/ncfavier/config) - My NixOS configurations
 - [dustinlyons/nixos-config](https://github.com/dustinlyons/nixos-config) - General purpose Nix configuration for macOS or NixOS w/ step-by-step instructions
+- [shajra/shajra-keyboards](https://github.com/shajra/shajra-keyboards) - Nix build/flash tool for a Keyboardio Model 100/01 or ZSA Technology Labs Ergodox EZ or Moonlander keyboard
 - [noib3/dotfiles](https://github.com/noib3/dotfiles) - :house: Procrastinating never felt this productive
 - [nixosbrasil/climod](https://github.com/nixosbrasil/climod) - Modular generated command line interfaces using the same technology as the NixOS module system.
 - [talyz/nixos-config](https://github.com/talyz/nixos-config) - My NixOS configuration
@@ -3230,7 +3230,7 @@
 - [marlonrichert/zsh-snap](https://github.com/marlonrichert/zsh-snap) - ⚡️ Znap! Fast, easy-to-use tools for Zsh dotfiles & plugins, plus git repos
 - [agkozak/dotfiles](https://github.com/agkozak/dotfiles) - Dotfiles for zsh, vim, tmux, and more. Now using zcomet!
 - [lilyball/nix-env.fish](https://github.com/lilyball/nix-env.fish) - Nix environment setup for the fish shell
-- [nikitavoloboev/config](https://github.com/nikitavoloboev/config) - Apps/CLIs/configs I use on macOS/iOS
+- [nikitavoloboev/myworkflow](https://github.com/nikitavoloboev/myworkflow) - Place to share what you use. Apps/CLIs/Libraries/configs/..
 - [adi1090x/plymouth-themes](https://github.com/adi1090x/plymouth-themes) - A huge collection (80+) of plymouth themes ported from android bootanimations
 - [trapd00r/LS_COLORS](https://github.com/trapd00r/LS_COLORS) - A collection of LS_COLORS definitions; needs your contribution!
 - [michaelpj/nixos-config](https://github.com/michaelpj/nixos-config) - 
