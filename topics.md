@@ -37,6 +37,7 @@
 - [chrome-extension](#chrome-extension)
 - [cli](#cli)
 - [clojure](#clojure)
+- [cloud](#cloud)
 - [cms](#cms)
 - [code](#code)
 - [code-quality](#code-quality)
@@ -191,6 +192,7 @@
 - [privacy](#privacy)
 - [productivity](#productivity)
 - [programming](#programming)
+- [programming-language](#programming-language)
 - [project-management](#project-management)
 - [publishing](#publishing)
 - [pwa](#pwa)
@@ -261,6 +263,7 @@
 - [xcode](#xcode)
 - [xml](#xml)
 - [zig](#zig)
+- [zsh](#zsh)
 
 ## 3d 
 
@@ -726,6 +729,7 @@
 
 ## c 
 
+- [dunst-project/dunst](https://github.com/dunst-project/dunst) - Lightweight and customizable notification daemon
 - [htop-dev/htop](https://github.com/htop-dev/htop) - htop - an interactive process viewer
 - [WillPower3309/swayfx](https://github.com/WillPower3309/swayfx) - SwayFX: Sway, but with eye candy!
 - [BillyDM/awesome-audio-dsp](https://github.com/BillyDM/awesome-audio-dsp) - My curated list of audio DSP and plugin development resources
@@ -802,6 +806,7 @@
 
 ## cli 
 
+- [emersion/mako](https://github.com/emersion/mako) - A lightweight Wayland notification daemon
 - [BurntSushi/biff](https://github.com/BurntSushi/biff) - A command line tool for datetime arithmetic, parsing, formatting and more.
 - [muesli/duf](https://github.com/muesli/duf) - Disk Usage/Free Utility - a better 'df' alternative
 - [alexpasmantier/television](https://github.com/alexpasmantier/television) - A cross-platform, fast and extensible general purpose fuzzy finder 📺
@@ -859,7 +864,7 @@
 - [sachaos/viddy](https://github.com/sachaos/viddy) - 👀 A modern watch command. Time machine and pager etc.
 - [barthr/redo](https://github.com/barthr/redo) - Redo is the ultimate tool to create reusable functions from your history in an interactive way
 - [zk-org/zk](https://github.com/zk-org/zk) - A plain text note-taking assistant
-- [dlvhdr/gh-dash](https://github.com/dlvhdr/gh-dash) - A beautiful CLI dashboard for GitHub 🚀
+- [dlvhdr/gh-dash](https://github.com/dlvhdr/gh-dash) - A rich terminal UI for GitHub that doesn't break your flow.
 - [altdesktop/playerctl](https://github.com/altdesktop/playerctl) - 🎧 mpris media player command-line controller for vlc, mpv, RhythmBox, web browsers, cmus, mpd, spotify and others.
 - [ClementTsang/bottom](https://github.com/ClementTsang/bottom) - Yet another cross-platform graphical process/system monitor.
 - [charmbracelet/lipgloss](https://github.com/charmbracelet/lipgloss) - Style definitions for nice terminal layouts 👄
@@ -936,6 +941,24 @@
 - [phel-lang/phel-lang](https://github.com/phel-lang/phel-lang) - Phel is a functional programming language that transpiles to PHP. A Lisp dialect inspired by Clojure and Janet.
 - [abo-abo/lispy](https://github.com/abo-abo/lispy) - Short and sweet LISP editing
 - [logseq/logseq](https://github.com/logseq/logseq) - A privacy-first, open-source platform for knowledge management and collaboration. Download link:  http://github.com/logseq/logseq/releases. roadmap: http://trello.com/b/8txSM12G/roadmap
+
+## cloud 
+
+- [turbot/steampipe](https://github.com/turbot/steampipe) - Zero-ETL, infinite possibilities. Live query APIs, code & more with SQL. No DB required.
+- [kdeldycke/awesome-iam](https://github.com/kdeldycke/awesome-iam) - 👤 Identity and Access Management knowledge for cloud platforms
+- [BishopFox/cloudfox](https://github.com/BishopFox/cloudfox) - Automating situational awareness for cloud penetration tests.
+- [cloud-custodian/cloud-custodian](https://github.com/cloud-custodian/cloud-custodian) - Rules engine for cloud security, cost optimization, and governance, DSL in yaml for policies to query, filter, and take actions on resources
+- [icidasset/diffuse](https://github.com/icidasset/diffuse) - A music player that connects to your cloud/distributed storage.
+- [Qovery/Replibyte](https://github.com/Qovery/Replibyte) - Seed your development database with real data ⚡️
+- [varbhat/exatorrent](https://github.com/varbhat/exatorrent) - 🧲 Easy to Use Torrent Client. Can be hosted in Cloud. Files can be streamed in Browser/Media Player.
+- [gravitl/netmaker](https://github.com/gravitl/netmaker) - Netmaker makes networks with WireGuard. Netmaker automates fast, secure, and distributed virtual networks.
+- [donnemartin/dev-setup](https://github.com/donnemartin/dev-setup) - macOS development environment setup:  Easy-to-understand instructions with automated setup scripts for developer tools like Vim, Sublime Text, Bash, iTerm, Python data analysis, Spark, Hadoop MapReduc
+- [donnemartin/awesome-aws](https://github.com/donnemartin/awesome-aws) - A curated list of awesome Amazon Web Services (AWS) libraries, open source repos, guides, blogs, and other resources.  Featuring the Fiery Meter of AWSome.
+- [basings/selfhosted-music-overview](https://github.com/basings/selfhosted-music-overview) - A table listing software network services which can be hosted on your own servers
+- [localstack/localstack](https://github.com/localstack/localstack) - 💻 A fully functional local AWS cloud stack. Develop and test your cloud & Serverless apps offline
+- [NixOS/nixops](https://github.com/NixOS/nixops) - NixOps is a tool for deploying to NixOS machines in a network or cloud.
+- [linode/linode-cli](https://github.com/linode/linode-cli) - The official Linode command line interface.
+- [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) - A list of Free Software network services and web applications which can be hosted on your own servers
 
 ## cms 
 
@@ -1371,6 +1394,7 @@
 
 ## dotfiles 
 
+- [Aylur/dotfiles](https://github.com/Aylur/dotfiles) - My personal config files
 - [NotAShelf/nyx](https://github.com/NotAShelf/nyx) - My overengineered NixOS flake. Desktops, laptops, servers and everything else that can run an OS.
 - [spikespaz/dotfiles](https://github.com/spikespaz/dotfiles) - My NixOS dotfiles. Friends call it Bird OS.
 - [Ramblurr/nixcfg](https://github.com/Ramblurr/nixcfg) - ❄️ My nix flake for all my NixOS machines.
@@ -1414,7 +1438,7 @@
 - [EdenEast/nyx](https://github.com/EdenEast/nyx) - ⚙️Nix[OS] Configuration
 - [NeQuissimus/DevSetup](https://github.com/NeQuissimus/DevSetup) - dotfiles and NixOS setups
 - [utrack/dotfiles](https://github.com/utrack/dotfiles) - My collection of dotfiles
-- [gvolpe/nix-config](https://github.com/gvolpe/nix-config) - :space_invader: NixOS configuration
+- [gvolpe/nix-config](https://github.com/gvolpe/nix-config) - :space_invader: NixOS configuration :space_invader:
 - [Misterio77/nix-starter-configs](https://github.com/Misterio77/nix-starter-configs) - Simple and documented config templates to help you get started with NixOS + home-manager + flakes. All the boilerplate you need!
 - [evanrelf/dotfiles](https://github.com/evanrelf/dotfiles) - My personal dotfiles
 - [marlonrichert/zsh-launchpad](https://github.com/marlonrichert/zsh-launchpad) - 🚀 Simple, educational dotfiles template to get started with Zsh and learn about its features
@@ -1541,6 +1565,7 @@
 
 ## emacs 
 
+- [laluxx/crystal-point](https://github.com/laluxx/crystal-point) - a crystal clear cursor for Emacs
 - [emacs-tree-sitter/treesit-fold](https://github.com/emacs-tree-sitter/treesit-fold) - Code folding using treesit.el
 - [vberezhnev/better-org-habit.el](https://github.com/vberezhnev/better-org-habit.el) - 🎖️Game-changing package for org-habit with UI improvements and gamification feature
 - [thinkhuman/writingwithemacs](https://github.com/thinkhuman/writingwithemacs) - Tips, Examples, and Resources for Writing with Emacs
@@ -1687,7 +1712,7 @@
 - [yurrriq/dotfiles](https://github.com/yurrriq/dotfiles) - My (semi-)literate dotfiles for Nix, Emacs, fish, etc, managed with home-manager and GNU Stow
 - [edmundmiller/dotfiles](https://github.com/edmundmiller/dotfiles) - For keeping all my Dotfiles update to date
 - [jakeisnt/nixcfg](https://github.com/jakeisnt/nixcfg) - A modular, Wayland-enabled NixOS configuration.
-- [drym-org/symex.el](https://github.com/drym-org/symex.el) - An intuitive way to edit Lisp symbolic expressions ("symexes") structurally in Emacs
+- [drym-org/symex.el](https://github.com/drym-org/symex.el) - An expressive modal way to write code (esp. Lisp) in Emacs
 - [elken/doom](https://github.com/elken/doom) - Doom Emacs config
 - [emacs-eaf/emacs-application-framework](https://github.com/emacs-eaf/emacs-application-framework) - EAF, an extensible framework that revolutionizes the graphical capabilities of Emacs
 - [bbatsov/prelude](https://github.com/bbatsov/prelude) - Prelude is an enhanced Emacs 25.1+ distribution that should make your experience with Emacs both more pleasant and more powerful.
@@ -1942,7 +1967,7 @@
 
 ## gh-extension 
 
-- [dlvhdr/gh-dash](https://github.com/dlvhdr/gh-dash) - A beautiful CLI dashboard for GitHub 🚀
+- [dlvhdr/gh-dash](https://github.com/dlvhdr/gh-dash) - A rich terminal UI for GitHub that doesn't break your flow.
 
 ## git 
 
@@ -2019,7 +2044,7 @@
 - [leagris/githubsieve](https://github.com/leagris/githubsieve) - Sieve Mail filtering and tagging for Gitub Notifications
 - [nix-community/nurl](https://github.com/nix-community/nurl) - Generate Nix fetcher calls from repository URLs [maintainer=@figsoda]
 - [gregrickaby/nextjs-github-pages](https://github.com/gregrickaby/nextjs-github-pages) - 🚀 Deploy a Next.js app to GitHub Pages via GitHub Actions
-- [dlvhdr/gh-dash](https://github.com/dlvhdr/gh-dash) - A beautiful CLI dashboard for GitHub 🚀
+- [dlvhdr/gh-dash](https://github.com/dlvhdr/gh-dash) - A rich terminal UI for GitHub that doesn't break your flow.
 - [sindresorhus/notifier-for-github](https://github.com/sindresorhus/notifier-for-github) - Browser extension - Get notified about new GitHub notifications
 - [stefanbuck/awesome-browser-extensions-for-github](https://github.com/stefanbuck/awesome-browser-extensions-for-github) - A collection of awesome browser extensions for GitHub.
 - [OctoLinker/OctoLinker](https://github.com/OctoLinker/OctoLinker) - OctoLinker — Links together, what belongs together
@@ -2074,7 +2099,7 @@
 - [semgrep/semgrep](https://github.com/semgrep/semgrep) - Lightweight static analysis for many languages. Find bug variants with patterns that look like source code.
 - [barthr/redo](https://github.com/barthr/redo) - Redo is the ultimate tool to create reusable functions from your history in an interactive way
 - [arp242/goatcounter](https://github.com/arp242/goatcounter) - Easy web analytics. No tracking of personal data.
-- [dlvhdr/gh-dash](https://github.com/dlvhdr/gh-dash) - A beautiful CLI dashboard for GitHub 🚀
+- [dlvhdr/gh-dash](https://github.com/dlvhdr/gh-dash) - A rich terminal UI for GitHub that doesn't break your flow.
 - [writefreely/writefreely](https://github.com/writefreely/writefreely) - A clean, Markdown-based publishing platform made for writers. Write together and build a community.
 - [gopasspw/gopass](https://github.com/gopasspw/gopass) - The slightly more awesome standard unix password manager for teams
 - [caddyserver/caddy](https://github.com/caddyserver/caddy) - Fast and extensible multi-platform HTTP/1-2-3 web server with automatic HTTPS
@@ -2139,7 +2164,7 @@
 - [barthr/redo](https://github.com/barthr/redo) - Redo is the ultimate tool to create reusable functions from your history in an interactive way
 - [arp242/goatcounter](https://github.com/arp242/goatcounter) - Easy web analytics. No tracking of personal data.
 - [zsa/wally](https://github.com/zsa/wally) - The Flash(ing tool)
-- [dlvhdr/gh-dash](https://github.com/dlvhdr/gh-dash) - A beautiful CLI dashboard for GitHub 🚀
+- [dlvhdr/gh-dash](https://github.com/dlvhdr/gh-dash) - A rich terminal UI for GitHub that doesn't break your flow.
 - [owenthereal/upterm](https://github.com/owenthereal/upterm) - Instant Terminal Sharing
 - [caddyserver/caddy](https://github.com/caddyserver/caddy) - Fast and extensible multi-platform HTTP/1-2-3 web server with automatic HTTPS
 - [charmbracelet/lipgloss](https://github.com/charmbracelet/lipgloss) - Style definitions for nice terminal layouts 👄
@@ -2217,6 +2242,7 @@
 - [godaddy-wordpress/go](https://github.com/godaddy-wordpress/go) - The most flexible Gutenberg-first WordPress theme built for go-getters everywhere.
 - [inpsyde/disable-comments](https://github.com/inpsyde/disable-comments) - A WordPress plugin that completely disables comments as a WordPress feature.
 - [inpsyde/modularity](https://github.com/inpsyde/modularity) - A PSR-11 implementation for WordPress Plugins, Themes or Libraries.
+- [inpsyde/multisyde](https://github.com/inpsyde/multisyde) - A WordPress plugin that explores potential improvements for WordPress Multisite.
 - [nWidart/laravel-modules](https://github.com/nWidart/laravel-modules) - Module Management In Laravel
 - [5e-bits/5e-srd-api](https://github.com/5e-bits/5e-srd-api) - REST API to access D&D 5th Edition SRD database
 - [figsoda/mmtc](https://github.com/figsoda/mmtc) - Minimal mpd terminal client that aims to be simple yet highly configurable
@@ -2335,6 +2361,7 @@
 - [polybar/polybar](https://github.com/polybar/polybar) - A fast and easy-to-use status bar
 - [NvChad/NvChad](https://github.com/NvChad/NvChad) - Blazing fast Neovim framework providing solid defaults and a beautiful UI, enhancing your neovim experience.
 - [sharkdp/fd](https://github.com/sharkdp/fd) - A simple, fast and user-friendly alternative to 'find'
+- [TandoorRecipes/recipes](https://github.com/TandoorRecipes/recipes) - Application for managing recipes, planning meals, building shopping lists and much much more!
 - [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) - A powerful little TUI framework 🏗
 - [charmbracelet/wish](https://github.com/charmbracelet/wish) - Make SSH apps, just like that! 💫
 - [kubealex/k8s-mediaserver-operator](https://github.com/kubealex/k8s-mediaserver-operator) - Repository for k8s Mediaserver Operator project
@@ -2848,6 +2875,8 @@
 
 ## linux 
 
+- [tsukinaha/tsukimi](https://github.com/tsukinaha/tsukimi) - A simple third-party Jellyfin client for Linux
+- [Aylur/dotfiles](https://github.com/Aylur/dotfiles) - My personal config files
 - [muesli/duf](https://github.com/muesli/duf) - Disk Usage/Free Utility - a better 'df' alternative
 - [rcalixte/awesome-wayland](https://github.com/rcalixte/awesome-wayland) - A curated list of Wayland resources
 - [mixxxdj/mixxx](https://github.com/mixxxdj/mixxx) - Mixxx is Free DJ software that gives you everything you need to perform live mixes.
@@ -2903,7 +2932,7 @@
 - [notable/notable](https://github.com/notable/notable) - The Markdown-based note-taking app that doesn't suck.
 - [eepykate/polka](https://github.com/eepykate/polka) - 🐢 dotless files  (sponsored by https://git.io/kiwmi)
 - [zpm-zsh/zpm](https://github.com/zpm-zsh/zpm) - Zpm— Zsh Plugin Manager
-- [gvolpe/nix-config](https://github.com/gvolpe/nix-config) - :space_invader: NixOS configuration
+- [gvolpe/nix-config](https://github.com/gvolpe/nix-config) - :space_invader: NixOS configuration :space_invader:
 - [dvorka/mindforger](https://github.com/dvorka/mindforger) - Thinking notebook and Markdown editor.
 - [trimstray/the-book-of-secret-knowledge](https://github.com/trimstray/the-book-of-secret-knowledge) - A collection of inspiring lists, manuals, cheatsheets, blogs, hacks, one-liners, cli/web tools and more.
 - [Netherdrake/Dotfiles](https://github.com/Netherdrake/Dotfiles) - My [NeoVim + Tmux + Fish Shell] Setup /w install scripts
@@ -3302,7 +3331,7 @@
 - [EdenEast/nyx](https://github.com/EdenEast/nyx) - ⚙️Nix[OS] Configuration
 - [rockerBOO/awesome-neovim](https://github.com/rockerBOO/awesome-neovim) - Collections of awesome neovim plugins.
 - [nvim-mini/mini.nvim](https://github.com/nvim-mini/mini.nvim) - Library of 40+ independent Lua modules improving Neovim experience with minimal effort
-- [gvolpe/nix-config](https://github.com/gvolpe/nix-config) - :space_invader: NixOS configuration
+- [gvolpe/nix-config](https://github.com/gvolpe/nix-config) - :space_invader: NixOS configuration :space_invader:
 - [nvim-neorg/neorg](https://github.com/nvim-neorg/neorg) - Modernity meets insane extensibility. The future of organizing your life in Neovim.
 - [disrupted/dotfiles](https://github.com/disrupted/dotfiles) - 👨🏻‍💻 My dotfiles including Neovim Lua config, ZSH with zinit plugin manager & powerlevel10k prompt
 - [NTBBloodbath/cheovim](https://github.com/NTBBloodbath/cheovim) - Neovim configuration switcher written in Lua. Inspired by chemacs.
@@ -3525,6 +3554,8 @@
 
 ## others 
 
+- [bensadeh/tailspin](https://github.com/bensadeh/tailspin) - 🌀 A log file highlighter
+- [LGFae/swww](https://github.com/LGFae/swww) - A Solution to your Wayland Wallpaper Woes
 - [sentriz/cliphist](https://github.com/sentriz/cliphist) - Wayland clipboard manager with support for multimedia
 - [feel-co/ndg](https://github.com/feel-co/ndg) - NDG: Not a Docs Generator
 - [emacsmirror/setup](https://github.com/emacsmirror/setup) - Helpful Configuration Macro
@@ -3568,7 +3599,6 @@
 - [tsconfig/bases](https://github.com/tsconfig/bases) - Hosts TSConfigs to extend in a TypeScript app, tuned to a particular runtime environment
 - [infinum/eightshift-deploy-actions-public](https://github.com/infinum/eightshift-deploy-actions-public) - 
 - [inpsyde/gutenberg-versions-manager](https://github.com/inpsyde/gutenberg-versions-manager) - A lib that activate/deactivate a Gutenberg version depending on the Theme being activate
-- [inpsyde/multisyde](https://github.com/inpsyde/multisyde) - A WordPress plugin that explores potential improvements for WordPress Multisite.
 - [apple/container](https://github.com/apple/container) - A tool for creating and running Linux containers using lightweight virtual machines on a Mac. It is written in Swift, and optimized for Apple silicon.
 - [jeremykendall/php-domain-parser](https://github.com/jeremykendall/php-domain-parser) - Public Suffix List based domain parsing implemented in PHP
 - [fairpm/fair-plugin](https://github.com/fairpm/fair-plugin) - FAIR plugin
@@ -3850,7 +3880,7 @@
 - [RaubJo/hive](https://github.com/RaubJo/hive) - 
 - [smol-ai/developer](https://github.com/smol-ai/developer) - the first library to let you embed a developer agent in your own app!
 - [violentmonkey/violentmonkey](https://github.com/violentmonkey/violentmonkey) - Violentmonkey provides userscripts support for browsers. It works on browsers with WebExtensions support.
-- [zakirullin/cognitive-load](https://github.com/zakirullin/cognitive-load) - 🧠 Cognitive Load is what matters
+- [zakirullin/cognitive-load](https://github.com/zakirullin/cognitive-load) - 🧠 Cognitive load is what matters
 - [hendricius/the-sourdough-framework](https://github.com/hendricius/the-sourdough-framework) - Open source book dedicated to helping you to make the best possible sourdough bread at home.
 - [szepeviktor/WordPress-the-good-parts](https://github.com/szepeviktor/WordPress-the-good-parts) - A sustainable and modernized version of WordPress core.
 - [markmead/alpinejs-component](https://github.com/markmead/alpinejs-component) - Reusable HTML components powered by Alpine JS reactivity 🛸
@@ -4053,7 +4083,6 @@
 - [merrickluo/lsp-tailwindcss](https://github.com/merrickluo/lsp-tailwindcss) - the lsp-mode client for tailwindcss
 - [styx-static/styx](https://github.com/styx-static/styx) - Static site generator in Nix expression language.
 - [Automattic/vip-gold](https://github.com/Automattic/vip-gold) - VIP Go Local Development
-- [mattmc3/zephyr](https://github.com/mattmc3/zephyr) - :wind_face: A Zsh framework as nice as a cool summer breeze
 - [aameen-tulip/at-node-nix](https://github.com/aameen-tulip/at-node-nix) - Node.js Nix expressions
 - [remix-run/indie-stack](https://github.com/remix-run/indie-stack) - The Remix Stack for deploying to Fly with SQLite, authentication, testing, linting, formatting, etc.
 - [kovidgoyal/kitty-themes](https://github.com/kovidgoyal/kitty-themes) - Themes for the kitty terminal emulator
@@ -4420,7 +4449,6 @@
 - [bkaestner/org-arbeitszeit](https://github.com/bkaestner/org-arbeitszeit) - Calculate your working hours from your clocked time
 - [DeterminateSystems/update-flake-lock](https://github.com/DeterminateSystems/update-flake-lock) - Automatically refresh your Nix Flakes.
 - [matthewp/robot](https://github.com/matthewp/robot) - 🤖 A functional, immutable Finite State Machine library
-- [p-org/P](https://github.com/p-org/P) - The P programming language.
 - [otavioschwanck/harpoon.el](https://github.com/otavioschwanck/harpoon.el) - Harpoon for emacs
 - [Trevoke/org-gtd.el](https://github.com/Trevoke/org-gtd.el) - A package for using GTD with org-mode
 - [kkharji/nixenv](https://github.com/kkharji/nixenv) - Nix Library for creating OS independent Systems.
@@ -4431,7 +4459,6 @@
 - [emacsorphanage/applescript-mode](https://github.com/emacsorphanage/applescript-mode) - Emacs mode for editing AppleScript
 - [Kometa-Team/Kometa](https://github.com/Kometa-Team/Kometa) - Python script to update metadata information for items in plex as well as automatically build collections and playlists. The Wiki Documentation is linked below.
 - [divnix/devos-ext-lib](https://github.com/divnix/devos-ext-lib) - A kick ass library to dominate your Extensions (with DevOS).
-- [kevinywlui/zlong_alert.zsh](https://github.com/kevinywlui/zlong_alert.zsh) - A plugin to alert you when a long-running command has finished
 - [reckenrode/nixos-configs](https://github.com/reckenrode/nixos-configs) - My NixOS and nix-darwin configs
 - [junwei-wang/orb-book](https://github.com/junwei-wang/orb-book) - Book manager empowered by org-roam, org-roam-manager and helm-bibtex for Emacs
 - [knpatel401/filetree](https://github.com/knpatel401/filetree) - filetree is an emacs package for displaying and operating on a file list as a file tree, and for maintaining individual notes for files.
@@ -4490,8 +4517,6 @@
 - [jpochyla/psst](https://github.com/jpochyla/psst) - Fast and multi-platform Spotify client with native GUI
 - [rxi/microui](https://github.com/rxi/microui) - A tiny immediate-mode UI library
 - [zdharma-continuum/zinit-configs](https://github.com/zdharma-continuum/zinit-configs) - Real-world configuration files (basically zshrc-s) holding Zinit (former Zplugin) invocations
-- [zdharma-continuum/fast-syntax-highlighting](https://github.com/zdharma-continuum/fast-syntax-highlighting) - Feature-rich syntax highlighting for ZSH
-- [zdharma-continuum/zinit-module](https://github.com/zdharma-continuum/zinit-module) - zsh module for automatically compiling sourced files
 - [blaggacao/devos](https://github.com/blaggacao/devos) - highly structured NixOS configuration database
 - [CuyZ/Valinor](https://github.com/CuyZ/Valinor) - PHP library that helps to map any input into a strongly-typed value object structure.
 - [manna-harbour/qmk_firmware](https://github.com/manna-harbour/qmk_firmware) - See the "forkreadme" branch or the following link for a description of branches maintained in this fork.
@@ -4505,7 +4530,6 @@
 - [djcb/mu](https://github.com/djcb/mu) - maildir indexer/searcher + emacs mail client + guile bindings
 - [adrianlarion/useful-sed](https://github.com/adrianlarion/useful-sed) - Useful sed scripts & patterns.
 - [tecosaur/org-music](https://github.com/tecosaur/org-music) - Mirror of https://git.tecosaur.net/tec/org-music
-- [romkatv/zsh-bench](https://github.com/romkatv/zsh-bench) - Benchmark for interactive Zsh
 - [agkozak/Zsh-100-Commits-Club](https://github.com/agkozak/Zsh-100-Commits-Club) - Promote writing Zsh software not simple scripts
 - [et2010/org-gtd](https://github.com/et2010/org-gtd) - Private layer for GTD.
 - [zdharma-continuum/history-search-multi-word](https://github.com/zdharma-continuum/history-search-multi-word) - 
@@ -4648,7 +4672,6 @@
 - [brightcove/react-player-loader](https://github.com/brightcove/react-player-loader) - A React component that embeds and loads Brightcove Player scripts.
 - [skyler544/doom-nano-testing](https://github.com/skyler544/doom-nano-testing) - This is some rough code that tries to get Nano Emacs (by Nicolas Rougier) and Doom Emacs (by Henrik Lissner) to play nice together.
 - [nix-community/emacs-overlay](https://github.com/nix-community/emacs-overlay) - Bleeding edge emacs overlay [maintainer=@adisbladis]
-- [softmoth/zsh-vim-mode](https://github.com/softmoth/zsh-vim-mode) - Friendly bindings for ZSH's vi mode
 - [svanderburg/node2nix](https://github.com/svanderburg/node2nix) - Generate Nix expressions to build NPM packages
 - [xzfc/cached-nix-shell](https://github.com/xzfc/cached-nix-shell) - Instant startup time for nix-shell
 - [msteen/nix-prefetch](https://github.com/msteen/nix-prefetch) - Prefetch any fetcher function call, e.g. a package source
@@ -4656,12 +4679,10 @@
 - [mozilla/nixpkgs-mozilla](https://github.com/mozilla/nixpkgs-mozilla) - Mozilla overlay for Nixpkgs.
 - [numtide/flake-utils](https://github.com/numtide/flake-utils) - Pure Nix flake utility functions [maintainer=@zimbatm]
 - [bkase/barbq](https://github.com/bkase/barbq) - 🍖barbq is a text based status bar for macOS
-- [romkatv/zsh4humans](https://github.com/romkatv/zsh4humans) - A turnkey configuration for Zsh
 - [phpbench/phpbench](https://github.com/phpbench/phpbench) - PHP Benchmarking framework
 - [nix-dot-dev/getting-started-devenv-template](https://github.com/nix-dot-dev/getting-started-devenv-template) - Based on nix.dev tutorials, repository template to get you started with Nix.
 - [Sonarr/Sonarr](https://github.com/Sonarr/Sonarr) - Smart PVR for newsgroup and bittorrent users.
 - [aergonaut/aether](https://github.com/aergonaut/aether) - Son of Erebus (Darkness) and Nyx (Night)
-- [chisui/zsh-nix-shell](https://github.com/chisui/zsh-nix-shell) - zsh plugin that lets you use zsh in nix-shell shells.
 - [nix-community/nix-zsh-completions](https://github.com/nix-community/nix-zsh-completions) - ZSH Completions for Nix
 - [jtojnar/nixpkgs-hammering](https://github.com/jtojnar/nixpkgs-hammering) - Beat your package expressions into a shape
 - [nix-community/NUR](https://github.com/nix-community/NUR) - Nix User Repository: User contributed nix packages [maintainer=@Pandapip1]
@@ -4702,7 +4723,6 @@
 - [syavorsky/comment-parser](https://github.com/syavorsky/comment-parser) - Generic JSDoc-like comment parser.
 - [appleboy/ssh-action](https://github.com/appleboy/ssh-action) - GitHub Actions for executing remote ssh commands.
 - [actions/starter-workflows](https://github.com/actions/starter-workflows) - Accelerating new GitHub Actions workflows
-- [linode/linode-cli](https://github.com/linode/linode-cli) - The official Linode command line interface.
 - [btford/write-good](https://github.com/btford/write-good) - Naive linter for English prose
 - [errata-ai/vale](https://github.com/errata-ai/vale) - :pencil: A markup-aware linter for prose built with speed and extensibility in mind.
 - [Amar1729/yabai-zsh-completions](https://github.com/Amar1729/yabai-zsh-completions) - zsh completions for yabai tiling WM
@@ -4738,7 +4758,6 @@
 - [inkandswitch/cambria-project](https://github.com/inkandswitch/cambria-project) - Schema evolution with bi-directional lenses.
 - [jeticg/Evangelion-Uebersicht-Widget](https://github.com/jeticg/Evangelion-Uebersicht-Widget) - Evangelion Style Übersicht Widget.
 - [AGWA/git-crypt](https://github.com/AGWA/git-crypt) - Transparent file encryption in git
-- [marlonrichert/zsh-autocomplete](https://github.com/marlonrichert/zsh-autocomplete) - 🤖 Real-time type-ahead completion for Zsh. Asynchronous find-as-you-type autocompletion.
 - [fritzgrabo/cascading-dir-locals](https://github.com/fritzgrabo/cascading-dir-locals) - Emacs: Apply all (!) .dir-locals.el from root to current directory
 - [OfflineIMAP/imapfw](https://github.com/OfflineIMAP/imapfw) - imapfw (IMAP/mail framework)
 - [afewmail/afew](https://github.com/afewmail/afew) - an initial tagging script for notmuch mail
@@ -4771,7 +4790,6 @@
 - [santinic/how2](https://github.com/santinic/how2) - AI for the Command Line
 - [karlicoss/HPI](https://github.com/karlicoss/HPI) - Human Programming Interface 🧑👽🤖
 - [hundredrabbits/Ronin](https://github.com/hundredrabbits/Ronin) - Experimental Graphics Terminal
-- [hundredrabbits/Orca](https://github.com/hundredrabbits/Orca) - Esoteric Programming Language
 - [hundredrabbits/Left](https://github.com/hundredrabbits/Left) - Distractionless Writing Tool
 - [get-alex/alex](https://github.com/get-alex/alex) - Catch insensitive, inconsiderate writing
 - [krimlabs/z](https://github.com/krimlabs/z) - 🐢An incubator for a Zettlekasten Tool
@@ -4817,13 +4835,10 @@
 - [samme/base16-styles](https://github.com/samme/base16-styles) - Base16 color definitions in CSS, Less, Sass/Scss, and Stylus
 - [roddhjav/pass-import](https://github.com/roddhjav/pass-import) - A pass extension for importing data from most existing password managers
 - [aspiers/shell-env](https://github.com/aspiers/shell-env) - Adam's shell environment (bash/zsh) including a bunch of handy home-made utilities
-- [romkatv/powerlevel10k](https://github.com/romkatv/powerlevel10k) - A Zsh theme
 - [kdrag0n/base16-kitty](https://github.com/kdrag0n/base16-kitty) - Base16 color scheme template for kitty
 - [waymondo/apropospriate-theme](https://github.com/waymondo/apropospriate-theme) - A colorful, low-contrast, light & dark theme set for Emacs with a fun name
-- [agkozak/zsh-z](https://github.com/agkozak/zsh-z) - Jump quickly to directories that you have visited "frecently." A native Zsh port of z.sh with added features.
 - [joelparkerhenderson/brewfile](https://github.com/joelparkerhenderson/brewfile) - Brewfile
 - [RobSis/zsh-completion-generator](https://github.com/RobSis/zsh-completion-generator) - Plugin that generates completion functions automatically from getopt-style help texts
-- [eendroroy/alien-minimal](https://github.com/eendroroy/alien-minimal) - An asynchronous minimal zsh prompt
 - [NICHOLAS85/dotfiles](https://github.com/NICHOLAS85/dotfiles) - Followed https://www.atlassian.com/git/tutorials/dotfiles
 - [cyruseuros/ewal](https://github.com/cyruseuros/ewal) - 
 - [bahamas10/hue-cli](https://github.com/bahamas10/hue-cli) - A command line interface to phillips hue
@@ -4839,7 +4854,6 @@
 - [sirk123au/ArrTools](https://github.com/sirk123au/ArrTools) - A collection of tools for Radarr, Sonarr & Lidarr
 - [Evolution0/bandcamp-dl](https://github.com/Evolution0/bandcamp-dl) - Simple python script to download Bandcamp albums
 - [ar1a/dotfiles-old](https://github.com/ar1a/dotfiles-old) - My dotfiles
-- [abhigenie92/zsh_to_fish](https://github.com/abhigenie92/zsh_to_fish) - How to make zsh like fish?
 - [200ok-ch/org-parser](https://github.com/200ok-ch/org-parser) - org-parser is a parser for the Org mode markup language for Emacs.
 - [pashky/restclient.el](https://github.com/pashky/restclient.el) - HTTP REST client tool for emacs
 - [cryon/almost-mono-themes](https://github.com/cryon/almost-mono-themes) - Almost monochromatic themes for emacs in a few variants
@@ -5354,6 +5368,16 @@
 - [Chalarangelo/30-seconds-of-code](https://github.com/Chalarangelo/30-seconds-of-code) - Coding articles to level up your development skills
 - [adnanh/webhook](https://github.com/adnanh/webhook) - webhook is a lightweight incoming webhook server to run shell commands
 - [getify/You-Dont-Know-JS](https://github.com/getify/You-Dont-Know-JS) - A book series (2 published editions) on the JS language.
+
+## programming-language 
+
+- [phel-lang/phel-lang](https://github.com/phel-lang/phel-lang) - Phel is a functional programming language that transpiles to PHP. A Lisp dialect inspired by Clojure and Janet.
+- [rant-lang/rant](https://github.com/rant-lang/rant) - Rant - The templating language for procedural generation.
+- [vlang/v](https://github.com/vlang/v) - Simple, fast, safe, compiled language for developing maintainable software. Compiles itself in &lt;1s with zero library dependencies. Supports automatic C =&gt; V translation. https://vlang.io
+- [p-org/P](https://github.com/p-org/P) - The P programming language.
+- [supercollider/supercollider](https://github.com/supercollider/supercollider) - An audio server, programming language, and IDE for sound synthesis and algorithmic composition.
+- [charlax/professional-programming](https://github.com/charlax/professional-programming) - A collection of learning resources for curious software engineers
+- [hundredrabbits/Orca](https://github.com/hundredrabbits/Orca) - Esoteric Programming Language
 
 ## project-management 
 
@@ -6238,7 +6262,7 @@
 - [pimutils/khal](https://github.com/pimutils/khal) - :calendar: CLI calendar application
 - [sachaos/viddy](https://github.com/sachaos/viddy) - 👀 A modern watch command. Time machine and pager etc.
 - [barthr/redo](https://github.com/barthr/redo) - Redo is the ultimate tool to create reusable functions from your history in an interactive way
-- [dlvhdr/gh-dash](https://github.com/dlvhdr/gh-dash) - A beautiful CLI dashboard for GitHub 🚀
+- [dlvhdr/gh-dash](https://github.com/dlvhdr/gh-dash) - A rich terminal UI for GitHub that doesn't break your flow.
 - [owenthereal/upterm](https://github.com/owenthereal/upterm) - Instant Terminal Sharing
 - [onceupon/Bash-Oneliner](https://github.com/onceupon/Bash-Oneliner) - A collection of handy Bash One-Liners and terminal tricks for data processing and Linux system maintenance.
 - [ClementTsang/bottom](https://github.com/ClementTsang/bottom) - Yet another cross-platform graphical process/system monitor.
@@ -6696,6 +6720,7 @@
 - [inpsyde/disable-comments](https://github.com/inpsyde/disable-comments) - A WordPress plugin that completely disables comments as a WordPress feature.
 - [inpsyde/objects-hooks-remover](https://github.com/inpsyde/objects-hooks-remover) - Package to remove WordPress hook callbacks that uses object methods or closures.
 - [inpsyde/modularity](https://github.com/inpsyde/modularity) - A PSR-11 implementation for WordPress Plugins, Themes or Libraries.
+- [inpsyde/multisyde](https://github.com/inpsyde/multisyde) - A WordPress plugin that explores potential improvements for WordPress Multisite.
 - [inpsyde/phpcs](https://github.com/inpsyde/phpcs) - Syde PHP coding standards for WordPress development at scale.
 - [bueltge/wordpress-admin-style](https://github.com/bueltge/wordpress-admin-style) - This plugin reference elements from wp-admin in an overview with the necessary markup and CSS classes to help you to develop WordPress compliant.
 - [rnaga/wordpress-rest-admin](https://github.com/rnaga/wordpress-rest-admin) - A frontend for admin area of WordPress, using WP REST API and React. It works with Self-Hosted WordPress
@@ -6914,6 +6939,105 @@
 ## zig 
 
 - [fairyglade/ly](https://github.com/fairyglade/ly) - A lightweight TUI (ncurses-like) display manager for Linux and BSD (mirror of https://codeberg.org/fairyglade/ly).
+
+## zsh 
+
+- [NotAShelf/nyx](https://github.com/NotAShelf/nyx) - My overengineered NixOS flake. Desktops, laptops, servers and everything else that can run an OS.
+- [umlx5h/zsh-manpage-completion-generator](https://github.com/umlx5h/zsh-manpage-completion-generator) - Generate zsh completions from man page
+- [sioodmy/dotfiles](https://github.com/sioodmy/dotfiles) - My NixOS configuration flake that moggs yours in term of eval times
+- [junegunn/fzf-git.sh](https://github.com/junegunn/fzf-git.sh) - bash, zsh, and fish key bindings for Git objects, powered by fzf
+- [Hyde46/hoard](https://github.com/Hyde46/hoard) - cli command organizer written in rust
+- [starship/starship](https://github.com/starship/starship) - ☄🌌️  The minimal, blazing-fast, and infinitely customizable prompt for any shell!
+- [rgbatty/cauldron](https://github.com/rgbatty/cauldron) - Double, double toil and trouble; Fire burn and caldron bubble - A collection of declarative user and host configurations (eg. dotfiles) managed with Nix
+- [wbthomason/dotfiles](https://github.com/wbthomason/dotfiles) - My dotfiles
+- [mattmc3/zephyr](https://github.com/mattmc3/zephyr) - :wind_face: A Zsh framework as nice as a cool summer breeze
+- [carapace-sh/carapace](https://github.com/carapace-sh/carapace) - A multi-shell completion library.
+- [raexera/yoru](https://github.com/raexera/yoru) - A custom Linux environment built on AwesomeWM
+- [zimfw/zimfw](https://github.com/zimfw/zimfw) - Zim: Modular, customizable, and blazing fast Zsh framework
+- [elken/.nixpkgs](https://github.com/elken/.nixpkgs) - Nix dotfiles
+- [kimono-koans/httm](https://github.com/kimono-koans/httm) - Interactive, file-level Time Machine-like tool for ZFS/btrfs/nilfs2 (and even Time Machine and Restic backups!)
+- [khuedoan/dotfiles](https://github.com/khuedoan/dotfiles) - nvim, tmux, zsh, fzf, sway, and more!
+- [tinted-theming/base16-shell-legacy](https://github.com/tinted-theming/base16-shell-legacy) - Base16 for Shells
+- [atuinsh/atuin](https://github.com/atuinsh/atuin) - ✨ Magical shell history
+- [ssbanerje/dotfiles](https://github.com/ssbanerje/dotfiles) - My configuration files
+- [reegnz/jq-zsh-plugin](https://github.com/reegnz/jq-zsh-plugin) - jq zsh plugin
+- [warpdotdev/Warp](https://github.com/warpdotdev/Warp) - Warp is the agentic development environment, built for coding with multiple AI agents.
+- [black7375/BlaCk-Void-Zsh](https://github.com/black7375/BlaCk-Void-Zsh) - 🔮 Awesome, Customable Zsh Starter Kit 🌠🌠
+- [zpm-zsh/zpm](https://github.com/zpm-zsh/zpm) - Zpm— Zsh Plugin Manager
+- [kevinywlui/zlong_alert.zsh](https://github.com/kevinywlui/zlong_alert.zsh) - A plugin to alert you when a long-running command has finished
+- [shellspec/shellspec](https://github.com/shellspec/shellspec) - A full-featured BDD unit testing framework for bash, ksh, zsh, dash and all POSIX shells
+- [NeQuissimus/DevSetup](https://github.com/NeQuissimus/DevSetup) - dotfiles and NixOS setups
+- [ko1nksm/getoptions](https://github.com/ko1nksm/getoptions) - An elegant option/argument parser for shell scripts (full support for bash and all POSIX shells)
+- [marlonrichert/zsh-launchpad](https://github.com/marlonrichert/zsh-launchpad) - 🚀 Simple, educational dotfiles template to get started with Zsh and learn about its features
+- [radian-software/radian](https://github.com/radian-software/radian) - 🍉 Dotfiles that marry elegance and practicality.
+- [zdharma-continuum/fast-syntax-highlighting](https://github.com/zdharma-continuum/fast-syntax-highlighting) - Feature-rich syntax highlighting for ZSH
+- [zdharma-continuum/zinit-module](https://github.com/zdharma-continuum/zinit-module) - zsh module for automatically compiling sourced files
+- [zdharma-continuum/zinit](https://github.com/zdharma-continuum/zinit) - 🌻 Flexible and fast ZSH plugin manager
+- [disrupted/dotfiles](https://github.com/disrupted/dotfiles) - 👨🏻‍💻 My dotfiles including Neovim Lua config, ZSH with zinit plugin manager & powerlevel10k prompt
+- [jeffreytse/zsh-vi-mode](https://github.com/jeffreytse/zsh-vi-mode) - 💻 A better and friendly vi(vim) mode plugin for ZSH.
+- [romkatv/zsh-bench](https://github.com/romkatv/zsh-bench) - Benchmark for interactive Zsh
+- [agkozak/zcomet](https://github.com/agkozak/zcomet) - zcomet - Fast, Simple Zsh Plugin Manager
+- [edmundmiller/dotfiles](https://github.com/edmundmiller/dotfiles) - For keeping all my Dotfiles update to date
+- [jacobfoard/dotfiles](https://github.com/jacobfoard/dotfiles) - 
+- [marlonrichert/zsh-snap](https://github.com/marlonrichert/zsh-snap) - ⚡️ Znap! Fast, easy-to-use tools for Zsh dotfiles & plugins, plus git repos
+- [denisse-dev/dotfiles](https://github.com/denisse-dev/dotfiles) - :dragon_face: My Arch Linux config [Zsh + Sway + Alacritty + Emacs, etc]
+- [trapd00r/LS_COLORS](https://github.com/trapd00r/LS_COLORS) - A collection of LS_COLORS definitions; needs your contribution!
+- [marzocchi/zsh-notify](https://github.com/marzocchi/zsh-notify) - Desktop notifications for long-running commands in zsh.
+- [colonelpanic8/dotfiles](https://github.com/colonelpanic8/dotfiles) - Configuration files for XMonad, Emacs, NixOS, Taffybar and more.
+- [wfxr/forgit](https://github.com/wfxr/forgit) - :zzz: A utility tool powered by fzf for using git interactively.
+- [softmoth/zsh-vim-mode](https://github.com/softmoth/zsh-vim-mode) - Friendly bindings for ZSH's vi mode
+- [Aloxaf/fzf-tab](https://github.com/Aloxaf/fzf-tab) - Replace zsh's default completion selection menu with fzf!
+- [kalkayan/dotfiles](https://github.com/kalkayan/dotfiles) - Dotfiles or you can say my swiss army knife. Configs for creating a delightful development experience - vim + tmux + Fzf + Rg + LSP etc.
+- [unixorn/tumult.plugin.zsh](https://github.com/unixorn/tumult.plugin.zsh) - Tumult is a collection of macOS-specific functions and scripts for your shell environment. It is packaged as a ZSH plugin, but can be used with other shells as well.
+- [rothgar/mastering-zsh](https://github.com/rothgar/mastering-zsh) - Advanced topics to take advantage of zsh 👩‍💻👨‍💻
+- [romkatv/zsh4humans](https://github.com/romkatv/zsh4humans) - A turnkey configuration for Zsh
+- [unixorn/zsh-quickstart-kit](https://github.com/unixorn/zsh-quickstart-kit) - A simple ZSH quickstart for using ZSH, zgenom, oh-my-zsh and a curated list of extra plugins. It is designed to be easy to customize without requiring you to maintain your own fork.
+- [jandamm/zgenom](https://github.com/jandamm/zgenom) - A lightweight and fast plugin manager for ZSH
+- [chisui/zsh-nix-shell](https://github.com/chisui/zsh-nix-shell) - zsh plugin that lets you use zsh in nix-shell shells.
+- [wookayin/dotfiles](https://github.com/wookayin/dotfiles) - :house: Personal dotfiles for *NIX systems
+- [agkozak/polyglot](https://github.com/agkozak/polyglot) - Color, ASCII-only Git prompt for zsh, bash, ksh93, mksh, pdksh, oksh, dash, yash, busybox ash, and osh
+- [MenkeTechnologies/zpwr](https://github.com/MenkeTechnologies/zpwr) - ZPWR =&gt; World's Most Advanced UNIX Terminal Environment
+- [basherpm/basher](https://github.com/basherpm/basher) - A package manager for shell scripts.
+- [statico/dotfiles](https://github.com/statico/dotfiles) - :floppy_disk:  Ian's dotfiles, utils, and Zsh/Vim/tmux configs
+- [direnv/direnv](https://github.com/direnv/direnv) - unclutter your .profile
+- [relastle/pmy](https://github.com/relastle/pmy) - :rocket: General purpose context-aware zsh completion engine powered by fuzzy finder.
+- [3v1n0/zsh-bash-completions-fallback](https://github.com/3v1n0/zsh-bash-completions-fallback) - Simple zsh plugin to support bash completions for a command if no native one is available
+- [xero/dotfiles](https://github.com/xero/dotfiles) - rice 🍚 custom linux config files. as seen on r/unixporn #noricenolife neovim cultist. dotfiles are perpetual wip
+- [meain/dotfiles](https://github.com/meain/dotfiles) - If there is a shell, there is a way!
+- [dschep/ntfy](https://github.com/dschep/ntfy) - 🖥️📱🔔 A utility for sending notifications, on demand and when commands finish.
+- [dvorka/hstr](https://github.com/dvorka/hstr) - bash and zsh shell history suggest box - easily view, navigate, search and manage your command history.
+- [ajeetdsouza/zoxide](https://github.com/ajeetdsouza/zoxide) - A smarter cd command. Supports all major shells.
+- [marlonrichert/zsh-autocomplete](https://github.com/marlonrichert/zsh-autocomplete) - 🤖 Real-time type-ahead completion for Zsh. Asynchronous find-as-you-type autocompletion.
+- [dim-an/cod](https://github.com/dim-an/cod) - cod is a completion daemon for bash/fish/zsh
+- [ahmedelgabri/dotfiles](https://github.com/ahmedelgabri/dotfiles) - ~ 🍭 ~
+- [mfaerevaag/wd](https://github.com/mfaerevaag/wd) - :rocket: Jump to custom directories in zsh
+- [zsh-users/zsh-completions](https://github.com/zsh-users/zsh-completions) - Additional completion definitions for Zsh.
+- [enquirer/enquirer](https://github.com/enquirer/enquirer) - Stylish, intuitive and user-friendly prompts. Used by eslint, webpack, yarn, pm2, pnpm, RedwoodJS, FactorJS, salesforce, Cypress, Google Lighthouse, Generate, tencent cloudbase, lint-staged, gluegun, 
+- [faressoft/terminalizer](https://github.com/faressoft/terminalizer) - 🦄 Record your terminal and generate animated gif images or share a web player
+- [ssh0/dot](https://github.com/ssh0/dot) - Simplest dotfiles manager written in shellscript :shell:
+- [Seirdy/dotfiles](https://github.com/Seirdy/dotfiles) - Seirdy's dotfiles
+- [csivanich/dotfiles](https://github.com/csivanich/dotfiles) - Configuration repository containing most customized home folder dotfiles.
+- [liquidprompt/liquidprompt](https://github.com/liquidprompt/liquidprompt) - A full-featured & carefully designed adaptive prompt for Bash & Zsh
+- [olets/zsh-abbr](https://github.com/olets/zsh-abbr) - The zsh manager for auto-expanding abbreviations, inspired by fish. ~32,000 clones by ~21,000 unique cloners as of May '25, and averaging ~60-70 Homebrew installs monthly since June 2023
+- [alebcay/awesome-shell](https://github.com/alebcay/awesome-shell) - A curated list of awesome command-line frameworks, toolkits, guides and gizmos. Inspired by awesome-php.
+- [romkatv/powerlevel10k](https://github.com/romkatv/powerlevel10k) - A Zsh theme
+- [junegunn/fzf](https://github.com/junegunn/fzf) - :cherry_blossom: A command-line fuzzy finder
+- [skywind3000/z.lua](https://github.com/skywind3000/z.lua) - :zap: A new cd command that helps you navigate faster by learning your habits.
+- [agkozak/zsh-z](https://github.com/agkozak/zsh-z) - Jump quickly to directories that you have visited "frecently." A native Zsh port of z.sh with added features.
+- [eendroroy/alien-minimal](https://github.com/eendroroy/alien-minimal) - An asynchronous minimal zsh prompt
+- [geometry-zsh/geometry](https://github.com/geometry-zsh/geometry) - geometry is a minimal, composable zsh prompt
+- [sindresorhus/pure](https://github.com/sindresorhus/pure) - Pretty, minimal and fast ZSH prompt
+- [sorin-ionescu/prezto](https://github.com/sorin-ionescu/prezto) - The configuration framework for Zsh
+- [abhigenie92/zsh_to_fish](https://github.com/abhigenie92/zsh_to_fish) - How to make zsh like fish?
+- [inscapist/dotfiles](https://github.com/inscapist/dotfiles) - My dotfiles - Emacs centric OSX Big Sur
+- [asdf-vm/asdf](https://github.com/asdf-vm/asdf) - Extendable version manager with support for Ruby, Node.js, Elixir, Erlang & more
+- [bevry/dorothy](https://github.com/bevry/dorothy) - 🧙🏻‍♀️ A dotfile ecosystem: cross-shell, cross-os, cross-arch. Make your commands and configurations portable, solve a problem once and for all users. Hundreds of builtin composable primitives for powe
+- [sloria/dotfiles](https://github.com/sloria/dotfiles) - sloria's dotfiles as Ansible roles
+- [modernish/modernish](https://github.com/modernish/modernish) - Modernish is a library for writing robust, portable, readable, and powerful programs for POSIX-based shells and utilities.
+- [tony/.dot-config](https://github.com/tony/.dot-config) - :books: Example dot configs for tmux, tmuxp, vim, vcspull, i3 and awesome
+- [zsh-users/zsh-autosuggestions](https://github.com/zsh-users/zsh-autosuggestions) - Fish-like autosuggestions for zsh
+- [ohmyzsh/ohmyzsh](https://github.com/ohmyzsh/ohmyzsh) - 🙃   A delightful community-driven (with 2,400+ contributors) framework for managing your zsh configuration. Includes 300+ optional plugins (rails, git, macOS, hub, docker, homebrew, node, php, python,
+- [holman/dotfiles](https://github.com/holman/dotfiles) - @holman does dotfiles
 
 
 ## License
