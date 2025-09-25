@@ -130,6 +130,8 @@
 
 ## C 
 
+- [dunst-project/dunst](https://github.com/dunst-project/dunst) - Lightweight and customizable notification daemon
+- [emersion/mako](https://github.com/emersion/mako) - A lightweight Wayland notification daemon
 - [swaywm/swayidle](https://github.com/swaywm/swayidle) - Idle management daemon for Wayland
 - [pwmt/zathura](https://github.com/pwmt/zathura) - Document viewer
 - [nelhage/reptyr](https://github.com/nelhage/reptyr) - Reparent a running program to a new terminal
@@ -385,6 +387,7 @@
 
 ## Emacs Lisp 
 
+- [laluxx/crystal-point](https://github.com/laluxx/crystal-point) - a crystal clear cursor for Emacs
 - [emacs-tree-sitter/treesit-fold](https://github.com/emacs-tree-sitter/treesit-fold) - Code folding using treesit.el
 - [emacsmirror/setup](https://github.com/emacsmirror/setup) - Helpful Configuration Macro
 - [progfolio/wordel](https://github.com/progfolio/wordel) - Wordle in Emacs
@@ -664,7 +667,7 @@
 - [himmAllRight/ry-org-scrum](https://github.com/himmAllRight/ry-org-scrum) - Emacs package to manage personal scrum planning in org mode
 - [mclear-tools/bespoke-modeline](https://github.com/mclear-tools/bespoke-modeline) - A simple custom modeline
 - [bbatsov/guru-mode](https://github.com/bbatsov/guru-mode) - Learn to use Emacs the way it was meant to be used (the Emacs guru way)
-- [drym-org/symex.el](https://github.com/drym-org/symex.el) - An intuitive way to edit Lisp symbolic expressions ("symexes") structurally in Emacs
+- [drym-org/symex.el](https://github.com/drym-org/symex.el) - An expressive modal way to write code (esp. Lisp) in Emacs
 - [ahungry/geben](https://github.com/ahungry/geben) - Geben - PHP xdebug for Emacs
 - [bbatsov/prelude](https://github.com/bbatsov/prelude) - Prelude is an enhanced Emacs 25.1+ distribution that should make your experience with Emacs both more pleasant and more powerful.
 - [etu/webpaste.el](https://github.com/etu/webpaste.el) - webpaste.el can paste whole buffers or parts of buffers to several pastebin-like services and supports failover if one service fails.
@@ -891,7 +894,7 @@
 - [arp242/goatcounter](https://github.com/arp242/goatcounter) - Easy web analytics. No tracking of personal data.
 - [zk-org/zk](https://github.com/zk-org/zk) - A plain text note-taking assistant
 - [zsa/wally](https://github.com/zsa/wally) - The Flash(ing tool)
-- [dlvhdr/gh-dash](https://github.com/dlvhdr/gh-dash) - A beautiful CLI dashboard for GitHub 🚀
+- [dlvhdr/gh-dash](https://github.com/dlvhdr/gh-dash) - A rich terminal UI for GitHub that doesn't break your flow.
 - [writefreely/writefreely](https://github.com/writefreely/writefreely) - A clean, Markdown-based publishing platform made for writers. Write together and build a community.
 - [tailscale/tailscale](https://github.com/tailscale/tailscale) - The easiest, most secure way to use WireGuard and 2FA.
 - [projectdiscovery/nuclei](https://github.com/projectdiscovery/nuclei) - Nuclei is a fast, customizable vulnerability scanner powered by the global security community and built on a simple YAML-based DSL, enabling collaboration to tackle trending vulnerabilities on the int
@@ -1560,6 +1563,7 @@
 
 ## Nix 
 
+- [Aylur/dotfiles](https://github.com/Aylur/dotfiles) - My personal config files
 - [nix-community/nix-unit](https://github.com/nix-community/nix-unit) - Unit testing for Nix code [maintainer=@adisbladis]
 - [xddxdd/nix-math](https://github.com/xddxdd/nix-math) - Experimental mathematical library in pure Nix, using no external library.
 - [marsam/tree-sitter-grammars](https://github.com/marsam/tree-sitter-grammars) - A collection of tree-sitter grammars as Nix packages
@@ -1567,6 +1571,7 @@
 - [pdtpartners/globset](https://github.com/pdtpartners/globset) - Simplify Nix source management using familiar glob patterns
 - [ursi/get-flake](https://github.com/ursi/get-flake) - builtins.getFlake without the restrictions
 - [viperML/nix-maid](https://github.com/viperML/nix-maid) - Systemd + Nix dotfile management
+- [numtide/nix-ai-tools](https://github.com/numtide/nix-ai-tools) - Exploring the integration between Nix and AI coding agents
 - [terlar/dev-flake](https://github.com/terlar/dev-flake) - Nix flake to support the pattern of using a separate development flake
 - [nicknovitski/make-shell](https://github.com/nicknovitski/make-shell) - mkShell meets modules
 - [nix-community/nixos-facter-modules](https://github.com/nix-community/nixos-facter-modules) - A series of NixOS modules to be used in conjunction with https://github.com/nix-community/nixos-facter [maintainer=@brianmcgee,@Mic92]
@@ -1826,7 +1831,7 @@
 - [vic/clap-nix](https://github.com/vic/clap-nix) - Command line argument parser in pure Nix. Supports sub-commands, typed positional arguments, value coercion and resolution via Nix Modules.
 - [vic/vix](https://github.com/vic/vix) - Vic's *Nix config.
 - [vic/mk-darwin-system](https://github.com/vic/mk-darwin-system) - Small Nix utility to create an M1 aarch64-darwin (nixFlakes + nix-darwin + home-manager) system.
-- [gvolpe/nix-config](https://github.com/gvolpe/nix-config) - :space_invader: NixOS configuration
+- [gvolpe/nix-config](https://github.com/gvolpe/nix-config) - :space_invader: NixOS configuration :space_invader:
 - [Misterio77/nix-starter-configs](https://github.com/Misterio77/nix-starter-configs) - Simple and documented config templates to help you get started with NixOS + home-manager + flakes. All the boilerplate you need!
 - [Shados/nix-config-shared](https://github.com/Shados/nix-config-shared) - My cross-machine shared configuration, defaults, modules, and packages not suitable for upstreaming or NUR
 - [aciceri/nixfleet](https://github.com/aciceri/nixfleet) - A complete, declarative and reproducible configuration of my entire Nix fleet.
@@ -2009,7 +2014,7 @@
 - [termstandard/colors](https://github.com/termstandard/colors) - Color standards for terminal emulators
 - [laravel/docs](https://github.com/laravel/docs) - The Laravel documentation.
 - [Automattic/phpcs-neutron-ruleset](https://github.com/Automattic/phpcs-neutron-ruleset) - A phpcs meta-ruleset for WordPress development
-- [zakirullin/cognitive-load](https://github.com/zakirullin/cognitive-load) - 🧠 Cognitive Load is what matters
+- [zakirullin/cognitive-load](https://github.com/zakirullin/cognitive-load) - 🧠 Cognitive load is what matters
 - [BillyDM/awesome-audio-dsp](https://github.com/BillyDM/awesome-audio-dsp) - My curated list of audio DSP and plugin development resources
 - [lg/yabai-and-skhd-highlighting](https://github.com/lg/yabai-and-skhd-highlighting) - yabai and skhd syntax highlighting for vscode
 - [smknstd/modern-php-cheatsheet](https://github.com/smknstd/modern-php-cheatsheet) - Cheatsheet for some PHP knowledge you will frequently encounter in modern projects.
@@ -2681,7 +2686,6 @@
 - [dbcli/mycli](https://github.com/dbcli/mycli) - A Terminal Client for MySQL with AutoCompletion and Syntax Highlighting.
 - [bunkerity/bunkerweb](https://github.com/bunkerity/bunkerweb) - 🛡️ Open-source and next-generation Web Application Firewall (WAF)
 - [s0md3v/Breacher](https://github.com/s0md3v/Breacher) - An advanced multithreaded admin panel finder written in python.
-- [kholia/OSX-KVM](https://github.com/kholia/OSX-KVM) - Run macOS on QEMU/KVM. With OpenCore + Monterey + Ventura + Sonoma support now! Only commercial (paid) support is available now to avoid spammy issues. No Mac system is required.
 - [icloud-photos-downloader/icloud_photos_downloader](https://github.com/icloud-photos-downloader/icloud_photos_downloader) - A command-line tool to download photos from iCloud
 - [nicolargo/glances](https://github.com/nicolargo/glances) - Glances an Eye on your system. A top/htop alternative for GNU/Linux, BSD, Mac OS and Windows operating systems.
 - [aszlig/hetzner](https://github.com/aszlig/hetzner) - A high-level Python API for accessing the Hetzner robot.
@@ -2870,6 +2874,9 @@
 
 ## Rust 
 
+- [bensadeh/tailspin](https://github.com/bensadeh/tailspin) - 🌀 A log file highlighter
+- [tsukinaha/tsukimi](https://github.com/tsukinaha/tsukimi) - A simple third-party Jellyfin client for Linux
+- [LGFae/swww](https://github.com/LGFae/swww) - A Solution to your Wayland Wallpaper Woes
 - [BurntSushi/biff](https://github.com/BurntSushi/biff) - A command line tool for datetime arithmetic, parsing, formatting and more.
 - [alexpasmantier/television](https://github.com/alexpasmantier/television) - A cross-platform, fast and extensible general purpose fuzzy finder 📺
 - [feel-co/ndg](https://github.com/feel-co/ndg) - NDG: Not a Docs Generator
@@ -3111,7 +3118,6 @@
 
 ## Shell 
 
-- [numtide/nix-ai-tools](https://github.com/numtide/nix-ai-tools) - Exploring the integration between Nix and AI coding agents
 - [sultann/wordpress-site-deploy](https://github.com/sultann/wordpress-site-deploy) - Deploy wp-content using SSH and rsync with .distignore and Slack support.
 - [mrOttoW/ddev-wordpress-vite](https://github.com/mrOttoW/ddev-wordpress-vite) - This add-on simply adds a yaml config that exposes and routes the ports necessary to load up the Vite dev server ande make use of their HMR features inside DDEV.
 - [Vladimir-csp/app2unit](https://github.com/Vladimir-csp/app2unit) - Launches Desktop Entries as Systemd user units
@@ -3156,6 +3162,7 @@
 - [matryer/xbar-plugins](https://github.com/matryer/xbar-plugins) - Plugin repository for xbar (the BitBar reboot)
 - [NixOS/flake-registry](https://github.com/NixOS/flake-registry) - Global registry of Nix flakes
 - [erikarvstedt/extra-container](https://github.com/erikarvstedt/extra-container) - Run declarative NixOS containers without full system rebuilds
+- [kholia/OSX-KVM](https://github.com/kholia/OSX-KVM) - Run macOS on QEMU/KVM. With OpenCore + Monterey + Ventura + Sonoma support now! Only commercial (paid) support is available now to avoid spammy issues. No Mac system is required.
 - [zilexa/Homeserver](https://github.com/zilexa/Homeserver) - Lightweight home server based on microservices, usable as desktop workstation
 - [alainwolf/roll.urown.net](https://github.com/alainwolf/roll.urown.net) - How to roll your own private self-hosted internet services.
 - [tinted-theming/base16-shell-legacy](https://github.com/tinted-theming/base16-shell-legacy) - Base16 for Shells
