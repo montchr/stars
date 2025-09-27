@@ -999,6 +999,7 @@
 
 ## HTML 
 
+- [SenchoPens/base16-kandinsky](https://github.com/SenchoPens/base16-kandinsky) - A base16 colorscheme based on "Yellow, Red, Blue" by Wassily Kandinsky.
 - [simonw/til](https://github.com/simonw/til) - Today I Learned
 - [emacstv/emacstv.github.io](https://github.com/emacstv/emacstv.github.io) - 
 - [carolinan/fullsiteediting](https://github.com/carolinan/fullsiteediting) - 
@@ -1115,7 +1116,6 @@
 - [nix-community/nix-on-droid-app](https://github.com/nix-community/nix-on-droid-app) - Run Nix package manager on Android. Based off Termux the terminal emulator, but not Termux the distro. [maintainer=@t184256]
 - [termux/termux-app](https://github.com/termux/termux-app) - Termux - a terminal emulator application for Android OS extendible by variety of packages.
 - [Arcticons-Team/Arcticons](https://github.com/Arcticons-Team/Arcticons) - A monotone line-based icon pack for android
-- [google/closure-compiler](https://github.com/google/closure-compiler) - A JavaScript checker and optimizer.
 - [airmessage/airmessage-android](https://github.com/airmessage/airmessage-android) - AirMessage for Android phones, tablets, and laptops
 - [openboard-team/openboard](https://github.com/openboard-team/openboard) - 
 - [AnySoftKeyboard/AnySoftKeyboard](https://github.com/AnySoftKeyboard/AnySoftKeyboard) - Android (f/w 2.1+) on screen keyboard for multiple languages.
@@ -1160,6 +1160,7 @@
 - [nextcloud/integration_dropbox](https://github.com/nextcloud/integration_dropbox) - 🧊 Dropbox integration into Nextcloud
 - [10up/gutenberg-best-practices](https://github.com/10up/gutenberg-best-practices) - Welcome to the 10up Gutenberg Best Practices!
 - [gbprod/tree-sitter-twig](https://github.com/gbprod/tree-sitter-twig) - Twig grammar for Tree-sitter
+- [google/closure-compiler](https://github.com/google/closure-compiler) - A JavaScript checker and optimizer.
 - [area17/tailwind-plugins](https://github.com/area17/tailwind-plugins) - A series of Tailwind plugins to enable/encourage systematised web design/development and some other useful utility classes.
 - [Automattic/block-experiments](https://github.com/Automattic/block-experiments) - A monorepo of Block Experiments
 - [joanrodas/plubo](https://github.com/joanrodas/plubo) - Simple WordPress plugin boilerplate
@@ -1563,6 +1564,7 @@
 
 ## Nix 
 
+- [SenchoPens/fromYaml](https://github.com/SenchoPens/fromYaml) - yaml parser in pure nix
 - [Aylur/dotfiles](https://github.com/Aylur/dotfiles) - My personal config files
 - [nix-community/nix-unit](https://github.com/nix-community/nix-unit) - Unit testing for Nix code [maintainer=@adisbladis]
 - [xddxdd/nix-math](https://github.com/xddxdd/nix-math) - Experimental mathematical library in pure Nix, using no external library.
@@ -2244,7 +2246,7 @@
 - [archtechx/tenancy](https://github.com/archtechx/tenancy) - Automatic multi-tenancy for Laravel. No code changes needed.
 - [bonny/WordPress-Simple-History](https://github.com/bonny/WordPress-Simple-History) - 🔍🕵️‍♀️ WordPress audit log that track user changes in WordPress admin using a nice activity feed.
 - [24Slides/laravel-saml2](https://github.com/24Slides/laravel-saml2) - [Laravel 5.4+] An integration to add SSO to your service via SAML2 protocol based on OneLogin toolkit with support of multiple Identity Providers
-- [przemekhernik/footmate.pro](https://github.com/przemekhernik/footmate.pro) - 
+- [pragmatedev/vilare](https://github.com/pragmatedev/vilare) - 
 - [asuh/forage](https://github.com/asuh/forage) - Forage is a WordPress Starter Theme for custom themes using Laravel Blade, Vite, and Biome.
 - [roots/acorn-example-package](https://github.com/roots/acorn-example-package) - A template for creating your own Acorn packages
 - [retlehs/kinsta-mu-plugins](https://github.com/retlehs/kinsta-mu-plugins) - kinsta-mu-plugins with composer.json
@@ -2610,7 +2612,6 @@
 
 ## PowerShell 
 
-- [anthropics/claude-code](https://github.com/anthropics/claude-code) - Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows 
 - [djdallmann/GamingPCSetup](https://github.com/djdallmann/GamingPCSetup) - A research and evidence based approach to optimizing your gaming PC, configuration and setup. Recommendations found in this guide are based on curated reputable technical references, and personal rese
 
 ## Processing 
@@ -3237,7 +3238,6 @@
 - [marlonrichert/zsh-snap](https://github.com/marlonrichert/zsh-snap) - ⚡️ Znap! Fast, easy-to-use tools for Zsh dotfiles & plugins, plus git repos
 - [agkozak/dotfiles](https://github.com/agkozak/dotfiles) - Dotfiles for zsh, vim, tmux, and more. Now using zcomet!
 - [lilyball/nix-env.fish](https://github.com/lilyball/nix-env.fish) - Nix environment setup for the fish shell
-- [nikitavoloboev/myworkflow](https://github.com/nikitavoloboev/myworkflow) - Place to share what you use. Apps/CLIs/Libraries/Configs/..
 - [adi1090x/plymouth-themes](https://github.com/adi1090x/plymouth-themes) - A huge collection (80+) of plymouth themes ported from android bootanimations
 - [trapd00r/LS_COLORS](https://github.com/trapd00r/LS_COLORS) - A collection of LS_COLORS definitions; needs your contribution!
 - [michaelpj/nixos-config](https://github.com/michaelpj/nixos-config) - 
@@ -3455,6 +3455,7 @@
 
 ## TypeScript 
 
+- [anthropics/claude-code](https://github.com/anthropics/claude-code) - Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows 
 - [shimataro/ssh-key-action](https://github.com/shimataro/ssh-key-action) - GitHub Action that installs SSH key to .ssh
 - [thefrontside/lspx](https://github.com/thefrontside/lspx) - language server multiplexer, supervisor, and interactive shell
 - [RebeccaStevens/deepmerge-ts](https://github.com/RebeccaStevens/deepmerge-ts) - Deeply merge 2 or more objects respecting type information.
@@ -3629,6 +3630,7 @@
 - [mantinedev/mantine](https://github.com/mantinedev/mantine) - A fully featured React components library
 - [sindresorhus/modern-normalize](https://github.com/sindresorhus/modern-normalize) - 🐒 Normalize browsers' default style
 - [rasendubi/uniorg](https://github.com/rasendubi/uniorg) - An accurate Org-mode parser for JavaScript/TypeScript
+- [nikitavoloboev/myflow](https://github.com/nikitavoloboev/myflow) - Place to share & store what you use
 - [microsoft/playwright](https://github.com/microsoft/playwright) - Playwright is a framework for Web Testing and Automation. It allows testing Chromium, Firefox and WebKit with a single API.
 - [hedgedoc/react-client](https://github.com/hedgedoc/react-client) - The frontend of the upcoming version 2.0
 - [hedgedoc/hedgedoc](https://github.com/hedgedoc/hedgedoc) - HedgeDoc - Ideas grow better together
