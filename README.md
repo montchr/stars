@@ -701,7 +701,6 @@
 - [matthewbauer/bauer](https://github.com/matthewbauer/bauer) - An Emacs+Nix IDE
 - [flycheck/flycheck](https://github.com/flycheck/flycheck) - On the fly syntax checking for GNU Emacs
 - [lumiknit/emacs-pragmatapro-ligatures](https://github.com/lumiknit/emacs-pragmatapro-ligatures) - Emacs minor mode to support PragmataPro ligatures
-- [jwiegley/nix-config](https://github.com/jwiegley/nix-config) - My local Nix configuration
 - [emacs-ng/emacs-ng](https://github.com/emacs-ng/emacs-ng) - A new approach to Emacs - Including TypeScript, Threading, Async I/O, and WebRender.
 - [joaotavora/yasnippet](https://github.com/joaotavora/yasnippet) - A template system for Emacs
 - [alpha22jp/atomic-chrome](https://github.com/alpha22jp/atomic-chrome) - Edit text area on Chrome with Emacs using Atomic Chrome
@@ -1933,6 +1932,7 @@
 - [NixOS/nix.dev](https://github.com/NixOS/nix.dev) - Official documentation for getting things done with Nix.
 - [numtide/devshell](https://github.com/numtide/devshell) - Per project developer environments
 - [malob/nixpkgs](https://github.com/malob/nixpkgs) - My Nix system configs!
+- [jwiegley/nix-config](https://github.com/jwiegley/nix-config) - My local Nix configuration
 - [jkachmar/dotnix](https://github.com/jkachmar/dotnix) - Shackled within an elaborate prison of my own design.
 - [jacobbednarz/j](https://github.com/jacobbednarz/j) - dotfiles; delivered via nix, nix-darwin and home-manager
 - [peel/dotfiles](https://github.com/peel/dotfiles) - well-tailored NixOS & nix-darwin dotfiles
