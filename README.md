@@ -388,6 +388,7 @@
 
 ## Emacs Lisp 
 
+- [Wilfred/.emacs.d](https://github.com/Wilfred/.emacs.d) - My emacs configuration
 - [laluxx/crystal-point](https://github.com/laluxx/crystal-point) - a crystal clear cursor for Emacs
 - [emacs-tree-sitter/treesit-fold](https://github.com/emacs-tree-sitter/treesit-fold) - Code folding using treesit.el
 - [emacsmirror/setup](https://github.com/emacsmirror/setup) - Helpful Configuration Macro
@@ -1564,6 +1565,7 @@
 
 ## Nix 
 
+- [nix-systems/default](https://github.com/nix-systems/default) - [ "aarch64-darwin" "aarch64-linux" "x86_64-darwin" "x86_64-linux" ]
 - [akirak/flake-templates](https://github.com/akirak/flake-templates) - A collection of Nix flake templates for quickly adding a reproducible environment
 - [Vortriz/awesome-niri](https://github.com/Vortriz/awesome-niri) - An awesome list for niri related projects
 - [SenchoPens/fromYaml](https://github.com/SenchoPens/fromYaml) - yaml parser in pure nix
@@ -3462,6 +3464,8 @@
 
 ## TypeScript 
 
+- [humanlayer/12-factor-agents](https://github.com/humanlayer/12-factor-agents) - What are the principles we can use to build LLM-powered software that is actually good enough to put in the hands of production customers?
+- [humanlayer/humanlayer](https://github.com/humanlayer/humanlayer) - The best way to get AI coding agents to solve hard problems in complex codebases.
 - [Effect-TS/effect](https://github.com/Effect-TS/effect) - Build production-ready applications in TypeScript
 - [anthropics/claude-code](https://github.com/anthropics/claude-code) - Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows 
 - [shimataro/ssh-key-action](https://github.com/shimataro/ssh-key-action) - GitHub Action that installs SSH key to .ssh
