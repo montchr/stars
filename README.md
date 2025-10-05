@@ -2631,6 +2631,7 @@
 
 ## Python 
 
+- [acarapetis/jj-pre-push](https://github.com/acarapetis/jj-pre-push) - Run pre-commit.com before `jj git push`
 - [TheWicklowWolf/Lidify](https://github.com/TheWicklowWolf/Lidify) - Music discovery tool that provides recommendations based on selected Lidarr artists, using Spotify or LastFM.
 - [hoh/nix-manipulator](https://github.com/hoh/nix-manipulator) - Parse, manipulate, and reconstruct Nix source code with high-level abstractions.
 - [garyo/lsp-multiplexer](https://github.com/garyo/lsp-multiplexer) - Simple LSP server multiplexer in python
@@ -2884,6 +2885,8 @@
 
 ## Rust 
 
+- [Canop/bacon](https://github.com/Canop/bacon) - background code checker
+- [j178/prek](https://github.com/j178/prek) - ⚡ Better `pre-commit`, re-engineered in Rust
 - [bensadeh/tailspin](https://github.com/bensadeh/tailspin) - 🌀 A log file highlighter
 - [tsukinaha/tsukimi](https://github.com/tsukinaha/tsukimi) - A simple third-party Jellyfin client for Linux
 - [LGFae/swww](https://github.com/LGFae/swww) - A Solution to your Wayland Wallpaper Woes
@@ -3464,6 +3467,7 @@
 
 ## TypeScript 
 
+- [changesets/action](https://github.com/changesets/action) - 
 - [humanlayer/12-factor-agents](https://github.com/humanlayer/12-factor-agents) - What are the principles we can use to build LLM-powered software that is actually good enough to put in the hands of production customers?
 - [humanlayer/humanlayer](https://github.com/humanlayer/humanlayer) - The best way to get AI coding agents to solve hard problems in complex codebases.
 - [Effect-TS/effect](https://github.com/Effect-TS/effect) - Build production-ready applications in TypeScript
