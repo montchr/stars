@@ -483,7 +483,7 @@
 - [fiatjaf/awesome-loginless](https://github.com/fiatjaf/awesome-loginless) - an awesome list of internet services that don't require logins or registrations
 - [DovAmir/awesome-design-patterns](https://github.com/DovAmir/awesome-design-patterns) - A curated list of software and architecture related design patterns.
 - [rehooks/awesome-react-hooks](https://github.com/rehooks/awesome-react-hooks) - Awesome React Hooks
-- [nikitavoloboev/myflow](https://github.com/nikitavoloboev/myflow) - Place to share & store what you use
+- [nikivdev/myflow](https://github.com/nikivdev/myflow) - Place to share & store what you use
 - [jorgebucaran/awsm.fish](https://github.com/jorgebucaran/awsm.fish) - A curation of prompts, plugins & other Fish treasures 🐚💎
 - [brillout/awesome-react-components](https://github.com/brillout/awesome-react-components) - Curated List of React Components & Libraries.
 - [brunopulis/awesome-a11y](https://github.com/brunopulis/awesome-a11y) - A curate list about A11Y
@@ -930,7 +930,7 @@
 - [keepcosmos/terjira](https://github.com/keepcosmos/terjira) - Terjira is a very interactive and easy to use CLI tool for Jira.
 - [pemistahl/grex](https://github.com/pemistahl/grex) - A command-line tool and Rust library with Python bindings for generating regular expressions from user-provided test cases
 - [jarun/nnn](https://github.com/jarun/nnn) - n³ The unorthodox terminal file manager
-- [olets/zsh-abbr](https://github.com/olets/zsh-abbr) - The zsh manager for auto-expanding abbreviations, inspired by fish. ~38,000 clones by ~25,000 unique cloners as of September '25, and averaging ~60-70 Homebrew installs monthly since June 2023
+- [olets/zsh-abbr](https://github.com/olets/zsh-abbr) - The zsh manager for auto-expanding abbreviations, inspired by fish. ~38,000 clones by ~25,000 unique cloners as of October '25, and averaging ~60-70 Homebrew installs monthly since June 2023
 - [kellyjonbrazil/jc](https://github.com/kellyjonbrazil/jc) - CLI tool and python library that converts the output of popular command-line tools, file-types, and common strings to JSON, YAML, or Dictionaries. This allows piping of output to tools like jq and sim
 - [BurntSushi/xsv](https://github.com/BurntSushi/xsv) - A fast CSV command line toolkit written in Rust.
 - [alebcay/awesome-shell](https://github.com/alebcay/awesome-shell) - A curated list of awesome command-line frameworks, toolkits, guides and gizmos. Inspired by awesome-php.
@@ -2329,6 +2329,7 @@
 - [evilmartians/lefthook](https://github.com/evilmartians/lefthook) - Fast and powerful Git hooks manager for any type of projects.
 - [Roave/BetterReflection](https://github.com/Roave/BetterReflection) - :crystal_ball: Better Reflection is a reflection API that aims to improve and provide more features than PHP's built-in reflection API.
 - [kubesphere/kubesphere](https://github.com/kubesphere/kubesphere) - The container platform tailored for Kubernetes multi-cloud, datacenter, and edge management ⎈ 🖥 ☁️
+- [backstage/backstage](https://github.com/backstage/backstage) - Backstage is an open framework for building developer portals
 - [AxeWP/wp-graphql-gravity-forms](https://github.com/AxeWP/wp-graphql-gravity-forms) - GraphQL API for interacting with Gravity Forms.
 - [adr/madr](https://github.com/adr/madr) - Markdown Architectural Decision Records
 - [10up/safe-svg](https://github.com/10up/safe-svg) - Enable SVG uploads and sanitize them to stop XML/SVG vulnerabilities in your WordPress website.
@@ -4137,7 +4138,6 @@
 - [cloud-hypervisor/cloud-hypervisor](https://github.com/cloud-hypervisor/cloud-hypervisor) - A Virtual Machine Monitor for modern Cloud workloads. Features include CPU, memory and device hotplug, support for running Windows and Linux guests, device offload with vhost-user and a minimal compac
 - [SAML-Toolkits/php-saml](https://github.com/SAML-Toolkits/php-saml) - Simple SAML toolkit for PHP
 - [rust-lang/mdBook](https://github.com/rust-lang/mdBook) - Create book from markdown files. Like Gitbook but implemented in Rust
-- [backstage/backstage](https://github.com/backstage/backstage) - Backstage is an open framework for building developer portals
 - [onedr0p/exportarr](https://github.com/onedr0p/exportarr) - AIO Prometheus Exporter for Sabnzbd, Bazarr, Prowlarr, Lidarr, Readarr, Radarr, and Sonarr
 - [DavHau/pkgs-modules](https://github.com/DavHau/pkgs-modules) - The Ideal interface for configuring packages
 - [numtide/treefmt-nix](https://github.com/numtide/treefmt-nix) - treefmt nix configuration
@@ -4923,7 +4923,7 @@
 - [mjolnirapp/mjolnir](https://github.com/mjolnirapp/mjolnir) - Lightweight automation and productivity app for OS X
 - [FryJay/MenuHammer](https://github.com/FryJay/MenuHammer) - A Spacemacs inspired menu system for macOS built for Hammerspoon.
 - [dperk/wpset](https://github.com/dperk/wpset) - Set OS X 10.9+ wallpaper for all spaces on all monitors.
-- [nikitavoloboev/ts](https://github.com/nikitavoloboev/ts) - TS tools, libraries and other code
+- [nikivdev/ts](https://github.com/nikivdev/ts) - TS tools, libraries and other code
 - [AdamWagner/stackline](https://github.com/AdamWagner/stackline) - Visualize yabai window stacks on macOS. Works with yabai & hammerspoon.
 - [koekeishiya/dotfiles](https://github.com/koekeishiya/dotfiles) - Configuration files
 - [felixhageloh/uebersicht](https://github.com/felixhageloh/uebersicht) - ˈyːbɐˌzɪçt
@@ -5593,7 +5593,7 @@
 - [keystonejs/keystone](https://github.com/keystonejs/keystone) - The superpowered headless CMS for Node.js — built with GraphQL and React
 - [PostHog/posthog](https://github.com/PostHog/posthog) - 🦔 PostHog provides open-source web & product analytics, session recording, feature flagging and A/B testing that you can self-host. Get started - free.
 - [WebDevStudios/nextjs-wordpress-starter](https://github.com/WebDevStudios/nextjs-wordpress-starter) - A headless starter for WordPress powered by Next.js.
-- [nikitavoloboev/nikiv](https://github.com/nikitavoloboev/nikiv) - Personal website, docs
+- [nikivdev/nikiv](https://github.com/nikivdev/nikiv) - Personal website, docs
 - [redwoodjs/graphql](https://github.com/redwoodjs/graphql) - RedwoodGraphQL
 - [refinedev/refine](https://github.com/refinedev/refine) - A React Framework for building  internal tools, admin panels, dashboards & B2B apps with unmatched flexibility.
 - [TanStack/virtual](https://github.com/TanStack/virtual) - 🤖 Headless UI for Virtualizing Large Element Lists in JS/TS, React, Solid, Vue and Svelte
@@ -5627,7 +5627,7 @@
 - [welldone-software/why-did-you-render](https://github.com/welldone-software/why-did-you-render) - why-did-you-render by Welldone Software monkey patches React to notify you about potentially avoidable re-renders. (Works with React Native as well.)
 - [mantinedev/mantine](https://github.com/mantinedev/mantine) - A fully featured React components library
 - [jeetiss/tabs](https://github.com/jeetiss/tabs) - React tabs with hooks
-- [nikitavoloboev/myflow](https://github.com/nikitavoloboev/myflow) - Place to share & store what you use
+- [nikivdev/myflow](https://github.com/nikivdev/myflow) - Place to share & store what you use
 - [hedgedoc/react-client](https://github.com/hedgedoc/react-client) - The frontend of the upcoming version 2.0
 - [pmndrs/jotai](https://github.com/pmndrs/jotai) - 👻 Primitive and flexible state management for React
 - [molefrog/wouter](https://github.com/molefrog/wouter) - 🥢 A minimalist-friendly ~2.1KB routing for React and Preact
@@ -6115,7 +6115,7 @@
 - [kenorb/dotfiles](https://github.com/kenorb/dotfiles) - Various configuration files for shell.
 - [psamim/dotfiles](https://github.com/psamim/dotfiles) - My dotfiles
 - [konstruktoid/hardening](https://github.com/konstruktoid/hardening) - Hardening Ubuntu. Systemd edition.
-- [olets/zsh-abbr](https://github.com/olets/zsh-abbr) - The zsh manager for auto-expanding abbreviations, inspired by fish. ~38,000 clones by ~25,000 unique cloners as of September '25, and averaging ~60-70 Homebrew installs monthly since June 2023
+- [olets/zsh-abbr](https://github.com/olets/zsh-abbr) - The zsh manager for auto-expanding abbreviations, inspired by fish. ~38,000 clones by ~25,000 unique cloners as of October '25, and averaging ~60-70 Homebrew installs monthly since June 2023
 - [envmodules/modules](https://github.com/envmodules/modules) - Environment Modules: provides dynamic modification of a user's environment
 - [alebcay/awesome-shell](https://github.com/alebcay/awesome-shell) - A curated list of awesome command-line frameworks, toolkits, guides and gizmos. Inspired by awesome-php.
 - [skywind3000/z.lua](https://github.com/skywind3000/z.lua) - :zap: A new cd command that helps you navigate faster by learning your habits.
@@ -7085,7 +7085,7 @@
 - [Seirdy/dotfiles](https://github.com/Seirdy/dotfiles) - Seirdy's dotfiles
 - [csivanich/dotfiles](https://github.com/csivanich/dotfiles) - Configuration repository containing most customized home folder dotfiles.
 - [liquidprompt/liquidprompt](https://github.com/liquidprompt/liquidprompt) - A full-featured & carefully designed adaptive prompt for Bash & Zsh
-- [olets/zsh-abbr](https://github.com/olets/zsh-abbr) - The zsh manager for auto-expanding abbreviations, inspired by fish. ~38,000 clones by ~25,000 unique cloners as of September '25, and averaging ~60-70 Homebrew installs monthly since June 2023
+- [olets/zsh-abbr](https://github.com/olets/zsh-abbr) - The zsh manager for auto-expanding abbreviations, inspired by fish. ~38,000 clones by ~25,000 unique cloners as of October '25, and averaging ~60-70 Homebrew installs monthly since June 2023
 - [alebcay/awesome-shell](https://github.com/alebcay/awesome-shell) - A curated list of awesome command-line frameworks, toolkits, guides and gizmos. Inspired by awesome-php.
 - [romkatv/powerlevel10k](https://github.com/romkatv/powerlevel10k) - A Zsh theme
 - [junegunn/fzf](https://github.com/junegunn/fzf) - :cherry_blossom: A command-line fuzzy finder
