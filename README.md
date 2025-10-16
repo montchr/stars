@@ -1131,7 +1131,6 @@
 - [rnaga/wordpress-rest-admin](https://github.com/rnaga/wordpress-rest-admin) - A frontend for admin area of WordPress, using WP REST API and React. It works with Self-Hosted WordPress
 - [Log1x/gutentweaks](https://github.com/Log1x/gutentweaks) - 
 - [WordPress/block-development-examples](https://github.com/WordPress/block-development-examples) - Practical examples for building WordPress blocks and extending the Editor.
-- [imagewize/sage-native-block](https://github.com/imagewize/sage-native-block) - Sage Native Block Acorn Package
 - [ndiego/icon-block](https://github.com/ndiego/icon-block) - Effortlessly add SVG icons and graphics to your website.
 - [kellnerd/musicbrainz-scripts](https://github.com/kellnerd/musicbrainz-scripts) - Bookmarklets and Userscripts for MusicBrainz.org
 - [davidmerfield/blot](https://github.com/davidmerfield/blot) - Turns a folder into a website
@@ -1834,7 +1833,7 @@
 - [Shados/nix-config-shared](https://github.com/Shados/nix-config-shared) - My cross-machine shared configuration, defaults, modules, and packages not suitable for upstreaming or NUR
 - [aciceri/nixfleet](https://github.com/aciceri/nixfleet) - A complete, declarative and reproducible configuration of my entire Nix fleet.
 - [Ericson2314/nixos-configuration](https://github.com/Ericson2314/nixos-configuration) - Much better than a .dotfiles repo
-- [NixOS/infra](https://github.com/NixOS/infra) - NixOS configurations for nixos.org and its servers [maintainers=@mweinelt, @Mic92, @arianvp, @edef1c, @vcunat, @jfly]
+- [NixOS/infra](https://github.com/NixOS/infra) - NixOS configurations for nixos.org and its servers [maintainers=@mweinelt, @Mic92, @arianvp, @vcunat, @jfly]
 - [sei40kr/dotfiles](https://github.com/sei40kr/dotfiles) - My dotfiles for NixOS & Darwin
 - [nix-community/fenix](https://github.com/nix-community/fenix) - Rust toolchains and rust-analyzer nightly for Nix [maintainers=@figsoda, @winterqt, @eureka-cpu]
 - [blaggacao/devos](https://github.com/blaggacao/devos) - highly structured NixOS configuration database
@@ -2217,6 +2216,7 @@
 - [idleberg/php-vite-manifest](https://github.com/idleberg/php-vite-manifest) - A parser for Vite manifest files
 - [Stillat/dagger](https://github.com/Stillat/dagger) - A robust component authoring library for Laravel Blade.
 - [codestify/wordforge](https://github.com/codestify/wordforge) - WordForge is a simple, opinionated SLIM MVC framework for WordPress that brings structure to plugin development
+- [imagewize/sage-native-block](https://github.com/imagewize/sage-native-block) - Sage Native Block Acorn Package
 - [City-of-Helsinki/wordpress-helfi-helsinkiteema](https://github.com/City-of-Helsinki/wordpress-helfi-helsinkiteema) - General purpose HDS compliant WordPress parent theme. Requires HDS WP plugin.
 - [scribu/wp-hyper-admins](https://github.com/scribu/wp-hyper-admins) - Give even more power to super-admins
 - [kleinweb/saml-auth](https://github.com/kleinweb/saml-auth) - 
