@@ -1382,6 +1382,7 @@
 
 ## documentation 
 
+- [feel-co/ndg](https://github.com/feel-co/ndg) - NDG: Not a Docs Generator
 - [WordPress/Advanced-administration-handbook](https://github.com/WordPress/Advanced-administration-handbook) - WordPress Advanced Administration Handbook. This handbook will have the most technical, general, documentation about WordPress.
 - [nix-community/docnix](https://github.com/nix-community/docnix) - nix-community reference documentation (until officially released) [maintainer=@hsjobeki]
 - [mdn/content](https://github.com/mdn/content) - The official source for MDN Web Docs content. Home to over 14,000 pages of documentation about HTML, CSS, JS, HTTP, Web APIs, and more.
@@ -2289,7 +2290,6 @@
 - [lycheeverse/lychee](https://github.com/lycheeverse/lychee) - ⚡ Fast, async, stream-based link checker written in Rust. Finds broken URLs and mail addresses inside Markdown, HTML, reStructuredText, websites and more!
 - [termux/termux-app](https://github.com/termux/termux-app) - Termux - a terminal emulator application for Android OS extendible by variety of packages.
 - [munusphp/munus](https://github.com/munusphp/munus) - Power of object-oriented programming with the elegance of functional programming in PHP.
-- [filamentphp/filament](https://github.com/filamentphp/filament) - A powerful open source UI framework for Laravel • Build and ship admin panels & apps fast with Livewire
 - [matrix-org/dendrite](https://github.com/matrix-org/dendrite) - Dendrite is a second-generation Matrix homeserver written in Go!
 - [NuschtOS/nixos-modules](https://github.com/NuschtOS/nixos-modules) - Opinionated, integrated and shared NixOS modules
 - [material-shell/material-shell](https://github.com/material-shell/material-shell) - A modern desktop interface for Linux. Improve your user experience and get rid of the anarchy of traditional desktop workflows. Designed to simplify navigation and reduce the need to manipulate window
@@ -3604,7 +3604,6 @@
 - [bensadeh/tailspin](https://github.com/bensadeh/tailspin) - 🌀 A log file highlighter
 - [LGFae/swww](https://github.com/LGFae/swww) - A Solution to your Wayland Wallpaper Woes
 - [sentriz/cliphist](https://github.com/sentriz/cliphist) - Wayland clipboard manager with support for multimedia
-- [feel-co/ndg](https://github.com/feel-co/ndg) - NDG: Not a Docs Generator
 - [emacsmirror/setup](https://github.com/emacsmirror/setup) - Helpful Configuration Macro
 - [nix-community/nix-unit](https://github.com/nix-community/nix-unit) - Unit testing for Nix code [maintainer=@adisbladis]
 - [xddxdd/nix-math](https://github.com/xddxdd/nix-math) - Experimental mathematical library in pure Nix, using no external library.
@@ -5563,7 +5562,7 @@
 - [Uriopass/Musidex](https://github.com/Uriopass/Musidex) - Your AI powered musical pokedex, Plex for music
 - [QuivrHQ/quivr](https://github.com/QuivrHQ/quivr) - Opiniated RAG for integrating GenAI in your apps 🧠   Focus on your product rather than the RAG. Easy integration in existing products with customisation!  Any LLM: GPT4, Groq, Llama. Any Vectorstore: 
 - [makeplane/plane](https://github.com/makeplane/plane) - 🔥 🔥 🔥 Open Source JIRA, Linear, Monday, and Asana Alternative. Plane helps you track your issues, epics, and cycles the easiest way on the planet.
-- [learn-anything/learn-anything](https://github.com/learn-anything/learn-anything) - Make interlinked notes in private (E2E encrypted), share parts of it to global network of topics with deep AI integration
+- [learn-anything/learn-anything](https://github.com/learn-anything/learn-anything) - Make interlinked notes in private (E2E encrypted). Share parts of it to global network of topics with deep AI integration.
 - [ritz078/transform](https://github.com/ritz078/transform) - A polyglot web converter.
 - [shuding/nextra](https://github.com/shuding/nextra) - Simple, powerful and flexible site generation framework with everything you love from Next.js.
 - [roots/bud](https://github.com/roots/bud) - Build tool that wraps webpack complexity behind an elegant, minimal API
