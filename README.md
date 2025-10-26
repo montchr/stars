@@ -62,6 +62,7 @@
 - [Perl](#perl)
 - [PowerShell](#powershell)
 - [Processing](#processing)
+- [Prolog](#prolog)
 - [PureScript](#purescript)
 - [Python](#python)
 - [QML](#qml)
@@ -382,6 +383,8 @@
 
 ## Emacs Lisp 
 
+- [qjcg/awesome-typst](https://github.com/qjcg/awesome-typst) - Awesome Typst Links
+- [havarddj/typst-preview.el](https://github.com/havarddj/typst-preview.el) - Typst live preview minor mode for emacs
 - [Wilfred/.emacs.d](https://github.com/Wilfred/.emacs.d) - My emacs configuration
 - [laluxx/crystal-point](https://github.com/laluxx/crystal-point) - a crystal clear cursor for Emacs
 - [emacs-tree-sitter/treesit-fold](https://github.com/emacs-tree-sitter/treesit-fold) - Code folding using treesit.el
@@ -689,7 +692,6 @@
 - [rougier/nano-theme](https://github.com/rougier/nano-theme) - GNU Emacs / N Λ N O Theme
 - [nyyManni/ejira](https://github.com/nyyManni/ejira) - Emacs JIRA integration
 - [skeeto/skewer-mode](https://github.com/skeeto/skewer-mode) - Live web development in Emacs
-- [nex3/dotfiles](https://github.com/nex3/dotfiles) - nex3's configuration stuff
 - [nex3/perspective-el](https://github.com/nex3/perspective-el) - Perspectives for Emacs.
 - [rolandwalker/unicode-fonts](https://github.com/rolandwalker/unicode-fonts) - Configure Unicode fonts for Emacs
 - [skyler544/doom-nano-testing](https://github.com/skyler544/doom-nano-testing) - This is some rough code that tries to get Nano Emacs (by Nicolas Rougier) and Doom Emacs (by Henrik Lissner) to play nice together.
@@ -789,6 +791,7 @@
 
 ## Go 
 
+- [charmbracelet/mods](https://github.com/charmbracelet/mods) - AI on the command line
 - [muesli/duf](https://github.com/muesli/duf) - Disk Usage/Free Utility - a better 'df' alternative
 - [sentriz/cliphist](https://github.com/sentriz/cliphist) - Wayland clipboard manager with support for multimedia
 - [rszyma/kanata-tray](https://github.com/rszyma/kanata-tray) - Tray Icon for Kanata
@@ -1266,6 +1269,7 @@
 - [sindresorhus/eslint-plugin-unicorn](https://github.com/sindresorhus/eslint-plugin-unicorn) - More than 100 powerful ESLint rules
 - [donavon/use-persisted-state](https://github.com/donavon/use-persisted-state) - A custom React Hook that provides a multi-instance, multi-tab/browser shared and persistent state.
 - [downshift-js/downshift](https://github.com/downshift-js/downshift) - 🏎 A set of primitives to build simple, flexible, WAI-ARIA compliant React autocomplete, combobox or select dropdown components.
+- [nex3/dotfiles](https://github.com/nex3/dotfiles) - nex3's configuration stuff
 - [brightcove/react-player-loader](https://github.com/brightcove/react-player-loader) - A React component that embeds and loads Brightcove Player scripts.
 - [cryptpad/cryptpad](https://github.com/cryptpad/cryptpad) - Collaborative office suite, end-to-end encrypted and open-source.
 - [nccgroup/tracy](https://github.com/nccgroup/tracy) - A tool designed to assist with finding all sinks and sources of a web application and display these results in a digestible manner.
@@ -1274,7 +1278,7 @@
 - [ovity/octotree](https://github.com/ovity/octotree) - GitHub on steroids
 - [0x6b/copy-selection-as-markdown](https://github.com/0x6b/copy-selection-as-markdown) - Firefox add-on to copy selection as Markdown
 - [typescript-cheatsheets/react](https://github.com/typescript-cheatsheets/react) - Cheatsheets for experienced React developers getting started with TypeScript
-- [webpack-contrib/webpack-bundle-analyzer](https://github.com/webpack-contrib/webpack-bundle-analyzer) - Webpack plugin and CLI utility that represents bundle content as convenient interactive zoomable treemap
+- [webpack/webpack-bundle-analyzer](https://github.com/webpack/webpack-bundle-analyzer) - Webpack plugin and CLI utility that represents bundle content as convenient interactive zoomable treemap
 - [zombieFox/nightTab](https://github.com/zombieFox/nightTab) - A neutral new tab page accented with a chosen colour. Customise the layout, style, background and bookmarks with nightTab.
 - [overdodactyl/ShadowFox](https://github.com/overdodactyl/ShadowFox) - A universal dark theme for Firefox
 - [pyllyukko/user.js](https://github.com/pyllyukko/user.js) - user.js -- Firefox configuration hardening
@@ -1519,7 +1523,6 @@
 
 ## MDX 
 
-- [nikivdev/nikiv](https://github.com/nikivdev/nikiv) - Personal website, docs
 - [openui/open-ui](https://github.com/openui/open-ui) - Maintain an open standard for UI and promote its adherence and adoption.
 - [uidotdev/usehooks](https://github.com/uidotdev/usehooks) - A collection of modern, server-safe React hooks – from the ui.dev team
 
@@ -1556,6 +1559,7 @@
 
 ## Nix 
 
+- [loqusion/typix](https://github.com/loqusion/typix) - Deterministic Typst compilation with Nix
 - [nix-systems/default](https://github.com/nix-systems/default) - [ "aarch64-darwin" "aarch64-linux" "x86_64-darwin" "x86_64-linux" ]
 - [akirak/flake-templates](https://github.com/akirak/flake-templates) - A collection of Nix flake templates for quickly adding a reproducible environment
 - [Vortriz/awesome-niri](https://github.com/Vortriz/awesome-niri) - An awesome list for niri related projects
@@ -2618,6 +2622,10 @@
 
 - [teesloane/laundromat](https://github.com/teesloane/laundromat) - generative midi sequencer inspired by the OP-1 Tombola
 
+## Prolog 
+
+- [stipub/stixfonts](https://github.com/stipub/stixfonts) - OpenType Unicode fonts for Scientific, Technical, and Mathematical texts
+
 ## PureScript 
 
 - [ArdanaLabs/hello-cardano-template](https://github.com/ArdanaLabs/hello-cardano-template) - 
@@ -2880,6 +2888,7 @@
 
 ## Rust 
 
+- [typst/hayagriva](https://github.com/typst/hayagriva) - Rusty bibliography management.
 - [eyre-rs/eyre](https://github.com/eyre-rs/eyre) - A trait object based error handling type for easy idiomatic error handling and reporting in Rust applications
 - [Canop/bacon](https://github.com/Canop/bacon) - background code checker
 - [j178/prek](https://github.com/j178/prek) - ⚡ Better `pre-commit`, re-engineered in Rust
@@ -3541,7 +3550,7 @@
 - [nikitowsky/next-advanced-apollo-starter](https://github.com/nikitowsky/next-advanced-apollo-starter) - Advanced, but minimalistic Next.js and Apollo starter
 - [allister-grange/startertab](https://github.com/allister-grange/startertab) - A custom new tab page, keeping all the best info handy (a work in progress, feedback is invaluable)
 - [uber/react-view](https://github.com/uber/react-view) - React View is an interactive playground, documentation and code generator for your components.
-- [ixartz/Next-js-Boilerplate](https://github.com/ixartz/Next-js-Boilerplate) - 🚀🎉📚 Boilerplate and Starter for Next.js 15 with App Router and Page Router support, Tailwind CSS 4 and TypeScript ⚡️ Made with developer experience first: Next.js + TypeScript + ESLint + Prettier + Dr
+- [ixartz/Next-js-Boilerplate](https://github.com/ixartz/Next-js-Boilerplate) - 🚀🎉📚 Boilerplate and Starter for Next.js 16 with App Router and Page Router support, Tailwind CSS 4 and TypeScript ⚡️ Made with developer experience first: Next.js + TypeScript + ESLint + Prettier + Dr
 - [paulintrognon/next-typescript](https://github.com/paulintrognon/next-typescript) - Starter template for a clean Next.js + TypeScript + ESLint project
 - [tailwindlabs/tailwindcss-intellisense](https://github.com/tailwindlabs/tailwindcss-intellisense) - Intelligent Tailwind CSS tooling for Visual Studio Code
 - [vscode-neovim/vscode-neovim](https://github.com/vscode-neovim/vscode-neovim) - Vim mode for VSCode, powered by Neovim
@@ -3576,6 +3585,7 @@
 - [WorldBrain/Memex](https://github.com/WorldBrain/Memex) - Browser extension to curate, annotate, and discuss the most valuable content and ideas on the web. As individuals, teams and communities.
 - [immich-app/immich](https://github.com/immich-app/immich) - High performance self-hosted photo and video management solution.
 - [ItinerisLtd/composify](https://github.com/ItinerisLtd/composify) - Turn WordPress plugin zip files into git repositories, so that composer version constraints work properly.
+- [nikivdev/wiki](https://github.com/nikivdev/wiki) - 
 - [prisma/prisma](https://github.com/prisma/prisma) - Next-generation ORM for Node.js & TypeScript | PostgreSQL, MySQL, MariaDB, SQL Server, SQLite, MongoDB and CockroachDB
 - [multiprocessio/datastation](https://github.com/multiprocessio/datastation) - App to easily query, script, and visualize data from every database, file, and API.
 - [cursorless-dev/cursorless](https://github.com/cursorless-dev/cursorless) - Don't let the cursor slow you down
@@ -3615,7 +3625,7 @@
 - [DIYgod/RSSHub](https://github.com/DIYgod/RSSHub) - 🧡 Everything is RSSible
 - [darkreader/darkreader](https://github.com/darkreader/darkreader) - Dark Reader Chrome and Firefox extension
 - [mermaid-js/mermaid](https://github.com/mermaid-js/mermaid) - Generation of diagrams like flowcharts or sequence diagrams from text in a similar manner as markdown
-- [TanStack/router](https://github.com/TanStack/router) - 🤖 Fully typesafe Router for React (and friends) w/ built-in caching, 1st class search-param APIs, client-side cache integration and isomorphic rendering.
+- [TanStack/router](https://github.com/TanStack/router) - 🤖 A client-first, server-capable, fully type-safe router and full-stack framework for the web (React and more).
 - [DeterminateSystems/update-flake-lock](https://github.com/DeterminateSystems/update-flake-lock) - Automatically refresh your Nix Flakes.
 - [vercel/swr](https://github.com/vercel/swr) - React Hooks for Data Fetching
 - [mswjs/msw](https://github.com/mswjs/msw) - Industry standard API mocking for JavaScript.
@@ -3704,6 +3714,7 @@
 
 ## Typst 
 
+- [Tiefseetauchner/TiefCARS](https://github.com/Tiefseetauchner/TiefCARS) - 
 - [drupol/ipc2023](https://github.com/drupol/ipc2023) - Sources of 'Leveraging Nix in the PHP ecosystem' presentation
 
 ## V 
