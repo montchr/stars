@@ -874,6 +874,7 @@
 - [f100024/syncthing_exporter](https://github.com/f100024/syncthing_exporter) - Syncthing metrics exporter for prometheus
 - [cube2222/octosql](https://github.com/cube2222/octosql) - OctoSQL is a query tool that allows you to join, analyse and transform data from multiple databases and file formats using SQL.
 - [github/gh-ost](https://github.com/github/gh-ost) - GitHub's Online Schema-migration Tool for MySQL
+- [nikivdev/ghost](https://github.com/nikivdev/ghost) - Watch over things + stream your mac to remote server
 - [dmacvicar/terraform-provider-libvirt](https://github.com/dmacvicar/terraform-provider-libvirt) - Terraform provider to provision infrastructure with Linux's KVM using libvirt
 - [dnote/dnote](https://github.com/dnote/dnote) - A simple command line notebook
 - [cortexproject/cortex](https://github.com/cortexproject/cortex) - A horizontally scalable, highly available, multi-tenant, long term Prometheus.
@@ -1559,6 +1560,7 @@
 
 ## Nix 
 
+- [ipetkov/crane](https://github.com/ipetkov/crane) - A Nix library for building cargo projects. Never build twice thanks to incremental artifact caching.
 - [loqusion/typix](https://github.com/loqusion/typix) - Deterministic Typst compilation with Nix
 - [nix-systems/default](https://github.com/nix-systems/default) - [ "aarch64-darwin" "aarch64-linux" "x86_64-darwin" "x86_64-linux" ]
 - [akirak/flake-templates](https://github.com/akirak/flake-templates) - A collection of Nix flake templates for quickly adding a reproducible environment
@@ -1984,6 +1986,7 @@
 
 ## Others 
 
+- [sayyadirfanali/Myna](https://github.com/sayyadirfanali/Myna) - monospace typeface designed for symbol-rich programming
 - [valpackett/awesome-gtk](https://github.com/valpackett/awesome-gtk) - List of awesome GTK (3/4) applications
 - [its-darsh/bars-and-widgets-list](https://github.com/its-darsh/bars-and-widgets-list) - a list of status bars and widget systems for *Nix operating systems
 - [thinkhuman/writingwithemacs](https://github.com/thinkhuman/writingwithemacs) - Tips, Examples, and Resources for Writing with Emacs
@@ -3588,7 +3591,6 @@
 - [WorldBrain/Memex](https://github.com/WorldBrain/Memex) - Browser extension to curate, annotate, and discuss the most valuable content and ideas on the web. As individuals, teams and communities.
 - [immich-app/immich](https://github.com/immich-app/immich) - High performance self-hosted photo and video management solution.
 - [ItinerisLtd/composify](https://github.com/ItinerisLtd/composify) - Turn WordPress plugin zip files into git repositories, so that composer version constraints work properly.
-- [nikivdev/wiki](https://github.com/nikivdev/wiki) - 
 - [prisma/prisma](https://github.com/prisma/prisma) - Next-generation ORM for Node.js & TypeScript | PostgreSQL, MySQL, MariaDB, SQL Server, SQLite, MongoDB and CockroachDB
 - [multiprocessio/datastation](https://github.com/multiprocessio/datastation) - App to easily query, script, and visualize data from every database, file, and API.
 - [cursorless-dev/cursorless](https://github.com/cursorless-dev/cursorless) - Don't let the cursor slow you down
