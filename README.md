@@ -454,7 +454,7 @@
 - [kickingvegas/casual-avy](https://github.com/kickingvegas/casual-avy) - Casual Avy - An opinionated Transient menu for Avy.
 - [ichernyshovvv/enlight](https://github.com/ichernyshovvv/enlight) - Highly customizable startup screen for Emacs.
 - [ichernyshovvv/grid.el](https://github.com/ichernyshovvv/grid.el) - 
-- [montchr/ceamx](https://github.com/montchr/ceamx) - 
+- [astratagem/ceamx](https://github.com/astratagem/ceamx) - 
 - [howardabrams/hamacs](https://github.com/howardabrams/hamacs) - My personal VIM-like configuration of Emacs inspired by Doom and Spacemacs.
 - [mrvdb/emacs-config](https://github.com/mrvdb/emacs-config) - My Emacs configuration in org-babel format
 - [minad/jinx](https://github.com/minad/jinx) - 🪄 Enchanted Spell Checker
@@ -1393,7 +1393,7 @@
 - [RealFaviconGenerator/grunt-real-favicon](https://github.com/RealFaviconGenerator/grunt-real-favicon) - Generate a multiplatform favicon with RealFaviconGenerator
 - [nprapps/pym.js](https://github.com/nprapps/pym.js) - Resize an iframe responsively depending on the height of its content and the width of its container.
 - [raulghm/gulp-wp-rev](https://github.com/raulghm/gulp-wp-rev) - Revisioning CSS/JS appending a hash in you assets of wordpress theme
-- [montchr/coldstuff](https://github.com/montchr/coldstuff) - Final project for Data Journalism class at Temple University
+- [astratagem/coldstuff](https://github.com/astratagem/coldstuff) - Final project for Data Journalism class at Temple University
 - [roots/grunt-wp-assets](https://github.com/roots/grunt-wp-assets) - Unsupported: WordPress assets revisioning
 - [thrashr888/grunt-sftp-deploy](https://github.com/thrashr888/grunt-sftp-deploy) - Grunt task for code deployment over sftp
 - [jbrewer/Responsive-Measure](https://github.com/jbrewer/Responsive-Measure) - Responsive-Measure
@@ -1500,6 +1500,7 @@
 - [pinpox/wallpaper-generator](https://github.com/pinpox/wallpaper-generator) - Generate wallpaper images from mathematical functions
 - [wookayin/dotfiles](https://github.com/wookayin/dotfiles) - :house: Personal dotfiles for *NIX systems
 - [nmattia/homies](https://github.com/nmattia/homies) - home dir & package management
+- [kclejeune/system](https://github.com/kclejeune/system) - Declarative system configurations using nixOS, nix-darwin, and home-manager
 - [eromatiya/the-glorious-dotfiles](https://github.com/eromatiya/the-glorious-dotfiles) - A glorified personal dot files
 - [zzamboni/dot-hammerspoon](https://github.com/zzamboni/dot-hammerspoon) - My personal Hammerspoon configuration - mirrored from GitLab
 - [dbalatero/VimMode.spoon](https://github.com/dbalatero/VimMode.spoon) - Adds vim keybindings to all OS X inputs
@@ -1618,7 +1619,7 @@
 - [astro/skyflake](https://github.com/astro/skyflake) - NixOS Hyperconverged Infrastructure on Nomad/NixOS
 - [oddlama/nix-config](https://github.com/oddlama/nix-config) - ❄️ My nix config and dotfiles
 - [oddlama/agenix-rekey](https://github.com/oddlama/agenix-rekey) - An agenix extension adding secret generation and automatic rekeying using a YubiKey or master-identity
-- [montchr/nix-base16-schemes](https://github.com/montchr/nix-base16-schemes) - yet another way to paint a cat
+- [astratagem/nix-base16-schemes](https://github.com/astratagem/nix-base16-schemes) - yet another way to paint a cat
 - [bertof/nix-rice](https://github.com/bertof/nix-rice) - A library to functionally define your configuration and theme (rice) with Nix
 - [RaubJo/hive](https://github.com/RaubJo/hive) - 
 - [figsoda/rand-nix](https://github.com/figsoda/rand-nix) - 🔥 Eval-time random number generator for Nix without IFD 🚀
@@ -1782,7 +1783,7 @@
 - [cole-h/nixos-config](https://github.com/cole-h/nixos-config) - My flakes-powered NixOS configuration
 - [johnae/nix-misc](https://github.com/johnae/nix-misc) - Assorted Nix utility functions and derivations.
 - [viperML/dotfiles](https://github.com/viperML/dotfiles) - Personal configuration files for my PC
-- [montchr/dotfield](https://github.com/montchr/dotfield) - All I see is little dots – some are smeared, and some are spots.
+- [astratagem/dotfield](https://github.com/astratagem/dotfield) - All I see is little dots – some are smeared, and some are spots.
 - [kamadorueda/alejandra](https://github.com/kamadorueda/alejandra) - The Uncompromising Nix Code Formatter
 - [nix-community/rnix-parser](https://github.com/nix-community/rnix-parser) - A Nix parser written in Rust [maintainer=@oberblastmeister]
 - [johnae/nix-flake-templates](https://github.com/johnae/nix-flake-templates) - Templates for Nix flakes
@@ -1935,7 +1936,6 @@
 - [jkachmar/dotnix](https://github.com/jkachmar/dotnix) - Shackled within an elaborate prison of my own design.
 - [jacobbednarz/j](https://github.com/jacobbednarz/j) - dotfiles; delivered via nix, nix-darwin and home-manager
 - [peel/dotfiles](https://github.com/peel/dotfiles) - well-tailored NixOS & nix-darwin dotfiles
-- [kclejeune/system](https://github.com/kclejeune/system) - Declarative system configurations using nixOS, nix-darwin, and home-manager
 - [hardselius/dotfiles](https://github.com/hardselius/dotfiles) - My personal dotfiles
 - [cmacrae/config](https://github.com/cmacrae/config) - A collection of system configurations, expressed in Nix
 - [hlissner/dotfiles](https://github.com/hlissner/dotfiles) - And I say hey, what's going on?
@@ -2007,7 +2007,7 @@
 - [Icy-Thought/emacs.d](https://github.com/Icy-Thought/emacs.d) - A repository which contains emacs configurations I have used throughout the years.
 - [WordPress/Advanced-administration-handbook](https://github.com/WordPress/Advanced-administration-handbook) - WordPress Advanced Administration Handbook. This handbook will have the most technical, general, documentation about WordPress.
 - [exakat/php-static-analysis-tools](https://github.com/exakat/php-static-analysis-tools) - A reviewed list of useful PHP static analysis tools
-- [montchr/c-games](https://github.com/montchr/c-games) - 
+- [astratagem/c-games](https://github.com/astratagem/c-games) - 
 - [TheRealDjmr/BG3ImprovedUI](https://github.com/TheRealDjmr/BG3ImprovedUI) - 
 - [joonspk-research/generative_agents](https://github.com/joonspk-research/generative_agents) - Generative Agents: Interactive Simulacra of Human Behavior
 - [Log1x/acf-builder-cheatsheet](https://github.com/Log1x/acf-builder-cheatsheet) - A cheatsheet for use with ACF Builder.
@@ -2032,7 +2032,7 @@
 - [dbohdan/structured-text-tools](https://github.com/dbohdan/structured-text-tools) - A list of command-line tools for manipulating structured text data
 - [bbatsov/emacs-lisp-style-guide](https://github.com/bbatsov/emacs-lisp-style-guide) - A community-driven Emacs Lisp style guide
 - [stevep99/seniply](https://github.com/stevep99/seniply) - An ergonomic, six-layer extended keyboard layout designed for small keyboards.
-- [montchr/stars](https://github.com/montchr/stars) - 
+- [astratagem/stars](https://github.com/astratagem/stars) - 
 - [pluja/awesome-privacy](https://github.com/pluja/awesome-privacy) - Awesome Privacy - A curated list of services and alternatives that respect your privacy because PRIVACY MATTERS.
 - [willwulfken/MidJourney-Styles-and-Keywords-Reference](https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference) - A reference containing Styles and Keywords that you can use with MidJourney AI. There are also pages showing resolution comparison, image weights, and much more!
 - [kdeldycke/awesome-iam](https://github.com/kdeldycke/awesome-iam) - 👤 Identity and Access Management knowledge for cloud platforms
@@ -2635,7 +2635,6 @@
 - [TheWicklowWolf/Lidify](https://github.com/TheWicklowWolf/Lidify) - Music discovery tool that provides recommendations based on selected Lidarr artists, using Spotify or LastFM.
 - [valpackett/awesome-gtk](https://github.com/valpackett/awesome-gtk) - List of awesome GTK (3/4) applications
 - [hoh/nix-manipulator](https://github.com/hoh/nix-manipulator) - Parse, manipulate, and reconstruct Nix source code with high-level abstractions.
-- [anthropics/claude-code](https://github.com/anthropics/claude-code) - Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows 
 - [garyo/lsp-multiplexer](https://github.com/garyo/lsp-multiplexer) - Simple LSP server multiplexer in python
 - [Vladimir-csp/uwsm](https://github.com/Vladimir-csp/uwsm) - Universal Wayland Session Manager
 - [john-kurkowski/tldextract](https://github.com/john-kurkowski/tldextract) - Accurately separates a URL’s subdomain, domain, and public suffix, using the Public Suffix List (PSL).
@@ -2890,6 +2889,7 @@
 
 ## Rust 
 
+- [ratatui/ratatui](https://github.com/ratatui/ratatui) - A Rust crate for cooking up terminal user interfaces (TUIs) 👨‍🍳🐀 https://ratatui.rs
 - [aliev/baker](https://github.com/aliev/baker) - Baker is a command-line tool that helps you quickly scaffold new projects. It supports language-independent hooks for automating routine tasks. Baker is written in Rust and distributed as a standalone
 - [typst/packages](https://github.com/typst/packages) - Packages for Typst.
 - [Automattic/harper](https://github.com/Automattic/harper) - Offline, privacy-first grammar checker. Fast, open-source, Rust-powered
@@ -3143,6 +3143,7 @@
 
 ## Shell 
 
+- [anthropics/claude-code](https://github.com/anthropics/claude-code) - Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows 
 - [sultann/wordpress-site-deploy](https://github.com/sultann/wordpress-site-deploy) - Deploy wp-content using SSH and rsync with .distignore and Slack support.
 - [mrOttoW/ddev-wordpress-vite](https://github.com/mrOttoW/ddev-wordpress-vite) - This add-on simply adds a yaml config that exposes and routes the ports necessary to load up the Vite dev server ande make use of their HMR features inside DDEV.
 - [Vladimir-csp/app2unit](https://github.com/Vladimir-csp/app2unit) - Launches Desktop Entries as Systemd user units
@@ -3391,7 +3392,7 @@
 - [benpbolton/slack-autostatus](https://github.com/benpbolton/slack-autostatus) - Automatically update Slack status (emoji) with your Mac's current application/url
 - [paulirish/dotfiles](https://github.com/paulirish/dotfiles) - paul's fish, bash, git, etc config files. good stuff.
 - [zsh-users/zsh-autosuggestions](https://github.com/zsh-users/zsh-autosuggestions) - Fish-like autosuggestions for zsh
-- [montchr/dotfiles](https://github.com/montchr/dotfiles) - dotfiles by @montchr
+- [astratagem/dotfiles](https://github.com/astratagem/dotfiles) - dotfiles by @montchr
 - [Dunedan/mbp-2016-linux](https://github.com/Dunedan/mbp-2016-linux) - State of Linux on the MacBook Pro 2016 & 2017
 - [bradp/vv](https://github.com/bradp/vv) - :globe_with_meridians: Variable VVV - a VVV Site Creation Wizard.‎ ‎ ‎ ‎  ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎  ‎  ‎ ‎ ‎ ‎ ‎ ‎ ‎  ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎  ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ :x: This project is 
 - [goblindegook/VVV-Redis](https://github.com/goblindegook/VVV-Redis) - Add Redis to your VVV setup
@@ -3785,5 +3786,5 @@
 
 [![CC0](http://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
 
-To the extent possible under law, [montchr](https://github.com/montchr) has waived all copyright and related or neighboring rights to this work.
+To the extent possible under law, [astratagem](https://github.com/astratagem) has waived all copyright and related or neighboring rights to this work.
 
