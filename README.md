@@ -1135,7 +1135,7 @@
 - [kellnerd/musicbrainz-scripts](https://github.com/kellnerd/musicbrainz-scripts) - Bookmarklets and Userscripts for MusicBrainz.org
 - [davidmerfield/blot](https://github.com/davidmerfield/blot) - Turns a folder into a website
 - [Lyfhael/DeleteTweets](https://github.com/Lyfhael/DeleteTweets) - Delete / Remove all your tweets
-- [ai/nanoid](https://github.com/ai/nanoid) - A tiny (124 bytes), secure, URL-friendly, unique string ID generator for JavaScript
+- [ai/nanoid](https://github.com/ai/nanoid) - A tiny (118 bytes), secure, URL-friendly, unique string ID generator for JavaScript
 - [ElMassimo/vite-plugin-manifest-sri](https://github.com/ElMassimo/vite-plugin-manifest-sri) - Subresource Integrity for Vite.js manifest files
 - [SUPERCILEX/gnome-clipboard-history](https://github.com/SUPERCILEX/gnome-clipboard-history) - Gnome Clipboard History is a clipboard manager Gnome extension that saves what you've copied into an easily accessible, searchable history panel.
 - [temple-acm/site](https://github.com/temple-acm/site) - The Temple University ACM website.
@@ -3720,7 +3720,7 @@
 
 ## Typst 
 
-- [vsheg/formal](https://github.com/vsheg/formal) - 
+- [vsheg/formal](https://github.com/vsheg/formal) - A template collection for Typst to create professional and formal documents
 - [Sematre/typst-letter-pro](https://github.com/Sematre/typst-letter-pro) - DIN 5008 letter template for Typst
 - [Tiefseetauchner/TiefCARS](https://github.com/Tiefseetauchner/TiefCARS) - 
 - [drupol/ipc2023](https://github.com/drupol/ipc2023) - Sources of 'Leveraging Nix in the PHP ecosystem' presentation
