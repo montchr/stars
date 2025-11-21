@@ -3604,7 +3604,7 @@
 ## others 
 
 - [sayyadirfanali/Myna](https://github.com/sayyadirfanali/Myna) - monospace typeface designed for symbol-rich programming
-- [vsheg/formal](https://github.com/vsheg/formal) - 
+- [vsheg/formal](https://github.com/vsheg/formal) - A template collection for Typst to create professional and formal documents
 - [typst/packages](https://github.com/typst/packages) - Packages for Typst.
 - [Sematre/typst-letter-pro](https://github.com/Sematre/typst-letter-pro) - DIN 5008 letter template for Typst
 - [charmbracelet/mods](https://github.com/charmbracelet/mods) - AI on the command line
@@ -3753,7 +3753,7 @@
 - [doctorfree/MusicPlayerPlus](https://github.com/doctorfree/MusicPlayerPlus) - Featureful ncurses based MPD client inspired by ncmpc with integration for Beets, spectrum visualization,Bandcamp/Soundcloud, asciimatics, cantata, and more
 - [instructure/canvas-lms](https://github.com/instructure/canvas-lms) - The open LMS by Instructure, Inc.
 - [ai/environment](https://github.com/ai/environment) - My home config, scripts and installation process
-- [ai/nanoid](https://github.com/ai/nanoid) - A tiny (124 bytes), secure, URL-friendly, unique string ID generator for JavaScript
+- [ai/nanoid](https://github.com/ai/nanoid) - A tiny (118 bytes), secure, URL-friendly, unique string ID generator for JavaScript
 - [alleyinteractive/wp-captain-hook](https://github.com/alleyinteractive/wp-captain-hook) - 
 - [alleyinteractive/wp-big-pit](https://github.com/alleyinteractive/wp-big-pit) - The WordPress database table for everything else.
 - [overtrue/laravel-saml](https://github.com/overtrue/laravel-saml) - SAML toolkit for Laravel based on OneLogin's SAML PHP Toolkit.
