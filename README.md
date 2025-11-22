@@ -549,7 +549,7 @@
 - [hlissner/.doom.d](https://github.com/hlissner/.doom.d) - My private config for Doom Emacs
 - [nobiot/org-remark](https://github.com/nobiot/org-remark) - Highlight & annotate text, EWW, Info, and EPUB
 - [protesilaos/denote](https://github.com/protesilaos/denote) - Simple notes for Emacs with an efficient file-naming scheme
-- [mkcms/ialign](https://github.com/mkcms/ialign) - Interactively align by regular expression in emacs
+- [mkcms/ialign](https://github.com/mkcms/ialign) - Interactively align by regular expression in Emacs
 - [protesilaos/dotfiles](https://github.com/protesilaos/dotfiles) - Configuration files for Emacs, tiling window managers, and related for Linux. Managed with GNU Stow.
 - [alphapapa/dogears.el](https://github.com/alphapapa/dogears.el) - Never lose your place in Emacs again
 - [condy0919/spdx.el](https://github.com/condy0919/spdx.el) - Insert SPDX license header
@@ -1984,6 +1984,7 @@
 
 ## Others 
 
+- [NixOS/steering-committee](https://github.com/NixOS/steering-committee) - 
 - [its-darsh/bars-and-widgets-list](https://github.com/its-darsh/bars-and-widgets-list) - a list of status bars and widget systems for *Nix operating systems
 - [thinkhuman/writingwithemacs](https://github.com/thinkhuman/writingwithemacs) - Tips, Examples, and Resources for Writing with Emacs
 - [christiannaths/redacted-font](https://github.com/christiannaths/redacted-font) - Keep your wireframes free of distracting Lorem Ipsum.
@@ -2889,6 +2890,7 @@
 
 ## Rust 
 
+- [rust-lang/rustlings](https://github.com/rust-lang/rustlings) - :crab: Small exercises to get you used to reading and writing Rust code!
 - [ratatui/ratatui](https://github.com/ratatui/ratatui) - A Rust crate for cooking up terminal user interfaces (TUIs) 👨‍🍳🐀 https://ratatui.rs
 - [aliev/baker](https://github.com/aliev/baker) - Baker is a command-line tool that helps you quickly scaffold new projects. It supports language-independent hooks for automating routine tasks. Baker is written in Rust and distributed as a standalone
 - [typst/packages](https://github.com/typst/packages) - Packages for Typst.
@@ -3153,7 +3155,7 @@
 - [ai/environment](https://github.com/ai/environment) - My home config, scripts and installation process
 - [alleyinteractive/action-deploy-to-remote-repository](https://github.com/alleyinteractive/action-deploy-to-remote-repository) - Sync to remote repository via GitHub actions
 - [nicknovitski/nix-develop](https://github.com/nicknovitski/nix-develop) - 
-- [meowgorithm/dotfiles](https://github.com/meowgorithm/dotfiles) - The Meowgorithm Dotfiles, Collectors’ Edition
+- [meowgorithm/dotfiles](https://github.com/meowgorithm/dotfiles) - The Meowgorithm Dotfiles: Collectors’ Edition
 - [MarioKnight/cPanel-wp-management](https://github.com/MarioKnight/cPanel-wp-management) - WordPress Management for cPanel Servers contains a series of scripts designed to easily manage WordPress sites server-wise as opposed to an individual basis.
 - [szepeviktor/safe-website-upgrade](https://github.com/szepeviktor/safe-website-upgrade) - Upgrade a website with comparing before and after state
 - [kdave/btrfsmaintenance](https://github.com/kdave/btrfsmaintenance) - Scripts for btrfs maintenance tasks like periodic scrub, balance, trim or defrag on selected mountpoints or directories.
