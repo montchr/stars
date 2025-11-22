@@ -1423,7 +1423,7 @@
 - [NotAShelf/nyx](https://github.com/NotAShelf/nyx) - My overengineered NixOS flake. Desktops, laptops, servers and everything else that can run an OS.
 - [spikespaz/dotfiles](https://github.com/spikespaz/dotfiles) - My NixOS dotfiles. Friends call it Bird OS.
 - [Ramblurr/nixcfg](https://github.com/Ramblurr/nixcfg) - ❄️ My nix flake for all my NixOS machines.
-- [meowgorithm/dotfiles](https://github.com/meowgorithm/dotfiles) - The Meowgorithm Dotfiles, Collectors’ Edition
+- [meowgorithm/dotfiles](https://github.com/meowgorithm/dotfiles) - The Meowgorithm Dotfiles: Collectors’ Edition
 - [overvale/dotfiles](https://github.com/overvale/dotfiles) - CLI, Emacs, Hammerspoon
 - [oddlama/nix-config](https://github.com/oddlama/nix-config) - ❄️ My nix config and dotfiles
 - [sioodmy/dotfiles](https://github.com/sioodmy/dotfiles) - My NixOS configuration flake that moggs yours in term of eval times
@@ -1659,7 +1659,7 @@
 - [hlissner/.doom.d](https://github.com/hlissner/.doom.d) - My private config for Doom Emacs
 - [nobiot/org-remark](https://github.com/nobiot/org-remark) - Highlight & annotate text, EWW, Info, and EPUB
 - [protesilaos/denote](https://github.com/protesilaos/denote) - Simple notes for Emacs with an efficient file-naming scheme
-- [mkcms/ialign](https://github.com/mkcms/ialign) - Interactively align by regular expression in emacs
+- [mkcms/ialign](https://github.com/mkcms/ialign) - Interactively align by regular expression in Emacs
 - [neeasade/dotfiles](https://github.com/neeasade/dotfiles) - garden
 - [protesilaos/dotfiles](https://github.com/protesilaos/dotfiles) - Configuration files for Emacs, tiling window managers, and related for Linux. Managed with GNU Stow.
 - [alphapapa/dogears.el](https://github.com/alphapapa/dogears.el) - Never lose your place in Emacs again
@@ -3603,6 +3603,7 @@
 
 ## others 
 
+- [NixOS/steering-committee](https://github.com/NixOS/steering-committee) - 
 - [sayyadirfanali/Myna](https://github.com/sayyadirfanali/Myna) - monospace typeface designed for symbol-rich programming
 - [vsheg/formal](https://github.com/vsheg/formal) - A template collection for Typst to create professional and formal documents
 - [typst/packages](https://github.com/typst/packages) - Packages for Typst.
@@ -5773,6 +5774,7 @@
 
 ## rust 
 
+- [rust-lang/rustlings](https://github.com/rust-lang/rustlings) - :crab: Small exercises to get you used to reading and writing Rust code!
 - [ratatui/ratatui](https://github.com/ratatui/ratatui) - A Rust crate for cooking up terminal user interfaces (TUIs) 👨‍🍳🐀 https://ratatui.rs
 - [ipetkov/crane](https://github.com/ipetkov/crane) - A Nix library for building cargo projects. Never build twice thanks to incremental artifact caching.
 - [aliev/baker](https://github.com/aliev/baker) - Baker is a command-line tool that helps you quickly scaffold new projects. It supports language-independent hooks for automating routine tasks. Baker is written in Rust and distributed as a standalone
