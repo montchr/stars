@@ -3603,6 +3603,8 @@
 
 ## others 
 
+- [bcpierce00/unison](https://github.com/bcpierce00/unison) - Unison file synchronizer
+- [rayon-rs/rayon](https://github.com/rayon-rs/rayon) - Rayon: A data parallelism library for Rust
 - [NixOS/steering-committee](https://github.com/NixOS/steering-committee) - 
 - [sayyadirfanali/Myna](https://github.com/sayyadirfanali/Myna) - monospace typeface designed for symbol-rich programming
 - [vsheg/formal](https://github.com/vsheg/formal) - A template collection for Typst to create professional and formal documents
@@ -3739,7 +3741,7 @@
 - [Automattic/jetpack-blocks](https://github.com/Automattic/jetpack-blocks) - [READ ONLY] Register and manage blocks within a plugin. This repository is a mirror, for issue tracking and development head to https://github.com/Automattic/Jetpack/
 - [kleinweb/lib](https://github.com/kleinweb/lib) - 
 - [davidmerfield/blot](https://github.com/davidmerfield/blot) - Turns a folder into a website
-- [mattl/hacienda](https://github.com/mattl/hacienda) - The Hacienda must be built
+- [libre-fm/libre-fm](https://github.com/libre-fm/libre-fm) - The Hacienda must be built
 - [SHOEGAZEssb/Last.fm-Scrubbler-WPF](https://github.com/SHOEGAZEssb/Last.fm-Scrubbler-WPF) - Manual Last.fm scrobbling for when a service (or you!) failed to scrobble.
 - [foo-dogsquared/nix-module-wrapper-manager-fds](https://github.com/foo-dogsquared/nix-module-wrapper-manager-fds) - foodogsquared's reimagining of wrapper-manager.
 - [kickingvegas/casual](https://github.com/kickingvegas/casual) - A collection of opinionated keyboard-driven user interfaces for various built-in Emacs modes.
