@@ -836,6 +836,7 @@
 
 ## cli 
 
+- [ccbrown/iocraft](https://github.com/ccbrown/iocraft) - A Rust crate for beautiful, artisanally crafted CLIs, TUIs, and text-based IO.
 - [ratatui/ratatui](https://github.com/ratatui/ratatui) - A Rust crate for cooking up terminal user interfaces (TUIs) 👨‍🍳🐀 https://ratatui.rs
 - [aliev/baker](https://github.com/aliev/baker) - Baker is a command-line tool that helps you quickly scaffold new projects. It supports language-independent hooks for automating routine tasks. Baker is written in Rust and distributed as a standalone
 - [typst/hayagriva](https://github.com/typst/hayagriva) - Rusty bibliography management.
@@ -5850,6 +5851,7 @@
 
 ## rust 
 
+- [ccbrown/iocraft](https://github.com/ccbrown/iocraft) - A Rust crate for beautiful, artisanally crafted CLIs, TUIs, and text-based IO.
 - [tokio-rs/tokio](https://github.com/tokio-rs/tokio) - A runtime for writing reliable asynchronous applications with Rust. Provides I/O, networking, scheduling, timers, ...
 - [rust-lang/rustlings](https://github.com/rust-lang/rustlings) - :crab: Small exercises to get you used to reading and writing Rust code!
 - [ratatui/ratatui](https://github.com/ratatui/ratatui) - A Rust crate for cooking up terminal user interfaces (TUIs) 👨‍🍳🐀 https://ratatui.rs
@@ -6385,6 +6387,7 @@
 
 ## terminal 
 
+- [ccbrown/iocraft](https://github.com/ccbrown/iocraft) - A Rust crate for beautiful, artisanally crafted CLIs, TUIs, and text-based IO.
 - [ratatui/ratatui](https://github.com/ratatui/ratatui) - A Rust crate for cooking up terminal user interfaces (TUIs) 👨‍🍳🐀 https://ratatui.rs
 - [aliev/baker](https://github.com/aliev/baker) - Baker is a command-line tool that helps you quickly scaffold new projects. It supports language-independent hooks for automating routine tasks. Baker is written in Rust and distributed as a standalone
 - [Canop/bacon](https://github.com/Canop/bacon) - background code checker
