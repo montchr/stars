@@ -3679,6 +3679,7 @@
 
 ## others 
 
+- [whit3rabbit/lipgloss-rs](https://github.com/whit3rabbit/lipgloss-rs) - A rust port of https://github.com/charmbracelet/lipgloss
 - [bcpierce00/unison](https://github.com/bcpierce00/unison) - Unison file synchronizer
 - [rayon-rs/rayon](https://github.com/rayon-rs/rayon) - Rayon: A data parallelism library for Rust
 - [NixOS/steering-committee](https://github.com/NixOS/steering-committee) - 
