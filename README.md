@@ -1938,6 +1938,7 @@
 - [kclejeune/system](https://github.com/kclejeune/system) - Declarative system configurations using nixOS, nix-darwin, and home-manager
 - [hardselius/dotfiles](https://github.com/hardselius/dotfiles) - My personal dotfiles
 - [cmacrae/config](https://github.com/cmacrae/config) - A collection of system configurations, expressed in Nix
+- [danidiaz/miscellany](https://github.com/danidiaz/miscellany) - 
 - [hlissner/dotfiles](https://github.com/hlissner/dotfiles) - And I say hey, what's going on?
 - [nix-darwin/nix-darwin](https://github.com/nix-darwin/nix-darwin) - Manage your macOS using Nix
 
@@ -2890,6 +2891,8 @@
 
 ## Rust 
 
+- [whit3rabbit/lipgloss-rs](https://github.com/whit3rabbit/lipgloss-rs) - A rust port of https://github.com/charmbracelet/lipgloss
+- [ccbrown/iocraft](https://github.com/ccbrown/iocraft) - A Rust crate for beautiful, artisanally crafted CLIs, TUIs, and text-based IO.
 - [tokio-rs/tokio](https://github.com/tokio-rs/tokio) - A runtime for writing reliable asynchronous applications with Rust. Provides I/O, networking, scheduling, timers, ...
 - [rayon-rs/rayon](https://github.com/rayon-rs/rayon) - Rayon: A data parallelism library for Rust
 - [rust-lang/rustlings](https://github.com/rust-lang/rustlings) - :crab: Small exercises to get you used to reading and writing Rust code!
@@ -3043,6 +3046,7 @@
 - [ClementTsang/bottom](https://github.com/ClementTsang/bottom) - Yet another cross-platform graphical process/system monitor.
 - [cantino/mcfly](https://github.com/cantino/mcfly) - Fly through your shell history. Great Scott!
 - [bootandy/dust](https://github.com/bootandy/dust) - A more intuitive version of du in rust
+- [spacedriveapp/spacedrive](https://github.com/spacedriveapp/spacedrive) - Spacedrive is an open source cross-platform file explorer, powered by a virtual distributed filesystem written in Rust.
 - [ducaale/xh](https://github.com/ducaale/xh) - Friendly and fast tool for sending HTTP requests
 - [dalance/procs](https://github.com/dalance/procs) - A modern replacement for ps written in Rust
 - [theryangeary/choose](https://github.com/theryangeary/choose) - A human-friendly and fast alternative to cut (and sometimes awk)
@@ -3619,7 +3623,6 @@
 - [kamranahmedse/developer-roadmap](https://github.com/kamranahmedse/developer-roadmap) - Interactive roadmaps, guides and other educational content to help developers grow in their careers.
 - [yuvadm/cidr.xyz](https://github.com/yuvadm/cidr.xyz) - CIDR Calculator and Subnetting Visualizer
 - [facebook/docusaurus](https://github.com/facebook/docusaurus) - Easy to maintain open source documentation websites.
-- [spacedriveapp/spacedrive](https://github.com/spacedriveapp/spacedrive) - Spacedrive is an open source cross-platform file explorer, powered by a virtual distributed filesystem written in Rust.
 - [bhollis/jsonview](https://github.com/bhollis/jsonview) - A web extension that helps you view JSON documents in the browser.
 - [jotaijs/jotai-form](https://github.com/jotaijs/jotai-form) - Form atoms for Jotai
 - [TanStack/table](https://github.com/TanStack/table) - 🤖 Headless UI for building powerful tables & datagrids for TS/JS -  React-Table, Vue-Table, Solid-Table, Svelte-Table
@@ -3748,7 +3751,6 @@
 - [kalkayan/dotfiles](https://github.com/kalkayan/dotfiles) - Dotfiles or you can say my swiss army knife. Configs for creating a delightful development experience - vim + tmux + Fzf + Rg + LSP etc.
 - [Blacksuan19/init.nvim](https://github.com/Blacksuan19/init.nvim) - An Opinionated Neovim Config for the Minimalists
 - [softinio/dotfiles](https://github.com/softinio/dotfiles) - Salar Rahmanian's dotfiles
-- [danidiaz/miscellany](https://github.com/danidiaz/miscellany) - 
 - [grawity/dotfiles](https://github.com/grawity/dotfiles) - ~/.dotfiles
 - [gverilla/dotfiles](https://github.com/gverilla/dotfiles) - 
 - [vsund/dotfiles](https://github.com/vsund/dotfiles) - Some things that live in ~/ at my machines
