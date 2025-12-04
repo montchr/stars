@@ -4367,7 +4367,7 @@
 - [tomjn/composerpress](https://github.com/tomjn/composerpress) - Retroactively creates a composer.json for a WordPress site
 - [miziomon/awesome-wordpress](https://github.com/miziomon/awesome-wordpress) - A curated list of amazingly awesome WordPress resources, themes, plugins and shiny things. Inspired by awesome-php.
 - [stokry/wp-sqlite](https://github.com/stokry/wp-sqlite) - WordPress running on an SQLite database
-- [nikivdev/research](https://github.com/nikivdev/research) - Research (code, docs, ..)
+- [nikivdev/research](https://github.com/nikivdev/research) - 
 - [matryer/xbar-plugins](https://github.com/matryer/xbar-plugins) - Plugin repository for xbar (the BitBar reboot)
 - [DrPyser/configs](https://github.com/DrPyser/configs) - Configurations for personal computer
 - [TomasVotruba/awesome-php-migrations](https://github.com/TomasVotruba/awesome-php-migrations) - Awesome sources for PHP projects migrations - legacy, pattern refactoring, framework switches, temlates and configs...
