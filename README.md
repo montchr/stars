@@ -719,7 +719,7 @@
 - [jtmoulia/elisp-koans](https://github.com/jtmoulia/elisp-koans) - Emacs Lisp Koans -- learn elisp through test-driven development.
 - [AloisJanicek/.doom.d-2nd](https://github.com/AloisJanicek/.doom.d-2nd) - My private module for Doom Emacs
 - [tumashu/ivy-posframe](https://github.com/tumashu/ivy-posframe) - ivy-posframe is a ivy extension, which let ivy use posframe to show its candidate menu, ivy-posframe is a **GNU ELPA** package.
-- [Zyrohex/.doom.d](https://github.com/Zyrohex/.doom.d) - Private DOOM Emacs config highly focused around orgmode and GTD methodology, along with language support for Python and Elisp.
+- [nmartin84/.doom.d](https://github.com/nmartin84/.doom.d) - Private DOOM Emacs config highly focused around orgmode and GTD methodology, along with language support for Python and Elisp.
 - [jwiegley/use-package](https://github.com/jwiegley/use-package) - A use-package declaration for simplifying your .emacs
 - [emacs-php/phpactor.el](https://github.com/emacs-php/phpactor.el) - Interface to Phpactor (an intelligent code-completion and refactoring tool for PHP)
 - [rougier/mu4e-thread-folding](https://github.com/rougier/mu4e-thread-folding) - Functions for folding threads in mu4e headers view
@@ -1570,7 +1570,7 @@
 - [pdtpartners/globset](https://github.com/pdtpartners/globset) - Simplify Nix source management using familiar glob patterns
 - [ursi/get-flake](https://github.com/ursi/get-flake) - builtins.getFlake without the restrictions
 - [viperML/nix-maid](https://github.com/viperML/nix-maid) - [simpler dotfile management]
-- [numtide/nix-ai-tools](https://github.com/numtide/nix-ai-tools) - Exploring the integration between Nix and AI coding agents
+- [numtide/nix-ai-tools](https://github.com/numtide/nix-ai-tools) - Nix packages for AI coding agents and development tools. Automatically updated daily.
 - [terlar/dev-flake](https://github.com/terlar/dev-flake) - Nix flake to support the pattern of using a separate development flake
 - [nicknovitski/make-shell](https://github.com/nicknovitski/make-shell) - mkShell meets modules
 - [nix-community/nixos-facter-modules](https://github.com/nix-community/nixos-facter-modules) - A series of NixOS modules to be used in conjunction with https://github.com/nix-community/nixos-facter [maintainer=@brianmcgee,@Mic92]
