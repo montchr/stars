@@ -1570,7 +1570,7 @@
 - [pdtpartners/globset](https://github.com/pdtpartners/globset) - Simplify Nix source management using familiar glob patterns
 - [ursi/get-flake](https://github.com/ursi/get-flake) - builtins.getFlake without the restrictions
 - [viperML/nix-maid](https://github.com/viperML/nix-maid) - [simpler dotfile management]
-- [numtide/nix-ai-tools](https://github.com/numtide/nix-ai-tools) - Nix packages for AI coding agents and development tools. Automatically updated daily.
+- [numtide/llm-agents.nix](https://github.com/numtide/llm-agents.nix) - Nix packages for AI coding agents and development tools. Automatically updated daily.
 - [terlar/dev-flake](https://github.com/terlar/dev-flake) - Nix flake to support the pattern of using a separate development flake
 - [nicknovitski/make-shell](https://github.com/nicknovitski/make-shell) - mkShell meets modules
 - [nix-community/nixos-facter-modules](https://github.com/nix-community/nixos-facter-modules) - A series of NixOS modules to be used in conjunction with https://github.com/nix-community/nixos-facter [maintainer=@brianmcgee,@Mic92]
